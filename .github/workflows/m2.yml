@@ -18,7 +18,7 @@ jobs:
         mkdir -p merged_tmp
         echo -n > merged_tmp/combined-playlist.m3u
 
-        find . -type f -name "*live.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+        find . -type f -name "*vod.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             NR == 1 && $0 == "#EXTM3U" { next }
