@@ -39,14 +39,14 @@ jobs:
 
         sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
 
-        mv merged_tmp/combined-playlist.m3u combined-playlist.m3u
+        mv merged_tmp/combined-playlist.m3u merged.m3u
         rm -rf merged_tmp
 
     - name: Commit and push merged playlist
       run: |
         git config user.name "${{ secrets.GIT_U }}"
         git config user.email "${{ secrets.GIT_E }}"
-        git add combined-playlist.m3u
+        git add merged.m3u
         if ! git diff --cached --quiet; then
           git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
