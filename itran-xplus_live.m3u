@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: itran-xplus.xyz
-# Generated: 2025-11-29 01:48:06
+# Generated: 2025-11-29 07:01:50
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -830,11 +830,11 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1599381.m3u8
 # --- CH| SFL PPV (21) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",####### SFL PPV #######
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1918753.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 1 - FC STADE NYONNAIS - FC VADUZ | Fri 28 Nov 19:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1918752.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 2 - FC RAPPERSWIL-JONA - AC BELLINZONA | Fri 28 Nov 19:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 2 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1918751.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 3 - NEUCHÂTEL XAMAX FCS - FC AARAU | Fri 28 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 3 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1918750.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/sfl.png" group-title="CH| SFL PPV",CH: SFL PPV 4 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1918749.m3u8
@@ -1463,26 +1463,24 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1696678.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1696676.png" group-title="DE| DAZN EXCLUSIVE ᴿᴬᵂ",DE| DAZN MOTO AMERICA ᴿᴬᵂ
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1696676.m3u8
 
-# --- DE| DAZN PPV (51) ---
+# --- DE| DAZN PPV (50) ---
 #EXTINF:-1 tvg-logo="" group-title="DE| DAZN PPV",##### DAZN VIP #####
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/724562.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593300.png" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - IOWA @ NEBRASKA | Fri 28 Nov 17:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593300.png" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - MAPLE LEAFS @ CAPITALS | Fri 28 Nov 22:50 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593300.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593301.png" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - PURDUE @ EASTERN ILLINOIS | Fri 28 Nov 17:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593301.png" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593301.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593302.png" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - GIJON - ANDORRA | Fri 28 Nov 20:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593302.png" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - RADY CHILDREN'S INVITATIONAL - CHAMPIONSHIP GAME: WISCONSIN @ TCU | Fri 28 Nov 23:20 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593302.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593303.png" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - OLE MISS @ MISSISSIPPI STATE | Fri 28 Nov 17:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593303.png" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - JETS @ HURRICANES | Fri 28 Nov 22:50 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593303.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593304.png" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - ILLINOIS VS. UCONN | Fri 28 Nov 18:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593304.png" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - DEVILS @ SABRES | Fri 28 Nov 21:50 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593304.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593305.png" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593305.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593306.png" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593306.png" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - JAMAICA VS. PUERTO RICO | Sat 29 Nov 00:00 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593306.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593307.png" group-title="DE| DAZN PPV",DE: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593307.png" group-title="DE| DAZN PPV",DE: DAZN PPV 8 - INDIANA @ PURDUE | Sat 29 Nov 01:20 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593307.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593308.png" group-title="DE| DAZN PPV",DE: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593308.png" group-title="DE| DAZN PPV",DE: DAZN PPV 9 - TEXAS A&M @ TEXAS | Sat 29 Nov 01:20 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593308.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593309.png" group-title="DE| DAZN PPV",DE: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593309.m3u8
@@ -1494,9 +1492,9 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593311.m3u8
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593312.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593313.png" group-title="DE| DAZN PPV",DE: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593313.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593314.png" group-title="DE| DAZN PPV",DE: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593314.png" group-title="DE| DAZN PPV",DE: DAZN PPV 15 - CANADIENS @ GOLDEN KNIGHTS | Fri 28 Nov 21:50 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593314.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593315.png" group-title="DE| DAZN PPV",DE: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593315.png" group-title="DE| DAZN PPV",DE: DAZN PPV 16 - KINGS @ DUCKS | Fri 28 Nov 21:50 | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593315.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1593316.png" group-title="DE| DAZN PPV",DE: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593316.m3u8
@@ -1572,7 +1570,7 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1593349.m3u8
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1633409.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1633408.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1633408.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1633407.png" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 2 - COPPER MOUNTAIN | RIESENSLALOM | 1. LAUF | Fri 28 Nov 17:39 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1633407.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1633407.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1633406.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1633406.m3u8
@@ -1818,19 +1816,19 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1495557.m3u8
 # --- DE| DYN PPV EXCLUSIVE (51) ---
 #EXTINF:-1 tvg-logo="" group-title="DE| DYN PPV EXCLUSIVE",####### DYN PPV EXCLUSIVE #######
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648305.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648304.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 1 - VFB SUHL LOTTO THÜRINGEN - VC WIESBADEN | Fri 28 Nov 18:40
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648304.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 1 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648304.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648303.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 2 - HSG KREFELD NIEDERRHEIN - HC ELBFLORENZ 2006 | Fri 28 Nov 18:40
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648303.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 2 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648303.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648302.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 3 - HC ERLANGEN - TVB STUTTGART | Fri 28 Nov 18:45
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648302.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 3 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648302.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648301.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 4 - TUS FERNDORF - HSC 2000 COBURG | Fri 28 Nov 19:10
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648301.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 4 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648301.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648300.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 5 - TUSEM ESSEN - VFL LÜBECK-SCHWARTAU | Fri 28 Nov 19:40
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648300.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 5 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648300.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648299.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 6 - FT 1844 FREIBURG - SWD POWERVOLLEYS DÜREN | Fri 28 Nov 19:40
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648299.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 6 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648299.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648298.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 7 - THSV EISENACH - THW KIEL | Fri 28 Nov 19:45
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648298.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 7 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648298.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1648297.png" group-title="DE| DYN PPV EXCLUSIVE",DE: DYN PPV 8 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1648297.m3u8
@@ -5090,9 +5088,9 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1372187.m3u8
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1913943.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTEUROPE.png" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - DEL2: LAUSITZER FÜCHSE VS. EHC FREIBURG | Fri 28 Nov 17:51
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1916370.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTEUROPE.png" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - DEUTSCHE MEISTERSCHAFT NACHWUCHS 2025, TAG 1 | Fri 28 Nov 10:38
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTEUROPE.png" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1916369.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTEUROPE.png" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - DEUTSCHE MEISTERSCHAFT 2025 - VORLÄUFE AM FREITAG | Fri 28 Nov 15:00
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTEUROPE.png" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1916368.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTEUROPE.png" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1916367.m3u8
@@ -6291,4 +6289,4 @@ http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1729378.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729379.png" group-title="Unknown",EN| XMAS VEVO MUSIC
 http://itran-xplus.xyz/live/c2b6e1af09/ad8aa8031c/1729379.m3u8
 
-# Total: 3091
+# Total: 3090
