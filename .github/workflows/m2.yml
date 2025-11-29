@@ -42,7 +42,7 @@ jobs:
           ' "$file" >> merged_tmp/combined-playlist.m3u
         done
 
-        # প্রথমে check করে duplicate না হয়
+        # first no c
         grep -q "^#EXTM3U" merged_tmp/combined-playlist.m3u || sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
 
         mv merged_tmp/combined-playlist.m3u MERGED_LIVE.m3u
