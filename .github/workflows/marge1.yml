@@ -13,18 +13,15 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Merge all
+    - name: Merge all with 100MB limit
       run: |
-        shopt -s nullglob
-        files=(MERGED_VOD*.m3u)
-        if [ ${#files[@]} -gt 0 ]; then
-          rm -f MERGED_VOD*.m3u
-        fi
+        MAX_SIZE=$((100*1024*1024))  # 100MB limit
+        TMP_DIR=merged_tmp
+        mkdir -p $TMP_DIR
+        COMBINED="$TMP_DIR/combined-playlist.m3u"
+        echo -n > $COMBINED
 
-        mkdir -p merged_tmp
-        echo -n > merged_tmp/combined-playlist.m3u
-
-        find . -type f -name "*vod.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+        find . -type f -name "*vod.m3u" ! -path "./$TMP_DIR/*" ! -name "combined-playlist.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             NR == 1 && $0 == "#EXTM3U" { next }
@@ -40,35 +37,27 @@ jobs:
               next
             }
             { print }
-          ' "$file" >> merged_tmp/combined-playlist.m3u
+          ' "$file" >> "$COMBINED"
+
+          # Check if size exceeds 100MB
+          if [ $(stat -c%s "$COMBINED") -ge $MAX_SIZE ]; then
+            echo "Reached 100MB limit. Stopping merge."
+            # Remove last appended file to stay below 100MB
+            truncate -s $MAX_SIZE "$COMBINED"
+            break
+          fi
         done
 
-        sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
-        mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
-        rm -rf merged_tmp
+        sed -i '1i #EXTM3U' "$COMBINED"
 
-        MAX_SIZE=$((100 * 1024 * 1024))
-        FILE_SIZE=$(stat -c%s "MERGED_VOD.m3u")
-
-        if [ "$FILE_SIZE" -le "$MAX_SIZE" ]; then
-          echo "File size below 100MB, no split needed."
-        else
-          i=1
-          split -b 100M -d --additional-suffix=.m3u MERGED_VOD.m3u MERGED_VOD
-          for f in MERGED_VOD*; do
-            mv "$f" "MERGED_VOD${i}.m3u"
-            i=$((i+1))
-          done
-          rm MERGED_VOD.m3u
-        fi
+        mv "$COMBINED" MERGED_VOD.m3u
+        rm -rf $TMP_DIR
 
     - name: Commit and push merged playlist
       run: |
         git config user.name "${{ secrets.GIT_U }}"
         git config user.email "${{ secrets.GIT_E }}"
-
-        git add MERGED_VOD*.m3u
-
+        git add MERGED_VOD.m3u
         if ! git diff --cached --quiet; then
           git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
