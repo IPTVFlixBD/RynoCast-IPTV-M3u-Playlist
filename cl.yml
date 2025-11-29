@@ -1,0 +1,32 @@
+name: Clean M3U Files
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  remove-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Delete all .m3u / .m3u8 files
+        run: |
+          find . -name "*.m3u" -type f -delete
+          find . -name "*.m3u8" -type f -delete
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          if git commit -m "Auto-clean: removed all .m3u/.m3u8 files"; then
+            git push
+          else
+            echo "No changes to commit"
+          fi
