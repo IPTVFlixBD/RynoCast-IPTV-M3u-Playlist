@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-11-29 21:54:14
+# Generated: 2025-11-30 07:14:01
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6375,7 +6375,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1069543.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/2022_FIFA_World_Cup.svg/1713px-2022_FIFA_World_Cup.svg.png" group-title="Movies | WORLDCUP 2022",WC - Uruguay Vs Coree Du Sud - 24-11-22
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1061890.mkv
 
-# --- Movies | |EN| 4K MOVIES (9) ---
+# --- Movies | |EN| 4K MOVIES (10) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YtZHtXPNG5AleisgEatEfZOT2w.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Osiris 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1977593.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YDnAxBWo3gJW93j9OnoYRDoyzp.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Attempted Murder 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1975979.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUivIhNxzyhfJuYOUxaWNRcgivQ.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Sebastian Maniscalco: It Ain't Right 4K (2025)
@@ -18011,4 +18013,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8959
+# Total: 8960
