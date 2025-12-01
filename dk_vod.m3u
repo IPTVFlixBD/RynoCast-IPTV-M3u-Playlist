@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-11-29 21:55:02
+# Generated: 2025-12-01 07:16:21
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (235) ---
+# --- Movies | (S|DE) Animation Serien (236) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -478,6 +478,8 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11477.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11478.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Haikyu!!
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11479.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Weihnachtsmann & Co. KG
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11502.mp4
 
 # --- Movies | (S|DE) Deutsche Serien (1296) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
@@ -16071,4 +16073,4 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/10625.mp4
 
-# Total: 8016
+# Total: 8017

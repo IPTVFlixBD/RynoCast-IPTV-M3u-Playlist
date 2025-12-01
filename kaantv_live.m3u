@@ -1,14 +1,458 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaantv.site:8000
-# Generated: 2025-11-30 18:25:05
-# Expires: 2035-09-01
+# Generated: 2025-12-01 07:20:38
+# Expires: 2025-12-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- TR - ULUSAL (1) ---
-#EXTINF:-1 tvg-logo="" group-title="TR - ULUSAL",Abgelaufen
-http://kaantv.site:8000/live/kaan20897/sea4sf12yc952/47143.m3u8
+# --- DE - SENDER (111) ---
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/das-erste-hd-de.png" group-title="DE - SENDER",DE: DAS ERSTE HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29900.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/das-erste-hd-de.png" group-title="DE - SENDER",DE: DAS ERSTE FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/77.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/zdf-hd-de.png" group-title="DE - SENDER",DE: ZDF HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/78.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/zdf-hd-de.png" group-title="DE - SENDER",DE: ZDF FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/28290.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/sat-1-hd-de.png" group-title="DE - SENDER",DE: SAT.1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29905.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/sat-1-hd-de.png" group-title="DE - SENDER",DE: SAT 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/82.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/pro-sieben-hd-de.png" group-title="DE - SENDER",DE: PRO 7 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29902.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/pro-sieben-hd-de.png" group-title="DE - SENDER",DE: PRO 7 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/85.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/rtl-hd-de.png" group-title="DE - SENDER",DE: RTL HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29903.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/rtl-hd-de.png" group-title="DE - SENDER",DE: RTL FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/83.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/rtl-zwei-hd-de.png" group-title="DE - SENDER",DE: RTL 2 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29904.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/rtl-zwei-hd-de.png" group-title="DE - SENDER",DE: RTL 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/84.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/vox-hd-de.png" group-title="DE - SENDER",DE: VOX HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29906.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/vox-hd-de.png" group-title="DE - SENDER",DE: VOX FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/kabel-eins-hd-de.png" group-title="DE - SENDER",DE: KABEL 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29907.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/kabel-eins-hd-de.png" group-title="DE - SENDER",DE: KABEL 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/80.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/tele-5-hd-de.png" group-title="DE - SENDER",DE: TELE5
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/87.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/fox-de.png" group-title="DE - SENDER",DE: FOX HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/93.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/sixx-hd-de.png" group-title="DE - SENDER",DE: SIXX HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/86.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/sixx-hd-de.png" group-title="DE - SENDER",DE: SIXX FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81453.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/pro-sieben-maxx-hd-de.png" group-title="DE - SENDER",DE: PRO 7 MAXX
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16475.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/vox-up-hd-de.png" group-title="DE - SENDER",DE: VOXUP HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81452.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/orf1-at.png" group-title="DE - SENDER",DE: ORF 1
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/7504.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/orf2-at.png" group-title="DE - SENDER",DE: ORF 2
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/7505.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/ard-alpha-hd-de.png" group-title="DE - SENDER",DE: ARD ALPHA FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81446.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/zdf-info-hd-de.png" group-title="DE - SENDER",DE: ZDF INFO FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81447.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/wdr-hd-de.png" group-title="DE - SENDER",DE: WDR
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16480.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/ndr-hd-de.png" group-title="DE - SENDER",DE: NDR
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16595.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/3sat-hd-de.png" group-title="DE - SENDER",DE: 3 SAT HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16473.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/3sat-hd-de.png" group-title="DE - SENDER",DE: 3 SAT FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81445.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/servus-tv-deutchland-hd-de.png" group-title="DE - SENDER",DE: SERVUS TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/29805.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/servus-tv-deutchland-hd-de.png" group-title="DE - SENDER",DE: SERVUS TV FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",***** DOKU *****
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81471.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/dmax-hd-de.png" group-title="DE - SENDER",DE: DMAX HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/90.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/dmax-hd-de.png" group-title="DE - SENDER",DE: DMAX FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81454.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/tlc-hd-de.png" group-title="DE - SENDER",DE: TLC HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/94.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/national-geographic-hd-de.png" group-title="DE - SENDER",DE: NAT GEO FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/92.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/nat-geo-wild-hd-de.png" group-title="DE - SENDER",DE: NAT GEO WILD HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/91.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/welt-der-wunder-de.png" group-title="DE - SENDER",DE: WELT DER WUNDER HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81450.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/kabel-eins-doku-hd-de.png" group-title="DE - SENDER",DE: KABEL EINS DOKU FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81455.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/n24-doku-hd-de.png" group-title="DE - SENDER",DE: N24 DOKU FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81456.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/phoenix-hd-de.png" group-title="DE - SENDER",DE: PHOENIX
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16594.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/arte-hd-de.png" group-title="DE - SENDER",DE: ARTE
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",***** DE: KINDER *****
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81468.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/kika-hd-de.png" group-title="DE - SENDER",DE: KIKA
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/88.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/rtl-super-de.png" group-title="DE - SENDER",DE: SUPER RTL
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4831.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/disney-channel-hd-de.png" group-title="DE - SENDER",DE: DISNEY CHANNEL
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/89.m3u8
+#EXTINF:-1 tvg-logo="https://img.favpng.com/8/23/22/comedy-central-family-logo-tv-television-png-favpng-xHMHATZTfm4QeB3KsVBFCZ3U5.jpg" group-title="DE - SENDER",DE: COMEDY CENTRAL
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16478.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/orf-kids-at.png" group-title="DE - SENDER",DE: ORF KIDS HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81459.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/cartoon-network-de.png" group-title="DE - SENDER",DE: CARTOON NETWORK
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16477.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/toggo-plus-hd-de.png" group-title="DE - SENDER",DE: TOGGO PLUS
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/6462.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/nick-mtv-plus-de.png" group-title="DE - SENDER",DE: NICK / COMEDY
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",*** DE: NACHRICHTEN ***
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81470.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/welt-hd-de.png" group-title="DE - SENDER",DE: WELT HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16474.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/tagesschau24-hd-de.png" group-title="DE - SENDER",DE: TAGESSCHAU 24 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16481.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/ntv-hd-de.png" group-title="DE - SENDER",DE: N-TV DE
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/79.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",***** DE: MUSIK *****
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81469.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/mtv-hd-de.png" group-title="DE - SENDER",DE: MTV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16476.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/jukebox-hd-de.png" group-title="DE - SENDER",DE: JUKEBOX FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: DELUXE MUSIC HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81461.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: DELUXE RAP SD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: DELUXE DANCE SD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: DEUTSCHE WELLE HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: DELUXE MUSIC LOUNGE HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81465.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/sport1-hd-de.png" group-title="DE - SENDER",DE: SPORT1
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/40820.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/eurosport-1-hd-de.png" group-title="DE - SENDER",DE: EUROSPORT 1
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/40818.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/germany/hd/eurosport-2-hd-de.png" group-title="DE - SENDER",DE: EUROSPORT 2
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/40819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",***** DE: FILME *****
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - ACTION 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81355.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - ACTION 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KOMODIE 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81357.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KOMODIE 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81358.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - HORROR 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81359.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - HORROR 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - THRILLER 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81361.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - THRILLER 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KRIMI 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81363.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KRIMI 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81364.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - SCI-FI 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81365.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - SCI-FI 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81366.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - FANTASY 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81367.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - FANTASY 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81368.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - NOSTALGIE 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - NOSTALGIE 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81370.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - ABENTEUER 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81371.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - ABENTEUER 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81372.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - ROMANTIK 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81373.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - ROMANTIK 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81374.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - FAMILIE 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81375.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - FAMILIE 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81376.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KRIEG 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81377.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KRIEG 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81378.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - WESTERN 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81379.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - WESTERN 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81380.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - WEIHNACHTEN 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81381.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - WEIHNACHTEN 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81382.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KUNG-FU 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81383.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",ELISA - KUNG-FU 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81384.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 2 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 3 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 4 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 5 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 6 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 7 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 8 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 9 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81440.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 10 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 11 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 12 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SENDER",DE: KINOBOX 13 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81444.m3u8
 
-# Total: 1
+# --- GR (111) ---
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/alpha-tv-gr.png" group-title="GR",GR: ALPHA TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27554.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/alpha-tv-gr.png" group-title="GR",GR: ALPHA TV FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3908.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ert1-gr.png" group-title="GR",GR: ERT 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41007.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ert1-gr.png" group-title="GR",GR: ERT 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/102.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ert2-spor-gr.png" group-title="GR",GR: ERT 2 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41008.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ert2-spor-gr.png" group-title="GR",GR: ERT 2 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/103.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ert3-gr.png" group-title="GR",GR: ERT 3 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41009.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ert3-gr.png" group-title="GR",GR: ERT 3 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/28581.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ant1-gr.png" group-title="GR",GR: ANT 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41010.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/ant1-gr.png" group-title="GR",GR: ANT 1 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3909.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/star-channel-gr.png" group-title="GR",GR: STAR TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41006.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/star-channel-gr.png" group-title="GR",GR: STAR TV FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/115.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/skai-tv-gr.png" group-title="GR",GR: SKAI TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41005.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/skai-tv-gr.png" group-title="GR",GR: SKAI TV FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/114.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/mega-channel-gr.png" group-title="GR",GR: MEGA HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/41004.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/mega-channel-gr.png" group-title="GR",GR: MEGA FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/16596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: MAKEDONIA TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81517.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/makedonia-tv-gr.png" group-title="GR",GR: MAKEDONIA TV FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4534.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/kontra-channel-gr.png" group-title="GR",GR: KONTRA TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27973.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/open-tv-gr.png" group-title="GR",GR: OPEN BEYOND HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/5716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: CRIME & INVESTIGATION
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3912.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/action-24-gr.png" group-title="GR",GR: ACTION  24 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81065.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/action-24-gr.png" group-title="GR",GR: ACTION 24 FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVALIFE
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4538.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/attica-tv-gr.png" group-title="GR",GR: ATTICA TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/5714.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: XPLORE CHANNEL HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/5715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: TLC
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: MAGIC TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/5717.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/village-cinema-gr.png" group-title="GR",GR: VILLAGE CINEMA HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: 4E
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GROOVY CATCH
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/24903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: FOX GREECE
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR DISCOVERY CHANNEL
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: VIASAT NATURE HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4540.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/tv-100-gr.png" group-title="GR",GR: TV 100
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4541.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/tv-100-gr.png" group-title="GR",GR: TV100
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60395.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: VIASAT EXPLORER
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ERT WORLD HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3910.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/start-tv-gr.png" group-title="GR",GR: START TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: TCM
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: MAD TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: BARAZA TV DEEP HOUSE
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60384.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: BARAZA TV RELAXING
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60385.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: BARAZA TV GREEK HITS
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/99.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NRG 91 MUSIC
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60391.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NRG 91 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81097.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/new-television-gr.png" group-title="GR",NEA TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/24902.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/new-television-gr.png" group-title="GR",GR: NEA TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60390.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/new-television-gr.png" group-title="GR",GR: NEA TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: IONIAN CHANNEL HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: IONIAN CHANNEL FHD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: EPIRUS
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ALERT
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/24894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: TCM
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/3915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: KPHTH TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60389.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: VILLAGE CINEMA HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ONE CHANNEL
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60392.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: TELEKRIKI TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60394.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: FOOD NETWORK
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60397.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: BARBIE
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NINJA TURTLES
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60401.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: SCOOBY DOO
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60402.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: SPONGEBOB SQUAREPANTS
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60404.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/creta-gr.png" group-title="GR",GR: CRETA TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: TILEMOUSIKI
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR:  SYROS TV 1
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: STAR INTERNATIONAL HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: SMILE TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: GNOMI TV TEST
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: FAROS TV 2
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: FAROS TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ART TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: AEOLOS TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ACHELOOS TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: BEST TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81072.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/egnatia-tv-gr.png" group-title="GR",GR: EGNATIA TV
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ECCLESIA HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81079.m3u8
+#EXTINF:-1 tvg-logo="https://kaantv.com/logo/greece/delta-tv-gr.png" group-title="GR",GR: DELTA TV HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: ZOUZOUNIA
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA CINEMA 1
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA CINEMA 2
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA CINEMA 3
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA CINEMA 4
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/5718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SERIES
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE CINEMA 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE CINEMA 2 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE CINEMA 3 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE HISTORY
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: EUROSPORT 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: EUROSPORT 2
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/60387.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR EDGE SPORT HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/25898.m3u8
+#EXTINF:-1 tvg-logo=" https://kaantv.com/logo/greece/ert-sports-1-gr.png" group-title="GR",GR: ERT SPORTS HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT HIGHLIGHTS
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/24864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 1HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 2 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 3 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 4 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 5 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 9 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 7 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: COSMOTE SPORT 8 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA SPORT NEWS
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/4536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA SPORT 1 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/7908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA SPORT 2 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA SPORT 3 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/24863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA SPORT 4 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOVA SPORT 5 HD
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/27492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: NOTIOI
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: LYCHNOS TV TEST
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: HIGH TV TEST
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR",GR: GROOVY TV TEST
+http://kaantv.site:8000/live/kaan19856/8wr4w1sdf51/81088.m3u8
+
+# Total: 222

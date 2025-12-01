@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: globe.midomed.com:80
-# Generated: 2025-11-30 18:26:26
+# Generated: 2025-12-01 07:15:01
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -650,6 +650,14 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4548.m3u8
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4550.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CARTOON",KIDS_BaraemEurope
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4551.m3u8
+
+# --- COUPE ARABE 2025 (3) ---
+#EXTINF:-1 tvg-logo="" group-title="COUPE ARABE 2025",AR_MATCH
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COUPE ARABE 2025",AR_MATCH2
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40348.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COUPE ARABE 2025",AR_MATCH3
+http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40353.m3u8
 
 # --- CSAT-FRANCE (111) ---
 #EXTINF:-1 tvg-logo="http://tvchallenge.tn/logo/canalsat/csat.png" group-title="CSAT-FRANCE",---------CSAT-FRANCE---------
@@ -1945,4 +1953,4 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1026.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",|UK|TotalCountry
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1027.m3u8
 
-# Total: 949
+# Total: 952

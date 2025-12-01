@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2025-11-30 18:33:47
+# Generated: 2025-12-01 07:20:35
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,25 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1411) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1419) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ed9dda5e1a26c15d72ebff03ca19f235.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Double Impact - La vendetta finale (1991)
+http://world-service.us:8080/movie/giovanmer/merante/85801.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f0f288ab3fad430e0aa59b6f553f0c2e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Lionheart - Scommessa vincente (1990)
+http://world-service.us:8080/movie/giovanmer/merante/85802.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/6e6dc941db61b4c17d502cbf39515827.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",L'ultimo mercenario (2021)
+http://world-service.us:8080/movie/giovanmer/merante/85803.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/939a21d0907ae7edc82ed070782f3a0b.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Senza tregua (1993)
+http://world-service.us:8080/movie/giovanmer/merante/85804.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/41aae6a1538abbbb7947eb43ed9ab12d.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Bouncer (2018)
+http://world-service.us:8080/movie/giovanmer/merante/85805.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/876deb0c08afca6be22229a14de4a900.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Timecop - Indagine dal futuro (1994)
+http://world-service.us:8080/movie/giovanmer/merante/85806.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/b96f3d20afabdc86d6ef4ab689b48476.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",I nuovi eroi (1992)
+http://world-service.us:8080/movie/giovanmer/merante/85807.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3f12c78003cdf51691e02b1c7fb06088.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",We Die Young (2019)
+http://world-service.us:8080/movie/giovanmer/merante/85808.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/edb11b2b7055edb7bcd1fbfcab5851dc.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Border Hunters (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85784.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/09b201af4139fc3d6229b4e1a68ee78b.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Uccidili tutti (2017)
@@ -21133,7 +21149,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 
-# --- Movies | SERIE-TV (486) ---
+# --- Movies | SERIE-TV (487) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-service.us:8080/movie/giovanmer/merante/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22106,6 +22122,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1563.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1564.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Fireflies
 http://world-service.us:8080/movie/giovanmer/merante/1565.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Jean-Claude Van Johnson
+http://world-service.us:8080/movie/giovanmer/merante/1567.mp4
 
 # --- Movies | SERIE-TV-ITALIA (138) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32589,4 +32607,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16263
+# Total: 16272

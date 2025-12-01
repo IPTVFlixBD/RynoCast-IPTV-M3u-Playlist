@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-11-30 18:35:27
+# Generated: 2025-12-01 07:11:54
 # Expires: 2025-12-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- MOLDOVA TV (23) ---
+# --- MOLDOVA TV (22) ---
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/protvchisinau.png" group-title="MOLDOVA TV",PRO TV CHISINAU
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/533898.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8e5pWqDR3xEag_ZKeI2ISF-CQAa5GoGXpiQiA2Mq9bO-TuIaLzAg-XWyaXb64eY6cfU4&usqp=CAU" group-title="MOLDOVA TV",MOLDOVA 1 HD
@@ -20,8 +20,6 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/533905.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/533897.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Gurinel_TV_Logo_2.png/revision/latest/scale-to-width-down/985?cb=20250103193357" group-title="MOLDOVA TV",GURINEL HD
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/533916.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/noroctv.png" group-title="MOLDOVA TV",NOROC TV SD
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/538839.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/7tv.png" group-title="MOLDOVA TV",7 TV HD
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/533924.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elitatv.png" group-title="MOLDOVA TV",ELITA TV HD
@@ -1261,4 +1259,4 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/296305.m3u8
 #EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/526873.m3u8
 
-# Total: 624
+# Total: 623

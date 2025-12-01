@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: florincercel.gotdns.ch:8008
-# Generated: 2025-11-30 18:29:35
+# Generated: 2025-12-01 07:13:57
 # Expires: 2025-12-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALBANIA (554) ---
+# --- ALBANIA (553) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Zhunica Humor
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543544.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ALBANIA",AL: WebStar Thriller
@@ -102,8 +102,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543500.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543499.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Tele One 6
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543498.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Tele One 5
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543497.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Tele One 4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543496.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ALBANIA",AL: Tele One 3
@@ -1297,13 +1295,9 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544878.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="CANADA",CA: ABC EAST
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544877.m3u8
 
-# --- FRANTA (80) ---
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="FRANTA",FR: Xilam TV
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544503.m3u8
+# --- FRANTA (78) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/82df7506a0d95b7de2d63e1717860e63.png" group-title="FRANTA",FR: Vosges TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544502.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/48f516b5817f92ac04f00ad86eb6d6da.png" group-title="FRANTA",FR: Union TV
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544501.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30215d94d574102bea81c3169446bdac.jpg" group-title="FRANTA",FR: TV8 Mont Blanc
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/544500.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/14b28660a273142c7e67346c283aa251.jpg" group-title="FRANTA",FR: TV Pitchoun
@@ -4299,7 +4293,7 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543546.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" group-title="TURCIA",TR: Baby TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/543545.m3u8
 
-# --- UNITED KINGDOM (UK) (405) ---
+# --- UNITED KINGDOM (UK) (330) ---
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Yu-Gi-Oh!
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545929.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Xtreme Outdoor Presented by HISTORY
@@ -4336,10 +4330,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545914.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545913.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Romance
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545912.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Paranormal (England)
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Movies (England)
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545910.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Food (England)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545909.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Crime (England)
@@ -4350,10 +4340,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545907.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV BBC Food
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Antiques Roadshow
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545904.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pluto TV Animals (England)
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545903.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: PBS America
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545902.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: NatureTime
@@ -4442,8 +4428,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545861.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Documentaries
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Arts [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Arts
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545857.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Really
@@ -4460,8 +4444,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545852.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: DMAX
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Discovery science +1 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545849.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Discovery Science
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Discovery Sci
@@ -4470,12 +4452,8 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545847.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Discovery History
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Discovery Channel [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545844.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Discovery Channel
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Crime+ Investigation [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545842.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Crime+ Investigation
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545841.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: CBS Reality
@@ -4484,16 +4462,10 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545840.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Travel Channel
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Nature [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545837.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Nature
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Nat Geo Wild [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545835.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: NAT GEO Wild
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: NAT GEO [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545833.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: NAT GEO
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Love Nature
@@ -4514,32 +4486,22 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545825.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545824.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: W +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: VIRGIN 2 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Virgin 1 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: UTV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545820.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: U&W (Watch)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545819.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Travelxp
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TLC [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545817.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TLC
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545816.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TBN
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Talk TV [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545814.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: STV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky One
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545812.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: S4C
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RTE Two +1 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RTE Two
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545809.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RTE One
@@ -4562,8 +4524,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545801.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545800.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: More 4+1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: More 4 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545798.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: More 4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545797.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: London Live
@@ -4574,26 +4534,18 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545795.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 4 +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 4 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545792.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545791.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 3 +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 3 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545789.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 3
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545788.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 2 +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 2 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545786.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 2
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545785.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 1 +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545784.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 1 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545783.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: itv 1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545782.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: iFood.TV
@@ -4608,8 +4560,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545778.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545777.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Gold +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Gold [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Gold
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545774.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Gems TV
@@ -4622,14 +4572,10 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545771.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545770.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Channel 5 +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Channel 5 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545768.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Channel 5
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545767.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Channel 4 London
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545766.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Channel 4 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Challenge
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545764.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Blaze
@@ -4642,18 +4588,12 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545761.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545760.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Two Northern Ireland
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545759.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Two [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Two
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545757.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Top Gear (EN)
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Three [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545755.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Three
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC Red Button 1 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC One Yorks & Lincs
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545752.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC One West
@@ -4676,8 +4616,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545744.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545743.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC One Channel Islands
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC One [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545741.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC One
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545740.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: BBC LifeStyle
@@ -4708,64 +4646,34 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545728.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545727.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: SYFY
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Witness [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545725.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Witness
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Showcase [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Showcase
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Living
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Crime [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Crime
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Comedy [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545718.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Comedy
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545717.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Thriller [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545716.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Thriller
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545715.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Select/Feel Good [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545714.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Select
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Scifi/Horror [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545712.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema sci-fi Horror
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545711.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Premiere
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Premier [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Hits [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545708.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Hits
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Greats [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Family [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545705.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Family
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Drama/Christmas [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Drama
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Comedy [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545701.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Comedy
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Action [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Action
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Atlantic [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545697.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Atlantic
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545696.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Pick
@@ -4790,16 +4698,12 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545687.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545686.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Great Action +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Film 4 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545684.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Film 4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545683.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: E4 Extra
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: E4 +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: E4 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: E4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545679.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Drama +1
@@ -4810,8 +4714,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545677.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545676.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Comedy Central Extra
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Comedy Central [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545674.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Comedy Central
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545673.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: CBS Drama
@@ -4820,8 +4722,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545672.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Alibi +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545670.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Alibi [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545669.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Alibi
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: 5 USA +1
@@ -4896,8 +4796,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545634.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: MTV 80s
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545632.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: MTV [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545631.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: MTV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Magic TV
@@ -4918,10 +4816,6 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545623.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Willow
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545621.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: ViaPlay 2 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: ViaPlay 1 [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545619.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: UFC Fight Pass
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545618.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 9
@@ -4932,66 +4826,38 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545616.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545615.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 5
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 4 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 4
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 3 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545611.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 3
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 2 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545609.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 2
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 10
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 1 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545606.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: TNT Sports 1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: talkSPORT
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Tennis [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Racing 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545602.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Racing
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports News 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports News
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Mix [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545598.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Mix
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Main Events 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Main Event
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Golf 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545594.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Golf
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports F1 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545592.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports F1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Cricket 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545590.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Cricket
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545589.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Arena
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545588.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Action / NFL 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545587.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Action
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545586.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RedBull TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RACING TV [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545584.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RACING TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545583.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: MotoRRacing
@@ -5006,28 +4872,18 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545579.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545578.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Box Nation
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Premier League 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545576.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Premier League
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Football 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545574.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Sports Football
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Premier Sports 2
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Premier Sports 1 50fps [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Premier Sports 1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: MUTV [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545569.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: MUTV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: LFC TV
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: LFC [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545566.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Hub Premier 5
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545565.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Hub Premier 4
@@ -5046,12 +4902,8 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545559.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545558.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Tiny Pop
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Kids [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545556.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Kids
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545555.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Animation [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545554.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Sky Cinema Animation
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: RTE Jr
@@ -5066,12 +4918,8 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545549.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545548.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: nickelodeon +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545547.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: nickelodeon [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545546.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: nickelodeon
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Nick Junior [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Nick Junior
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545543.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Nick Jr Too
@@ -5096,14 +4944,10 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545534.m3u8
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545533.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Cartoonito
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545532.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Cartoon Network [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Cartoon Network
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Boomerang +1
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545529.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Boomerang [vip]
-http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545528.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Boomerang
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/545527.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM (UK)",UK: Blippi & Friends
@@ -8573,4 +8417,4 @@ http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/296305.m3u8
 #EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
 http://florincercel.gotdns.ch:8008/live/LUCIAN@MOLENBEK/jXFpHS71WJ/526873.m3u8
 
-# Total: 4268
+# Total: 4190

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-11-30 18:35:11
+# Generated: 2025-12-01 07:19:46
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -2677,7 +2677,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/61767.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIM28fkVIhPKkjOjfS01UAZXPM8.jpg" group-title="Movies | FRANCE FILMS",Demon Slayer: Sonsuzluk Kalesi (2025)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/63855.mp4
 
-# --- Movies | GAIN TV (41) ---
+# --- Movies | GAIN TV (42) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Ayak isleri
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/112.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Bizi Ayiran Cizgi
@@ -2760,6 +2760,8 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1191.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1221.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Modern Kadin
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1295.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Fer
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1318.mp4
 
 # --- Movies | GERMANY (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GERMANY",Cursed
@@ -8401,7 +8403,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1292.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Masum
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1297.mp4
 
-# --- Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi (391) ---
+# --- Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi (394) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Lupin
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Fatma
@@ -9184,6 +9186,12 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1291.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1294.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",FUBAR
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1296.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Sekizinci Aile
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1316.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Platonik
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1317.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX & DISNEY+ AMAZON COK DiLLi",Gupi
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1319.mp4
 
 # --- Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi (447) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7q7s3UNJFMCN5TxeViM322uwt.jpg" group-title="Movies | NETFLIX +DISNEY AMAZON  VS. COK DiLLi",AKA ( 2023 )
@@ -23247,4 +23255,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1313
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Sakıncalı
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 
-# Total: 11590
+# Total: 11594
