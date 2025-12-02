@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-02 07:04:21
+# Generated: 2025-12-02 18:35:20
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -9684,10 +9684,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1562.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1565.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Chief of War (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1596.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Remnick (2025)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1649.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",DE: Pluribus (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1763.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",DE: Remnick (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1812.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Die Snoopy Show (2021)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/427.mp4
 
@@ -9740,8 +9740,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/438.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/992.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ HBO",Die Sopranos (1999)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1624.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ HBO",ES: Welcome to Derry (2025)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1685.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ HBO",DE: ES: Welcome to Derry (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1811.mp4
 
 # --- Movies | DE/SERIE ~ K-DRAMA (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ K-DRAMA",GOOD BOY (2025)
@@ -9781,7 +9781,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ MARVEL",Agatha All Along (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1567.mp4
 
-# --- Movies | DE/SERIE ~ NETFLIX (71) ---
+# --- Movies | DE/SERIE ~ NETFLIX (72) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",ONE PIECE (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1109.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",How to Sell Drugs Online (Fast) (2019)
@@ -9904,6 +9904,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1778.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1779.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",DE: Last Samurai Standing (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1780.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",DE: Stranger Things (2016)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1813.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Asterix & Obelix: Der Kampf der Häuptlinge (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1528.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Alien TV (2020)
@@ -19989,7 +19991,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63214.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bNsvD8cCDQ62ExRTXrALNk5Sl7.jpg" group-title="Movies | TR/FILM ~ YERLI 2024",Sırrını Biliyorum (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/57623.mkv
 
-# --- Movies | TR/FILM ~ YERLI 2025 (27) ---
+# --- Movies | TR/FILM ~ YERLI 2025 (30) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44GdjzHmL61vHBmacdgjMJuy80D.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Gecenin Kıyısı (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62983.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hJ53lCbS4v3iPnz77yOg0sS46T.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Ufkun Ötesinde (2025)
@@ -20044,9 +20046,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62458.mkv
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62835.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98JYjLElGk8cHYd2FT0DLK11CcJ.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",İki Dünya Bir Dilek (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63209.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oJh0ifYnIMQkIOOM2Xbj1yYSSg.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Sev Arkadaş (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63321.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahzRKiIW7fyzR5h8Gsw6qzOOGBW.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Yalandan Sevgilim (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63322.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJp1hr8i8VOwWsHcDdXG7U3XmKW.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Yanlis Paket (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63323.mkv
 
 # --- Movies | TR/FILM ~ YILBASI ÖZEL (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9884
+# Total: 9888

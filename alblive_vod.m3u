@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-02 07:04:44
+# Generated: 2025-12-02 18:35:15
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Action (368) ---
+# --- Movies | Action (369) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | Action",6 Underground (2019)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6091.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg" group-title="Movies | Action",Godzilla (2014)
@@ -738,6 +738,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17046.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17054.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ekHPrneEoa1EoDclWdillOKznqM.jpg" group-title="Movies | Action",The Huntsman: Winter's War (2016)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17060.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | Action",Troll 2 (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17095.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Gotham Knights
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/70.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Spy/Master
@@ -1003,7 +1005,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17041.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mt54pbnn0JjRBLXii6SQ6HnBGqi.jpg" group-title="Movies | Advanture",Block 5 (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17044.mkv
 
-# --- Movies | Animation (93) ---
+# --- Movies | Animation (94) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N3NKevt4l7jsBk5IcaNxwZIJnj.jpg" group-title="Movies | Animation",Angry Birds Space (2012)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6304.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg" group-title="Movies | Animation",Ella Bella Bingo (2020)
@@ -1188,6 +1190,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16100.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16120.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="Movies | Animation",Vivo (2021)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16170.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg" group-title="Movies | Animation",Kung Fu Panda Holiday (2010)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17093.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Rick and Morty
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/75.mp4
 
@@ -5747,7 +5751,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17062.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Family",Golden Boy
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/118.mp4
 
-# --- Movies | Fantasy (43) ---
+# --- Movies | Fantasy (44) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="Movies | Fantasy",Harry Potter and the Deathly Hallows: Part 2 (2011)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="Movies | Fantasy",Harry Potter and the Deathly Hallows: Part 2 (2011)
@@ -5834,6 +5838,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15822.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15852.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="Movies | Fantasy",Harry Potter and the Deathly Hallows: Part 2 (2011)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17012.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ulgKdif3ubMACDltr8VZy6fyVjW.jpg" group-title="Movies | Fantasy",Troll (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17094.mkv
 
 # --- Movies | History (6) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg" group-title="Movies | History",Dumb Money (2023)
@@ -10095,4 +10101,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5015
+# Total: 5018
