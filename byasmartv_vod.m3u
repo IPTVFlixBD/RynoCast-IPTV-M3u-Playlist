@@ -1,11 +1,21 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: byasmartv.com:8080
-# Generated: 2025-12-04 07:09:42
+# Generated: 2025-12-04 18:39:55
 # Expires: 2026-01-03
 # Family Safe Edition
 # ==============================================
 
+
+# --- Movies | *** Filme de Craciun *** (4) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="Movies | *** Filme de Craciun ***",Spirited (2022)
+http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101736.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg" group-title="Movies | *** Filme de Craciun ***",Bad Santa (2003)
+http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101737.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg" group-title="Movies | *** Filme de Craciun ***",Bad Santa 2 (2016)
+http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101738.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r3w3cPTbNEIr1imb8zXyeIJCJe.jpg" group-title="Movies | *** Filme de Craciun ***",Office Christmas Party (2016)
+http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/101739.mp4
 
 # --- Movies | A MAN IN FULL (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | A MAN IN FULL",A Man in Full
@@ -6496,7 +6506,7 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/501
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/50160.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="Movies | Filme 4K",Black Adam (2022)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/50165.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="Movies | Filme 4K",Spirited (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="Movies | Filme 4K",Spirited (2022) 4K
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/50207.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPn9e8eP7TeKQU4IeWAMzOajR40.jpg" group-title="Movies | Filme 4K",Telefonul domnului Harrigan (2022)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/50210.mp4
@@ -7591,7 +7601,7 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/235
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZHd6JS8dxsEo4DN4DnIKTHQp4h.jpg" group-title="Movies | Filme Bollywood",Yuvvraaj (2008)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/23587.mkv
 
-# --- Movies | Filme Comedie (145) ---
+# --- Movies | Filme Comedie (143) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLfQZ7ngsYlWk1M6CNHrHgpIiZ.jpg" group-title="Movies | Filme Comedie",10 zile în Sun City (2017)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/22911.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLfQZ7ngsYlWk1M6CNHrHgpIiZ.jpg" group-title="Movies | Filme Comedie",10 zile în Sun City (2017)
@@ -7692,10 +7702,6 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/229
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/22976.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIQH3dptGaMBtwos7j9lEHt65BV.jpg" group-title="Movies | Filme Comedie",Back to School (1986)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/22977.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg" group-title="Movies | Filme Comedie",Bad Santa (2003)
-http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/22978.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg" group-title="Movies | Filme Comedie",Bad Santa 2 (2016)
-http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/22979.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpIY4qUSX91J9XpPgr0hFrk1eKr.jpg" group-title="Movies | Filme Comedie",Profă rea, dar buuună (2011)
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/22980.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZOz1GTFsrfGZNziZHupOvqUdub.jpg" group-title="Movies | Filme Comedie",Bad Words (2013)
@@ -11609,4 +11615,4 @@ http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/146
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vikings Valhalla",Vikings: Valhalla
 http://byasmartv.com:8080/movie/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/152.mp4
 
-# Total: 5532
+# Total: 5534
