@@ -1,176 +1,194 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv1.kavkom.tv:8000
-# Generated: 2025-12-05 07:06:52
+# Generated: 2025-12-05 18:34:27
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
 
 
-# --- LIVE (82) ---
+# --- LIVE (91) ---
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/TF1.png" group-title="LIVE",TF1 HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/18238.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/18238.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png" group-title="LIVE",FRANCE 2
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1716.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1716.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/france3.png" group-title="LIVE",FRANCE 3
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1720.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1720.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tv5.png" group-title="LIVE",TV5
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2159.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2159.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/france5.png" group-title="LIVE",FRANCE 5
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1722.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1722.m3u8
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="LIVE",M6 HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/22128.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/22128.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/ARTE.png" group-title="LIVE",ARTE
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2573.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2573.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/c8.png" group-title="LIVE",T18
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/18497.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/18497.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/W9.png" group-title="LIVE",W9
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1719.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1719.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tmc.png" group-title="LIVE",TMC
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1724.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1724.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/TFX.png" group-title="LIVE",TFX
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1725.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1725.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/NRJ12.png" group-title="LIVE",NRJ12
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1726.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1726.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="LIVE",C STAR
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1731.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1731.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/TF1SERIES.png" group-title="LIVE",TF1 SERIES FILMS
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1735.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1735.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/serieclub.png" group-title="LIVE",SERIE CLUB HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1728.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1728.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/teva2.png" group-title="LIVE",TEVA
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1727.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1727.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/6TER2.png" group-title="LIVE",6TER
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2612.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2612.m3u8
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rts-un-1432806569.jpg" group-title="LIVE",RTS1
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/12757.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/12757.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/RMC2.png" group-title="LIVE",RMC
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1739.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1739.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="LIVE",story
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/16181.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/16181.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/CHERIE25.png" group-title="LIVE",CHERIE 25
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/3800.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/3800.m3u8
 #EXTINF:-1 tvg-logo="https://www.gentv.be/logos/aplus.png" group-title="LIVE",A+
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23626.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23626.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/ITV.png" group-title="LIVE",C NEWS
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2160.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2160.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.pn" group-title="LIVE",ISRAEL
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/22146.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/22146.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/ushuaiaTV.pn" group-title="LIVE",BFTV HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23608.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23608.m3u8
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/12/LCI-2016-240x160.jpg.webp" group-title="LIVE",LCI
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/9558.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/9558.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/lcp-fr.png?raw=true" group-title="LIVE",LCP
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/8617.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/8617.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/etv.png" group-title="LIVE",E! ENTERTAINMENT HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2511.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2511.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/commedie2.png" group-title="LIVE",COMEDIE
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1741.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1741.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/famiz.png" group-title="LIVE",CINE FAMIZ
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/5678.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/5678.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/canal+premiere.png" group-title="LIVE",CINE+ PREMIER HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1750.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1750.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/canaldecale.png" group-title="LIVE",CINE+ CLASSIC HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1749.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1749.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tcm.png" group-title="LIVE",TCM
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2682.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2682.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/syfy2.png" group-title="LIVE",SYFY
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1792.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1792.m3u8
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="LIVE",WARNER
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/15755.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/15755.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="LIVE",PARAMOUNT
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/12620.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/12620.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/PARISPREMIERE.png" group-title="LIVE",PARIS PREMIERE
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2786.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2786.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tvbreitzh.png" group-title="LIVE",TV BREIZH
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/8789.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/8789.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/13RUE2.png" group-title="LIVE",13EME RUE HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1756.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1756.m3u8
 #EXTINF:-1 tvg-logo="https://orange-caraibe.twic.pics/2024-07/Cin%C3%A9+OCS.png" group-title="LIVE",CINE + CLUB
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23475.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23475.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40184/canal-ouah/CHN43FN/CHN43FN_900_29082023" group-title="LIVE",GRAND ECRAN
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23476.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23476.m3u8
 #EXTINF:-1 tvg-logo="https://orange-caraibe.twic.pics/2024-07/Cin%C3%A9+Emotion_0.png" group-title="LIVE",CINE + EMOTION
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23474.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23474.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/equipe21.png" group-title="LIVE",L'ÉQUIPE 21
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1917.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1917.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/infosport2.png" group-title="LIVE",INFOSPORT
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/5699.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/5699.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/EUROSPORT.png" group-title="LIVE",EUROSPORT
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/4599.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/4599.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/EUROSPORT.png" group-title="LIVE",EUROSPORT 2
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/4304.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/4304.m3u8
 #EXTINF:-1 tvg-logo="https://www.free.fr/assets/s3/188_fd8cff9075.png" group-title="LIVE",GOLF+
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/16008.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/16008.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/equidia.png" group-title="LIVE",EQUIDIA
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2552.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2552.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/gulli.png" group-title="LIVE",GULLI
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1772.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1772.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/DISNEY2.png" group-title="LIVE",DISNEY CHANNEL HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1771.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1771.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/DisneyJunior.png" group-title="LIVE",DISNEY JUNIOR HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1770.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1770.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/nick2.png" group-title="LIVE",NICKELODEON JUNIOR
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2530.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2530.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/200?cb=20171112110326" group-title="LIVE",BOOMERANG
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/17625.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/17625.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="LIVE",CARTOON
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/15621.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/15621.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/planetplus2.png" group-title="LIVE",PLANETE+
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2555.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2555.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/planeteci2.png" group-title="LIVE",PLANETE CI
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2625.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2625.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/histoire.png" group-title="LIVE",HISTOIRE
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/7328.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/7328.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/NETGEO.png" group-title="LIVE",NATIONAL GEO
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/2556.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2556.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/natgeowild.png" group-title="LIVE",NAT GEO WILD HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1778.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1778.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/ushuaiaTV.png" group-title="LIVE",USHUAIA
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/16637.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/16637.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/discovery2.png" group-title="LIVE",DISCOVERY SC HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1780.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1780.m3u8
 #EXTINF:-1 tvg-logo="https://www.gentv.be/logos/cuisinetv.jpg" group-title="LIVE",CUISINE TV
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/22153.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/22153.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW1pzE1mH1L3BhP6QudyReLO__cKYbH7PEbSI7Uyx9qeuZHKQS" group-title="LIVE",M6 MUSIC HD
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23607.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23607.m3u8
 #EXTINF:-1 tvg-logo="http://www.lagardere.com/fichiers/fckeditor/Image/Groupe/Societes_et_marques/--Logos/MCM_TOP/MCM-TOP_138.gif" group-title="LIVE",MCM
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/18695.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/18695.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/mtv.png" group-title="LIVE",MTV
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/8707.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/8707.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/mtv.png" group-title="LIVE",MTV DANCE
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/18694.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/18694.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/mezzo-live-fr.png?raw=true" group-title="LIVE",MEZZO
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/22471.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/22471.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/mezzo-live-fr.png?raw=true" group-title="LIVE",MEZZO LIVE
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23629.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23629.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/13pKk7PNH9RgiQ_CfYTBKYFE3fI2nptvJ/view?usp=drive_link" group-title="LIVE",MELODY
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23632.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23632.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/israel11.png" group-title="LIVE",ISRAEL 11
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/5676.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/5676.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/israel2.png" group-title="LIVE",ISRAEL 12
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/5558.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/5558.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/13.png" group-title="LIVE",ISRAEL 13
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/7802.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/7802.m3u8
 #EXTINF:-1 tvg-logo="https://www.hot.net.il/UploadedImages/06_2014/45657_hot_logo_moreshet_59x49.jpg" group-title="LIVE",ISRAEL 14
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/21286.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/21286.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/israel/channel-24-il.png?raw=true" group-title="LIVE",ISRAEL 24
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/13915.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/13915.m3u8
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="LIVE",KNESSET
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23478.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23478.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="LIVE",HIDABRUT
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/19884.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/19884.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/nessmaTV.png" group-title="LIVE",NESSMA TV
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/6854.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/6854.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tunis-tv.png" group-title="LIVE",TUNIS TV
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/5866.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/5866.m3u8
 #EXTINF:-1 tvg-logo="https://www.gentv.be/logos/hannibal.png" group-title="LIVE",HANNIBAL
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/19533.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/19533.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE",TUNIS 2
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/8610.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/8610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE",TUNIS 9
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/12420.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/12420.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE",2M MAROC
-http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/23601.m3u8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23601.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23108.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 2
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23609.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 3
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23610.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 4
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23611.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 5
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23614.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 6
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23615.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 7
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23616.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 8
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23617.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s" group-title="LIVE",FOOT 9
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23618.m3u8
 
-# Total: 82
+# Total: 91

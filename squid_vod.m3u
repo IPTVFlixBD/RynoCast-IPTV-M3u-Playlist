@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-05 07:03:14
+# Generated: 2025-12-05 18:32:58
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -4805,7 +4805,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/53579.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AuQjsUXA4h4PaeGhs5NWdodZmBr.jpg" group-title="Movies | Filme 2023",Bucha (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/16298.mp4
 
-# --- Movies | Filme 2024 (530) ---
+# --- Movies | Filme 2024 (531) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg" group-title="Movies | Filme 2024",Witchy Ways - 2024
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65478.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mjcOc84MApgwrSuM4wDo7fIpYi.jpg" group-title="Movies | Filme 2024",Vares X (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65370.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oq8uBctmj7jKJoz8wIPw5LBuHs1.jpg" group-title="Movies | Filme 2024",Double Exposure (2024)
@@ -5867,7 +5869,15 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (526) ---
+# --- Movies | Filme 2025 (530) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emhOHTwm3HlO1yqkVTl2doprTQh.jpg" group-title="Movies | Filme 2025",We Met in December - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65482.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | Filme 2025",Troll 2 - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65481.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olgwPDLSXcWhvNptdn84j8RKt8K.jpg" group-title="Movies | Filme 2025",Sense & Sensibility: A Modern Retelling (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65480.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10RrWFTCWL01PG2cDOQBEY0GojR.jpg" group-title="Movies | Filme 2025",Melt My Heart This Christmas - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65479.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKxSQtd3Xy9JuaK8H4hVAbmZwKw.jpg" group-title="Movies | Filme 2025",Zapada, Ceai și Dragoste III: ...și Noroc (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65475.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOdeDd2XZADoiYJ8QGS9FGgF6n8.jpg" group-title="Movies | Filme 2025",The Grove - 2025
@@ -19365,4 +19375,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8527
+# Total: 8532

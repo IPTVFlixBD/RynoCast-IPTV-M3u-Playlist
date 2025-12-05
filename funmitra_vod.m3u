@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-05 07:01:42
+# Generated: 2025-12-05 18:30:51
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -3807,7 +3807,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11160.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Ben Onun Annesiyim
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11231.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1003) ---
+# --- Movies | (S|TR) Yabanci Diziler (1004) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5814,6 +5814,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11512.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11513.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Rainmaker
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11515.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Abandons
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11521.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (397) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -18065,7 +18067,11 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (427) ---
+# --- Movies | (V|DE) Filme - 2025 (429) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bwKVkbZswfqYkzG673W1q5ut1Kp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jay Kelly - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647947.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLhRyFveFYLP344i2kGkcV6VhL3_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) A Christmas Post: Die Vergessenen  - 2024
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647946.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qynCyBKCJUUcj4wo4PE2aQVvote_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Oh. What. Fun. - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647675.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/a1ElufTHnBkFL6kpkm9PTcUg9n_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) My Secret Santa - 2025
@@ -22043,7 +22049,11 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (248) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (250) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 12)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647763.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 11)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647762.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/azacGGRNAp3tRO197rEznDTdg7s_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sakincali (Bolum 3)
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647718.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 40)
@@ -31923,7 +31933,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/462324.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7xiV4iaUIskBZovcu8UoKSo3vAw.jpg" group-title="Movies | (V|TR) Yerli Film - 2023",(TR-) Bursa Bülbülü - 2023
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/457156.mkv
 
-# --- Movies | (V|TR) Yerli Film - 2024 (76) ---
+# --- Movies | (V|TR) Yerli Film - 2024 (77) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rGBiezUJEaHG7CHMa3QVMpC2dGE_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2024",(TR-) Evcilik - 2024
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647761.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dAvnOVYUNm5GmD0JJgozsrrTxN6_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2024",(TR-) İllegal Hayatlar: Meclis - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/621257.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qIY2VUeqTpE7vy1o5mQonjkA46L_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2024",(TR-) Paranoya - 2024
@@ -32145,4 +32157,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16025
+# Total: 16031

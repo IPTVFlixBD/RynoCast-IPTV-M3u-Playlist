@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2025-12-05 07:01:50
+# Generated: 2025-12-05 18:28:42
 # Expires: 2025-12-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. PPV EVENTS / RACING (ET) (7) ---
+# --- 01. PPV EVENTS / RACING (ET) (8) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/105962.m3u8
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/5fd7eced045fd.png" group-title="01. PPV EVENTS / RACING (ET)",05. FloRacing 24/7
@@ -22,6 +22,8 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/204207.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/207543.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/NHRA.png" group-title="01. PPV EVENTS / RACING (ET)",02. NHRA TV
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/175763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",Kubota Gateway Dirt Nationals
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217916.m3u8
 
 # --- 01. PPV FIGHTS/WWE (ET) (21) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 8p MONDAY NIGHT RAW
@@ -23553,4 +23555,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 11742
+# Total: 11743

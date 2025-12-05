@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
-# Host: dvdv.org
-# Generated: 2025-12-05 07:03:54
+# Host: dvdv.org:80
+# Generated: 2025-12-05 18:28:55
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -9,20 +9,20 @@
 
 # --- ام بـي سي (1) ---
 #EXTINF:-1 tvg-logo="http://163.172.73.81/mylogo20191019/logo-1--mbc.png" group-title="ام بـي سي",MBC
-http://dvdv.org/live/030449/030449/70517.m3u8
+http://dvdv.org:80/live/976677/976677/70517.m3u8
 
 # --- منوعات اسلامية (6) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s88-c-k-c0x00ffffff-no-rj" group-title="منوعات اسلامية",القرآن الكريم HD
-http://dvdv.org/live/030449/030449/39652.m3u8
+http://dvdv.org:80/live/976677/976677/39652.m3u8
 #EXTINF:-1 tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" group-title="منوعات اسلامية",قرآن- العفاسي
-http://dvdv.org/live/030449/030449/4868.m3u8
+http://dvdv.org:80/live/976677/976677/4868.m3u8
 #EXTINF:-1 tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" group-title="منوعات اسلامية",قرآن- ماهر المعيقلي
-http://dvdv.org/live/030449/030449/7217.m3u8
+http://dvdv.org:80/live/976677/976677/7217.m3u8
 #EXTINF:-1 tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" group-title="منوعات اسلامية",قرآن تجويد- عبد الباسط
-http://dvdv.org/live/030449/030449/71089.m3u8
+http://dvdv.org:80/live/976677/976677/71089.m3u8
 #EXTINF:-1 tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" group-title="منوعات اسلامية",قرآن ترتيل- محمد صديق المنشاوي
-http://dvdv.org/live/030449/030449/71094.m3u8
+http://dvdv.org:80/live/976677/976677/71094.m3u8
 #EXTINF:-1 tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" group-title="منوعات اسلامية",قرآن كامل- بيشه وا قادر
-http://dvdv.org/live/030449/030449/71444.m3u8
+http://dvdv.org:80/live/976677/976677/71444.m3u8
 
 # Total: 7
