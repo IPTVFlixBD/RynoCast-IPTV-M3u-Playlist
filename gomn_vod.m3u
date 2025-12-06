@@ -1,16 +1,16 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
-# Host: gomn.xplus2.xyz:2082
-# Generated: 2025-12-04 07:01:49
-# Expires: 2031-12-10
+# Host: gomn.xplus2.xyz:2095
+# Generated: 2025-12-06 07:04:16
+# Expires: 2031-12-19
 # Family Safe Edition
 # ==============================================
 
 
 # --- Movies | demo (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | demo",movie
-http://gomn.xplus2.xyz:2082/movie/xplus-2-HixcyeVLnm/YmhFdgRCMI/1083.mp4
+http://gomn.xplus2.xyz:2095/movie/XPLUS2EXTRA-0fzm7r91ym/R0YCLuhEaY/1083.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | demo",demo
-http://gomn.xplus2.xyz:2082/movie/xplus-2-HixcyeVLnm/YmhFdgRCMI/1.mp4
+http://gomn.xplus2.xyz:2095/movie/XPLUS2EXTRA-0fzm7r91ym/R0YCLuhEaY/1.mp4
 
 # Total: 2

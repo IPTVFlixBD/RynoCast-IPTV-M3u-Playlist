@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-05 18:34:56
+# Generated: 2025-12-06 07:06:08
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -4691,9 +4691,13 @@ http://italians-app.net:8080/movie/hele/cart@/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://italians-app.net:8080/movie/hele/cart@/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1416) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1418) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://italians-app.net:8080/movie/hele/cart@/1658.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c443113f563daad77aec03a3e6cf607f.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Diario di una Schiappa: Ora basta! (2025)
+http://italians-app.net:8080/movie/hele/cart@/85876.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f24625e223fd842d8a4fd09311280a6c.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Nevica a Fraggle Rock (2025)
+http://italians-app.net:8080/movie/hele/cart@/85877.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0dca8d1166912ffa67e61128bb1ca414.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Zootropolis 2 (2025)
 http://italians-app.net:8080/movie/hele/cart@/85831.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/19c173e4c85289ba2b0ff3649bd780e4.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Gli snicci (2025)
@@ -9997,9 +10001,11 @@ http://italians-app.net:8080/movie/hele/cart@/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://italians-app.net:8080/movie/hele/cart@/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1526) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1527) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://italians-app.net:8080/movie/hele/cart@/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9a1d26f0f1209617d7098df329264660.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Jay Kelly (2025)
+http://italians-app.net:8080/movie/hele/cart@/85878.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e14d24687edc5997ded53f34907633c.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Life of Chuck (2025)
 http://italians-app.net:8080/movie/hele/cart@/85847.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ae5e6276d2088421e05e5b84aaa677b4.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Train Dreams (2025)
@@ -20960,7 +20966,7 @@ http://italians-app.net:8080/movie/hele/cart@/78911.mkv
 http://italians-app.net:8080/movie/hele/cart@/78906.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a9f20abe5a34247cbb08b17bedc4bf74.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 3 La casa delle bambole di Gabby  Il film (2025)
 http://italians-app.net:8080/movie/hele/cart@/78907.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4a37560f42edc1c2c8787b6ec5489a0c.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 Le indagini di Melchiorre lo speziale  Il segreto della cattedrale (2022)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a041ef74b447f4349a163da198fecf24.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 High Forces Emergenza ad alta quota
 http://italians-app.net:8080/movie/hele/cart@/4540.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/da9bde8bda333e1508edb36f7a690ba3.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Il mio giardino persiano (2024)
 http://italians-app.net:8080/movie/hele/cart@/78903.mkv
@@ -20968,11 +20974,11 @@ http://italians-app.net:8080/movie/hele/cart@/78903.mkv
 http://italians-app.net:8080/movie/hele/cart@/78902.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/40694fbe4f432d41e80b4e0db7d2e0b5.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 7 After the Hunt  Dopo la caccia (2025)
 http://italians-app.net:8080/movie/hele/cart@/64571.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/23916b9fc61c7b2d2aba1ef2687ea6ca.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 8 Aragoste a Manhattan (2024)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1a148cc50b8728d8033507b129854489.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 8 Bolero (2024)
 http://italians-app.net:8080/movie/hele/cart@/78905.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f6330576eb5b97efc58a877ca68a1966.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  9  Black Phone 2 (2025)
 http://italians-app.net:8080/movie/hele/cart@/78904.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a4a65585a28a4886ee59ff78ff5d22f1.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Guida pratica per insegnanti (2023)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/65bc827f1ce8db4fab69ce5b16f01f83.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Enzo (2025)
 http://italians-app.net:8080/movie/hele/cart@/78901.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/990a160877cf03e900f1aa194f8df3ef.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 11  I Play Mother  Il gioco del male (2025)
 http://italians-app.net:8080/movie/hele/cart@/21092.mkv
@@ -20985,9 +20991,11 @@ http://italians-app.net:8080/movie/hele/cart@/64844.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4ecf8d9b6b9928c4f10b15a456b0fc0b.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 15 Le indagini di Melchiorre lo speziale  Il fantasma della torre (2022)
 http://italians-app.net:8080/movie/hele/cart@/78910.mkv
 
-# --- Movies | SALA NATALE (77) ---
+# --- Movies | SALA NATALE (78) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | SALA NATALE",==== SALA NATALE====
 http://italians-app.net:8080/movie/hele/cart@/79646.mp4
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5d0ae2a7eafe251117dcdde272b7d46f.jpg" group-title="Movies | SALA NATALE",Papa ha salvato il Natale 2 (2025)
+http://italians-app.net:8080/movie/hele/cart@/85875.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/b201734158a02624449e82a3247d8411.jpg" group-title="Movies | SALA NATALE",My Secret Santa  Mia mamma è Babbo Natale! (2025)
 http://italians-app.net:8080/movie/hele/cart@/85849.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/098682a9b8708f65c76cd4b0709022c4.jpg" group-title="Movies | SALA NATALE",Natale senza Babbo (2025)
@@ -21185,7 +21193,7 @@ http://italians-app.net:8080/movie/hele/cart@/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://italians-app.net:8080/movie/hele/cart@/1550.mp4
 
-# --- Movies | SERIE-TV (487) ---
+# --- Movies | SERIE-TV (488) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://italians-app.net:8080/movie/hele/cart@/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22160,8 +22168,10 @@ http://italians-app.net:8080/movie/hele/cart@/1564.mp4
 http://italians-app.net:8080/movie/hele/cart@/1565.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Jean-Claude Van Johnson
 http://italians-app.net:8080/movie/hele/cart@/1567.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Last Frontier
+http://italians-app.net:8080/movie/hele/cart@/1573.mp4
 
-# --- Movies | SERIE-TV-ITALIA (140) ---
+# --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://italians-app.net:8080/movie/hele/cart@/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22442,6 +22452,8 @@ http://italians-app.net:8080/movie/hele/cart@/1545.mp4
 http://italians-app.net:8080/movie/hele/cart@/1569.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",L'altro ispettore
 http://italians-app.net:8080/movie/hele/cart@/1570.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Sicilia Express
+http://italians-app.net:8080/movie/hele/cart@/1572.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32647,4 +32659,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16292
+# Total: 16298

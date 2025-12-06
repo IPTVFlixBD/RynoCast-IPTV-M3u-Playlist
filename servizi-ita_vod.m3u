@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: servizi-ita.com:8080
-# Generated: 2025-12-05 18:29:17
+# Generated: 2025-12-06 06:58:56
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -4691,9 +4691,13 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1414) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1416) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1658.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c443113f563daad77aec03a3e6cf607f.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Diario di una Schiappa: Ora basta! (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85876.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f24625e223fd842d8a4fd09311280a6c.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Nevica a Fraggle Rock (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85877.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0dca8d1166912ffa67e61128bb1ca414.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Zootropolis 2 (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85831.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/19c173e4c85289ba2b0ff3649bd780e4.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Gli snicci (2025)
@@ -9993,7 +9997,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1526) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1527) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e0d3d17e8713b2c88262ff259bc19989.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",È colpa mia Londra (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/83999.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fa21a2ad35d92916dd80a0506b7e41ce.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Lesson (2023)
@@ -10012,6 +10016,8 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64655.mkv
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64654.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9a1d26f0f1209617d7098df329264660.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Jay Kelly (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85878.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e14d24687edc5997ded53f34907633c.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Life of Chuck (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85847.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ae5e6276d2088421e05e5b84aaa677b4.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Train Dreams (2025)
@@ -20952,7 +20958,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78911.mkv
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78906.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a9f20abe5a34247cbb08b17bedc4bf74.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 3 La casa delle bambole di Gabby  Il film (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78907.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4a37560f42edc1c2c8787b6ec5489a0c.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 Le indagini di Melchiorre lo speziale  Il segreto della cattedrale (2022)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a041ef74b447f4349a163da198fecf24.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 High Forces Emergenza ad alta quota
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/4540.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/da9bde8bda333e1508edb36f7a690ba3.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Il mio giardino persiano (2024)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78903.mkv
@@ -20960,11 +20966,11 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78903.mkv
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78902.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/40694fbe4f432d41e80b4e0db7d2e0b5.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 7 After the Hunt  Dopo la caccia (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64571.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/23916b9fc61c7b2d2aba1ef2687ea6ca.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 8 Aragoste a Manhattan (2024)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1a148cc50b8728d8033507b129854489.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 8 Bolero (2024)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78905.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f6330576eb5b97efc58a877ca68a1966.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  9  Black Phone 2 (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78904.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a4a65585a28a4886ee59ff78ff5d22f1.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Guida pratica per insegnanti (2023)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/65bc827f1ce8db4fab69ce5b16f01f83.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Enzo (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78901.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/990a160877cf03e900f1aa194f8df3ef.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 11  I Play Mother  Il gioco del male (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/21092.mkv
@@ -20977,9 +20983,11 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64844.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4ecf8d9b6b9928c4f10b15a456b0fc0b.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 15 Le indagini di Melchiorre lo speziale  Il fantasma della torre (2022)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78910.mkv
 
-# --- Movies | SALA NATALE (77) ---
+# --- Movies | SALA NATALE (78) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | SALA NATALE",==== SALA NATALE====
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/79646.mp4
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5d0ae2a7eafe251117dcdde272b7d46f.jpg" group-title="Movies | SALA NATALE",Papa ha salvato il Natale 2 (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85875.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/b201734158a02624449e82a3247d8411.jpg" group-title="Movies | SALA NATALE",My Secret Santa  Mia mamma è Babbo Natale! (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/85849.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/098682a9b8708f65c76cd4b0709022c4.jpg" group-title="Movies | SALA NATALE",Natale senza Babbo (2025)
@@ -21167,7 +21175,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1550.mp4
 
-# --- Movies | SERIE-TV (485) ---
+# --- Movies | SERIE-TV (486) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22138,8 +22146,10 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1564.mp4
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1565.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Jean-Claude Van Johnson
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1567.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Last Frontier
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1573.mp4
 
-# --- Movies | SERIE-TV-ITALIA (140) ---
+# --- Movies | SERIE-TV-ITALIA (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22420,6 +22430,8 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1545.mp4
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1569.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",L'altro ispettore
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1570.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Sicilia Express
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1572.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32663,4 +32675,4 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/50889.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/20654.mkv
 
-# Total: 16299
+# Total: 16305
