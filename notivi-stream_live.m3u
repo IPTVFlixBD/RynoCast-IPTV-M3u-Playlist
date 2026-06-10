@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-09 20:32:39
+# Generated: 2026-06-10 08:37:15
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -95,9 +95,25 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/33361.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/df53645d41cb78c35afac38759917ca4.png" group-title="[ BUNDESLIGA ]",DE- SKY BUNDESLiGA 10 SD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/33362.m3u8
 
-# --- [ CiNEMA KANÄLE ] (26) ---
+# --- [ CiNEMA KANÄLE ] (36) ---
 #EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",***** CINEMA *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - BBC SERIES HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - TOP FILME HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - GRJNGO HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - ZEE ONE HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - TOP SCI-FI HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - FILM GOLD HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - TOP SERIEN HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - HIMMLISCHES KINO HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132114.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - WEDO MOVIES FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123185.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - CRACTION FHD
@@ -110,6 +126,10 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/114478.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/114479.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/aa7f6e1ac285dab388072bcda6760a0f.png" group-title="[ CiNEMA KANÄLE ]",DE- WARNER TV COMEDY HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/114480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - FREE COMEDY HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE - MOVIE DOME FAMILY HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132132.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/b493757d4268ea7ea165cddf2c2f70f5.png" group-title="[ CiNEMA KANÄLE ]",DE- TNT FiLM HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/102954.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/d3955643cfda59922f1cd01cfcf4a05f.png" group-title="[ CiNEMA KANÄLE ]",DE - TNT SERIE HD
@@ -184,6 +204,12 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123639.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123640.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN EVENT 15 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123641.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN BOXING TV FHD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/125069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN SPORTSTAK FHD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/125070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN PLL NETWORK FHD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/125513.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/8b3edbffffe5615834d1b64c69df19c5.png" group-title="[ DAZN ]",DE - DAZN FAST+ HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/115382.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/48969d8d1f188bd182b7d9165d7713b1.png" group-title="[ DAZN ]",DE - DAZN RISE HD
@@ -210,20 +236,16 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/127515.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/127516.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN ACL CORNHOLE TV HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/127517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN BOXING TV FHD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/125069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN SPORTSTAK FHD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/125070.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN PLL NETWORK FHD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/125513.m3u8
 
-# --- [ DEUTSCHLAND ] (52) ---
+# --- [ DEUTSCHLAND ] (53) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/e9a261e44b58b6ab82b4f34773f2d8cc.png" group-title="[ DEUTSCHLAND ]",***** DEUTSCHLAND *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/201.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1H-1dsTZbYnY7xhpSx5rrMc-C4OLxDSQmT7QPqG_PchIA.png" group-title="[ DEUTSCHLAND ]",DE - DAS ERSTE HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/1101.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0vLVP2vlAj6_BKsjY68q6IT6QgUjBIEUqGt48JJWrV6lRg9mEgMh6N0Hs7kj5hYGew.png" group-title="[ DEUTSCHLAND ]",DE - ARD ALPHA HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/145.m3u8
+#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/mYwds-EAMfcOXIdyobFsX-YNKhTKcpUDZYqvMWgjo3IO4jvaZqgovw6ins1qoJ5zQ-IjeMWm5b0EJOiAzKkC8rULdZZ1kWkNtpZUzV2BAN-LLZOnLhjN9OoIvd6KnN6-ERcNA3GTSMSoJ7lzJoT_Ae78uucxgUXU1TAXS66KTy4.png" group-title="[ DEUTSCHLAND ]",DE - ARD PLUS KRIMI HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132106.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0r8V5CUmfF_b0gBBXNo9Sdn6DNE0xqy1dJVlGhNDedhqthgrkaWRLV7kcMDz-fmWbg.png" group-title="[ DEUTSCHLAND ]",DE - ZDF HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/178.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0uKX9D6-nP55Nq1FdYj3ecVt7i-UJ-voPbkwe91y0houzSSw7EBoxPvsox7MdpWTGA.png" group-title="[ DEUTSCHLAND ]",DE- ZDF INFO HD
@@ -294,10 +316,6 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2750.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/118620.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0shF0MPIJI8j_BerUrhTnz_wWmPg9J_ip3mn9ui29mL8RO8Jzg9yDLbRw_jRlbfH9A.png" group-title="[ DEUTSCHLAND ]",DE - MTV HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119917.m3u8
-#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAkchMwM0KglOrCeKlnyTehVWiiOuzmm9OiZaxFi1GogfQ.png" group-title="[ DEUTSCHLAND ]",DE- KABEL EINS DOKU HD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/41148.m3u8
-#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0vLVP2vlAj6_BKsjY68q6IS1oy_RikHdZKd542byU0mLlJS0TDKGYWoXGu45-Jaycw.png" group-title="[ DEUTSCHLAND ]",DE- N24 DOKU HD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2839.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0udlmc1yJXiTWIM_dUjPj_Im6KmlCyhjAMVJo0VFtstQ.png" group-title="[ DEUTSCHLAND ]",DE- HG TV HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/118859.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1EC8fStnx3VUdVHVvWi7GEGs433OUOEzaLDN7KbO4AbCA.png" group-title="[ DEUTSCHLAND ]",DE- HR HD
@@ -316,6 +334,10 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119003.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119000.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0rD6LYGY9uoWQcpRybuYrKlPyhXUWR22qvUyXrP1vjFbW1VjUO8Gsq41CfWnKy_pkQ.png" group-title="[ DEUTSCHLAND ]",DE - RBB FERNSEHEN BERLIN HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119002.m3u8
+#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAkchMwM0KglOrCeKlnyTehVWiiOuzmm9OiZaxFi1GogfQ.png" group-title="[ DEUTSCHLAND ]",DE- KABEL EINS DOKU HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/41148.m3u8
+#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0vLVP2vlAj6_BKsjY68q6IS1oy_RikHdZKd542byU0mLlJS0TDKGYWoXGu45-Jaycw.png" group-title="[ DEUTSCHLAND ]",DE- N24 DOKU HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2839.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0uKX9D6-nP55Nq1FdYj3ecW4IPj5Wr4PtuceTqpI_Y-XLSMzOC5OdplgDzxWSA7jsA.png" group-title="[ DEUTSCHLAND ]",DE - ROMANCE TV HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2739.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAlZ_DSC0BFcAmQ9RjqoRuHvMjMVc3U6RdWK0H-9PlNtXw.png" group-title="[ DEUTSCHLAND ]",DE - UNIVERSAL CHANNEL HD
@@ -323,9 +345,11 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2742.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1FBwnGnhznGIkQ7DLNY7RuDWj9KGgiXpZHx6QCoTxZ1Zg.png" group-title="[ DEUTSCHLAND ]",DE - SPIEGEL GESCHICHTE HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2743.m3u8
 
-# --- [ DOCU KANÄLE ] (16) ---
+# --- [ DOCU KANÄLE ] (20) ---
 #EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",***** DOCU *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2726.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - SPIEGEL TV HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132105.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0uKX9D6-nP55Nq1FdYj3ecVET7jmNVKofMnt49B3YJFcQPgxUnZ1Pk8NViOGmXyv1w.png" group-title="[ DOCU KANÄLE ]",DE- WELT HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/102955.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0rD6LYGY9uoWQcpRybuYrKldRH4jmvDbKj6meDXZPa_0JqnxulgTn5Uhp6GGJ_7Kbw.png" group-title="[ DOCU KANÄLE ]",DE- CRIME INVESTIGATION HD
@@ -334,7 +358,7 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/102617.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/148.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAkc2X0Wb2mIfEj8FAzg7kiw6kT79JCRu2eODLPuQEaYAg.png" group-title="[ DOCU KANÄLE ]",DE - HISTORY HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - BONGUSTO FHD
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE -TERRE MATER WILD HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119920.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAkXxTBP7D2go1satBV5J9ilHRxmtKWuG5q2nkrMUCZaZA.png" group-title="[ DOCU KANÄLE ]",DE - NATIONAL GEOGRAPHIC WILD FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/157.m3u8
@@ -342,19 +366,25 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/157.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/103726.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1G98oJXZGzHy6eD9PHCcRXkpwQBUT5KJdxrwUX-gYK_Sw.png" group-title="[ DOCU KANÄLE ]",DE - ANIMAL PLANET FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/118666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - JUST FISHING HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - LANDLUST HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - JUST COOKING
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132130.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1EnN9RyP6hYUUtj2O8SR8ygYemJDeIl6vIP-k7z_TzftQ.png" group-title="[ DOCU KANÄLE ]",DE - TLC HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - GEO TELEVISION FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119921.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - BERGBLICK FHD
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - ONE TERRA HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119922.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - CURIOSITY FHD
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - CRIOSITY NOW HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119923.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - TRAVEL XP FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119924.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - WELT DER WUNDER FHD
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - SPIEGELTV ACTION CRIME HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119925.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - DABEI TV HD
+#EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - SPIEGEL KONFLIKTE HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123183.m3u8
 
 # --- [ EXXEN SPORTS ] (9) ---
@@ -377,7 +407,7 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/104028.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vwyYQtvtAEj0MkdZLq5bhBIdXiXh-oYYU4MT9LxH5hVpf7Q8JI0cJlACq3FjxlmGn-Q" group-title="[ EXXEN SPORTS ]",TR - EXXEN SPOR 8 FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/115400.m3u8
 
-# --- [ KiNDER KANÄLE ] (12) ---
+# --- [ KiNDER KANÄLE ] (14) ---
 #EXTINF:-1 tvg-logo="" group-title="[ KiNDER KANÄLE ]",***** KINDER *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2730.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/c444572e8bd9e92bb5bf6c11c88e2d85.png" group-title="[ KiNDER KANÄLE ]",DE - NICK / COMEDY FHD
@@ -402,6 +432,10 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2753.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2754.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/182a83ec6043675927db58bb3e2dea0c.png" group-title="[ KiNDER KANÄLE ]",DE - CARTOON NETWORK HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ KiNDER KANÄLE ]",DE - NARUTO HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ KiNDER KANÄLE ]",DE - YUGIOH HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132127.m3u8
 
 # --- [ MUSIC ] (16) ---
 #EXTINF:-1 tvg-logo="" group-title="[ MUSIC ]",***** MUSIC *****
@@ -547,27 +581,43 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/104730.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ SKY SPORT KANÄLE ]",DE- SKY SPORT AUSTRIA 4 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/107720.m3u8
 
-# --- [ SPORT KANÄLE ] (20) ---
+# --- [ SPORT KANÄLE ] (28) ---
 #EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",***** SPORT *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2727.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/dc4c1ab666bae306456eec29496e8676.png" group-title="[ SPORT KANÄLE ]",DE - EUROSPORT 1 FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2777.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/2411c6b212ee6d33ba0f5097631376c3.png" group-title="[ SPORT KANÄLE ]",DE - EUROSPORT 2 FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - SPORT 1 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - SERVUS TV FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123184.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/4deb8858e09db67663107c5a577a81d9.png" group-title="[ SPORT KANÄLE ]",DE - SPORT DIGITAL FUßBALL HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2781.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/14e6da764a9d426801b4d7f5bd83be62.png" group-title="[ SPORT KANÄLE ]",DE - AUTO UND MOTOR SPORT FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/118510.m3u8
-#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/89daf5c06d10db4bc90f26676557ebfc.png" group-title="[ SPORT KANÄLE ]",DE- MOTORVISION TV HD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/114473.m3u8
-#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/816168c8db3e2cfe45518483de5f0aea.png" group-title="[ SPORT KANÄLE ]",DE - SPORT 1 HD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/20428.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/25bc9e5abf56795a0ec363fd1c4a4969.png" group-title="[ SPORT KANÄLE ]",DE - Sport 1+ HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/20429.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/f34e8673050279df1c018a67fa0f7f7d.png" group-title="[ SPORT KANÄLE ]",DE- WWE FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123624.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - NFL NETWORK HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - REDBULL TV HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - DYN SPORT MIX HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - FIFA+ HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - SPORT DIGITAL SCOORE HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - TENNIS CHANNEL HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - MOTORVISION HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - WORLD OF FREE SPORT HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - MORE THAN SPORTS TV HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/132124.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE- AMAZON PRIME SPORT FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123500.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/8f315340919dccf5c54ca1be90e82f21.png" group-title="[ SPORT KANÄLE ]",DE- RTL 1 + HD
@@ -647,4 +697,4 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - SPORT | MAGENTA SPORT 17 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123194.m3u8
 
-# Total: 306
+# Total: 331

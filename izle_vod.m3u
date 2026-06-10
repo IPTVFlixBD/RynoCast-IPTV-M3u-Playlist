@@ -1,13 +1,19 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: izle.superhd.eu:80
-# Generated: 2026-06-06 19:12:30
+# Generated: 2026-06-10 08:38:27
 # Expires: 2026-11-25
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K FILMLER (599) ---
+# --- Movies | 4K FILMLER (602) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg" group-title="Movies | 4K FILMLER",RED (2010)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361486.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbksijr6g340yFWRgI4JfwrtM9h.jpg" group-title="Movies | 4K FILMLER",RED 2 (2013) 4K
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361483.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="Movies | 4K FILMLER",Hoppers (2026) 4K
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360973.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg" group-title="Movies | 4K FILMLER",Father Stu (2022) 4K
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360726.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ode14q7WtDugFDp78fo9lCsmay9.jpg" group-title="Movies | 4K FILMLER",The Maze Runner (2014) 4K
@@ -2497,7 +2503,7 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/252999.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbdLMSWMCoMBJuVkovwPvaoIDm6.jpg" group-title="Movies | BELGESEL FILMLER",The Way of the Cheetah (2022)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/253151.mkv
 
-# --- Movies | COCUK DIZILERI (182) ---
+# --- Movies | COCUK DIZILERI (183) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",Daniel Spellbound
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/5660.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",Dragon Age: Absolution
@@ -2862,6 +2868,8 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8821.mp4
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8845.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",The Magic School Bus Rides Again
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8868.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",Sesame Street
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8894.mp4
 
 # --- Movies | COCUK FILMLERI (740) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoA55UeOCYnO2EkX93EFa2e6g1i.jpg" group-title="Movies | COCUK FILMLERI",Süper Mario Galaksi Filmi (2026)
@@ -30683,7 +30691,9 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8658.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN DIZILER",10 Bin Adım
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8838.mp4
 
-# --- Movies | GUNCEL DiZiLER SON BOLUM (19) ---
+# --- Movies | GUNCEL DiZiLER SON BOLUM (20) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/o3vgpapS2DzwwpKQCdFWmk3r3rb.jpg" group-title="Movies | GUNCEL DiZiLER SON BOLUM",DOGANIN KANUNU
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361430.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/erd75Gon5bXL38kngnH6DCrOUj2.jpg" group-title="Movies | GUNCEL DiZiLER SON BOLUM",DAHA 17
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360609.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zChQ3tTAtUn306xBrDdI1VQkagZ.jpg" group-title="Movies | GUNCEL DiZiLER SON BOLUM",DELIKANLI
@@ -31181,7 +31191,7 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/247919.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qmCVC7ItX7Yum8lZlgpUST1Kt.jpg" group-title="Movies | KONSERLER",Queen: Rock Montreal & Live Aid (2007)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/252260.mkv
 
-# --- Movies | NETFLIX DIZILER (353) ---
+# --- Movies | NETFLIX DIZILER (354) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX DIZILER",1899
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/5771.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX DIZILER",46 Yok Olan
@@ -31888,6 +31898,8 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8866.mp4
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8869.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX DIZILER",Mating Season
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8871.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX DIZILER",The Witness
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8897.mp4
 
 # --- Movies | NOSTALJI DIZILER (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOSTALJI DIZILER",Deha
@@ -32055,7 +32067,15 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8815.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | PARAMOUNT+ DIZILER",Dutton Ranch
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8870.mp4
 
-# --- Movies | SONVIZYON FILMLER (41) ---
+# --- Movies | SONVIZYON FILMLER (45) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="Movies | SONVIZYON FILMLER",Michael (2026)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361464.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joal4OSVC4T1yFb3kph91tkNNFf.jpg" group-title="Movies | SONVIZYON FILMLER",Propeller One-Way Night Coach (2026)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361453.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="Movies | SONVIZYON FILMLER",Office Romance (2026)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361239.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA6e4wmyulZn76xBd5Bq29PZwnb.jpg" group-title="Movies | SONVIZYON FILMLER",Yaz Evi (2026)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360972.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNjm76IFBxiXMZ7ldWrVSudWeqo.jpg" group-title="Movies | SONVIZYON FILMLER",D.I.S.C.O. (2026)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360689.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg" group-title="Movies | SONVIZYON FILMLER",K-Pops! (2026)
@@ -32139,7 +32159,7 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/337191.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKPsC9EFUafRP9SrUznI61getVP.jpg" group-title="Movies | SONVIZYON FILMLER",Mission Impossible The Final Reckoning (2025)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/336718.mkv
 
-# --- Movies | TABii DIZILER (56) ---
+# --- Movies | TABii DIZILER (57) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABii DIZILER",Aşkımız Yeter
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8130.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABii DIZILER",Çok Güzel Hareketler Çocuk
@@ -32252,6 +32272,8 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8864.mp4
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8872.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABii DIZILER",Muhabir
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8888.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TABii DIZILER",Benim Adım Aylamaz
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8895.mp4
 
 # --- Movies | TIYATRO (49) ---
 #EXTINF:-1 tvg-logo="https://logo.multicms.info/TIYATROAFISLER/suanmutfaktayim.jpg" group-title="Movies | TIYATRO",Şu An Mutfaktayım (2000)
@@ -32353,7 +32375,11 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/233895.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3THxIvaoG0d4tmmObBpxeMpJE6G.jpg" group-title="Movies | TIYATRO",Otogargara #&
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/77666.mkv
 
-# --- Movies | TURK FILMLERI (1291) ---
+# --- Movies | TURK FILMLERI (1293) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9w54Le5zqKAYKSPhPYFTtE1vXG.jpg" group-title="Movies | TURK FILMLERI",Bodrum Seferi (2024)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361230.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/910hp4Ef6GZZThRvGWlzPjrpQvu.jpg" group-title="Movies | TURK FILMLERI",Zorla Güvenlik (2025)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361187.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl84KQI8tpTIvpeaGDlykieGVC.jpg" group-title="Movies | TURK FILMLERI",Balık (2014)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360616.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qiNVU3IVceyAzGUo6yE2sQwWRl.jpg" group-title="Movies | TURK FILMLERI",Giderayak (2024)
@@ -35179,7 +35205,7 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/251224.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg" group-title="Movies | WESTERN FILMLER",Butcher's Crossing (2023)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/252268.mkv
 
-# --- Movies | YABANCI DIZILER (428) ---
+# --- Movies | YABANCI DIZILER (430) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",24
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/4347.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",Battlestar Galactica
@@ -36036,6 +36062,10 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8886.mp4
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8890.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",Smallville
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8891.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",The King of Queens
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8892.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",The Middle
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/8893.mp4
 
 # --- Movies | YABANCI FILM BOXSET (290) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9fbStI2ht3gMgsVRusqoBDWeK9c.jpg" group-title="Movies | YABANCI FILM BOXSET",The Art of War (2000)
@@ -36619,7 +36649,25 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/252764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | YABANCI FILM BOXSET",My Big Fat Greek Wedding 3 (2023)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/252762.mkv
 
-# --- Movies | YABANCI FILMLER (4147) ---
+# --- Movies | YABANCI FILMLER (4156) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cguhv8jwEaiwF8pB5xo3RzfXlO.jpg" group-title="Movies | YABANCI FILMLER",Freud: The Secret Passion (1962)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361479.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szzatOPItyVhqemY3fUYx095rIx.jpg" group-title="Movies | YABANCI FILMLER",Lost in Tomorrow (2023)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361473.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gRTxM95huMwIDfZBJWjuifMTfpx.jpg" group-title="Movies | YABANCI FILMLER",The Rite (2011)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361463.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/o2YrH9jS7CAfWjETHFeL0tth79E.jpg" group-title="Movies | YABANCI FILMLER",Blended (2014)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361462.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/k2NiPfydLSwmk28C6qpvpJPuqtq.jpg" group-title="Movies | YABANCI FILMLER",Lords of Dogtown (2005)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361231.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3S1HcS9qU8Eadyd3VCIci0jxr8.jpg" group-title="Movies | YABANCI FILMLER",Dragon Soldiers (2021)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361225.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1RtJ1qR4v9nrnfoBVBl6hjTW9.jpg" group-title="Movies | YABANCI FILMLER",On the Waterfront (1954)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361186.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oqaqsMTLmNaM50tQG4k8EkR6AxY.jpg" group-title="Movies | YABANCI FILMLER",Mass (2021)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/361185.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg" group-title="Movies | YABANCI FILMLER",Angel Eyes (2001)
+http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360971.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8Xs3TNgxdiJqUiBOpFYxF0W9yoo.jpg" group-title="Movies | YABANCI FILMLER",The Night of the Hunter (1955)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/360728.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lBRq7KQornZMjbOPTatiFp3w8t.jpg" group-title="Movies | YABANCI FILMLER",White Sky (2021)
@@ -44915,4 +44963,4 @@ http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/253077.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="Movies | YABANCI FILMLER",Shooting Stars (2023)
 http://izle.superhd.eu:80/movie/Necati15Kaynar/pt6my76b41/253153.mkv
 
-# Total: 22404
+# Total: 22428
