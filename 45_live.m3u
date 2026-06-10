@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-06-10 08:36:45
+# Generated: 2026-06-10 20:55:04
 # Expires: 2026-07-21
 # Family Safe Edition
 # ==============================================
@@ -941,60 +941,62 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1160305.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Barclays Womens Super League UK",US (P+) Barclays Womens Super League 20
 http://45.139.122.199:8080/live/Christian1/Christian1/1160306.m3u8
 
-# --- DAZN SE (1) ---
+# --- DAZN SE (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/dazn-us.png" group-title="DAZN SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1304294.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b4fxjhfle7p11y0nrtmh01vne_image-header_pRow_1780565333000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",12:30 Queen's Club Championship: Day 3 6/10 [DAZN SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433845.m3u8
 
 # --- DAZN UK (25) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nyy4iusn0w2zfua4ls31flkw_image-header_pRow_1738859605000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 001) | Slovenia vs. Germany (2026-06-09 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nyy4iusn0w2zfua4ls31flkw_image-header_pRow_1738859605000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 001) | Valencia vs. Joventut (2026-06-10 19:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161141.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6hm401vwdgxowt44heu41l9ed_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 002) | Cholet vs. Paris (2026-06-09 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6hm401vwdgxowt44heu41l9ed_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 002) | St Tropez _ GCL _ Round 1 (2026-06-11 15:30:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161142.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7nxqg3mithgjcw976wb73vcm3_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 003) | Cholet vs. Paris (Commentaires en Français) (2026-06-09 19:00:05)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7nxqg3mithgjcw976wb73vcm3_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 003) | Fury vs. Hall: Press Conference (2026-06-11 17:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161143.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2cx05e0il2v2t6naskpsklh2e_image-header_pRow_1738857653000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 004) | Barcelona vs. Tenerife (2026-06-09 19:00:10)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2cx05e0il2v2t6naskpsklh2e_image-header_pRow_1738857653000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 004) | St Tropez _ GCL _ Round 2 (2026-06-11 18:10:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161144.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amvlue4uhg9wm1huwjb834s6i_image-header_pRow_1739958648000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 005) | Stanley Cup Final _ Game 4: Hurricanes @ Golden Knights (2026-06-10 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amvlue4uhg9wm1huwjb834s6i_image-header_pRow_1739958648000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 005) | Barcelona vs. Tenerife (2026-06-11 19:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161145.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2dd33ifrtghiut8326uav89eg_image-header_pRow_1739529678000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 006) | Valencia vs. Joventut (2026-06-10 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2dd33ifrtghiut8326uav89eg_image-header_pRow_1739529678000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 006) | Rodriguez vs. Vargas: Press Conference (2026-06-11 20:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161146.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c5ikpbccd0iinhqabq2xqb4qi_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 007) | Fury vs. Hall: Press Conference (2026-06-11 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c5ikpbccd0iinhqabq2xqb4qi_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 007) | Mathieu vs. Falcao (2026-06-11 23:30:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161147.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7lwwjoipa331se6sq05k5ntxc_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 008) | Barcelona vs. Tenerife (2026-06-11 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7lwwjoipa331se6sq05k5ntxc_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 008) | Stanley Cup Final _ Game 5: Golden Knights @ Hurricanes (2026-06-12 01:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161148.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2594z7nuvsdz4s38nu214imiz_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",GB-DAZN 9: NHL.TV| Red Wings @ Sabres (Away Broadcast)| Thu 23 Oct 12:30 AM
 http://45.139.122.199:8080/live/Christian1/Christian1/1161149.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4o9gc0ipe3h418uxruw4i23i2_image-header_pRow_1739179987000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 009) | Rodriguez vs. Vargas: Press Conference (2026-06-11 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4o9gc0ipe3h418uxruw4i23i2_image-header_pRow_1739179987000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 009) | Dubrovnik _ Qualifying Time Trials (2026-06-12 10:55:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161150.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vbnjqj02y6z211eeor75dglhb_image-header_pRow_1739888977000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 010) | Paris vs. Cholet (2026-06-11 20:00:05)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vbnjqj02y6z211eeor75dglhb_image-header_pRow_1739888977000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 010) | Dubrovnik _ Qualifying Sessions and Pole Shootout (2026-06-12 13:25:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161151.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mdd827pmfbw51dfqcxniog67f_image-header_pRow_1739888027000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 012) | Stanley Cup Final _ Game 5: Golden Knights @ Hurricanes (2026-06-12 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mdd827pmfbw51dfqcxniog67f_image-header_pRow_1739888027000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 012) | Fury vs. Hall: Weigh_In (2026-06-12 17:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161152.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z1kaaliyi9b010jl6yhb11a8p_image-header_pRow_1739809015000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 012) | Stanley Cup Final _ Game 5: Golden Knights @ Hurricanes (2026-06-12 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z1kaaliyi9b010jl6yhb11a8p_image-header_pRow_1739809015000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 012) | Fury vs. Hall: Weigh_In (2026-06-12 17:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161153.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/61muifdz45g9y29ufegtrnn5r_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 013) | Dubrovnik _ Qualifying Time Trials (2026-06-12 10:55:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/61muifdz45g9y29ufegtrnn5r_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 013) | Valencia vs. Joventut (2026-06-12 19:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161154.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ph915b3w34jyzyhy4z5r9p21_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 014) | Dubrovnik _ Qualifying Sessions and Pole Shootout (2026-06-12 13:25:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ph915b3w34jyzyhy4z5r9p21_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 014) | Rodriguez vs. Vargas: Weigh_In (2026-06-12 20:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161155.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bz5tsd0l1qjn19pmsum1eg1rl_image-header_pRow_1740127354000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 015) | Freestyle Friday #13 (2026-06-12 15:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bz5tsd0l1qjn19pmsum1eg1rl_image-header_pRow_1740127354000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 015) | Valencia _ Qualifying (2026-06-13 09:35:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161156.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15tlwglmhzdgj1i9sspbzelv2o_image-header_pRow_1739957048000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 016) | Fury vs. Hall: Weigh_In (2026-06-12 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15tlwglmhzdgj1i9sspbzelv2o_image-header_pRow_1739957048000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 016) | Dubrovnik _ Group Stages (2026-06-13 10:50:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161157.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/48nez5nnpane1qb0d2l8i9ohb_image-header_pRow_1739966386000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 017) | Valencia vs. Joventut (2026-06-12 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/48nez5nnpane1qb0d2l8i9ohb_image-header_pRow_1739966386000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 017) | RWS: Marie Ruumet vs. Roghayeh (2026-06-13 13:10:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161158.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8jlvy1sw48c1hjgew62xbkw0k_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 017) | Valencia vs. Joventut (2026-06-12 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8jlvy1sw48c1hjgew62xbkw0k_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 017) | RWS: Marie Ruumet vs. Roghayeh (2026-06-13 13:10:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161159.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52waizfkvw167aybsio42lca0_image-header_pRow_1737372861000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 018) | Cliftonville vs. Glentoran (2026-06-12 19:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52waizfkvw167aybsio42lca0_image-header_pRow_1737372861000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 018) | Dubrovnik _ Race Off (2026-06-13 13:40:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161160.m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="DAZN UK",(UK) (Dazn 019) | Rodriguez vs. Vargas: Weigh_In (2026-06-12 20:00:00)
+#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="DAZN UK",(UK) (Dazn 019) | Drift Masters Ireland: Qualifying (2026-06-13 13:55:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161161.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9130dycyw218e208o60v9wh6g_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 020) | Dubrovnik _ Group Stages (2026-06-13 10:50:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9130dycyw218e208o60v9wh6g_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 020) | Valencia _ Race 1 (2026-06-13 15:50:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161162.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58v43gaahxsbtdgii8ytipmpl_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 021) | RWS: Marie Ruumet vs. Roghayeh (2026-06-13 13:10:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58v43gaahxsbtdgii8ytipmpl_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 021) | St Tropez _ Longines Global Champions Tour Grand Prix (2026-06-13 16:30:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161163.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c1zf782md0ejdgwwjtryeogh4_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 022) | Dubrovnik _ Race Off (2026-06-13 13:40:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c1zf782md0ejdgwwjtryeogh4_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 022) | GLORY COLLISION 9 (2026-06-13 17:30:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161164.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ifi02ann9rkl9kwrv24dambi_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 023) | Drift Masters Ireland: Qualifying (2026-06-13 13:55:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ifi02ann9rkl9kwrv24dambi_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 023) | Fury vs. Hall (2026-06-13 18:00:00)
 http://45.139.122.199:8080/live/Christian1/Christian1/1161165.m3u8
 
 # --- DR Sport DK (1) ---
@@ -1429,21 +1431,87 @@ http://45.139.122.199:8080/live/Christian1/Christian1/41317.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Denmark",Viasat Nature FHD DK [Multi-Sub]
 http://45.139.122.199:8080/live/Christian1/Christian1/774461.m3u8
 
-# --- DirekteSport Events DK (1) ---
+# --- DirekteSport Events DK (5) ---
 #EXTINF:-1 tvg-logo="https://direktesport.dk/assets/1768306695/kodus/jfm-brands/brands/direktesport/favicons/android-icon-192x192.png" group-title="DirekteSport Events DK",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/Christian1/686202.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-9ed0793b-607d-42e0-8090-55d19975376b.jpg" group-title="DirekteSport Events DK",18:20 GSK Liga - Team Fjelsted (Speedwayligaen) 6/10 [Direktesport DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433979.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-c30afc8c-cf6e-4cc4-92a8-d03fdbc515ac.jpg" group-title="DirekteSport Events DK",18:20 Holsted Tigers - Slangerup Speedway (Speedwayligaen) 6/10 [Direktesport DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433978.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-fdc34988-fc03-418f-805f-d77bd04900ac.jpg" group-title="DirekteSport Events DK",18:50 Sønderjylland Elite Speedway - Nordjysk Elite Speedway (Speedwayligaen) 6/10 [Direktesport DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433977.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-a1b22f24-1aa3-4732-aa56-9c7e477f7732.jpg" group-title="DirekteSport Events DK",18:50 Region Varde Elitesport - Esbjerg Vikings (Speedwayligaen) 6/10 [Direktesport DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433976.m3u8
 
-# --- Discovery+ Sport SE (1) ---
+# --- Discovery+ Sport SE (29) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/discovery-plus.png" group-title="Discovery+ Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2274289.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",13:45 FIA WEC | Le Mans 24-timmars endurance car racing FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433943.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",13:45 FIA WEC | Le Mans 24-timmars endurance car racing 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433942.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vTJXo/Bcaxy38N7Z3Unr3tw.png?f=webp&w=400" group-title="Discovery+ Sport SE",15:20 Tour Auvergne-Rhône-Alpes | Etapp 4 cykel FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433941.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vTJXo/Bcaxy38N7Z3Unr3tw.png?f=webp&w=400" group-title="Discovery+ Sport SE",15:20 Tour Auvergne-Rhône-Alpes | Etapp 4 cykel 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433940.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zmhc2/QYBP5zrJiucqLoQSw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Jimmy White - Sean O'Sullivan snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433939.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0iFc/lmqdOLI6G5m_07nbg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Wang Xinbo - Mark Joyce snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433938.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x4eWX/ws4ioYNCWRvUY5fUg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Antoni Kowalski - Paul Norris snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433937.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GaPeq/gfKaxNFhKX2k3Djxw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Chatchapong Nasa - Liam Davies snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433936.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zmhc2/QYBP5zrJiucqLoQSw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Jimmy White - Sean O'Sullivan snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433935.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0iFc/lmqdOLI6G5m_07nbg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Wang Xinbo - Mark Joyce snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433934.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x4eWX/ws4ioYNCWRvUY5fUg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Antoni Kowalski - Paul Norris snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433933.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GaPeq/gfKaxNFhKX2k3Djxw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:30 Chatchapong Nasa - Liam Davies snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433932.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_LLtK/NC2c4H65584hrpBwQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:15 Circuit Franco-Belge cykel FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433931.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_LLtK/NC2c4H65584hrpBwQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:15 Circuit Franco-Belge cykel 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433930.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",18:30 FIA WEC | Le Mans 24-timmars endurance car racing FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433929.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",18:30 FIA WEC | Le Mans 24-timmars endurance car racing 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433928.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MPVGA/88tI4Ww3ejQTX_UUg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Alfie Burden - Patrick Whelan snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433927.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3ltW3/uAsCJRdbZJNnDMq7w.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Onyee Ng - Ryan Thomerson snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433926.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ccw0w/mHgjj6bUAiy1v5CnA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Reanne Evans - Alfie Davies snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433925.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eFAGm/s-2Nfm33heU2AlIIg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Panchaya Channoi - Ruifu Chen snooker FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433924.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MPVGA/88tI4Ww3ejQTX_UUg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Alfie Burden - Patrick Whelan snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433923.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3ltW3/uAsCJRdbZJNnDMq7w.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Onyee Ng - Ryan Thomerson snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433922.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ccw0w/mHgjj6bUAiy1v5CnA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Reanne Evans - Alfie Davies snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433921.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eFAGm/s-2Nfm33heU2AlIIg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:30 Panchaya Channoi - Ruifu Chen snooker 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433920.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",21:45 FIA WEC | Le Mans 24-timmars endurance car racing FHD 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433919.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",21:45 FIA WEC | Le Mans 24-timmars endurance car racing 6/10 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433918.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Xpph3/BNAii99VL5a6bhCOg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",02:30 New York Knicks - San Antonio Spurs basket FHD 6/11 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433917.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Xpph3/BNAii99VL5a6bhCOg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",02:30 New York Knicks - San Antonio Spurs basket 6/11 [D+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433916.m3u8
 
 # --- Disney Plus DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1340808.m3u8
 
-# --- Disney Plus SE (1) ---
+# --- Disney Plus SE (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/995342.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e46f3-f263-78a7-ad4b-2a259a40b1d3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",02:00 NCAA Outdoor Track & Field Championships (Men's Day 1) [Disney+ SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2434023.m3u8
 
 # --- EFL CUP UK (50) ---
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="EFL CUP UK",US (P+) EFL CUP 1
@@ -1833,40 +1901,68 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1160326.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Golf - The Masters UK",US (P+) The Masters 20
 http://45.139.122.199:8080/live/Christian1/Christian1/1160327.m3u8
 
-# --- HBO Max Sports DK (1) ---
+# --- HBO Max Sports DK (15) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2191277.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_Khaw/aqZcShFMkalSINmvA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",13:45 FIA WEC | Fri Træning 1 wec FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433758.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vTJXo/Bcaxy38N7Z3Unr3tw.png?f=webp&w=400" group-title="HBO Max Sports DK",15:20 Tour Auvergne-Rhône-Alpes  cykling FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433757.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zmhc2/QYBP5zrJiucqLoQSw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:30 Jimmy White - Sean O'Sullivan snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433756.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0iFc/lmqdOLI6G5m_07nbg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:30 Wang Xinbo - Mark Joyce snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433755.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x4eWX/ws4ioYNCWRvUY5fUg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:30 Antoni Kowalski - Paul Norris snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433754.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GaPeq/gfKaxNFhKX2k3Djxw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:30 Chatchapong Nasa - Liam Davies snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433753.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_LLtK/NC2c4H65584hrpBwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:15 Circuit Franco-Belge cykling FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433752.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QE_KR/gb7-veFeqClQDG_PA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:30 FIA WEC | Kvalifikation wec FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433751.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MPVGA/88tI4Ww3ejQTX_UUg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Alfie Burden - Patrick Whelan snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433750.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3ltW3/uAsCJRdbZJNnDMq7w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Onyee Ng - Ryan Thomerson snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433749.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ccw0w/mHgjj6bUAiy1v5CnA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Reanne Evans - Alfie Davies snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433748.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eFAGm/s-2Nfm33heU2AlIIg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Panchaya Channoi - Ruifu Chen snooker FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433747.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CXVSA/QgffOMsI57-QxgZwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:45 FIA WEC | Fri træning 2 wec FHD 6/10 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433746.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GCSX-/5nkf7KSFABXicCBlQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",02:30 San Antonio Spurs - New York Knicks basketball FHD 6/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433745.m3u8
 
 # --- HBO Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ANTON KAZAKOV - JAMIE CLARKE | Wed 10 Jun 10:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | PANCHAYA CHANNOI - RUIFU CHEN | Wed 10 Jun 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ARTEMIJS ZIZINS - GONG CHENZHI | Wed 10 Jun 10:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FIA WEC | FRI TRÆNING 2 | Wed 10 Jun 21:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JULIEN LECLERCQ - ASHLEY HUGILL | Wed 10 Jun 10:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MATEUSZ BARANOWSKI - SIMON BLACKWELL | Wed 10 Jun 10:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FIA WEC | FRI TRÆNING 1 | Wed 10 Jun 13:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | REANNE EVANS - ALFIE DAVIES | Wed 10 Jun 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOUR AUVERGNE-RHÔNE-ALPES  | Wed 10 Jun 15:20 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | TOUR AUVERGNE-RHÔNE-ALPES  | Wed 10 Jun 15:20 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | WANG XINBO - MARK JOYCE | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | WANG XINBO - MARK JOYCE | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ANTONI KOWALSKI - PAUL NORRIS | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | ANTONI KOWALSKI - PAUL NORRIS | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JIMMY WHITE - SEAN O'SULLIVAN | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | JIMMY WHITE - SEAN O'SULLIVAN | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | CHATCHAPONG NASA - LIAM DAVIES | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | CHATCHAPONG NASA - LIAM DAVIES | Wed 10 Jun 15:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | CIRCUIT FRANCO-BELGE | Wed 10 Jun 16:15 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FIA WEC | KVALIFIKATION | Wed 10 Jun 18:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/987419.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ONYEE NG - RYAN THOMERSON | Wed 10 Jun 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/987420.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ALFIE BURDEN - PATRICK WHELAN | Wed 10 Jun 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/987421.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | FIA WEC | FRI TRÆNING 1 | Wed 10 Jun 13:44 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/987422.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/987423.m3u8
@@ -1939,9 +2035,65 @@ http://45.139.122.199:8080/live/Christian1/Christian1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 50
 http://45.139.122.199:8080/live/Christian1/Christian1/987457.m3u8
 
-# --- HBO Max Sports SE (1) ---
+# --- HBO Max Sports SE (29) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2274285.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",13:45 FIA WEC | Le Mans 24-timmars endurance car racing FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433826.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",13:45 FIA WEC | Le Mans 24-timmars endurance car racing 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433824.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vTJXo/Bcaxy38N7Z3Unr3tw.png?f=webp&w=400" group-title="HBO Max Sports SE",15:20 Tour Auvergne-Rhône-Alpes | Etapp 4 cykel FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433822.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vTJXo/Bcaxy38N7Z3Unr3tw.png?f=webp&w=400" group-title="HBO Max Sports SE",15:20 Tour Auvergne-Rhône-Alpes | Etapp 4 cykel 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433820.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zmhc2/QYBP5zrJiucqLoQSw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Jimmy White - Sean O'Sullivan snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433818.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0iFc/lmqdOLI6G5m_07nbg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Wang Xinbo - Mark Joyce snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433816.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x4eWX/ws4ioYNCWRvUY5fUg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Antoni Kowalski - Paul Norris snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433814.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GaPeq/gfKaxNFhKX2k3Djxw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Chatchapong Nasa - Liam Davies snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433812.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zmhc2/QYBP5zrJiucqLoQSw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Jimmy White - Sean O'Sullivan snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433810.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0iFc/lmqdOLI6G5m_07nbg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Wang Xinbo - Mark Joyce snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433808.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x4eWX/ws4ioYNCWRvUY5fUg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Antoni Kowalski - Paul Norris snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433806.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GaPeq/gfKaxNFhKX2k3Djxw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:30 Chatchapong Nasa - Liam Davies snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433804.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_LLtK/NC2c4H65584hrpBwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:15 Circuit Franco-Belge cykel FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433802.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_LLtK/NC2c4H65584hrpBwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:15 Circuit Franco-Belge cykel 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433800.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:30 FIA WEC | Le Mans 24-timmars endurance car racing FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433799.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:30 FIA WEC | Le Mans 24-timmars endurance car racing 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433798.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MPVGA/88tI4Ww3ejQTX_UUg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Alfie Burden - Patrick Whelan snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433797.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3ltW3/uAsCJRdbZJNnDMq7w.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Onyee Ng - Ryan Thomerson snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433796.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ccw0w/mHgjj6bUAiy1v5CnA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Reanne Evans - Alfie Davies snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433795.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eFAGm/s-2Nfm33heU2AlIIg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Panchaya Channoi - Ruifu Chen snooker FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433794.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MPVGA/88tI4Ww3ejQTX_UUg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Alfie Burden - Patrick Whelan snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433793.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3ltW3/uAsCJRdbZJNnDMq7w.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Onyee Ng - Ryan Thomerson snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433792.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ccw0w/mHgjj6bUAiy1v5CnA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Reanne Evans - Alfie Davies snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433790.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eFAGm/s-2Nfm33heU2AlIIg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Panchaya Channoi - Ruifu Chen snooker 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433788.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",21:45 FIA WEC | Le Mans 24-timmars endurance car racing FHD 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433786.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8pzja/EeWOKm1vZLdzrv4dw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",21:45 FIA WEC | Le Mans 24-timmars endurance car racing 6/10 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433784.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Xpph3/BNAii99VL5a6bhCOg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",02:30 New York Knicks - San Antonio Spurs basket FHD 6/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433782.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Xpph3/BNAii99VL5a6bhCOg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",02:30 New York Knicks - San Antonio Spurs basket 6/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433780.m3u8
 
 # --- HBO Max Sports SE [B] (108) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 1 FHD SE
@@ -1960,33 +2112,33 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1299648.m3u8
 http://45.139.122.199:8080/live/Christian1/Christian1/1299649.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 8 FHD SE
 http://45.139.122.199:8080/live/Christian1/Christian1/1299650.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ANTON KAZAKOV - JAMIE CLARKE | Wed 10 Jun 10:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | PANCHAYA CHANNOI - RUIFU CHEN | Wed 10 Jun 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/1122820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ARTEMIJS ZIZINS - GONG CHENZHI | Wed 10 Jun 10:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/1122821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | JULIEN LECLERCQ - ASHLEY HUGILL | Wed 10 Jun 10:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/1122822.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MATEUSZ BARANOWSKI - SIMON BLACKWELL | Wed 10 Jun 10:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/1122823.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | FIA WEC | ROUND 3 | 24 HOURS OF LE MANS | Wed 10 Jun 13:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | FIA WEC | ROUND 3 | 24 HOURS OF LE MANS | Wed 10 Jun 13:44 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/1122824.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | TOUR AUVERGNE – RHÔNE-ALPES | STAGE 4 | Wed 10 Jun 15:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | TOUR AUVERGNE – RHÔNE-ALPES | STAGE 4 | Wed 10 Jun 15:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/1122825.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | WANG XINBO - MARK JOYCE | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | WANG XINBO - MARK JOYCE | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/1122826.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ANTONI KOWALSKI - PAUL NORRIS | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | ANTONI KOWALSKI - PAUL NORRIS | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/1122827.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | JIMMY WHITE - SEAN O'SULLIVAN | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | JIMMY WHITE - SEAN O'SULLIVAN | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/1122828.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | CHATCHAPONG NASA - LIAM DAVIES | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | CHATCHAPONG NASA - LIAM DAVIES | Wed 10 Jun 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/1122829.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | CIRCUIT FRANCO-BELGE | Wed 10 Jun 16:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/1122830.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ONYEE NG - RYAN THOMERSON | Wed 10 Jun 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/1122831.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ALFIE BURDEN - PATRICK WHELAN | Wed 10 Jun 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/1122832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | REANNE EVANS - ALFIE DAVIES | Wed 10 Jun 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/1122833.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/1122834.m3u8
@@ -2161,11 +2313,43 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1122918.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 100
 http://45.139.122.199:8080/live/Christian1/Christian1/1122919.m3u8
 
-# --- HBO Max Sports UK (2) ---
+# --- HBO Max Sports UK (18) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1452150.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60MBr/xCO9WTEyLFYBwMrxw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",02:30 MLB Closer baseball FHD 6/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433485.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/wGJQI/BRQsAQJwwlEzU9oKQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",12:45 FIA WEC | Round 3 | 24 Hours of Le Mans endurance car racing FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433906.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vTJXo/Bcaxy38N7Z3Unr3tw.png?f=webp&w=400" group-title="HBO Max Sports UK",14:15 Tour Auvergne – Rhône-Alpes cycling FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433905.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zmhc2/QYBP5zrJiucqLoQSw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:30 Jimmy White - Sean O'Sullivan snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433904.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0iFc/lmqdOLI6G5m_07nbg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:30 Wang Xinbo - Mark Joyce snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433903.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x4eWX/ws4ioYNCWRvUY5fUg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:30 Antoni Kowalski - Paul Norris snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433902.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GaPeq/gfKaxNFhKX2k3Djxw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:30 Chatchapong Nasa - Liam Davies snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433901.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5XGT4/jZFkAw0lmkQZOkb4A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:15 Circuit Franco-Belge cycling FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433900.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PxyQc/CSm_m2EzcloMjvZ8w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:30 FIA WEC | Round 3 | 24 Hours of Le Mans endurance car racing FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433899.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yun74/im13HcBo4UOPK3VDg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",18:00 New York Yankees @ Cleveland Guardians baseball FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433898.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MPVGA/88tI4Ww3ejQTX_UUg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:30 Alfie Burden - Patrick Whelan snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433897.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3ltW3/uAsCJRdbZJNnDMq7w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:30 Onyee Ng - Ryan Thomerson snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433896.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ccw0w/mHgjj6bUAiy1v5CnA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:30 Reanne Evans - Alfie Davies snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433895.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eFAGm/s-2Nfm33heU2AlIIg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:30 Panchaya Channoi - Ruifu Chen snooker FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433893.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y0uIA/cA2hHQhgMrTsYcQjg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",20:45 FIA WEC | Round 3 | 24 Hours of Le Mans endurance car racing FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433891.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/jq-f6/CfuAYDW3ybxBl--qg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",21:00 The Rugby Awards rugby FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433889.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1wLvD/yHuxt3WKZwlKx8cAA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",23:30 Los Angeles Dodgers @ Pittsburgh Pirates  baseball FHD 6/10 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433887.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SrTpr/EH5znJ5IcMqUmBARw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",05:45 Bangladesh - Australia cricket FHD 6/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433885.m3u8
 
 # --- Handbollsligan SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/handbollsligan.png" group-title="Handbollsligan SE",-= Reload your playlist =-
@@ -2333,19 +2517,27 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1233585.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKlc9g5mefyJl_3BpKCdfdzvPauRz6uDFPQ&s" group-title="PDC UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2380082.m3u8
 
-# --- Prime Sports DK (3) ---
+# --- Prime Sports DK (5) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19116fdb-0cb5-4df0-9d0a-e07d1ee1cd7b/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",18:00 Jun 9 - PTT Boston [Amazon Prime DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433466.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e7596de-66cf-4a65-b031-89501bd56d64/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",16:00 Jun 10 - PTT Boston [Amazon Prime DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433915.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b9fa770-87ca-4d98-bce3-5839a3b8541b/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",16:00 Jun 10 - PTT Boca Raton [Amazon Prime DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433847.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a34d65e9-1cc2-4166-9212-ed3a91ba39e6/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",19:30 Jun 9 - PTT Newport Beach [Amazon Prime DK]
 http://45.139.122.199:8080/live/Christian1/Christian1/2433465.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7534a710-4b18-4ad3-bf41-80f6864f13c3/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",19:30 Jun 10 - PTT Newport Beach [Amazon Prime DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433846.m3u8
 
-# --- Prime Sports SE (2) ---
+# --- Prime Sports SE (4) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1167636.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a34d65e9-1cc2-4166-9212-ed3a91ba39e6/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",19:30 Jun 9 - PTT Newport Beach [Amazon Prime SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433468.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e7596de-66cf-4a65-b031-89501bd56d64/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",16:00 Jun 10 - PTT Boston [Amazon Prime SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433855.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b9fa770-87ca-4d98-bce3-5839a3b8541b/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",16:00 Jun 10 - PTT Boca Raton [Amazon Prime SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433854.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7534a710-4b18-4ad3-bf41-80f6864f13c3/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",19:30 Jun 10 - PTT Newport Beach [Amazon Prime SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433853.m3u8
 
 # --- Prime Sports SE [B] (20) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports SE [B]",SE: PRIME PPV 1 - REDZONE - WEEK 11 | Sun 16 Nov 18:55 | 8K EXCLUSIVE
@@ -2467,17 +2659,41 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1160245.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="SPFL - Scottish Football League UK",US (P+) Scottish Professional Football League 20
 http://45.139.122.199:8080/live/Christian1/Christian1/1160246.m3u8
 
-# --- SVT Play SE (1) ---
+# --- SVT Play SE (3) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/SVT_Play_logotyp.svg" group-title="SVT Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2429212.m3u8
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/54256975/1780588532" group-title="SVT Play SE",19:15 Friidrott: Diamond League - Oslo 6/10 [SVT Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433913.m3u8
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="SVT Play SE",21:46 Sportnytt 6/10 [SVT Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433912.m3u8
 
 # --- Speedway - ESS Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/ess-logo.png" group-title="Speedway - ESS Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/573022.m3u8
 
-# --- SportExpressen/Aftonbladet SE (1) ---
+# --- SportExpressen/Aftonbladet SE (11) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/expressen-aftonbladet-play.png" group-title="SportExpressen/Aftonbladet SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/287676.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/b0q6u.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",17:50 Falu BS - Gefle IF 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433858.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/ih8tbs.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 FBK Balkan - Eskilsminne IF 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433859.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/1ahx69.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IF Eker Örebro - IF Karlstad Fotboll 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433860.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/iegugq.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Lidköpings FK - Skövde AIK 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433861.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/r9nt18.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Malmslätts AIK - Husqvarna FF 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433862.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/9g5ejk.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Mariebo - Bankeryd 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433863.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/o5udo8.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Sandareds IF - Dalsjöfors Goif 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433864.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/tzb4zg.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:50 Unik FK - Karlbergs BK 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433865.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/s0nb7k.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:20 Football Primetime - FK Karlskrona 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433866.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/moqu0s.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:20 Fränsta IK - IFK Östersund 6/10 [S.Expressen]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433867.m3u8
 
 # --- Svensk Hockey SE (2) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/swedish-hockey.png" group-title="Svensk Hockey SE",-= Reload your playlist =-
@@ -2944,21 +3160,21 @@ http://45.139.122.199:8080/live/Christian1/Christian1/896658.m3u8
 http://45.139.122.199:8080/live/Christian1/Christian1/106609.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" group-title="Sweden",NFL Network HD SE
 http://45.139.122.199:8080/live/Christian1/Christian1/26373.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwg3Js3/n1-live-1.png" group-title="Sweden",N1 PPV 1 SE [15:20 Tour Auvergne-Rhône-Alpes | Etapp 3 cykel]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwg3Js3/n1-live-1.png" group-title="Sweden",N1 PPV 1 SE [18:00 Lottning | Handbolls-VM]
 http://45.139.122.199:8080/live/Christian1/Christian1/30668.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0XCNgX/n1-live-2-1.png" group-title="Sweden",N1 PPV 2 SE [18:00 Slovenia vs. Germany]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0XCNgX/n1-live-2-1.png" group-title="Sweden",N1 PPV 2 SE [21:45 FIA WEC | Le Mans 24-timmars endurance car racing]
 http://45.139.122.199:8080/live/Christian1/Christian1/40671.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZNnf43/n1-live-3-1.png" group-title="Sweden",N1 PPV 3 SE [13:00 Queen&#039;s Club Championship: Day 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZNnf43/n1-live-3-1.png" group-title="Sweden",N1 PPV 3 SE [20:30 Panchaya Channoi - Ruifu Chen snooker]
 http://45.139.122.199:8080/live/Christian1/Christian1/38876.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZWbxpg/n1-live-4-1.png" group-title="Sweden",N1 PPV 4 SE [18:50 Västervik - Vargarna]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YZWbxpg/n1-live-4-1.png" group-title="Sweden",N1 PPV 4 SE [20:30 Reanne Evans - Alfie Davies snooker]
 http://45.139.122.199:8080/live/Christian1/Christian1/52819.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yk4SCpt/n1-live-5.png" group-title="Sweden",N1 PPV 5 SE [18:50 Rospiggarna - Indianerna]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yk4SCpt/n1-live-5.png" group-title="Sweden",N1 PPV 5 SE [20:30 Onyee Ng - Ryan Thomerson snooker]
 http://45.139.122.199:8080/live/Christian1/Christian1/30739.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzDBTxt/n1-live-6.png" group-title="Sweden",N1 PPV 6 SE [18:50 Dackarna - Piraterna]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzDBTxt/n1-live-6.png" group-title="Sweden",N1 PPV 6 SE [20:30 Alfie Burden - Patrick Whelan snooker]
 http://45.139.122.199:8080/live/Christian1/Christian1/100967.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pw39WdS/n1-live-7.png" group-title="Sweden",N1 PPV 7 SE [18:50 Annebergs GIF - Sommens AIF]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pw39WdS/n1-live-7.png" group-title="Sweden",N1 PPV 7 SE [18:30 FIA WEC | Le Mans 24-timmars endurance car racing]
 http://45.139.122.199:8080/live/Christian1/Christian1/100968.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4SwqFMv/n1-live-8.png" group-title="Sweden",N1 PPV 8 SE [18:50 Räppe GOIF - Hässleholms IF]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SwqFMv/n1-live-8.png" group-title="Sweden",N1 PPV 8 SE [16:15 Circuit Franco-Belge cykel]
 http://45.139.122.199:8080/live/Christian1/Christian1/51154.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGkryWW/a1202.png" group-title="Sweden",SVT Play FHD SE [Live During Events Only]
 http://45.139.122.199:8080/live/Christian1/Christian1/141727.m3u8
@@ -3241,52 +3457,80 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1233605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE | STAR 90s
 http://45.139.122.199:8080/live/Christian1/Christian1/1233604.m3u8
 
-# --- TV2 Sport DK (1) ---
+# --- TV2 Sport DK (10) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/527426.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/929bd91b-e141-34c3-aa73-5599aacaaeae.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 ATP: Stuttgart  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433989.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/6624cf89-5bcf-3397-b3a6-e2b9a4386681.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",12:30 WTA: Jovic-Eala, London   6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433988.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/c3b023c0-e76c-357f-9c1d-67bd8d150f42.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",12:55 ATP: 's-Hertogenbosch (Centre Court)  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433987.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/593665e5-59cb-3e69-a1f7-2edd821f50d9.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",14:55 Tour Auvergne-Rhône-Alpes: 4. etape  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433986.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/11ec3a15-b20c-3f21-ab7f-cd758e27f5a9.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",20:00 Atletik: Diamond League, Oslo  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433985.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/2ec8da41-2a47-3edb-bd6e-652e2dffd265.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1614%2C908&w=1200" group-title="TV2 Sport DK",20:50 Segunda División: Malaga-Las Palmas, semifinale  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433984.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/a1bfeefb-9fea-36f2-9025-9d0589b913d5.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C39%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",21:35 Testkamp: Portugal-Nigeria  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433983.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/7ccd8e4b-95c5-3121-9f4e-394242d4874d.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C34%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",21:55 Testkamp: England-Costa Rica  6/10 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433982.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/51b8eff0-c54e-34f9-8db6-350cf1ff7225.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",04:00 Badminton: Australia Open  6/11 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433981.m3u8
 
-# --- TV4 Play SE (1) ---
+# --- TV4 Play SE (6) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Tv4_play_2009_flat.png" group-title="TV4 Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/109998.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F1173b543-437e-4137-b039-e810e2c5fd53%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",13:00 Libéma Open (250) ATP Tour 6/10 [TV4 Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433957.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fdf3fac2d-9772-4f25-827c-18c636c08353%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",11:00 BOSS Open (250) ATP Tour 6/10 [TV4 Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433956.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F85bb1d82-25be-477b-abd3-251fa611c61b%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:50 Varbergs BoIS - Norrby IF Superettan 6/10 [TV4 Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433954.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8dbb84e6-98db-492e-8cb6-72a2ad160895%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:50 Örebro SK - GIF Sundsvall Superettan 6/10 [TV4 Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433953.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F4dce09ed-cc15-4c3c-b4df-f80a3aa41d89%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",20:55 Málaga - Las Palmas Segunda División 6/10 [TV4 Play]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433952.m3u8
 
 # --- Telia Play Events SE (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | ATP TOUR: BOSS OPEN STUTTGART 250 | Tue 09 Jun 11:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | ATP TOUR: BOSS OPEN STUTTGART 250 | Wed 10 Jun 11:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/2303841.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | LIBÉMA OPEN (250): BOOGAARD - WU | Tue 09 Jun 16:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | LIBÉMA OPEN (250): HUMBERT - BONZI | Wed 10 Jun 16:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/2303842.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | FOTBOLL: VM-KVAL SVERIGE-ITALIEN | Tue 09 Jun 18:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | SUPERETTAN: ÖREBRO - SUNDSVALL | Wed 10 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/2303843.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | NORDIC UNITED FC - ÖSTERSUNDS FK | Tue 09 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | VARBERGS BOIS - NORRBY IF | Wed 10 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/2303844.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | SANDVIKENS IF - FALKENBERGS FF | Tue 09 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | V86 DIREKT | Wed 10 Jun 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/2303845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | IK ODDEVOLD - IFK NORRKÖPING | Tue 09 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTT: DIAMOND LEAGUE OSLO | Wed 10 Jun 19:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/2303846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | IK BRAGE - LJUNGSKILE SK | Tue 09 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | MÁLAGA - LAS PALMAS | Wed 10 Jun 20:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/2303847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | SUPERETTAN: ÖSTER - VÄRNAMO | Tue 09 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | PORTUGAL - NIGERIA | Wed 10 Jun 21:35 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/2303848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | ALMERÍA - CASTELLÓN | Tue 09 Jun 20:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ENGLAND - COSTA RICA | Wed 10 Jun 21:53 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/2303849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | VEGAS GOLDEN KNIGHTS-CAROLINA HURRICANES 4:7 | Wed 10 Jun 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | LIBÉMA OPEN (250) | Wed 10 Jun 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/2303850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ATP TOUR: BOSS OPEN STUTTGART 250 | Wed 10 Jun 11:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 11
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/2303851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | LIBÉMA OPEN (250) | Wed 10 Jun 16:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 12
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/2303852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SUPERETTAN: ÖREBRO - SUNDSVALL | Wed 10 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 13
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/2303853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | VARBERGS BOIS - NORRBY IF | Wed 10 Jun 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/2303854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | V86 DIREKT | Wed 10 Jun 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/2303855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTT: DIAMOND LEAGUE OSLO | Wed 10 Jun 19:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/2303856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | MÁLAGA - LAS PALMAS | Wed 10 Jun 20:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 17
 http://45.139.122.199:8080/live/Christian1/Christian1/2303857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | PORTUGAL - NIGERIA | Wed 10 Jun 21:35 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 18
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 18
 http://45.139.122.199:8080/live/Christian1/Christian1/2303858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ENGLAND - COSTA RICA | Wed 10 Jun 21:53 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 19
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 19
 http://45.139.122.199:8080/live/Christian1/Christian1/2303859.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 20
 http://45.139.122.199:8080/live/Christian1/Christian1/2303860.m3u8
@@ -4467,26 +4711,30 @@ http://45.139.122.199:8080/live/Christian1/Christian1/25084.m3u8
 #EXTINF:-1 tvg-logo="http://logos.ti7an.net/logos/ENG_United_Kindon_Sports/LaLiga_TV.png" group-title="UK Sports",LaLiga TV FHD UK
 http://45.139.122.199:8080/live/Christian1/Christian1/2125805.m3u8
 
-# --- Viaplay Sport DK (4) ---
+# --- Viaplay Sport DK (6) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",02:05 Vegas - Carolina | NHL 6/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433578.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",03:30 Padres - Reds | Major League Baseball 6/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433577.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",07:00 Sport News | Viaplay Sport News 6/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433576.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Nørgaards største udfordringer i Brøndby | Viaplay Sport News 6/10 [Viaplay DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2434017.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Guardians - Yankees | Major League Baseball 6/10 [Viaplay DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2434016.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Nørgaards første interview som BIF-træner | Viaplay Sport News 6/10 [Viaplay DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2434015.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Mets - Cardinals | Major League Baseball 6/10 [Viaplay DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2434014.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",07:00 Sport News | Viaplay Sport News 6/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2434013.m3u8
 
 # --- Viaplay Sport DK [B] (71) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",NHL Tonight @ Jun 9 12:00 PM :Viaplay DK  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Watt the F1!? @ Jun 10 10:00 AM :Viaplay DK  01
 http://45.139.122.199:8080/live/Christian1/Christian1/1132385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Sport News @ Jun 9 7:00 PM :Viaplay DK  02
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",NHL Tonight @ Jun 10 12:00 PM :Viaplay DK  02
 http://45.139.122.199:8080/live/Christian1/Christian1/1132386.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Pirates vs Dodgers @ Jun 10 12:30 AM :Viaplay DK  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Guardians vs Yankees @ Jun 10 7:00 PM :Viaplay DK  03
 http://45.139.122.199:8080/live/Christian1/Christian1/1132387.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Vegas vs Carolina @ Jun 10 2:05 AM :Viaplay DK  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sport News @ Jun 10 7:00 PM :Viaplay DK  04
 http://45.139.122.199:8080/live/Christian1/Christian1/1132388.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Padres vs Reds @ Jun 10 3:30 AM :Viaplay DK  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Mets vs Cardinals @ Jun 11 1:00 AM :Viaplay DK  05
 http://45.139.122.199:8080/live/Christian1/Christian1/1132389.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",:Viaplay DK  06
 http://45.139.122.199:8080/live/Christian1/Christian1/1132390.m3u8
@@ -4621,34 +4869,40 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1132454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  71
 http://45.139.122.199:8080/live/Christian1/Christian1/1132455.m3u8
 
-# --- Viaplay Sport SE (4) ---
+# --- Viaplay Sport SE (7) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/55760.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/322/128/logo_UEFAChampionsLeague.png?width=320&height=320" group-title="Viaplay Sport SE",16:25 CL-studion: PSG - Arsenal | UEFA Champions League 5/30 [Viaplay SE]
 http://45.139.122.199:8080/live/Christian1/Christian1/2420307.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",02:10 Vegas - Carolina | NHL 6/10 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433567.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",03:30 Padres - Reds | Major League Baseball 6/10 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2433566.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/413/216/logo_MensWorldChampionship2027.png?width=320&height=320" group-title="Viaplay Sport SE",18:00 Lottning | Handbolls-VM 6/10 [Viaplay SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433995.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",19:00 Guardians - Yankees | Major League Baseball 6/10 [Viaplay SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433994.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/536/1020/logo_UEFA.png?width=320&height=320" group-title="Viaplay Sport SE",21:35 Portugal - Nigeria | Landskamp 6/10 [Viaplay SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433993.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/536/1020/logo_UEFA.png?width=320&height=320" group-title="Viaplay Sport SE",21:50 England - Costa Rica | Landskamp 6/10 [Viaplay SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433992.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",01:00 Mets - Cardinals | Major League Baseball 6/10 [Viaplay SE]
+http://45.139.122.199:8080/live/Christian1/Christian1/2433991.m3u8
 
 # --- Viaplay Sport SE [B] (78) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",NHL Tonight @ Jun 9 12:00 PM :Viaplay SE  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",NHL Tonight @ Jun 10 12:00 PM :Viaplay SE  01
 http://45.139.122.199:8080/live/Christian1/Christian1/1163319.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Lettland vs Färöarna @ Jun 9 4:50 PM :Viaplay SE  02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Lottning @ Jun 10 6:00 PM :Viaplay SE  02
 http://45.139.122.199:8080/live/Christian1/Christian1/1163318.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Armenien vs Moldavien @ Jun 9 4:50 PM :Viaplay SE  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Guardians vs Yankees @ Jun 10 7:00 PM :Viaplay SE  03
 http://45.139.122.199:8080/live/Christian1/Christian1/1163317.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Estland vs Litauen @ Jun 9 5:50 PM :Viaplay SE  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Portugal vs Nigeria @ Jun 10 9:35 PM :Viaplay SE  04
 http://45.139.122.199:8080/live/Christian1/Christian1/1163316.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Belarus vs Burkina Faso @ Jun 9 6:20 PM :Viaplay SE  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",England vs Costa Rica @ Jun 10 9:50 PM :Viaplay SE  05
 http://45.139.122.199:8080/live/Christian1/Christian1/1163315.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Ungern vs Kazakstan @ Jun 9 6:50 PM :Viaplay SE  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Mets vs Cardinals @ Jun 11 1:00 AM :Viaplay SE  06
 http://45.139.122.199:8080/live/Christian1/Christian1/1163314.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Azerbajdzjan vs San Marino @ Jun 9 7:50 PM :Viaplay SE  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  07
 http://45.139.122.199:8080/live/Christian1/Christian1/1163313.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Viaplay SE Event 08 Nordic:Generation xG @ Dec 1 6:00 PM
 http://45.139.122.199:8080/live/Christian1/Christian1/1163312.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Vegas vs Carolina @ Jun 10 2:05 AM :Viaplay SE  09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  09
 http://45.139.122.199:8080/live/Christian1/Christian1/1163311.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Viaplay SE Event 10 Nordic:Sverige vs Brasilien @ Dec 1 8:00 PM
 http://45.139.122.199:8080/live/Christian1/Christian1/1163310.m3u8
@@ -4831,4 +5085,4 @@ http://45.139.122.199:8080/live/Christian1/Christian1/2428158.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TrxqEC8.png" group-title="World Padel Tour TV",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/395508.m3u8
 
-# Total: 2333
+# Total: 2460

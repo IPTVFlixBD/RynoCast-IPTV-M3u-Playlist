@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-06-10 08:47:15
+# Generated: 2026-06-10 21:06:36
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -232,10 +232,10 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5583.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5586.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hp10imbTjaSWhjW4o8wAq6NxSDQtX0ttzg&s" group-title="Entertainment",Bask Plus
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5592.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hrmzyar
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Hge9Iuu9wtGq63Rvd4C5S21jUdCXBxBRupMQgpOyaWSNDHB5C-GuSrGnTKtuHI4E92Xht-laSQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Hrmzyar HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5594.m3u8
 
-# --- Kids (17) ---
+# --- Kids (18) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cw70S9F/pelistank.png" group-title="Kids",Pelistank HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/187.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6QtcJ8/niga-kids.jpg" group-title="Kids",Niga Kids
@@ -270,14 +270,14 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5541.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5546.m3u8
 #EXTINF:-1 tvg-logo="blob:https://web.whatsapp.com/8c9826f4-b8df-4a48-954b-0aba01849b8b" group-title="Kids",Bask Kids
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5593.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Hormzyar Kids
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5597.m3u8
 
-# --- Movies (17) ---
+# --- Movies (16) ---
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180824/tgu/kisspng-mbc-drama-television-channel-mbc-plus-drama-mbc-tv-loogos-mbc-tv-channel-frequencies-on-sate-1713949968187.webp" group-title="Movies",MBC Max
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4729.m3u8
 #EXTINF:-1 tvg-logo="https://media0043.elcinema.com/tvguide/1218_1.png" group-title="Movies",Rotana Aflam Plus
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4734.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjQxRHiUFuc7RCT_0YPwIlouV3rDBNFDMpw&s" group-title="Movies",Maraya
-http://iptv.nextnet.krd:25461/live/nextnet/3738/4736.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/0284d8b4-9271-472d-ba8b-59aa7cf86650?height=&width=450&croppingPoint=mc&version=1&type=avif" group-title="Movies",El Kebeer Awi
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4740.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2024/Hanin/Aug/Bab_elahra_En/original/Bab_elahra_En.png?height=&width=450&croppingPoint=mc&version=1&type=avif" group-title="Movies",Bab Al Hara
@@ -413,7 +413,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4914.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/navahang.png" group-title="Persian",Navahang TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4918.m3u8
 
-# --- Religious (23) ---
+# --- Religious (24) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7bP1Yk/academy-amozhgary.png" group-title="Religious",Academiay Amozhgary
 http://iptv.nextnet.krd:25461/live/nextnet/3738/109.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7R3WVFk/Mihrab.jpg" group-title="Religious",Mihrab TV
@@ -460,8 +460,10 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5577.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Farmwda
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Hormzyar Quran
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5595.m3u8
 
-# --- Sports (15) ---
+# --- Sports (16) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pR6Yj8G/aro-drama.png" group-title="Sports",Aro Sport HD1
 http://iptv.nextnet.krd:25461/live/nextnet/3738/129.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnTPHHT/Astera-Sport.jpg" group-title="Sports",Astera Sport HD
@@ -492,6 +494,8 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4992.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5578.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Sports",Thamanyah
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Hormzyar Sport
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5596.m3u8
 
 # --- USA (2) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="USA",WION
@@ -499,4 +503,4 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4952.m3u8
 
-# Total: 235
+# Total: 237
