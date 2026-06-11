@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-06-10 21:06:53
+# Generated: 2026-06-11 21:44:44
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -293,7 +293,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOSNA",TV Sehara Online
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46545.m3u8
 
-# --- BUGARIJA (41) ---
+# --- BUGARIJA (40) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/btv_bg.png" group-title="BUGARIJA",BTV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BUGARIJA",Nova BG HD
@@ -374,8 +374,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46413.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46414.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BUGARIJA",FOX Channel
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BUGARIJA",max one bg
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65620.m3u8
 
 # --- CRNA GORA (9) ---
 #EXTINF:-1 tvg-logo="" group-title="CRNA GORA",RTCG 1
@@ -3237,7 +3235,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SLOVENIJA",Nova 24
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38246.m3u8
 
-# --- SPORT (118) ---
+# --- SPORT (119) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD_(SR).png" group-title="SPORT",Arena Sport Premium 1 SR
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39240.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD._(SR).png" group-title="SPORT",Arena Sport Premium 1 HD
@@ -3262,6 +3260,10 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45543.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45544.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_SPORT_1X2_HD_(SR).png" group-title="SPORT",Arena Sport 1x2
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50391.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport TENIS
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/57793.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport Adrenalin
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/58374.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_SPORT_1_HD._(BIH).png" group-title="SPORT",Arena Sport BIH
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/43829.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_SPORT_1_HD._(HR).png" group-title="SPORT",Arena Sport 1 HR
@@ -3358,12 +3360,12 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/116.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/117.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Adriatic Sport 3
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/118.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Moja TV Premier Liga BH
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/388.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/EUROSPORT_1_HD._(SR).png" group-title="SPORT",Eurosport 1 HD BG/EN Audio
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/42684.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/EUROSPORT_2_HD._(SR).png" group-title="SPORT",Eurosport 2 HD BG/EN Audio
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/42688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",max one bg
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Max Sport 1 BG
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/182.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Max Sport 2 BG
@@ -3378,6 +3380,8 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/390.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/391.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Diema Sport 3 HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39657.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Moja TV Premier Liga BH
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Nova Sport BG
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/392.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SyS 1
@@ -3444,6 +3448,8 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/41722.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/49483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Extreme Sports
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/40097.m3u8
+#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_FIGHT_HD_(SR).png" group-title="SPORT",Arena Fight
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39710.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",FightClub
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/47528.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",UFC Pass
@@ -3456,12 +3462,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/49492.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45591.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Fight Channel
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/422.m3u8
-#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_FIGHT_HD_(SR).png" group-title="SPORT",Arena Fight
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport TENIS
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/57793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport Adrenalin
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/58374.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/SPORT_KLUB_GOLF_HD_(HR).png" group-title="SPORT",Sport Klub Golf
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Arena ESport

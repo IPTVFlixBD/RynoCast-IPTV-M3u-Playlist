@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-10 21:00:38
+# Generated: 2026-06-11 21:42:13
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -45855,8 +45855,10 @@ http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/79538.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Italia",Tutto Il Mio Folle Amore () [IT]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/79539.mp4
 
-# --- Movies | VOD Multi-Subtitles (4808) ---
+# --- Movies | VOD Multi-Subtitles (4809) ---
 #EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/zm0KAbOjlt9eR5y7vDiL2dEOwMl_big.jpg" group-title="Movies | VOD Multi-Subtitles",Michael (2026) [Multi-Subs]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135341.mkv
+#EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/zm0KAbOjlt9eR5y7vDiL2dEOwMl_big.jpg" group-title="Movies | VOD Multi-Subtitles",Michael (2026) Dolby-Atmos [Multi-Subs]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135338.mkv
 #EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/12LGZwu9u0CvWoSYRWOTRNGz5wR_big.jpg" group-title="Movies | VOD Multi-Subtitles",Wingman (2025) [Multi-Subs]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135291.mkv
@@ -55838,7 +55840,7 @@ http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/44795.mkv
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135337.mkv
 #EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/kzOZRlUhFCXe0eAA8HE1KocdHJ8_big.jpg" group-title="Movies | VOD Nordic Multi-Subs",USA 94: Brazil's Return to Glory (2026) [Nordic-Subbed]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135336.mkv
-#EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/zm0KAbOjlt9eR5y7vDiL2dEOwMl_big.jpg" group-title="Movies | VOD Nordic Multi-Subs",Michael (2026) [Nordic-Subbed]
+#EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/zm0KAbOjlt9eR5y7vDiL2dEOwMl_big.jpg" group-title="Movies | VOD Nordic Multi-Subs",Michael (2026) Dolby Atmos [Nordic-Subbed]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135335.mkv
 #EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/iP9b3NBxJKtyzLf7CKFWl3MpgKS_big.jpg" group-title="Movies | VOD Nordic Multi-Subs",Instadocs: Alex Murdaugh, Unconvicted (2026) [Nordic-Subbed]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135334.mkv
@@ -63587,7 +63589,11 @@ http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/83788.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Norway",Tunnelen () [NO]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/83789.mkv
 
-# --- Movies | VOD PPV ENGLISH (132) ---
+# --- Movies | VOD PPV ENGLISH (134) ---
+#EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/szJJreLYexjod1zLbLa0Or7Na81_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC Fight Night 278: Muhammad vs. Bonfim Prelims (2026) [EN]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135340.mkv
+#EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/szJJreLYexjod1zLbLa0Or7Na81_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC Fight Night 278: Muhammad vs. Bonfim (2026) [EN]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135339.mkv
 #EXTINF:-1 tvg-logo="http://iiilllaaiiiiiiiia.cdnip.online:8080/images/kYMQ13Iax6FYLyikLRfwI7boHIN_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC Fight Night 277: Song vs. Figueiredo (2026) [EN]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/135230.mkv
 #EXTINF:-1 tvg-logo="http://magbox.cdnip.lol:8080/images/cssaN9nb45lxwDrEw5XH1ZBgIMO_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC Fight Night 276: Allen vs. Costa (2026) [EN]
@@ -113333,4 +113339,4 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14596
 #EXTINF:-1 tvg-logo="None" group-title="Series | VOD Turkey Series - Söz",Söz - S02 E50 [TR]
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14601
 
-# Total: 56626
+# Total: 56629

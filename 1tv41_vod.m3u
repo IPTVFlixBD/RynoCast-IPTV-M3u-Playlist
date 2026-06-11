@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 1tv41.icu:8080
-# Generated: 2026-06-10 20:58:15
+# Generated: 2026-06-11 21:43:13
 # Expires: 2026-11-09
 # Family Safe Edition
 # ==============================================
@@ -10621,7 +10621,7 @@ http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/182249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="Movies | Alien Movie Collection",Alien: Covenant (2017)
 http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/182250.mp4
 
-# --- Movies | Anime (10) ---
+# --- Movies | Anime (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Attack on Titan
 http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/1150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball Super
@@ -10642,6 +10642,8 @@ http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/2358.mp4
 http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/2359.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Vinland Saga
 http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/2370.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Bleach
+http://1tv41.icu:8080/movie/4038135249/carolynne13@telus.net/2376.mp4
 
 # --- Movies | Batman Movies Collection (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg" group-title="Movies | Batman Movies Collection",Batman (1966)
@@ -60155,4 +60157,4 @@ http://1tv41.icu:8080/series/4038135249/carolynne13@telus.net/2372
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Flashpoint
 http://1tv41.icu:8080/series/4038135249/carolynne13@telus.net/2375
 
-# Total: 29994
+# Total: 29995

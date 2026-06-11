@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-10 21:04:04
+# Generated: 2026-06-11 21:48:39
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -6087,7 +6087,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (660) ---
+# --- Movies | Filme 2025 (661) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOJHXAy2k7yhC0COaptHZT7NupO.jpg" group-title="Movies | Filme 2025",The Yellow Tie - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71118.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg" group-title="Movies | Filme 2025",Sidelined: The QB and Me - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70931.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg" group-title="Movies | Filme 2025",Sidelined 2: Intercepted - 2025
@@ -20833,4 +20835,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9096
+# Total: 9097

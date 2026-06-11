@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-06-10 20:59:20
+# Generated: 2026-06-11 21:48:34
 # Expires: 2026-06-22
 # Family Safe Edition
 # ==============================================
@@ -91109,7 +91109,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/99138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK: CBS JUSTICE
 http://tvmate.icu:8080/live/VM121628/56784321/134942.m3u8
 
-# --- USA (160) ---
+# --- USA (161) ---
 #EXTINF:-1 tvg-logo="" group-title="USA",US CBSN New York (D)
 http://tvmate.icu:8080/live/VM121628/56784321/46754.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US FOX Sports 1
@@ -91430,6 +91430,8 @@ http://tvmate.icu:8080/live/VM121628/56784321/172481.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/176811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US  Space City Home Network
 http://tvmate.icu:8080/live/VM121628/56784321/213668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",US A Wealth of Entertainment (AWE)
+http://tvmate.icu:8080/live/VM121628/56784321/326194.m3u8
 
 # --- USA | NEWS | REGIONALS (616) ---
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (KXAN) Austin
@@ -102857,4 +102859,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/325877.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Event 05
 http://tvmate.icu:8080/live/VM121628/56784321/326081.m3u8
 
-# Total: 51386
+# Total: 51387

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-06-10 21:04:50
+# Generated: 2026-06-11 21:48:10
 # Expires: 2027-01-19
 # Family Safe Edition
 # ==============================================
@@ -10635,7 +10635,7 @@ http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/182249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="Movies | Alien Movie Collection",Alien: Covenant (2017)
 http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/182250.mp4
 
-# --- Movies | Anime (10) ---
+# --- Movies | Anime (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Attack on Titan
 http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/1150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball Super
@@ -10656,6 +10656,8 @@ http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/2358.mp4
 http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/2359.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Vinland Saga
 http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/2370.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Bleach
+http://nocable.cc:8080/movie/cdm86@rogers.com/carol@2024/2376.mp4
 
 # --- Movies | Batman Movies Collection (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg" group-title="Movies | Batman Movies Collection",Batman (1966)
@@ -60169,4 +60171,4 @@ http://nocable.cc:8080/series/cdm86@rogers.com/carol@2024/2372
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Flashpoint
 http://nocable.cc:8080/series/cdm86@rogers.com/carol@2024/2375
 
-# Total: 30001
+# Total: 30002
