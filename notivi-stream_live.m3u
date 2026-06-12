@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-11 21:40:11
+# Generated: 2026-06-12 20:47:54
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -661,9 +661,15 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/124705.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TABii SPOR ]",TR - TABii SPORT 6 FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/124706.m3u8
 
-# --- [ TELEKOM SPORT KANÄLE ] (19) ---
+# --- [ TELEKOM SPORT KANÄLE ] (22) ---
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",***** TELEKOM SPORT *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/41147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - WM 2026 FUSSBALL TV 1 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/133754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE -  WM 2026 FUSSBALL TV 2 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/133755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - WM 2026 FUSSBALL TV 3 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/133756.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - SPORT | MAGENTA SPORT HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123197.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/7c430b861c45287c90a65ddc9671e12e.png" group-title="[ TELEKOM SPORT KANÄLE ]",DE - SPORT | MAGENTA SPORT 1 HD [ NUR SPIEL TAG ]
@@ -701,4 +707,4 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - SPORT | MAGENTA SPORT 17 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123194.m3u8
 
-# Total: 333
+# Total: 336

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-06-11 21:39:49
+# Generated: 2026-06-12 20:41:22
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -28699,14 +28699,16 @@ http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/216262.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/171cfee003cb96de14dfaf62e85d85e3.png" group-title="Vietnam",VN: An Ninh TV
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/216263.m3u8
 
-# --- World Cup 2026 (7) ---
-#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 1 : Mexico vs South Africa (English Fox Broadcast)
+# --- World Cup 2026 (8) ---
+#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 1 : Canada vs Bosnia and Herzegovina (English TSN FHD Broadcast)
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/501779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 2 : Mexico vs South Africa (Spanish Telemundo Broadcast)
+#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 2 : Canada vs Bosnia and Herzegovina (English TSN HD Broadcast)
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/501778.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 3 : Mexico vs South Africa (English TSN Broadcast)
+#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 3 : USA vs Paraguay (English FOX HD Broadcast)
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/501777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 5 : South korea vs Czechia (English TSN Broadcast)
+#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 4 : USA vs Paraguay (Spanish Telemundo HD Broadcast)
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/501776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 5 : USA vs Paraguay (English Fox SD Broadcast)
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/501775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Game 6 :
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/501774.m3u8
@@ -28911,4 +28913,4 @@ http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/83113.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Österrike",AT: welt der wunder FHD
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/83114.m3u8
 
-# Total: 14289
+# Total: 14290

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-06-11 21:51:18
+# Generated: 2026-06-12 20:37:44
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -1259,7 +1259,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/63514.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/novacinema2k.png" group-title="FILMSKI",NOVA CINEMA 2K HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63515.m3u8
 
-# --- FILMSKI PREMIUM (129) ---
+# --- FILMSKI PREMIUM (128) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/cinemacious.png" group-title="FILMSKI PREMIUM",CINEMACIOUS 1 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63469.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/cinemacious.png" group-title="FILMSKI PREMIUM",CINEMACIOUS 2 HD
@@ -1474,8 +1474,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/198805.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/198806.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="FILMSKI PREMIUM",NETFLIX CRIME
 http://siptvs.com:8080/live/Biljana12/Biljana12/198807.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="FILMSKI PREMIUM",NETFLIX ACTION
-http://siptvs.com:8080/live/Biljana12/Biljana12/198808.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="FILMSKI PREMIUM",NETFLIX COMEDY
 http://siptvs.com:8080/live/Biljana12/Biljana12/198809.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="FILMSKI PREMIUM",NETFLIX FAMILY
@@ -1625,7 +1623,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/132032.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/novaworld.png" group-title="HRVATSKA",Nova World
 http://siptvs.com:8080/live/Biljana12/Biljana12/172436.m3u8
 
-# --- MAKEDONIJA (25) ---
+# --- MAKEDONIJA (27) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/flage.png" group-title="MAKEDONIJA",* * * * MAKEDONIJA * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/26253.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/MACEDONIA/MPT1.png" group-title="MAKEDONIJA",MK: MRT 1
@@ -1676,6 +1674,10 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/100054.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/112980.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/MACEDONIA/hugo.png" group-title="MAKEDONIJA",MK: HUGO 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/112981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",MK: ARENA 1 PREMIUM
+http://siptvs.com:8080/live/Biljana12/Biljana12/203570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",MK: ARENA 2 PREMIUM
+http://siptvs.com:8080/live/Biljana12/Biljana12/203571.m3u8
 
 # --- MUZICKI (73) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/Fullfull/yuplanet.png" group-title="MUZICKI",YU PLANET
@@ -3223,4 +3225,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1578
+# Total: 1579

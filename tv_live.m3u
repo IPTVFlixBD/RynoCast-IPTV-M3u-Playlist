@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-11 21:39:52
+# Generated: 2026-06-12 20:39:58
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -3997,11 +3997,13 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3289.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport4hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 10 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/120293.m3u8
 
-# --- DE - SPORTS (45) ---
+# --- DE - SPORTS (46) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Fussball.TV 1 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/338855.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Fussball.TV 2 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/339551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Fussball.TV 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342367.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Fifa E-Sport TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/300700.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevent1.png" group-title="DE - SPORTS",(DE) DAZN 1 HEVC
@@ -4517,7 +4519,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37749.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) SyFy HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37747.m3u8
 
-# --- FR - FRANCE (66) ---
+# --- FR - FRANCE (62) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france2hd.png" group-title="FR - FRANCE",(FR) France 2 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44973.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france3hd.png" group-title="FR - FRANCE",(FR) France 3 4K
@@ -4528,16 +4530,12 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44971.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44970.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6hd.png" group-title="FR - FRANCE",(FR) M6 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37782.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6hd.png" group-title="FR - FRANCE",(FR) M6 HD 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44969.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="FR - FRANCE",(FR) Arte HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37856.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/francebayrak.gif" group-title="FR - FRANCE",(FR) TF1 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37743.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/w9hd.png" group-title="FR - FRANCE",(FR) W9 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37728.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tmc.png" group-title="FR - FRANCE",(FR) TMC 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44967.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tmc.png" group-title="FR - FRANCE",(FR) TMC HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37739.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lci.png" group-title="FR - FRANCE",(FR) Lci HD
@@ -4552,8 +4550,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37860.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37868.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmcdecouverte.png" group-title="FR - FRANCE",(FR) RMC Decouverte HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37762.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cherie25.png" group-title="FR - FRANCE",(FR) Cherie 25 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37825.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvbreizh.png" group-title="FR - FRANCE",(FR) TV Breizh
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37734.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/c8.png" group-title="FR - FRANCE",(FR) C8
@@ -4564,7 +4560,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37752.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37815.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teva.png" group-title="FR - FRANCE",(FR) Teva
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37744.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bfmtv.png" group-title="FR - FRANCE",(FR) BFMTV HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bfmtv.png" group-title="FR - FRANCE",(FR) Bfm TV HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37840.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cnews.png" group-title="FR - FRANCE",(FR) CNews HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37818.m3u8
@@ -4644,8 +4640,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37735.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37730.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) AB EXPLORE
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/37861.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lci.png" group-title="FR - FRANCE",(FR) LCI
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44965.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lcp.png" group-title="FR - FRANCE",(FR) LCP 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44964.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/planeteplus.png" group-title="FR - FRANCE",(FR) Planete+ HD
@@ -11367,4 +11361,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5515
+# Total: 5512

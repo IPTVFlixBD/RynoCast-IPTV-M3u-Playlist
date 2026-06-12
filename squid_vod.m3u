@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-11 21:48:39
+# Generated: 2026-06-12 20:40:32
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -1874,6 +1874,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/8666.mp4
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14599.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg" group-title="Movies | Documentare (NOU)",American Murder: The Family Next Door  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/29732.mp4
+
+# --- Movies | Doganin Kanunu (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Doganin Kanunu",Doganın Kanunu (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1294.mp4
 
 # --- Movies | Doktor Baska Hayatta (Doctor in alta viata) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doktor Baska Hayatta (Doctor in alta viata)",Doktor: Başka Hayatta (2026)
@@ -20835,4 +20839,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9097
+# Total: 9098
