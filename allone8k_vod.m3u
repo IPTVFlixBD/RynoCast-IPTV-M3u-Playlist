@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-12 20:50:10
+# Generated: 2026-06-13 19:38:10
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -13597,7 +13597,11 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (2) ---
+# --- Movies | AR | كأس العالم 2026 (4) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2d4717b0029.jpg" group-title="Movies | AR | كأس العالم 2026",امريكا ضد الباراغواي (13-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/657785.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2d4222391c6.jpg" group-title="Movies | AR | كأس العالم 2026",كندا ضد البوسنة (12-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/657784.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2be2ca09bae.jpg" group-title="Movies | AR | كأس العالم 2026",التشيك ضد كوريا الجنوبية (12-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/657779.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2be5b0bef39.jpg" group-title="Movies | AR | كأس العالم 2026",المكسيك ضد جنوب أفريقيا (11-06-2026)
@@ -25367,12 +25371,6 @@ http://allone8k.info:8080/movie/hany/hany1234/337570.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3TyqdywjVQPUBEXiAjXDqMa7OY.jpg" group-title="Movies | DE | WESTERN",Any Bullet Will Do
 http://allone8k.info:8080/movie/hany/hany1234/337569.mp4
 
-# --- Movies | Demo (2) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | Demo",Chasing Mummies - 2010
-http://allone8k.info:8080/movie/hany/hany1234/4869.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Demo",Alaska Animal Rescue - 2020 عمليات إنقاذ حيوانات ألاسكا (مدبلج)
-http://allone8k.info:8080/movie/hany/hany1234/5193.mp4
-
 # --- Movies | EN | (يعرض الأن - اجنبي) (211) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | (يعرض الأن - اجنبي)",9-1-1 - 2018
 http://allone8k.info:8080/movie/hany/hany1234/2876.mp4
@@ -28963,7 +28961,7 @@ http://allone8k.info:8080/movie/hany/hany1234/509231.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg" group-title="Movies | EN | CLASSIC",Mission: Impossible
 http://allone8k.info:8080/movie/hany/hany1234/509232.mp4
 
-# --- Movies | EN | DOCUMENTARY (125) ---
+# --- Movies | EN | DOCUMENTARY (127) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Dear… - 2020
 http://allone8k.info:8080/movie/hany/hany1234/3141.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",برنامج الصندوق الاسود - فائق الشيخ علي - 2021
@@ -29088,6 +29086,8 @@ http://allone8k.info:8080/movie/hany/hany1234/4856.mp4
 http://allone8k.info:8080/movie/hany/hany1234/4859.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Wild Isles - 2023 (Multi-Languages)
 http://allone8k.info:8080/movie/hany/hany1234/4868.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Chasing Mummies - 2010
+http://allone8k.info:8080/movie/hany/hany1234/4869.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Wild Australia - 2014 (Multi-Languages)
 http://allone8k.info:8080/movie/hany/hany1234/4870.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Wild Russia - 2008 (Multi-Languages)
@@ -29138,6 +29138,8 @@ http://allone8k.info:8080/movie/hany/hany1234/5085.mp4
 http://allone8k.info:8080/movie/hany/hany1234/5106.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Africas Hunters - 2016  صيادين أفريقيا (مدبلج)
 http://allone8k.info:8080/movie/hany/hany1234/5192.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Alaska Animal Rescue - 2020 عمليات إنقاذ حيوانات ألاسكا (مدبلج)
+http://allone8k.info:8080/movie/hany/hany1234/5193.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Kingdom of the White Wolf - 2019 مملكة الذئب الأبيض (مدبلج)
 http://allone8k.info:8080/movie/hany/hany1234/5194.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | DOCUMENTARY",Americas Wild Spaces - 2018 مساحات أمريكا البرية (مدبلج )
@@ -77751,7 +77753,7 @@ http://allone8k.info:8080/movie/hany/hany1234/11245.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR | (يعرض الأن - تركي مدبلج )",خفقان - Çarpıntı - 2025 (مدبلج)
 http://allone8k.info:8080/movie/hany/hany1234/11340.mp4
 
-# --- Movies | TR | MOVIES SUB (29) ---
+# --- Movies | TR | MOVIES SUB (30) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogoc6bWdkeXRn25MOHm34V9yez7.jpg" group-title="Movies | TR | MOVIES SUB",TR: Hep Yek: Loto - 2025
 http://allone8k.info:8080/movie/hany/hany1234/602734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwyXO6cmswiFUtaS6MG8hB6rjFa.jpg" group-title="Movies | TR | MOVIES SUB",TR: Son Bayram - 2025
@@ -77792,6 +77794,8 @@ http://allone8k.info:8080/movie/hany/hany1234/638111.mkv
 http://allone8k.info:8080/movie/hany/hany1234/638112.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTTo0PlRBzupo3zj8EoJXzYnj1i.jpg" group-title="Movies | TR | MOVIES SUB",TR: Recep Ivedik 7 2022 رجب إفديك
 http://allone8k.info:8080/movie/hany/hany1234/638113.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adYjCJGSNiL7CIaDW3g0Bcg7r2Z.jpg" group-title="Movies | TR | MOVIES SUB",TR: Sitaare Zameen Par - 2025
+http://allone8k.info:8080/movie/hany/hany1234/657783.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/V4Fl2OWpg064plC8pAj9nALVHb.jpg" group-title="Movies | TR | MOVIES SUB",TR: فرصة ثانية - 2016
 http://allone8k.info:8080/movie/hany/hany1234/601344.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKHWAfbpJ4QoIbcIIhlW5uy0xz4.jpg" group-title="Movies | TR | MOVIES SUB",TR: Malazgirt 1071 - 2022
@@ -79967,4 +79971,4 @@ http://allone8k.info:8080/series/hany/hany1234/6976
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Zero Chill
 http://allone8k.info:8080/series/hany/hany1234/6977
 
-# Total: 39764
+# Total: 39767

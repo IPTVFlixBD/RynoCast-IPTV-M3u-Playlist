@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-06-12 20:42:25
+# Generated: 2026-06-13 19:41:15
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -4693,7 +4693,13 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22421.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - Single's Inferno
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22423.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3792) ---
+# --- Movies | SRS - NEW ADDED [EN] (3795) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Unconditional (Multi) (2026) (IL)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33580.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Two Years Later (2026) (US)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33579.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Every Year After (2026) (US)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33578.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Teach You a Lesson (2026) (KR)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33566.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Late Bloomer (2024) (CA)
@@ -47263,4 +47269,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23593
+# Total: 23596

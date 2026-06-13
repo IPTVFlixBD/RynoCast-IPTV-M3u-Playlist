@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-12 20:40:32
+# Generated: 2026-06-13 19:36:31
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -10771,7 +10771,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9440.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg" group-title="Movies | Filme Aventura (NOU)",Mirror Mirror (2012)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3820.mp4
 
-# --- Movies | Filme Comedie (489) ---
+# --- Movies | Filme Comedie (490) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg" group-title="Movies | Filme Comedie",Death at a Funeral - 2010
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71122.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Bl95sg5Ljo3Hu9SSL0JOvLerLh.jpg" group-title="Movies | Filme Comedie",The Incredible Burt Wonderstone - 2013
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70926.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVHUfT801LQATGd26VPzhorIYza.jpg" group-title="Movies | Filme Comedie",Pretty Woman - 1990
@@ -17547,6 +17549,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1155.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Heirs to the Land",Heirs to the Land (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/703.mp4
 
+# --- Movies | Helgoland (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Helgoland",Helgoland 513 (2024)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1295.mp4
+
 # --- Movies | Her Yerde Sen – Peste tot esti tu (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Her Yerde Sen – Peste tot esti tu",Her Yerde Sen (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1026.mp4
@@ -19749,6 +19755,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1176.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Dropout",The Dropout
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/340.mp4
 
+# --- Movies | The Durrels (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Durrels",The Durrells (2016)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1296.mp4
+
 # --- Movies | The Empress (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Empress",The Empress
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/824.mp4
@@ -20839,4 +20849,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9098
+# Total: 9101

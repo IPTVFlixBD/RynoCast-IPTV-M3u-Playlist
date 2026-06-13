@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-09 20:30:05
+# Generated: 2026-06-13 19:40:19
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1189,7 +1189,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1619) ---
+# --- Movies | Films (1623) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ys6twzUhtNacnnhXTnHFZTMiOPM.jpg" group-title="Movies | Films",L'infiltrée (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28629.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8b4pjaQTspOOacfB6bGYFy8BCda.jpg" group-title="Movies | Films",LOL 2.0 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28628.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/NL8RZFTEvKfoaayZDJGG85Te5i.jpg" group-title="Movies | Films",Over Your Dead Body (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28560.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg" group-title="Movies | Films",Michael (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28496.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg" group-title="Movies | Films",Mortal Kombat II (2026)
@@ -2802,6 +2808,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/8021.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7913.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rtKG9U5EpEMfnUavxIg9Oy7pxe.jpg" group-title="Movies | Films",Dans 5 ans (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7909.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2ucMytuG6U3Z17RGbpmO7NCgGJc.jpg" group-title="Movies | Films",Le Voyage de Talia (2023)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28559.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ToOejML1WLeywcou73hEn0sVXI.jpg" group-title="Movies | Films",L'Œil du mal (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25942.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dWtbEVcrQStWROGtJy0IJ1Y5zHg.jpg" group-title="Movies | Films",57 secondes (2023)
@@ -5391,7 +5399,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (488) ---
+# --- Movies | NETFLIX (490) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg" group-title="Movies | NETFLIX",Les Couleurs du mal : Noir (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28561.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcvFncVoRA48mtPXu94kdwRI0C.jpg" group-title="Movies | NETFLIX",L'Inconnue du port (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28345.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1p5tZnJS4uZNhpDWhnmT1ehCYwH.jpg" group-title="Movies | NETFLIX",Le Mondial de Martín (2026)
@@ -6368,6 +6378,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1184.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1191.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Que ça vous serve de leçon !
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1201.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Narcos
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1206.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -6713,7 +6725,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (188) ---
+# --- Movies | prime video (189) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | prime video",Une Famille de Bâtards (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28631.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg" group-title="Movies | prime video",Is God Is (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28314.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zR4RAnv4s6zpXhiqepdonAw4oF3.jpg" group-title="Movies | prime video",Jack Ryan de Tom Clancy : Guerre Fantôme (2026)
@@ -7649,7 +7663,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1190
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة - Daha 17 في السابعة عشرة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1198
 
-# --- Series | Series divers (314) ---
+# --- Series | Series divers (315) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8276,7 +8290,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1196
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1204
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sa majesté des mouches
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1205
-#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Narcos
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1206
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Truelove
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1207
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sur écoute
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1208
 
-# Total: 4106
+# Total: 4114

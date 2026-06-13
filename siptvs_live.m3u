@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-06-12 20:37:44
+# Generated: 2026-06-13 19:41:45
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -578,6 +578,8 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/131425.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/184186.m3u8
 
 # --- DE: MUSIC (36) ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="DE: MUSIC",Stingray The Spa (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199415.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="DE: MUSIC",DELUXE MUSIC
 http://siptvs.com:8080/live/Biljana12/Biljana12/67648.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="DE: MUSIC",DELUXE LOUNGE
@@ -642,8 +644,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/199412.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/199413.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="DE: MUSIC",Stingray Soul Storm (1080p)
 http://siptvs.com:8080/live/Biljana12/Biljana12/199414.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="DE: MUSIC",Stingray The Spa (1080p)
-http://siptvs.com:8080/live/Biljana12/Biljana12/199415.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="DE: MUSIC",Stingray Today's KPOP (1080p)
 http://siptvs.com:8080/live/Biljana12/Biljana12/199416.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="DE: MUSIC",Stingray Today's Latin Pop (1080p)
@@ -735,9 +735,15 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/129137.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/POLAND/AXNWHITE.png" group-title="DE: SKY",AXN WHITE
 http://siptvs.com:8080/live/Biljana12/Biljana12/129138.m3u8
 
-# --- DE: SPORT (97) ---
+# --- DE: SPORT (100) ---
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/192-1927409_deutschland-flagge-png-clipart.png" group-title="DE: SPORT",* * * *  GERMANY  * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35170.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/magentasport.png" group-title="DE: SPORT",FUSSBALL TV 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/203572.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/magentasport.png" group-title="DE: SPORT",FUSSBALL TV 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/203573.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/magentasport.png" group-title="DE: SPORT",FUSSBALL TV 3
+http://siptvs.com:8080/live/Biljana12/Biljana12/203574.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/Sport1HD.png" group-title="DE: SPORT",DE: SPORT 1ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35171.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/sportdigital1plus.png" group-title="DE: SPORT",DE: SPORTDIGITAL+
@@ -2857,7 +2863,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/174955.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/newsmax.png" group-title="SRBIJA",SR: NEWSMAX BALKAN
 http://siptvs.com:8080/live/Biljana12/Biljana12/184383.m3u8
 
-# --- TURKEY (71) ---
+# --- TURKEY (170) ---
 #EXTINF:-1 tvg-logo="" group-title="TURKEY",* * * * * TURKEY * * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/132899.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/trt1.png" group-title="TURKEY",TR: TRT 1
@@ -3000,6 +3006,204 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/132971.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/132972.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/trt1.png" group-title="TURKEY",TR: TRT 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/132973.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TURKEY",360 TV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203575.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="TURKEY",Aksu TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203576.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="TURKEY",Al-Zahra TV Turkic (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203577.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="TURKEY",Alanya Posta TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203578.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="TURKEY",Altas TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203579.m3u8
+#EXTINF:-1 tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="TURKEY",Anadolu Net TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203580.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="TURKEY",ARAS TV (576p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203581.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="TURKEY",Aksu TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203582.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="TURKEY",Al-Zahra TV Turkic (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203583.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="TURKEY",Babyfirst
+http://siptvs.com:8080/live/Biljana12/Biljana12/203584.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="TURKEY",Bloomberg HT (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203585.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3qlEAp.png" group-title="TURKEY",BRTV (720p) [Geo-blocked]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203586.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="TURKEY",Bursa AS TV (900p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203587.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="TURKEY",Can TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203588.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="TURKEY",Cay TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203589.m3u8
+#EXTINF:-1 tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="TURKEY",CNBC-e
+http://siptvs.com:8080/live/Biljana12/Biljana12/203590.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="TURKEY",Deniz Postası TV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203591.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="TURKEY",DHA (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203592.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4QFDhk.png" group-title="TURKEY",DİM TV (720p) [Geo-blocked]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203593.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="TURKEY",Diyanet TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203594.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="TURKEY",Diyar TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203595.m3u8
+#EXTINF:-1 tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="TURKEY",Dost TV (576p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203596.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="TURKEY",Dream Türk (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203597.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="TURKEY",Edessa TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203598.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDGEPrD.png" group-title="TURKEY",Er TV (1080p) [Geo-blocked]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203599.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HF7N4Li.png" group-title="TURKEY",Erzurum Web TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epAEBrp.png" group-title="TURKEY",ES TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203601.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" group-title="TURKEY",ETV Kayseri (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203602.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="TURKEY",ETV Manisa (1080p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203603.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="TURKEY",Euro D (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203604.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="TURKEY",FB TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/203605.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="TURKEY",Finans Turk TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203606.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="TURKEY",Fortuna TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203608.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="TURKEY",Guneydogu TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203609.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="TURKEY",Haber61 TV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203610.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="TURKEY",Haber Global (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203611.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="TURKEY",Halk TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203612.m3u8
+#EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TURKEY",HTSpor TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203613.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="TURKEY",Hunat TV (720p) [Geo-blocked]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203614.m3u8
+#EXTINF:-1 tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="TURKEY",Ilke TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203615.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="TURKEY",Kent Türk TV (1080p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203628.m3u8
+#EXTINF:-1 tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" group-title="TURKEY",Konya Olay TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203629.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ch365lh.png" group-title="TURKEY",KRAL Pop TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203630.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="TURKEY",Lalegul TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203631.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="TURKEY",Life TV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203632.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GNp7f8.png" group-title="TURKEY",Line TV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203633.m3u8
+#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="TURKEY",Love Nature (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203634.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="TURKEY",Manas TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203635.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyWappU.png" group-title="TURKEY",MaviKaradeniz (1080p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203636.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="TURKEY",MC TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203637.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="TURKEY",Meltem TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203638.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="TURKEY",Mercan TV (576p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203639.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xj1gvrq.png" group-title="TURKEY",MTürk TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203640.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="TURKEY",MyZen TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203641.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="TURKEY",NOW TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203642.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slwbux7.png" group-title="TURKEY",Number 1 Ask (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203643.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYtbAGZ.png" group-title="TURKEY",Number 1 Damar (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203644.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="TURKEY",Number 1 Dance (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203645.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="TURKEY",Number 1 TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203646.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9ca6gc.png" group-title="TURKEY",Olay Türk TV Kayseri (720p) [Geo-blocked]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203647.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="TURKEY",On4 TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203648.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",Persiana Turkiye
+http://siptvs.com:8080/live/Biljana12/Biljana12/203649.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="TURKEY",Power Dance (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203650.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="TURKEY",Power Love (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203651.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="TURKEY",Power Turk (1080p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203652.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/driabBO.png" group-title="TURKEY",Power Türk Akustik (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203653.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="TURKEY",Power Türk Slow (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203654.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="TURKEY",Power Türk Taptaze (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203655.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="TURKEY",Power TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203656.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="TURKEY",RTG TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203658.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="TURKEY",Sat7 Türk (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203659.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="TURKEY",Satranç TV (480p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203660.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="TURKEY",Semerkand TV (1080p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203661.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64tph9N.png" group-title="TURKEY",Sun RTV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203662.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" group-title="TURKEY",TBMM TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203663.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TURKEY",Tele 1 (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203664.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZpx32y.png" group-title="TURKEY",Tempo TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203665.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="TURKEY",TGRT Haber (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203666.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="TURKEY",Tivi 6 (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203667.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="TURKEY",TJK TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203668.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="TURKEY",Ton TV (720p) [Not 24/7]
+http://siptvs.com:8080/live/Biljana12/Biljana12/203669.m3u8
+#EXTINF:-1 tvg-logo="https://tbbweb.tv/img/logo.png" group-title="TURKEY",Trabzon Buyuksehir Belediyesi TV (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203670.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TURKEY",TRT 1 (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203671.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="TURKEY",TRT 3 (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203672.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="TURKEY",TRT Avaz (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203673.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="TURKEY",TRT Çocuk (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203674.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="TURKEY",TRT Diyanet Çocuk (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203675.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" group-title="TURKEY",TRT EBA Ortaokul (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203678.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="TURKEY",TRT Haber (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203679.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="TURKEY",TRT Müzik (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203680.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="TURKEY",TRT Türk (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203681.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="TURKEY",TürkHaber (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203682.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="TURKEY",TV 1 (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203683.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="TURKEY",TV4 (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203684.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TURKEY",TV 8 (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203685.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" group-title="TURKEY",TV 100 (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203686.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="TURKEY",TV 264 (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203687.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KO0uxn.png" group-title="TURKEY",Urfa Natik TV (720p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/203688.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="TURKEY",Vav TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/203689.m3u8
 
 # --- Unknown (19) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/Fullfull/yuplanet2.png" group-title="Unknown",YU-RADIO
@@ -3225,4 +3429,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1579
+# Total: 1681
