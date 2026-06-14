@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-13 19:38:22
+# Generated: 2026-06-14 08:53:28
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -9139,9 +9139,19 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114769.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Events",MLS 20 VIP SPORTS
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114768.m3u8
 
-# --- Fifa World Cup 2026 (27) ---
+# --- Fifa World Cup 2026 (32) ---
+#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 HD DE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135364.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 FHD DE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135363.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 UHD DE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 2 HD DE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135366.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 2 FHD DE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135365.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 3 HD DE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135367.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 01 VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135151.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 02 VIP Sports
@@ -31719,4 +31729,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15750
+# Total: 15755

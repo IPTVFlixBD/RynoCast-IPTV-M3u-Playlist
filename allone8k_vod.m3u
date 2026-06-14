@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-13 19:38:10
+# Generated: 2026-06-14 08:52:32
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -801,7 +801,7 @@ http://allone8k.info:8080/movie/hany/hany1234/11332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - بوليوود)",الحصاد المر - 2025
 http://allone8k.info:8080/movie/hany/hany1234/11333.mp4
 
-# --- Movies | AR | (يعرض الأن - عربي) (29) ---
+# --- Movies | AR | (يعرض الأن - عربي) (32) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - عربي)",اللعبة - 2020
 http://allone8k.info:8080/movie/hany/hany1234/1868.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - عربي)",توب شيف - Top Chef - 2017
@@ -860,6 +860,12 @@ http://allone8k.info:8080/movie/hany/hany1234/11334.mp4
 http://allone8k.info:8080/movie/hany/hany1234/11338.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - عربي)",ممكن - 2026
 http://allone8k.info:8080/movie/hany/hany1234/11339.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - عربي)",اللعيب في كاس العالم - 2026
+http://allone8k.info:8080/movie/hany/hany1234/11381.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - عربي)",فايق في المونديال - 2026
+http://allone8k.info:8080/movie/hany/hany1234/11382.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - عربي)",يا مساء الانوار من المونديال - 2026
+http://allone8k.info:8080/movie/hany/hany1234/11383.mp4
 
 # --- Movies | AR | 1001 ORIGINALS (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | 1001 ORIGINALS",اقتحام - 2023
@@ -13597,7 +13603,9 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (4) ---
+# --- Movies | AR | كأس العالم 2026 (5) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2de84cc7424.jpg" group-title="Movies | AR | كأس العالم 2026",قطر ضد سويسرا (13-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/657804.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2d4717b0029.jpg" group-title="Movies | AR | كأس العالم 2026",امريكا ضد الباراغواي (13-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/657785.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2d4222391c6.jpg" group-title="Movies | AR | كأس العالم 2026",كندا ضد البوسنة (12-06-2026)
@@ -79971,4 +79979,4 @@ http://allone8k.info:8080/series/hany/hany1234/6976
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Zero Chill
 http://allone8k.info:8080/series/hany/hany1234/6977
 
-# Total: 39767
+# Total: 39771
