@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-13 19:40:19
+# Generated: 2026-06-14 19:52:32
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1189,7 +1189,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1623) ---
+# --- Movies | Films (1624) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/heuxC7OhpbMFUqCrXL3OmFTmjz8.jpg" group-title="Movies | Films",Le garçon de la piscine (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28632.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ys6twzUhtNacnnhXTnHFZTMiOPM.jpg" group-title="Movies | Films",L'infiltrée (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28629.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8b4pjaQTspOOacfB6bGYFy8BCda.jpg" group-title="Movies | Films",LOL 2.0 (2026)
@@ -8295,4 +8297,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1207
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sur écoute
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1208
 
-# Total: 4114
+# Total: 4115

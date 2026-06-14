@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-14 08:53:19
+# Generated: 2026-06-14 19:48:33
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -10771,7 +10771,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9440.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg" group-title="Movies | Filme Aventura (NOU)",Mirror Mirror (2012)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3820.mp4
 
-# --- Movies | Filme Comedie (490) ---
+# --- Movies | Filme Comedie (491) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pemUf5lKEzgxGebxxMVKL5NHSW.jpg" group-title="Movies | Filme Comedie",Meet the Blacks - 2016
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71158.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg" group-title="Movies | Filme Comedie",Death at a Funeral - 2010
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71122.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Bl95sg5Ljo3Hu9SSL0JOvLerLh.jpg" group-title="Movies | Filme Comedie",The Incredible Burt Wonderstone - 2013
@@ -19663,6 +19665,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/271.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Borgias",The Borgias (2011)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/722.mp4
 
+# --- Movies | The Boroughs (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Boroughs",The Boroughs (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1297.mp4
+
 # --- Movies | The Boss Baby: Back in Business (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Boss Baby: Back in Business",The Boss Baby: Back in Business (Dublat)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/606.mp4
@@ -19774,6 +19780,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/931.mp4
 # --- Movies | The Equalizer (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Equalizer",The Equalizer
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/131.mp4
+
+# --- Movies | The Evil Lawyer (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Evil Lawyer",The Evil Lawyer (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1298.mp4
 
 # --- Movies | The Exorcist (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Exorcist",The Exorcist (2016)
@@ -20313,6 +20323,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/408.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Witcher",The Witcher
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/355.mp4
 
+# --- Movies | The Witness (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Witness",The Witness (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1299.mp4
+
 # --- Movies | The Woman in the House Across the Street from the Girl in the Window (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Woman in the House Across the Street from the Girl in the Window",The Woman in the House Across the Street from the Girl in the Window
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/191.mp4
@@ -20432,6 +20446,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1061.mp4
 # --- Movies | Twin Peaks (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Twin Peaks",Twin Peaks (1990)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1068.mp4
+
+# --- Movies | Twisted Metal (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Twisted Metal",Twisted Metal (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1300.mp4
 
 # --- Movies | Two and a Half Men (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Two and a Half Men",Two and a Half Men
@@ -20849,4 +20867,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9101
+# Total: 9106
