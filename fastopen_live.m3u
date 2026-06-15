@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-15 08:54:54
+# Generated: 2026-06-15 23:05:16
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -9138,8 +9138,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114769.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114768.m3u8
 
 # --- Fifa World Cup 2026 (33) ---
-#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 FHD DE
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135363.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 01 VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135151.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 02 VIP Sports
@@ -9196,6 +9194,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135161.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 HD DE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135364.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 FHD DE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135363.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 1 UHD DE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135362.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Fifa World Cup 2026",Fussball.TV 2 HD DE

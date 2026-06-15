@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-15 08:57:25
+# Generated: 2026-06-15 23:01:43
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -4250,7 +4250,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/30232.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/134587.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/LA2.es.png" group-title="ES - ESPAŇA",(ES) LA 2 4k+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/30231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES - ESPAŇA",(ES) LA 2 HD+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/LA2.es.png" group-title="ES - ESPAŇA",(ES) LA 2 HD+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/134588.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Antena3.es.png" group-title="ES - ESPAŇA",(ES) Antena 3 HD+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/48530.m3u8
@@ -4455,9 +4455,15 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/53543.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/finland.png" group-title="FI : FINLAND",(FI) Viasat Sport Premium HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/53544.m3u8
 
-# --- FIFA WORLD CUP 2026 (8) ---
+# --- FIFA WORLD CUP 2026 (17) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt1_hd.png" group-title="FIFA WORLD CUP 2026",(TR) Trt 1 ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342754.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="FIFA WORLD CUP 2026",(TR) Trt Spor ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342903.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="FIFA WORLD CUP 2026",(TR) Trt Spor Yildiz ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342904.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="FIFA WORLD CUP 2026",(TR) Trt Spor 3 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342905.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="FIFA WORLD CUP 2026",(NL) NPO 1 ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342755.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/vrt1.png" group-title="FIFA WORLD CUP 2026",(BE) Vrt 1 ᵘˡᵗʳᵃ
@@ -4472,6 +4478,18 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342759.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342760.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6hd.png" group-title="FIFA WORLD CUP 2026",(FR) M6 ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342761.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai1hd.png" group-title="FIFA WORLD CUP 2026",(IT) Rai 1 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342907.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/LA2.es.png" group-title="FIFA WORLD CUP 2026",(ES) LA 2 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342906.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp1hd.png" group-title="FIFA WORLD CUP 2026",(PL) TVP 1 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342908.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp2hd.png" group-title="FIFA WORLD CUP 2026",(PL) TVP 2 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342909.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="FIFA WORLD CUP 2026",(BG) Bnt 1 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342910.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="FIFA WORLD CUP 2026",(BG) Bnt 2 ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342911.m3u8
 
 # --- FR - AMAZON PRIME EVENT (8) ---
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/AMAZON.png" group-title="FR - AMAZON PRIME EVENT",FR: Amazon Prime 1FHD Evenements
@@ -7933,9 +7951,19 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/188102.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN ŻYCIE JAK W BAJCE
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/188101.m3u8
 
-# --- PT - CINEMA (20) ---
+# --- PT - CINEMA (25) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) TV Series
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51479.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) STAR Life
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342918.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) STAR Channel
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342917.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) AXN Movies
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342916.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) AMC Break
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342915.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) AMC Crime
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342914.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) TVCine Edition
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/342534.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT - CINEMA",(PT) TVCine TOP
@@ -11383,4 +11411,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5522
+# Total: 5536

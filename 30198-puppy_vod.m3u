@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-06-15 08:51:39
+# Generated: 2026-06-15 23:00:45
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -47117,7 +47117,13 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1305833.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/16970
 
-# --- Series | SRS - TURKISH SERIES SUB [EN] (82) ---
+# --- Series | SRS - TURKISH SERIES SUB [EN] (85) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Doganin Kanunu - The Law of Nature (2026) (TR)
+http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33644
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Delikanli - The Gentleman (2026) (TR)
+http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33643
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Cirkin - Ugly (2026) (TR)
+http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33642
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Doğanın Kanunu (2026) (TR)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33561
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Daha 17 - Torn Apart (2026) (TR)
@@ -47283,4 +47289,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23603
+# Total: 23606

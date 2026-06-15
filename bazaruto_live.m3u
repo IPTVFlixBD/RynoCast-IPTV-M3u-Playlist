@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-06-15 09:04:28
+# Generated: 2026-06-15 23:08:52
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -3235,7 +3235,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SLOVENIJA",Nova 24
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38246.m3u8
 
-# --- SPORT (120) ---
+# --- SPORT (122) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD_(SR).png" group-title="SPORT",Arena Sport Premium 1 SR
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39240.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD._(SR).png" group-title="SPORT",Arena Sport Premium 1 HD
@@ -3258,8 +3258,12 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45542.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45543.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_3_PREMIUM_HD._(BIH).png" group-title="SPORT",Arena Sport Premium 3 BH
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport Premium MK 1
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport Premium 1 MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65646.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport Premium 2 MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport Premium 3 MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65653.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_SPORT_1X2_HD_(SR).png" group-title="SPORT",Arena Sport 1x2
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50391.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport TENIS
@@ -4325,4 +4329,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2134
+# Total: 2136
