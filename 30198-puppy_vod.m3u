@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-06-14 19:54:39
+# Generated: 2026-06-15 08:51:39
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -45913,7 +45913,9 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/660592.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg" group-title="Movies | VOD - SCANDINAVIA MULTISUB [MU]",SC - Being the Ricardos  (2021)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/660591.mkv
 
-# --- Movies | VOD - SPORT [EN] (382) ---
+# --- Movies | VOD - SPORT [EN] (383) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zpqc3Zz84L45nYSyuNAKOmkDBg.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Tommy Fury vs. Eddie Hall (Prelims) (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1395087.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0nnlOtTt_k3b1yJE72noj76GvofBfXG2_Q&s" group-title="Movies | VOD - SPORT [EN]",EN - Stephen McKenna vs. Casey James Streeter (2026)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1393153.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTflLEYovvSpycxMV1giYTonl6VKJqTbTYYkw&s" group-title="Movies | VOD - SPORT [EN]",EN - Omari Jones vs. Diego Zuniga (2026)
@@ -47281,4 +47283,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23602
+# Total: 23603

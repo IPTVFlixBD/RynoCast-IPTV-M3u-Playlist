@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-06-14 19:48:13
+# Generated: 2026-06-15 08:55:57
 # Expires: 2026-09-14
 # Family Safe Edition
 # ==============================================
@@ -1113,6 +1113,42 @@ http://tv14s.xyz:8080/live/37376578/37376578/320382.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ECUADOR",Ecuador TV
 http://tv14s.xyz:8080/live/37376578/37376578/317108.m3u8
 
+# --- ESPN + (17) ---
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 02 : RBC Canadian Open: Main Feed (Final Round) @ Jun 14 10:30 AM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 03 : RBC Canadian Open: Koepka & Hovland Featured Groups (Final Round) @ Jun 14 10:30 AM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326471.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",#7 -  #11 & #14 (Final Round) @ Jun 14 10:45 AM ET" tvg-logo="" group-title="ESPN+",ESPN+ 04 : RBC Canadian Open: Featured Holes #4, #7, #11 & #14 (Final Round) @ Jun 14 10:45 AM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 05 : RBC Canadian Open: Lowry Marquee Group (Final Round) @ Jun 14 11:45 AM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326473.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 07 : RBC Canadian Open: Featured Hole #14 (Final Round) @ Jun 14 01:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 08 : RBC Canadian Open: Lowry Featured Group 2 (Final Round) @ Jun 14 01:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326476.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 09 : RBC Canadian Open: Hovland Featured Group 1 (Final Round) @ Jun 14 01:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 10 : RBC Canadian Open: Featured Hole #11 (Final Round) @ Jun 14 01:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",Leg 1) @ Jun 14 02:50 PM ET" tvg-logo="" group-title="ESPN+" - ESPN+ 11 : Malaga CF vs. Almeria (Final, Leg 1) @ Jun 14 02:50 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",Leg 1) @ Jun 14 02:50 PM ET" tvg-logo="" group-title="ESPN+" - ESPN+ 12 : En Espal-Malaga CF vs. Almer (Final, Leg 1) @ Jun 14 02:50 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 13 : Biloxi Mississippi Open (Day 3) @ Jun 14 03:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326481.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 15 : Big League Wiffle Ball @ Jun 14 05:30 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 16 : Westchester SC vs. Greenville Triumph SC @ Jun 14 07:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 17 : The Point Presented by DraftKings Sports @ Jun 14 07:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",6/14 - ESPN FC @ Jun 14 09:00 PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 18 : Sun, 6/14 - ESPN FC @ Jun 14 09:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 19 : Seattle Seawolves vs. California Legion (Semifinal) @ Jun 14 10:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",6/14 - In the Crease @ Jun 14 11:00 PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 20 : Sun, 6/14 - In the Crease @ Jun 14 11:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326488.m3u8
+
 # --- FANDUEL SPORTS (28) ---
 #EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fan Duel TV
 http://tv14s.xyz:8080/live/37376578/37376578/315966.m3u8
@@ -1171,13 +1207,27 @@ http://tv14s.xyz:8080/live/37376578/37376578/316010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Sun N. Florida
 http://tv14s.xyz:8080/live/37376578/37376578/316011.m3u8
 
-# --- Floracing (3) ---
+# --- Floracing (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 01 : FloRacing 24/7
 http://tv14s.xyz:8080/live/37376578/37376578/317243.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 02 : PBR RIDEPASS
 http://tv14s.xyz:8080/live/37376578/37376578/317244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Floracing",USA | Flo Racing 24/7
 http://tv14s.xyz:8080/live/37376578/37376578/325514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 03: NASCAR YOUTH SERIES AT BLACKBIRD JUN 14 07:50AM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 04 : BIG BLOCK SPECIAL AT UTICA-ROME SPEEDWAY JUN 14 01:30PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 05 : NAPA ASCOC OHIO SPRINT SPEEDWEEK AT MILLSTREAM SPEEDWAY JUN 14 03:30PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 06 : SHORT TRACK SUPER SERIES AT BROOKFIELD SPEEDWAY JUN 14 03:30PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 07 : USAC INDIANA MIDGET WEEK AT KOKOMO SPEEDWAY JUN 14 04:45PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 08 : RACE OF CHAMPIONS MODIFIEDS AT SHANGRI-LA II SPEEDWAY JUN 14 05:00PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326468.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 09 : NARC FASTEST 5 DAYS AT GRAYS HARBOR SPEEDWAY JUN 14 07:45PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326469.m3u8
 
 # --- Formula F1 (101) ---
 #EXTINF:-1 tvg-logo="" group-title="Formula F1",F1 Channel
@@ -1405,6 +1455,34 @@ http://tv14s.xyz:8080/live/37376578/37376578/120978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREEK",GR RIK Sat (D)
 http://tv14s.xyz:8080/live/37376578/37376578/120979.m3u8
 
+# --- Germany (13) ---
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Kronehit TV FHD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE N24 Doku (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Nat Geo Wild (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE RTL Crime (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE RTL II HD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE RTL Nitro FHD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE RTL Zwei HD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Sky Cinema Premieren +24 HD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Sky Select 3 HD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Sky Sport 8 HD
+http://tv14s.xyz:8080/live/37376578/37376578/326438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Sky Sport Bundesliga 1 HD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE Tele 5 HD (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE VOX (P)
+http://tv14s.xyz:8080/live/37376578/37376578/326446.m3u8
+
 # --- INDIA (24) ---
 #EXTINF:-1 tvg-logo="" group-title="INDIA",US (Hindi) Asian Sony Max 2 (S)
 http://tv14s.xyz:8080/live/37376578/37376578/125795.m3u8
@@ -1615,7 +1693,7 @@ http://tv14s.xyz:8080/live/37376578/37376578/56410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",US Latin Hola TV (A)
 http://tv14s.xyz:8080/live/37376578/37376578/139757.m3u8
 
-# --- MLB (48) ---
+# --- MLB (44) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://tv14s.xyz:8080/live/37376578/37376578/323887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
@@ -1680,38 +1758,30 @@ http://tv14s.xyz:8080/live/37376578/37376578/324259.m3u8
 http://tv14s.xyz:8080/live/37376578/37376578/324260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Washington Nationals
 http://tv14s.xyz:8080/live/37376578/37376578/324262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Seattle Mariners VS Baltimore Orioles (Baltimore Orioles Feed ) @ 18:35
-http://tv14s.xyz:8080/live/37376578/37376578/326142.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: Boston Red Sox VS Tampa Bay Rays (Boston Red Sox Feed ) @ 18:40
-http://tv14s.xyz:8080/live/37376578/37376578/326143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: New York Yankees VS Cleveland Guardians (FS1 Feed ) @ 18:40
-http://tv14s.xyz:8080/live/37376578/37376578/326144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: New York Yankees VS Cleveland Guardians (New York Yankees Feed ) @ 18:40
-http://tv14s.xyz:8080/live/37376578/37376578/326145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Houston Astros VS Los Angeles Angels (Houston Astros Feed ) @ 21:38
-http://tv14s.xyz:8080/live/37376578/37376578/326149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Houston Astros VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-http://tv14s.xyz:8080/live/37376578/37376578/326150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Cincinnati Reds VS San Diego Padres (San Diego Padres Feed ) @ 21:40
-http://tv14s.xyz:8080/live/37376578/37376578/326151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Washington Nationals VS San Francisco Giants (San Francisco Giants Feed ) @ 21:45
-http://tv14s.xyz:8080/live/37376578/37376578/326152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Milwaukee Brewers VS Athletics (Athletics Feed ) @ 22:05
-http://tv14s.xyz:8080/live/37376578/37376578/326153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Chicago Cubs VS Colorado Rockies (Chicago Cubs Feed ) @ 20:40
-http://tv14s.xyz:8080/live/37376578/37376578/326154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Chicago Cubs VS Colorado Rockies (Colorado Rockies Feed ) @ 20:40
-http://tv14s.xyz:8080/live/37376578/37376578/326155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: Houston Astros VS Los Angeles Angels (Houston Astros Feed ) @ 21:38
-http://tv14s.xyz:8080/live/37376578/37376578/326156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 16: Houston Astros VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-http://tv14s.xyz:8080/live/37376578/37376578/326157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 17: Cincinnati Reds VS San Diego Padres (San Diego Padres Feed ) @ 21:40
-http://tv14s.xyz:8080/live/37376578/37376578/326158.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 18: Washington Nationals VS San Francisco Giants (San Francisco Giants Feed ) @ 21:45
-http://tv14s.xyz:8080/live/37376578/37376578/326159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 19: Milwaukee Brewers VS Athletics (Athletics Feed ) @ 22:05
-http://tv14s.xyz:8080/live/37376578/37376578/326160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: San Diego Padres VS Baltimore Orioles (Baltimore Orioles Feed ) @ 13:35
+http://tv14s.xyz:8080/live/37376578/37376578/326449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: San Diego Padres VS Baltimore Orioles (San Diego Padres Feed ) @ 13:35
+http://tv14s.xyz:8080/live/37376578/37376578/326450.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Arizona Diamondbacks VS Cincinnati Reds (Arizona Diamondbacks Feed ) @ 13:40
+http://tv14s.xyz:8080/live/37376578/37376578/326453.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Detroit Tigers VS Cleveland Guardians (Detroit Tigers Feed ) @ 13:40
+http://tv14s.xyz:8080/live/37376578/37376578/326454.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Atlanta Braves VS New York Mets (New York Mets Feed ) @ 13:40
+http://tv14s.xyz:8080/live/37376578/37376578/326455.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Houston Astros VS Kansas City Royals (Houston Astros Feed ) @ 14:10
+http://tv14s.xyz:8080/live/37376578/37376578/326456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Los Angeles Dodgers VS Chicago White Sox (Los Angeles Dodgers Feed ) @ 14:10
+http://tv14s.xyz:8080/live/37376578/37376578/326457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Los Angeles Dodgers VS Chicago White Sox (Chicago White Sox Feed ) @ 14:10
+http://tv14s.xyz:8080/live/37376578/37376578/326458.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Philadelphia Phillies VS Milwaukee Brewers (Philadelphia Phillies Feed ) @ 14:10
+http://tv14s.xyz:8080/live/37376578/37376578/326459.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Colorado Rockies VS Athletics (Athletics Feed ) @ 15:05
+http://tv14s.xyz:8080/live/37376578/37376578/326460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Colorado Rockies VS Athletics (Colorado Rockies Feed ) @ 15:05
+http://tv14s.xyz:8080/live/37376578/37376578/326461.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Tampa Bay Rays VS Los Angeles Angels (Los Angeles Angels Feed ) @ 16:07
+http://tv14s.xyz:8080/live/37376578/37376578/326462.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -1797,15 +1867,11 @@ http://tv14s.xyz:8080/live/37376578/37376578/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://tv14s.xyz:8080/live/37376578/37376578/21091.m3u8
 
-# --- NBA (4) ---
+# --- NBA (2) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://tv14s.xyz:8080/live/37376578/37376578/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://tv14s.xyz:8080/live/37376578/37376578/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: New York Knicks  vs  San Antonio Spurs
-http://tv14s.xyz:8080/live/37376578/37376578/323886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02 New York Knicks  vs  San Antonio Spurs
-http://tv14s.xyz:8080/live/37376578/37376578/324047.m3u8
 
 # --- NCAAB (5) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
@@ -90435,105 +90501,61 @@ http://tv14s.xyz:8080/live/37376578/37376578/101826.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH | Classic Movies
 http://tv14s.xyz:8080/live/37376578/37376578/320454.m3u8
 
-# --- PPV | UFC (49) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: Glory Collision 9 Superfights (6.13 10:30 AM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: Glory Collision 9 (6.13 12:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03: JCW Saturday Nite (6.13 6:05 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326330.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04: Armored MMA Medieval Cage Fighting Championship (6.13 6:05 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326331.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05: PRESS CONFERENCE Zuffa Boxing (6.13 6:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06: Ceremonial Weigh in UFC Freedom 250 (6.13 7:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07: Combat FC 13 (6.13 9:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08: Rodriguez vs. Vargas (6.13 8:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09: Jones vs. Carranza 2 (6.13 4:45 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326336.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10: RAF 10 (6.13 8:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11: Fury vs. Hall (6.13 1:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13: Kiwitt vs. Kasujja (6.13 2:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 14: Fight to Win 318 (6.13 7:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15: IMCA Clash at the Creek XVIII at 141 (6.13 7:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326342.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 16: Diamond Cup at Meridian (6.13 7:45 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326343.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 17: CARS Tour at Dominion (6.13 5:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 18: NASCAR Weekly Racing at Riverhead (6.13 5:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 19: USAC Indiana Midget Week at Tri State (6.13 5:45 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 20: NASCAR Weekly Racing at Jennerstown (6.13 5:45 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 21: Race of Champions Sportsman at Wyoming (6.13 6:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 22: NASCAR Weekly Racing at Berlin (6.13 6:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 23: IRA Sprints at Shawano (6.13 6:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 24: Weekly Racing at Port Royal (6.13 6:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 25: 75th Anniversary Legends Night at Fonda (6.13 6:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 26: NASCAR Weekly Racing at South Boston (6.13 6:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 27: NAPA ASCoC Ohio Sprint Speedweek at Sharon (6.13 6:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 28: NASCAR Weekly Racing at Hickory (6.13 7:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 29: NASCAR Weekly Racing at Langley (6.13 7:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 30: Appalachian Mountain LM Speedweek at Lincoln (6.13 7:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 31: Slamfest at Slinger (6.13 7:15 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 32: USAC Avanti Western States Midgets at Santa Maria (6.13 7:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 33: NASCAR Modified Twin 50s at Bowman (6.13 7:45 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 34: NARC Fastest 5 Days at Cottage Grove (6.13 8:15 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 35: CARS Tour West at Stateline (6.13 10:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 36: Millbridge Speedway (6.13 5:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 37: Fairbury Speedway (6.13 5:45 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 38: Volusia Speedway Park (6.13 6:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 39: West Virginia Motor Speedway (6.13 6:15 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 40: Land of Legends Raceway (6.13 6:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 41: Knoxville Raceway (6.13 7:00 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 42: Dirt Zone (6.13 7:30 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 43: Batesville Motor Speedway (6.13 8:15 PM ET)
-http://tv14s.xyz:8080/live/37376578/37376578/326370.m3u8
+# --- PPV | UFC (27) ---
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: PRE SHOW UFC Freedom 250 (6.14 6:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326395.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: UFC Freedom 250 (6.14 8:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326396.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03: UFC Freedom 250 (6.14 8:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326397.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04: UFC Freedom 250 (6.14 8:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326398.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05: UFC Freedom 250 Multiview (6.14 8:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326399.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06: Post Fight Press Conference UFC Freedom 250 (6.15 1:00 AM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07: Haddir vs. Diarra (6.14 9:00 AM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326401.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08: NASCAR Youth Series at Blackbird (6.14 8:50 AM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326402.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09: Big Block Special at Utica Rome (6.14 2:30 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326403.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10: NAPA ASCoC Ohio Sprint Speedweek at Millstream (6.14 4:30 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326404.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11: USAC Indiana Midget Week at Kokomo (6.14 5:45 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12: Race of Champions Modifieds at Shangri La II (6.14 6:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13: NARC Fastest 5 Days at Grays Harbor (6.14 8:45 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15: Husets Speedway (6.14 7:25 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326409.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 16: Nascar Cup Series Great American Getaway 400 (6.14 3:00 PM ET)
+http://tv14s.xyz:8080/live/37376578/37376578/326410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX 01 (FHD) Events Only
-http://tv14s.xyz:8080/live/37376578/37376578/326371.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326411.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX 02 (HD) Events Only
-http://tv14s.xyz:8080/live/37376578/37376578/326372.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326412.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX 03 (SD) Events Only
-http://tv14s.xyz:8080/live/37376578/37376578/326373.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX 04 (Latin) Events Only
-http://tv14s.xyz:8080/live/37376578/37376578/326374.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326414.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX WWE Monday Night Raw
-http://tv14s.xyz:8080/live/37376578/37376578/326375.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326415.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX WWE NXT
-http://tv14s.xyz:8080/live/37376578/37376578/326376.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326416.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX WWE Friday Night SmackDown
-http://tv14s.xyz:8080/live/37376578/37376578/326377.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/326417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(US) PPV5 Spanish (S)
+http://tv14s.xyz:8080/live/37376578/37376578/326418.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(US) PPV3 Spanish (S)
+http://tv14s.xyz:8080/live/37376578/37376578/326419.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(US) PPV4 Spanish (S)
+http://tv14s.xyz:8080/live/37376578/37376578/326420.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(US) PPV1 Spanish (S)
+http://tv14s.xyz:8080/live/37376578/37376578/326421.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(US) PPV2 Spanish (S)
+http://tv14s.xyz:8080/live/37376578/37376578/326422.m3u8
 
 # --- Portugal (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
@@ -91377,7 +91399,7 @@ http://tv14s.xyz:8080/live/37376578/37376578/213668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US A Wealth of Entertainment (AWE)
 http://tv14s.xyz:8080/live/37376578/37376578/326194.m3u8
 
-# --- USA | NEWS | REGIONALS (616) ---
+# --- USA | NEWS | REGIONALS (615) ---
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (KXAN) Austin
 http://tv14s.xyz:8080/live/37376578/37376578/17749.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",AK | Anchorage | NBC KTUU
@@ -92430,8 +92452,6 @@ http://tv14s.xyz:8080/live/37376578/37376578/324690.m3u8
 http://tv14s.xyz:8080/live/37376578/37376578/324691.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",PA | Pittsburgh | NBC (WPXI)
 http://tv14s.xyz:8080/live/37376578/37376578/324692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",PA | Pittsburgh | NBC (WPXI)
-http://tv14s.xyz:8080/live/37376578/37376578/324693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",PA | Wilkes-Barre | NBC (WBRE)
 http://tv14s.xyz:8080/live/37376578/37376578/324694.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",PA | York | FOX (WPMT)
@@ -102781,15 +102801,17 @@ http://tv14s.xyz:8080/live/37376578/37376578/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tv14s.xyz:8080/live/37376578/37376578/121048.m3u8
 
-# --- WNBA (4) ---
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: New York Liberty  vs  Connecticut Sun
-http://tv14s.xyz:8080/live/37376578/37376578/325955.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Indiana Fever  vs  Washington Mystics
-http://tv14s.xyz:8080/live/37376578/37376578/325956.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: Seattle Storm  vs  Las Vegas Aces
-http://tv14s.xyz:8080/live/37376578/37376578/325957.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Indiana Fever  vs  New York Liberty
-http://tv14s.xyz:8080/live/37376578/37376578/325958.m3u8
+# --- WNBA (5) ---
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Washington Mystics at New York Liberty Jun 14 3:00PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326489.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Atlanta Dream at Toronto Tempo Jun 14 3:00PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/326490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: 7:30PM Dallas vs Atlanta
+http://tv14s.xyz:8080/live/37376578/37376578/326491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: 7:30PM Golden State vs Indiana
+http://tv14s.xyz:8080/live/37376578/37376578/326492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: 10PM Connecticut vs Seattle
+http://tv14s.xyz:8080/live/37376578/37376578/326493.m3u8
 
 # --- World Cup 2026 (6) ---
 #EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Event 01:
@@ -102805,4 +102827,4 @@ http://tv14s.xyz:8080/live/37376578/37376578/326081.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Event 06
 http://tv14s.xyz:8080/live/37376578/37376578/326237.m3u8
 
-# Total: 51361
+# Total: 51370

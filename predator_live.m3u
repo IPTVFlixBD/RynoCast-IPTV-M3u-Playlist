@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-13 19:34:53
+# Generated: 2026-06-15 09:02:45
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -8709,7 +8709,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (157) ---
+# --- World Sports (160) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026  RTK 1
@@ -8724,6 +8724,12 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85888.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 3 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball Tv 1 FIFA 2026 UHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball Tv 2 FIFA 2026 UHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball Tv 3 FIFA 2026 UHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85892.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -9025,4 +9031,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4482
+# Total: 4485
