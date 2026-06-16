@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-16 09:00:23
+# Generated: 2026-06-16 22:27:29
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -13617,7 +13617,13 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (10) ---
+# --- Movies | AR | كأس العالم 2026 (13) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a313af02da55.jpg" group-title="Movies | AR | كأس العالم 2026",اسبانيا ضد الراس الاخضر (16-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/657951.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3133caad88d.jpg" group-title="Movies | AR | كأس العالم 2026",السعودية ضد الاوروغواي (16-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/657950.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a313348b3b99.jpg" group-title="Movies | AR | كأس العالم 2026",مصر ضد بلجيكا (15-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/657948.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2fdff5843be.jpg" group-title="Movies | AR | كأس العالم 2026",تونس ضد السويد (15-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/657932.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a2fdec8322f9.jpg" group-title="Movies | AR | كأس العالم 2026",الكوديفوار ضد الاكوادور (15-06-2026)
@@ -80035,4 +80041,4 @@ http://allone8k.info:8080/series/hany/hany1234/6976
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Zero Chill
 http://allone8k.info:8080/series/hany/hany1234/6977
 
-# Total: 39799
+# Total: 39802

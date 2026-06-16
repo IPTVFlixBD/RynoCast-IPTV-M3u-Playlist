@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-06-16 08:54:55
+# Generated: 2026-06-16 22:28:45
 # Expires: 2026-07-21
 # Family Safe Edition
 # ==============================================
@@ -8011,7 +8011,7 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/46748.mkv
 #EXTINF:-1 tvg-logo="TMDB_IMAGE" group-title="Movies | Johan Falk",Johan Falk 17: Slutet [2015]
 http://45.139.122.199:8080/movie/Christian1/Christian1/46749.mkv
 
-# --- Movies | Kids Movies (1033) ---
+# --- Movies | Kids Movies (1034) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJBXUPn0KeMpXLmQrvAovue40Il.jpg" group-title="Movies | Kids Movies",Bamse och havets hemlighet [KIDS] [MULTI-SUB] [2025]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2358687.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87t75BDt2UC7efcaCcgHjF88dAI.jpg" group-title="Movies | Kids Movies",Pocahontas II: Resan till en annan värld [KIDS] [MULTI-AUDIO] [1998]
@@ -10072,6 +10072,8 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2397218.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2406736.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKI6pWb7FGhGXi5ksF6DQbbJr1N.jpg" group-title="Movies | Kids Movies",The Polar Bear Prince [KIDS] [MULTI-AUDIO] [2024]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2440220.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/le7Lc7jmi5z9ro4SRcJLeJevo2r.jpg" group-title="Movies | Kids Movies",The Super Elfkins [KIDS] [MULTI-AUDIO] [2024]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2443560.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZb8KzZl2lUZMEwDKGTFQo33o8O.jpg" group-title="Movies | Kids Movies",Vem är du, Mamma Mu?Vem är du, Mamma Mu? [KIDS] [MULTI-AUDIO] [2023]
 http://45.139.122.199:8080/movie/Christian1/Christian1/783882.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4CDi7j0CigPT2uB461VsoPOf69.jpg" group-title="Movies | Kids Movies",Ternet Ninja 3 - Checkered Ninja 3 [KIDS] [2025]
@@ -41041,4 +41043,4 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2173473.mkv
 
-# Total: 20490
+# Total: 20491
