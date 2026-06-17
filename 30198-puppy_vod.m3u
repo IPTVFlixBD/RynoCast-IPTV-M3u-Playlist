@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-06-16 22:33:35
+# Generated: 2026-06-17 08:53:47
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -14655,7 +14655,13 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1153160.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - David Attenborough: A Life on Our Planet  (2020)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/603168.mp4
 
-# --- Movies | VOD - ENGLISH 4K (353) ---
+# --- Movies | VOD - ENGLISH 4K (356) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - The Hobbit: The Desolation of Smaug (2013) 4K
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1396249.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - The Hobbit: The Battle of the Five Armies (2014) 4K
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1396248.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - The Hobbit: An Unexpected Journey (2012) 4K
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1396247.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg" group-title="Movies | VOD - ENGLISH 4K",4K - Signal One (2026)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1393926.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="Movies | VOD - ENGLISH 4K",4K - Office Romance (2026)
@@ -47289,4 +47295,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23606
+# Total: 23609

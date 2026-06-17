@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-16 22:30:49
+# Generated: 2026-06-17 08:50:46
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1189,7 +1189,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1626) ---
+# --- Movies | Films (1629) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/czMJ6rsqJZFt01eGUT5n0DXoCEd.jpg" group-title="Movies | Films",Pressure (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28661.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Movies | Films",Bhooth Bangla (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28660.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/heuxC7OhpbMFUqCrXL3OmFTmjz8.jpg" group-title="Movies | Films",Le garçon de la piscine (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28632.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ys6twzUhtNacnnhXTnHFZTMiOPM.jpg" group-title="Movies | Films",L'infiltrée (2026)
@@ -1424,6 +1428,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ubjOy1unPvqjSIt3G6sRuX92FN.jpg" group-title="Movies | Films",Gangs of Copenhagen (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28659.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iyQ1VNMSNF6lDSXlj8KeAG7q3Wo.jpg" group-title="Movies | Films",Les Enfants de Gaza (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28652.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ja12cOsl34748V1dBUgWdMZ60Wo.jpg" group-title="Movies | Films",The Mastermind (2025)
@@ -8303,4 +8309,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1208
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Hack
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1209
 
-# Total: 4118
+# Total: 4121

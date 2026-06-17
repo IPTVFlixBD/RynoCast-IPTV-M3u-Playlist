@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-06-16 22:37:15
+# Generated: 2026-06-17 08:58:15
 # Expires: 2026-06-26
 # Family Safe Edition
 # ==============================================
@@ -445,11 +445,13 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/206776.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg" group-title="Movies | ACTION",Southpaw (2015)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/207203.mp4
 
-# --- Movies | APPLE (2) ---
+# --- Movies | APPLE (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE",Your Friends & Neighbors
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2700.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE",Star City
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2706.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | APPLE",Pluribus
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2709.mp4
 
 # --- Movies | Action (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Raw
@@ -7735,4 +7737,4 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2673.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",Gunsmoke
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2704.mp4
 
-# Total: 3819
+# Total: 3820

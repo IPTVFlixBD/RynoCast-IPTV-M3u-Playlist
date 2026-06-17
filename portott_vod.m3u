@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-16 22:37:06
+# Generated: 2026-06-17 08:58:43
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -1103,7 +1103,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22570.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - COMEDIE [FR]",FR - Alf (1986) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22594.mp4
 
-# --- Movies | SRS - CRIME/MYSTERE [FR] (235) ---
+# --- Movies | SRS - CRIME/MYSTERE [FR] (236) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRIME/MYSTERE [FR]",FR - Toronto: Section Criminelle (2024) (CA)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33654.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRIME/MYSTERE [FR]",FR - The Hack (2025) (GB)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33640.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRIME/MYSTERE [FR]",FR - Then You Run (2023) (GB)
@@ -2349,7 +2351,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/21184.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DISNEY+ [MULTISUB]",EN - Terapia Alternativa (2021)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/14510.mp4
 
-# --- Movies | SRS - DOCUMENTAIRES [FR] (162) ---
+# --- Movies | SRS - DOCUMENTAIRES [FR] (163) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTAIRES [FR]",FR - American Monster (2016) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33653.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTAIRES [FR]",FR - L'affaire Moloch (2025) (CZ)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33207.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTAIRES [FR]",FR - Sur la Terre des Dinosaures (2025) (GB)
@@ -5163,7 +5167,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22700.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - LATINO [ES]",LAT - ¿Qué pasaría si...?
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22706.mp4
 
-# --- Movies | SRS - MANGA [FR] (218) ---
+# --- Movies | SRS - MANGA [FR] (219) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - MANGA [FR]",FR - Super Cube (2025) (CN)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33655.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - MANGA [FR]",FR - Wandance (2025) (JP)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33475.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - MANGA [FR]",FR - Toriko (2011) (JP)
@@ -26159,7 +26165,21 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1036463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGueu0lvOJGgJBUj2G8RKeNeLZi.jpg" group-title="Movies | VOD - ACTION [EN]",EN - Undefeatable (1993)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1036465.mp4
 
-# --- Movies | VOD - ACTION [FR] (227) ---
+# --- Movies | VOD - ACTION [FR] (234) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyQi3cpOunqKrz8Jfr9OHeOxxsu.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Tron (1982)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396279.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6EScBmwfDDdnqIklj4ctUqhoIk.jpg" group-title="Movies | VOD - ACTION [FR]",FR - The Punisher (2004)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396278.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ47R21ZGNTGr5ORxdMmxQWdcFn.jpg" group-title="Movies | VOD - ACTION [FR]",FR - The Amazing Spider-Man : Le Destin d'un héros (2014)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396275.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qqdpyYVnU5zY5KsTKCIp5gpZoV.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Le Guerrier d'acier (1996)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396274.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oae9FJMWfvobqbl0CvXqqCftvU.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Pearl Harbor (2001)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396273.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akjTmavoHlVtFjN4pUuOCOQp4x4.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Les Comancheros (1961)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396272.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sctOjRLAm9GuryxjUyfp5YLuZ4W.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Hors de contrôle (2010)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396269.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukM1etTRFjnYWS57DGjQgIc9rki.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Daylight (1996)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1390237.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="Movies | VOD - ACTION [FR]",FR - Icefall (2025) VSTFR
@@ -26893,7 +26913,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029425.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGeCXy65Dw58Y1UBmSURedCjTVw.jpg" group-title="Movies | VOD - AMAZON PRIME [NL]",NL - Saltburn (2023)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1030056.mp4
 
-# --- Movies | VOD - ANIME [FR] (202) ---
+# --- Movies | VOD - ANIME [FR] (203) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYmHe0cSxUd3RVj2KY7CLqFe6eq.jpg" group-title="Movies | VOD - ANIME [FR]",FR - Arthur 3 : La guerre des deux mondes (2010)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396268.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA3fobuOC4joIXPA65F5YhJ7Cgg.jpg" group-title="Movies | VOD - ANIME [FR]",FR - Fievel et le nouveau monde (1986)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1385541.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfN3ccHj27sBrxzOkJdBFrQWBvO.jpg" group-title="Movies | VOD - ANIME [FR]",FR - Sirocco et le Royaume des courants d'air (2023)
@@ -29791,7 +29813,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1328027.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbJSB8klfxgvKylxO91vNrcWh4k.jpg" group-title="Movies | VOD - CHRISTMAS MOVIES [EN]",EN - #WorstChristmasEver (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1326522.mp4
 
-# --- Movies | VOD - COMEDIE [FR] (141) ---
+# --- Movies | VOD - COMEDIE [FR] (143) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg" group-title="Movies | VOD - COMEDIE [FR]",FR - The Meteor Man (1993)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396277.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evrbB9qFWPgX3G9ZC5ljHRugc4b.jpg" group-title="Movies | VOD - COMEDIE [FR]",FR - La Cage dorée (2013)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396271.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mfnxGRTS8TMjhhoKMTM1RlVAQQ.jpg" group-title="Movies | VOD - COMEDIE [FR]",FR - Le Secret de Khéops (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1394416.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHWO8OlW9TXONFDn4TGYKz5kC52.jpg" group-title="Movies | VOD - COMEDIE [FR]",FR - Striptease (1996)
@@ -35691,7 +35717,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1021898.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56jjV6Apak0BADR8Mb73Xdq3sCw.jpg" group-title="Movies | VOD - DRAMA-FILMS [NL]",NL - 집으로... (2002)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022120.mkv
 
-# --- Movies | VOD - DRAME [FR] (100) ---
+# --- Movies | VOD - DRAME [FR] (101) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzsqKEg9gB7VaGOvcFRnVMmFg4A.jpg" group-title="Movies | VOD - DRAME [FR]",FR - El Dorado (1966)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396270.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpUkx4nxuH9ssoTi4NLunlRcXgu.jpg" group-title="Movies | VOD - DRAME [FR]",FR - Qui brille au combat (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1380883.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yxwpcK0OHR0fBB6CBS80YWHoAC.jpg" group-title="Movies | VOD - DRAME [FR]",FR - La Condition (2025)
@@ -35893,7 +35921,13 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/640244.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhDaVAGJjrl0RnMGTxxXYgFJgZr.jpg" group-title="Movies | VOD - DRAME [FR]",FR - À quel prix ?  (2021)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/606758.mkv
 
-# --- Movies | VOD - ENGLISH 4K (353) ---
+# --- Movies | VOD - ENGLISH 4K (356) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - The Hobbit: The Desolation of Smaug (2013) 4K
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396249.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - The Hobbit: The Battle of the Five Armies (2014) 4K
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396248.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - The Hobbit: An Unexpected Journey (2012) 4K
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396247.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg" group-title="Movies | VOD - ENGLISH 4K",4K - Signal One (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1393926.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="Movies | VOD - ENGLISH 4K",4K - Office Romance (2026)
@@ -39165,7 +39199,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023225.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajkaRATrHph2NgXNYIL2UDhRCdO.jpg" group-title="Movies | VOD - HBO MAX [NL]",NL - 余命10年 (2022)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023215.mkv
 
-# --- Movies | VOD - HORREUR [FR] (73) ---
+# --- Movies | VOD - HORREUR [FR] (74) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/er8aMOEndXZ9MoPmVRHeZ63wPPb.jpg" group-title="Movies | VOD - HORREUR [FR]",FR - American Nightmare 4 : Les origines (2018)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396276.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnZwzv8yCU27nNnMnquyo9n9cR3.jpg" group-title="Movies | VOD - HORREUR [FR]",FR - Van Helsing (2004)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1386724.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPRoBl2iaE2RIIFkUfwgXWSuBy9.jpg" group-title="Movies | VOD - HORREUR [FR]",FR - Shark Terror (2025)
@@ -112169,4 +112205,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 55974
+# Total: 55992
