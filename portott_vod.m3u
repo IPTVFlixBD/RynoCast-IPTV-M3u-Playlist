@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-18 08:53:10
+# Generated: 2026-06-18 20:54:10
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -108755,7 +108755,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/818911.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" group-title="Movies | VOD - SPAIN [ES]",ES - Underworld - (2003)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/818283.mkv
 
-# --- Movies | VOD - SPORT [EN] (383) ---
+# --- Movies | VOD - SPORT [EN] (384) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bkunLw8kI13A7aPIjduoUleQ9b.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC Freedom 250: Topuria vs. Gaethje (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396486.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zpqc3Zz84L45nYSyuNAKOmkDBg.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Tommy Fury vs. Eddie Hall (Prelims) (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1395087.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0nnlOtTt_k3b1yJE72noj76GvofBfXG2_Q&s" group-title="Movies | VOD - SPORT [EN]",EN - Stephen McKenna vs. Casey James Streeter (2026)
@@ -112245,4 +112247,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56012
+# Total: 56013

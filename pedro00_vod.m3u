@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-06-17 20:54:46
+# Generated: 2026-06-18 20:51:25
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -1101,7 +1101,11 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860094.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Va3oO3oYUdOd75zM57Nx1976a.jpg" group-title="Movies | |MULTI| DISNEY+ MOVIES",MULTI | Eenie Meanie (2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/917535.mkv
 
-# --- Movies | |MULTI| HBO MAX (128) ---
+# --- Movies | |MULTI| HBO MAX (130) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| They Will Kill You (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393364.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| HBO MAX",|MULTI| Godzilla x Kong: The New Empire (2024)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393365.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| The Menu (2022)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156789.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1T0kO1cgR430AC9I6jurMOezKwg.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| The Rats: A Witcher Tale (2025)
@@ -1359,10 +1363,14 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156677.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| Bad Boys (1995)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156678.mkv
 
-# --- Movies | |MULTI| NETFLIX (616) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Maternal Instinct (2026)
+# --- Movies | |MULTI| NETFLIX (621) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| 29 (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393341.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Bhooth Bangla (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393340.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| Maternal Instinct (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393330.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Colors of Evil: Black (2026)
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| Colors of Evil: Black (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393329.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",NOID-Pushpa 2 The Rule (Reloaded Version) (2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2200913.mkv
@@ -1372,10 +1380,16 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2200912.mkv
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2200763.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",NOID-Pokemon The Arceus Chronicles ( ) (2022)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2200762.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| I Am Frankelda (2025)
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| I Am Frankelda (2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Mahavatar Narsimha (2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393328.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bwRoU9p5GvjxgPfmIgsfcJ4ydng.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Jolly LLB 3 (2025)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393347.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Sonic the Hedgehog 3 (2024)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393349.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| Hello, Goodbye, and Everything in Between (2022)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393348.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Mona Lisa Smile (2003)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393327.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Mask of Zorro (1998)
@@ -2594,7 +2608,7 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2026954.mkv
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2027556.mkv
 
 # --- Movies | |MULTI| PRIME AMAZON (171) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| A Family of Bastards (2026)
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| A Family of Bastards (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393333.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| They Will Kill You (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393027.mkv
@@ -2610,7 +2624,7 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317510.mkv
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317515.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xlzjUlCmWyz28aOTJ7INfTLqiqt.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Lady Outlaw (2024)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2319755.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Godzilla x Kong: The New Empire (2024)
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Godzilla x Kong: The New Empire (2024)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393028.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dEk0kC7uq54g7cVheQBgiAcCuNH.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Ivanna (2022)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317528.mkv
@@ -2937,4 +2951,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317543.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2J9QEqdJWjL2etOf6Kf7n33PUK4.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Hang 'em High (1968)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2318452.mkv
 
-# Total: 1456
+# Total: 1463

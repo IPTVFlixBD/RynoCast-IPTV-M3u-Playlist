@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-18 08:47:48
+# Generated: 2026-06-18 20:57:37
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -13619,7 +13619,15 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (16) ---
+# --- Movies | AR | كأس العالم 2026 (20) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a33f3ec0d7e3.jpg" group-title="Movies | AR | كأس العالم 2026",النمسا ضد الاردن (17-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658162.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a33ec4043606.jpg" group-title="Movies | AR | كأس العالم 2026",غانا ضد بنما (18-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658161.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a33dc2c497fe.jpg" group-title="Movies | AR | كأس العالم 2026",انجلترا ضد كرواتيا (18-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658160.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a33d92f2b7f1.jpg" group-title="Movies | AR | كأس العالم 2026",البرتغال ضد الكونغو الديموقراطية (17-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658155.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a328aa9aec46.jpg" group-title="Movies | AR | كأس العالم 2026",فرنسا ضد السنغال (16-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/657979.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3280bf724ab.jpg" group-title="Movies | AR | كأس العالم 2026",الارجنتين ضد الجزائر (17-06-2026)
@@ -80031,4 +80039,4 @@ http://allone8k.info:8080/series/hany/hany1234/6553
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",7SEEDS
 http://allone8k.info:8080/series/hany/hany1234/6552
 
-# Total: 39797
+# Total: 39801

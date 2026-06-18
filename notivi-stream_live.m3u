@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-18 08:52:20
+# Generated: 2026-06-18 20:54:38
 # Expires: 2026-10-13
 # Family Safe Edition
 # ==============================================
@@ -707,4 +707,16 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - SPORT | MAGENTA SPORT 17 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123194.m3u8
 
-# Total: 336
+# --- [ ÖSTERREICH SKY ] (5) ---
+#EXTINF:-1 tvg-logo="" group-title="[ ÖSTERREICH SKY ]",AU- SKY SPORT 1 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ ÖSTERREICH SKY ]",AU- SKY SPORT 2 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ ÖSTERREICH SKY ]",AU- SKY SPORT 3 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ ÖSTERREICH SKY ]",AU- SKY SPORT 4 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ ÖSTERREICH SKY ]",AU- SKY SPORT 5 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137528.m3u8
+
+# Total: 341
