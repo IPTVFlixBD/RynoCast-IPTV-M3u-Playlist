@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-06-17 20:55:52
+# Generated: 2026-06-18 08:53:25
 # Expires: 2026-09-14
 # Family Safe Edition
 # ==============================================
@@ -1693,7 +1693,7 @@ http://tv14s.xyz:8080/live/37376578/37376578/56410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",US Latin Hola TV (A)
 http://tv14s.xyz:8080/live/37376578/37376578/139757.m3u8
 
-# --- MLB (44) ---
+# --- MLB (47) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://tv14s.xyz:8080/live/37376578/37376578/323887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
@@ -1758,30 +1758,36 @@ http://tv14s.xyz:8080/live/37376578/37376578/324259.m3u8
 http://tv14s.xyz:8080/live/37376578/37376578/324260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Washington Nationals
 http://tv14s.xyz:8080/live/37376578/37376578/324262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: San Diego Padres VS Baltimore Orioles (Baltimore Orioles Feed ) @ 13:35
-http://tv14s.xyz:8080/live/37376578/37376578/326449.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: San Diego Padres VS Baltimore Orioles (San Diego Padres Feed ) @ 13:35
-http://tv14s.xyz:8080/live/37376578/37376578/326450.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Arizona Diamondbacks VS Cincinnati Reds (Arizona Diamondbacks Feed ) @ 13:40
-http://tv14s.xyz:8080/live/37376578/37376578/326453.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Detroit Tigers VS Cleveland Guardians (Detroit Tigers Feed ) @ 13:40
-http://tv14s.xyz:8080/live/37376578/37376578/326454.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Atlanta Braves VS New York Mets (New York Mets Feed ) @ 13:40
-http://tv14s.xyz:8080/live/37376578/37376578/326455.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Houston Astros VS Kansas City Royals (Houston Astros Feed ) @ 14:10
-http://tv14s.xyz:8080/live/37376578/37376578/326456.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Los Angeles Dodgers VS Chicago White Sox (Los Angeles Dodgers Feed ) @ 14:10
-http://tv14s.xyz:8080/live/37376578/37376578/326457.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Los Angeles Dodgers VS Chicago White Sox (Chicago White Sox Feed ) @ 14:10
-http://tv14s.xyz:8080/live/37376578/37376578/326458.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Philadelphia Phillies VS Milwaukee Brewers (Philadelphia Phillies Feed ) @ 14:10
-http://tv14s.xyz:8080/live/37376578/37376578/326459.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Colorado Rockies VS Athletics (Athletics Feed ) @ 15:05
-http://tv14s.xyz:8080/live/37376578/37376578/326460.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Colorado Rockies VS Athletics (Colorado Rockies Feed ) @ 15:05
-http://tv14s.xyz:8080/live/37376578/37376578/326461.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Tampa Bay Rays VS Los Angeles Angels (Los Angeles Angels Feed ) @ 16:07
-http://tv14s.xyz:8080/live/37376578/37376578/326462.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: New York Mets VS Cincinnati Reds (New York Mets Feed ) @ 12:40
+http://tv14s.xyz:8080/live/37376578/37376578/326573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: San Francisco Giants VS Atlanta Braves (San Francisco Giants Feed ) @ 14:05
+http://tv14s.xyz:8080/live/37376578/37376578/326574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: Detroit Tigers VS Houston Astros (Detroit Tigers Feed ) @ 14:10
+http://tv14s.xyz:8080/live/37376578/37376578/326575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Detroit Tigers VS Houston Astros (Houston Astros Feed ) @ 14:10
+http://tv14s.xyz:8080/live/37376578/37376578/326576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: San Diego Padres VS St. Louis Cardinals (San Diego Padres Feed ) @ 14:15
+http://tv14s.xyz:8080/live/37376578/37376578/326577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Tampa Bay Rays VS Los Angeles Dodgers (Los Angeles Dodgers Feed ) @ 15:10
+http://tv14s.xyz:8080/live/37376578/37376578/326578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Los Angeles Angels VS Arizona Diamondbacks (Arizona Diamondbacks Feed ) @ 15:40
+http://tv14s.xyz:8080/live/37376578/37376578/326579.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Los Angeles Angels VS Arizona Diamondbacks (Los Angeles Angels Feed ) @ 15:40
+http://tv14s.xyz:8080/live/37376578/37376578/326580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Chicago White Sox VS New York Yankees (Chicago White Sox Feed ) @ 19:05
+http://tv14s.xyz:8080/live/37376578/37376578/326583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: San Francisco Giants VS Atlanta Braves (San Francisco Giants Feed ) @ 19:15
+http://tv14s.xyz:8080/live/37376578/37376578/326584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Colorado Rockies VS Chicago Cubs (Chicago Cubs Feed ) @ 20:05
+http://tv14s.xyz:8080/live/37376578/37376578/326585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Colorado Rockies VS Chicago Cubs (Colorado Rockies Feed ) @ 20:05
+http://tv14s.xyz:8080/live/37376578/37376578/326586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: Pittsburgh Pirates VS Athletics (Athletics Feed ) @ 21:40
+http://tv14s.xyz:8080/live/37376578/37376578/326587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 16: Pittsburgh Pirates VS Athletics (Pittsburgh Pirates Feed ) @ 21:40
+http://tv14s.xyz:8080/live/37376578/37376578/326588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 17: Baltimore Orioles VS Seattle Mariners (Baltimore Orioles Feed ) @ 21:40
+http://tv14s.xyz:8080/live/37376578/37376578/326589.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -102777,4 +102783,4 @@ http://tv14s.xyz:8080/live/37376578/37376578/326081.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Cup 2026",Event 06
 http://tv14s.xyz:8080/live/37376578/37376578/326237.m3u8
 
-# Total: 51345
+# Total: 51348

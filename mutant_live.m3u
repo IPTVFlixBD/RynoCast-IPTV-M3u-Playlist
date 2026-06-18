@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-06-17 20:53:06
+# Generated: 2026-06-18 08:51:27
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -22100,7 +22100,7 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965283.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | ALPHA
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965282.m3u8
-#EXTINF:-1 tvg-logo="https://stream.mrxtx.one/logo/1465566" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | ALPHA CY
+#EXTINF:-1 tvg-logo="" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | ALPHA CY
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/968610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | ALPHA SAT
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/992033.m3u8
@@ -22116,7 +22116,7 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965092.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | MEGA NEWS
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965289.m3u8
-#EXTINF:-1 tvg-logo="https://stream.mrxtx.one/logo/1055272" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | MEGA COSMOS
+#EXTINF:-1 tvg-logo="" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | MEGA COSMOS
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/992034.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | GENERAL | ΓΕΝΙΚΑ",GR | OPEN BEYOND
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965284.m3u8
@@ -22205,9 +22205,13 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/962314.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | KIDS | ΠΑΙΔΙΚΑ",GR | MAGIC TV
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965457.m3u8
 
-# --- GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ (71) ---
+# --- GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ (72) ---
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ✦●✦● LOCAL ● ΠΕΡΙΦΕΡΕΙΑΚΑ ●✦●✦
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | STAR Κεντρικής Ελλάδας
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1026508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965766.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ΚΡΗΤΗ TV (KRITI TV)
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965442.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | TV CRETA
@@ -22218,6 +22222,8 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/962620.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | IONIAN CHANNEL
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ΝΑΥΤΕΜΠΟΡΙΚΗ (NAFTEMPORIKI)
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965096.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ART TV
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/962815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | DION TV
@@ -22240,8 +22246,6 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965075.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965099.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ΕΓΝΑΤΙΑ (EGNATIA)
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965098.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ΝΑΥΤΕΜΠΟΡΙΚΗ (NAFTEMPORIKI)
-http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965096.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ΑΧΕΛΩΟΣ (ACHELOOS TV)
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965094.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | HIGH TV
@@ -22284,10 +22288,6 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965104.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | TV KOSMOS
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | STAR Κεντρικής
-http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1026508.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
-http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965766.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | STENT
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/965769.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | CHOICE TV
@@ -22348,6 +22348,8 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1026693.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1027417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | ALFA
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1028126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR | LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",GR | AIGAIO TV
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1050192.m3u8
 
 # --- GR | MUSIC | ΜΟΥΣΙΚΗ (18) ---
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="GR | MUSIC | ΜΟΥΣΙΚΗ",GR | ✦●✦● MUSIC ● ΜΟΥΣΙΚΗ ●✦●✦
@@ -30326,19 +30328,19 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1015241.m3u8
 # --- NL | FIGHTCLUB PPV (11) ---
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",PPV | EVENT
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/341913.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",12-06 | ONE CHAMPIONSHIP | ONE FRIDAY FIGHTS 158
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",19-06 | ONE CHAMPIONSHIP | ONE FRIDAY FIGHTS 159
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/391774.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",13-06 | GLORY COLLISION 9 | KROMAH VS. CVJETICANIN
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",05-09 | GLORY 109 | KWASI VS. HRISTOV
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/464891.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",13-06 | GLORY COLLISION 9 | KROMAH VS. CVJETICANIN  | BACK-UP
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",05-09 | GLORY 109 | KWASI VS. HRISTOV | BACK-UP
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/447689.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",13-06 | BOXING | FURY VS. HALL
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/751809.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",14-06 | MATCHROOM BOXING | RODRIGUEZ  VS. VARGAS
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/361328.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",15-06 | UFC FREEDOM 250 | TOPURIA VS. GAETHJE
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",21-06 | UFC FIGHT NIGHT | KAPE VS. HORIGUCHI
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301753.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",15-06 | UFC FREEDOM 250 | TOPURIA VS. GAETHJE | BACK-UP
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",21-06 | UFC FIGHT NIGHT | KAPE VS. HORIGUCHI | BACK-UP
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/472024.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | FIGHTCLUB PPV",20-06 | OKTAGON 90 |  FLEURY VS. ARAS
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/795490.m3u8
@@ -56303,4 +56305,4 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301591.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="✦●✦● INFORMATION ✦●✦●",✦●✦● BOXING ✦●✦●
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301588.m3u8
 
-# Total: 27696
+# Total: 27697
