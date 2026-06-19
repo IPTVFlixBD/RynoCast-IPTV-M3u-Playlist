@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-19 09:37:46
+# Generated: 2026-06-19 20:54:17
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -43303,7 +43303,17 @@ http://allone8k.info:8080/movie/hany/hany1234/416351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" group-title="Movies | EN | MOVIES 23-24",EN: Arthur the King - 2024
 http://allone8k.info:8080/movie/hany/hany1234/402826.mp4
 
-# --- Movies | EN | MOVIES 25-26 (750) ---
+# --- Movies | EN | MOVIES 25-26 (755) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7aBU98usPaaFymldN6IcYRsHZr.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Busboys - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658190.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vim76mMXig00YRxN2iGYJASoGkP.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Extreme Makeover: Homer Edition - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658191.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Hell in Paradise - 2025
+http://allone8k.info:8080/movie/hany/hany1234/658192.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuNToCHZyZybJQ89HSiAR91JEiI.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Never Change! - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658193.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Your Fault: London - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658194.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Agent Zero - 2025
 http://allone8k.info:8080/movie/hany/hany1234/658150.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFdpiH5zh8wMnOckYtwvVDM0SDE.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Find Your Friends - 2025
@@ -80039,4 +80049,4 @@ http://allone8k.info:8080/series/hany/hany1234/6553
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",7SEEDS
 http://allone8k.info:8080/series/hany/hany1234/6552
 
-# Total: 39801
+# Total: 39806
