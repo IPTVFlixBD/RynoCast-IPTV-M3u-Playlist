@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cm1.portaltv.info:777
-# Generated: 2026-06-18 20:56:46
+# Generated: 2026-06-19 09:42:47
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (165) ---
+# --- Albania (163) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -64,10 +64,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5691.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/8.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTV 21 MK.png" group-title="Albania",AL: RTV21 M
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Ferma Vip 1 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Ferma Vip 2 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6145.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Star_TV_logo.png" group-title="Albania",AL: RTV 21 Plus
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/334.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Syri TV.png" group-title="Albania",AL: Syri TV
@@ -1651,7 +1647,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Mega TV HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5930.m3u8
 
-# --- Italy (65) ---
+# --- Italy (63) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/rai1.png" group-title="Italy",IT: Rai 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/648.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/rai2.png" group-title="Italy",IT: Rai 2
@@ -1662,10 +1658,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/650.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/651.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/rai5.png" group-title="Italy",IT: Rai 5
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/652.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Grande Fratello 1
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT:  Grande Fratello 2
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6133.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="Italy",IT: Sky Cinema Due FHD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1353.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="Italy",IT: Sky Cinema Comedy HD
@@ -3265,4 +3257,4 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/505.m3u8
 
-# Total: 1604
+# Total: 1600

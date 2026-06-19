@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cmskos.bekaks.net:777
-# Generated: 2026-06-18 20:51:56
+# Generated: 2026-06-19 09:39:31
 # Expires: 2026-11-30
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (165) ---
+# --- Albania (163) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -64,10 +64,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5691.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/8.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTV 21 MK.png" group-title="Albania",AL: RTV21 M
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Ferma Vip 1 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Ferma Vip 2 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6145.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Star_TV_logo.png" group-title="Albania",AL: RTV 21 Plus
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/334.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Syri TV.png" group-title="Albania",AL: Syri TV
@@ -1651,7 +1647,7 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Mega TV HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5930.m3u8
 
-# --- Italy (65) ---
+# --- Italy (63) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/rai1.png" group-title="Italy",IT: Rai 1
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/648.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/rai2.png" group-title="Italy",IT: Rai 2
@@ -1662,10 +1658,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/650.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/651.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/rai5.png" group-title="Italy",IT: Rai 5
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/652.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Grande Fratello 1
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT:  Grande Fratello 2
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6133.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="Italy",IT: Sky Cinema Due FHD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1353.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="Italy",IT: Sky Cinema Comedy HD
@@ -3265,4 +3257,4 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/505.m3u8
 
-# Total: 1604
+# Total: 1600

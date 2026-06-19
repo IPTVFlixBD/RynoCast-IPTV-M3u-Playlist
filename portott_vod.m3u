@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-18 20:54:10
+# Generated: 2026-06-19 09:39:33
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13717,7 +13717,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3798) ---
+# --- Movies | SRS - NEW ADDED [EN] (3799) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Polygamist (2026) (ZA)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33656.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Goldbergs (2013) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33584.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Roswell (1999) (US)
@@ -60575,7 +60577,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8624) ---
+# --- Movies | VOD - NEW ADDED [EN] (8625) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Roast of Kevin Hart (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396515.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwA7uRchl9ol2RmpkQBlMfqMpV7.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Time of Death (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1396399.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3iJuPCSaJYFbcAqmlTLGn0PMtc.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Reflected Self (2024)
@@ -111745,7 +111749,15 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/22725
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/16970
 
-# --- Series | SRS - SERIES 2026 [FR] (164) ---
+# --- Series | SRS - SERIES 2026 [FR] (168) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - R.J. Decker (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33660
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Outlast : La jungle (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33659
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Excape Island : coincés avec nos ex (2026) (FR)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33658
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Les plus belles destinations avec Antoni Porowski (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33657
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Au fil des années (2026) (US)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/33639
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Viral Hit (2026) (JP)
@@ -112247,4 +112259,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56013
+# Total: 56019

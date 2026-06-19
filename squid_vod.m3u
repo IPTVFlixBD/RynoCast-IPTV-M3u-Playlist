@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-18 20:52:10
+# Generated: 2026-06-19 09:35:50
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -254,6 +254,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1186.mp4
 # --- Movies | Altered Carbon (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Altered Carbon",Altered Carbon
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/107.mp4
+
+# --- Movies | Alti Ustu Istanbul (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Alti Ustu Istanbul",Alti Üstü İstanbul (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1303.mp4
 
 # --- Movies | Always a Witch (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Always a Witch",Always a Witch
@@ -7415,7 +7419,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (151) ---
+# --- Movies | Filme 2026 (153) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA6e4wmyulZn76xBd5Bq29PZwnb.jpg" group-title="Movies | Filme 2026",Yaz Evi (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71275.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | Filme 2026",Sonunda Sen (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71274.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg" group-title="Movies | Filme 2026",Blades of the Guardians - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71218.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="Movies | Filme 2026",Mortal Kombat II - 2026
@@ -20877,4 +20885,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9110
+# Total: 9113
