@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-19 20:45:44
+# Generated: 2026-06-20 08:42:23
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -179,9 +179,11 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/59657.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hchRmyJ2FIkJtoqALWScxGlwu5E.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT DOCU REALITY FILM",Time (2020)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/59658.mkv
 
-# --- Movies | AMAZON PRIME - PARAMOUNT FILM (531) ---
+# --- Movies | AMAZON PRIME - PARAMOUNT FILM (532) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",##### AMAZON PRIME FILM #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/59871.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",The Bayou (2025)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Une Famille de Bâtards (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185092.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e235pLCI0TeW2GL1wL6rVNkieQL.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Over Your Dead Body (2026)
@@ -1569,9 +1571,15 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4612) ---
+# --- Movies | DE | CINEMA VOD (4614) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2JBvN0wvczaEzHIEsddtZzVHqc.jpg" group-title="Movies | DE | CINEMA VOD",Sabbatical (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185338.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhoY7Kragr9TAeodig2oljVYJYT.jpg" group-title="Movies | DE | CINEMA VOD",Andor Hirsch (2025)  DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185337.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gwhQvjjxbX73XvZmCbi6SDDRO1.jpg" group-title="Movies | DE | CINEMA VOD",Verführt von einem Mörder: Die Vicky White Story (2023) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185339.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6s4UIeGYWDuD23iNTPiUmXfrpK.jpg" group-title="Movies | DE | CINEMA VOD",Bad Romance: The Vicky White Story (2023) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185235.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="Movies | DE | CINEMA VOD",Beast (2026) DE
@@ -3152,8 +3160,6 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/159547.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/159352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg" group-title="Movies | DE | CINEMA VOD",Winter Spring Summer or Fall (2024) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/159353.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Movies | DE | CINEMA VOD",The Bayou (2025) DE
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/159334.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZVoA1FuQjovjZSqMT3HqXWzUfG.jpg" group-title="Movies | DE | CINEMA VOD",Fluch aus der Tiefe (2025) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/159331.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne9Yufnlrgf6d6uRPmwI9LFj2v4.jpg" group-title="Movies | DE | CINEMA VOD",La Cocina - Der Geschmack des Lebens (2024) DE
@@ -16131,7 +16137,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/60162.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg" group-title="Movies | NETFLIX ANIME FILM",Xicos Weg (2020)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/60163.mkv
 
-# --- Movies | NETFLIX DOCU REALITY FILM (254) ---
+# --- Movies | NETFLIX DOCU REALITY FILM (255) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg" group-title="Movies | NETFLIX DOCU REALITY FILM",The Plastic Detox – Gesundheitsrisiken durch Mikroplastik (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/179607.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47EblKlcEQ4lHdTVnay4P1d6thf.jpg" group-title="Movies | NETFLIX DOCU REALITY FILM",My Father, the BTK Killer (2025)
@@ -16140,6 +16146,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/168822.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/162766.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX DOCU REALITY FILM",##### NETFLIX DOCU REALITY #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/59870.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="Movies | NETFLIX DOCU REALITY FILM",Maternal Instinct: Der Fall Taylor Parker (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185298.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg" group-title="Movies | NETFLIX DOCU REALITY FILM",Untold UK: Vinnie Jones (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/184519.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg" group-title="Movies | NETFLIX DOCU REALITY FILM",Der Bus: Die Revolte der Les Bleus (2026)
@@ -16641,9 +16649,15 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/87560.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu7X4NbHL8QU4Bs04pCS6rBJbWL.jpg" group-title="Movies | NETFLIX DOCU REALITY FILM",Drei Gleiche Fremde (2018)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/161212.mkv
 
-# --- Movies | NETFLIX FILM (1627) ---
+# --- Movies | NETFLIX FILM (1630) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX FILM",##### NETFLIX FILM #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/59868.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hixCnE9K346ZfASxIfTFp4uUfTH.jpg" group-title="Movies | NETFLIX FILM",Husbands in Action (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185340.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="Movies | NETFLIX FILM",Voicemails for Isabelle (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185341.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg" group-title="Movies | NETFLIX FILM",Farben des Bösen: Schwarz (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185297.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie0evW3npWrB25prNSKOdlEamSd.jpg" group-title="Movies | NETFLIX FILM",Mexiko 1986 (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/184669.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9As3SeWOa3bzCjz3PZ4BKSuabMf.jpg" group-title="Movies | NETFLIX FILM",Office Romance (2026)
@@ -35329,7 +35343,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4126
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT ANIME SERIES",The Boys - Diabolical
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4127
 
-# --- Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES (67) ---
+# --- Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES (68) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES",All or Nothing: Brazil National Team
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/520
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES",All or Nothing: Juventus
@@ -35464,6 +35478,8 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4057
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4129
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES",The Grand-ish Tour
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4130
+#EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES",7 vs. Wild - Wildcard Competition
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4145
 
 # --- Series | AMAZON PRIME - PARAMOUNT SERIES (387) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",4 Blocks
@@ -37167,7 +37183,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4036
 #EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ DOCU REALITY SERIES",Best of the World with Antoni Porowski
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4134
 
-# --- Series | DISNEY+ SERIES (275) ---
+# --- Series | DISNEY+ SERIES (278) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ SERIES",The Walking Dead
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/8
 #EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ SERIES",The Mandalorian
@@ -37718,6 +37734,12 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4138
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4139
 #EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ SERIES",We Were the Lucky Ones
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4140
+#EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ SERIES",Die Breslauer Morde
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4146
+#EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ SERIES",The Dropout
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4147
+#EXTINF:-1 tvg-logo="" group-title="Series | DISNEY+ SERIES",Trust
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4148
 
 # --- Series | EXXEN TV SERIES (72) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | EXXEN TV SERIES",Leyla ile Mecnun (2021)
@@ -39245,7 +39267,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4119
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX ANIME SERIES",Due spicci – Das nötige Kleingeld
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4120
 
-# --- Series | NETFLIX DOCU REALITY SERIES (282) ---
+# --- Series | NETFLIX DOCU REALITY SERIES (283) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX DOCU REALITY SERIES",The Last Dance
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/65
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX DOCU REALITY SERIES",Jimmy Savile: A British Horror Story
@@ -39810,8 +39832,10 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4118
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4121
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX DOCU REALITY SERIES",Michael Jackson: Das Urteil
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4123
+#EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX DOCU REALITY SERIES",Outlast: The Jungle
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4143
 
-# --- Series | NETFLIX SERIES (879) ---
+# --- Series | NETFLIX SERIES (882) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Breaking Bad
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",DE: Tote Mädchen lügen nicht
@@ -41570,6 +41594,12 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4105
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4109
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",The Boroughs
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4122
+#EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Nur für dein Leben
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4141
+#EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Urteilsverlust
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4142
+#EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Teach You a Lesson
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4144
 
 # --- Series | RTL+SERIES (47) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | RTL+SERIES",Reign
@@ -41915,4 +41945,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20886
+# Total: 20901

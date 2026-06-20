@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-18 08:53:22
+# Generated: 2026-06-20 08:36:23
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1189,7 +1189,15 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1629) ---
+# --- Movies | Films (1633) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/th2M8sf8rYRsNMNdzQlM4NmJL7E.jpg" group-title="Movies | Films",Youngblood (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28787.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jn0eeDbMBnCi7VsIJCgnI3RsASL.jpg" group-title="Movies | Films",Give Me Your Hand (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28693.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jGKB0T4Jr75Oktcru6e1um8poWw.jpg" group-title="Movies | Films",N121 Bus de nuit (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28692.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uXGqYv2cahBG062OQ93oMqWQCs5.jpg" group-title="Movies | Films",Le rêve américain (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28691.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/czMJ6rsqJZFt01eGUT5n0DXoCEd.jpg" group-title="Movies | Films",Pressure (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28661.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Movies | Films",Bhooth Bangla (2026)
@@ -4747,9 +4755,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXFOpfRT6BZeJlUFetFQIf9hh.jpg" group-title="Movies | Films Arabe",Waraqat Gameia - 2020
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5524.mp4
 
-# --- Movies | Films Cultes (291) ---
+# --- Movies | Films Cultes (292) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj6gQJf3munMckb05u4OTMe7Ha6.jpg" group-title="Movies | Films Cultes",Commando (1985)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28690.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeSPP5HZGms6ZCISIwM9DiNaOV.jpg" group-title="Movies | Films Cultes",Justice sauvage (1991)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28786.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnR42jxXOWmwrBsn1S9AWRnWNGB.jpg" group-title="Movies | Films Cultes",Opération Portugal - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4052.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUzUir6haXE5dqg5vn6Gyx56g.jpg" group-title="Movies | Films Cultes",Halal police d’État (2011)
@@ -5413,7 +5423,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (490) ---
+# --- Movies | NETFLIX (491) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg" group-title="Movies | NETFLIX",Les Couleurs du mal : Noir (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28561.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcvFncVoRA48mtPXu94kdwRI0C.jpg" group-title="Movies | NETFLIX",L'Inconnue du port (2026)
@@ -6394,6 +6404,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1191.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1201.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Narcos
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1206.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Sur tes traces
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1214.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7681,7 +7693,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1198
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة - Doğanın Kanunu  قانون الطبيعة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1212
 
-# --- Series | Series divers (316) ---
+# --- Series | Series divers (317) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8314,5 +8326,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1207
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1208
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Hack
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1209
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Lady : A Royal Murder Scandal
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1213
 
-# Total: 4124
+# Total: 4131
