@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-20 08:44:48
+# Generated: 2026-06-20 19:45:59
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -14467,7 +14467,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (423) ---
+# --- Movies | Filme Romanesti (424) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6wfbjwfESkGN03YHZAS8UTw5Rf.jpg" group-title="Movies | Filme Romanesti",Caliu: Nicidecum altceva, ce să fac altceva? (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71276.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msmjEUOXH05AI5c6p3oQubJ282I.jpg" group-title="Movies | Filme Romanesti",Băieți de oraș: Golden Boyz (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70695.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1fvzlZ2l4fSfgtDOsYgOzIEIqS.jpg" group-title="Movies | Filme Romanesti",Dragoste la țară (2026)
@@ -18469,6 +18471,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/292.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mr. Robot",Mr. Robot
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/452.mp4
 
+# --- Movies | Muhtemel Ask (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Muhtemel Ask",Muhtemel Aşk (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1304.mp4
+
 # --- Movies | Muhteşem Yüzyıl - Suleiman Magnificul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Muhteşem Yüzyıl - Suleiman Magnificul",Muhteşem Yüzyıl
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/758.mp4
@@ -20885,4 +20891,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9113
+# Total: 9115

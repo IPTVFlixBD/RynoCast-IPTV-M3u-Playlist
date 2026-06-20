@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-06-20 08:36:17
+# Generated: 2026-06-20 19:52:14
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -21379,7 +21379,11 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1021720.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/er8Th8giuf7KHfv5G5HV5ewSCat.jpg" group-title="Movies | VOD - NETFLIX [MULTISUB]",NF - Wedding Games (2023)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1021721.mkv
 
-# --- Movies | VOD - NEW ADDED [EN] (8625) ---
+# --- Movies | VOD - NEW ADDED [EN] (8627) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Rugrats Movie (1998)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1396692.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Voicemails for Isabelle (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1396691.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Roast of Kevin Hart (2026)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1396515.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwA7uRchl9ol2RmpkQBlMfqMpV7.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Time of Death (2025)
@@ -47343,4 +47347,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23633
+# Total: 23635

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-06-20 08:35:28
+# Generated: 2026-06-20 19:42:16
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -43,7 +43,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/382977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="Movies | 4K [VOD]",A Minecraft Movie
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/398367.mkv
 
-# --- Movies | Action [VOD] (1027) ---
+# --- Movies | Action [VOD] (1028) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nl6GQZCjr2Ln5gkYzFXRIvWEdH.jpg" group-title="Movies | Action [VOD]",Doom
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/328061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" group-title="Movies | Action [VOD]",One Fast Move
@@ -2098,6 +2098,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501727.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501795.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8hvt4L3EXWq3ANutok32ODQIGwV.jpg" group-title="Movies | Action [VOD]",Black Dog (1998)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501957.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nL4Cw877UJSzplh1HK9sXuWvDnf.jpg" group-title="Movies | Action [VOD]",The Omro Heist (2025)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502116.mkv
 
 # --- Movies | Adventure [VOD] (281) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
@@ -2663,7 +2665,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501710.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oqOXFP35a2DjxjdpmEaOTIfI5TS.jpg" group-title="Movies | Adventure [VOD]",Black Sea (2014)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501952.mkv
 
-# --- Movies | Animation [VOD] (228) ---
+# --- Movies | Animation [VOD] (229) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r27iDZNaoyLJyKlD8eNchRtvq8C.jpg" group-title="Movies | Animation [VOD]",Resident Evil: Vendetta
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/328096.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBT40NqmBz65WYmIGhDnWcgzPcA.jpg" group-title="Movies | Animation [VOD]",Arthur 3: The War of the Two Worlds
@@ -3120,6 +3122,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/493692.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/500338.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg" group-title="Movies | Animation [VOD]",I Am Frankelda (2025)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501796.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg" group-title="Movies | Animation [VOD]",Hitpig! (2024)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502114.mkv
 
 # --- Movies | Astrid Lindgren [VOD] (12) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QRvDHBNHQ1yR4D7gkFhrzCTAHm.jpg" group-title="Movies | Astrid Lindgren [VOD]",Nya hyss av Emil i Lönneberga
@@ -4606,10 +4610,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/403119.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
-http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -6803,7 +6807,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501951.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg" group-title="Movies | Documentaries [VOD]",Untold UK: Liverpool's Miracle of Istanbul (2026)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501979.mkv
 
-# --- Movies | Drama [VOD] (981) ---
+# --- Movies | Drama [VOD] (982) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/260102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="Movies | Drama [VOD]",Luckiest Girl Alive
@@ -8766,6 +8770,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501971.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502107.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg" group-title="Movies | Drama [VOD]",If I Had Legs I'd Kick You (2025)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502108.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/RBIrEveMOIy5Kxg2WzgMnCIhaN.jpg" group-title="Movies | Drama [VOD]",I Was a Stranger (2025)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502115.mkv
 
 # --- Movies | Falk  [VOD] (5) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el0EbbBsh8zWKYiiuANQxznELr5.jpg" group-title="Movies | Falk  [VOD]",Johan Falk 06: De fredlösa
@@ -10702,10 +10708,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/399006.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/399005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Movies | Julfilmer [VOD]",A Boy Called Christmas (2021)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434381.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
-http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Julfilmer [VOD]",Reisen til julestjernen (2012)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434376.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8JmaKH9dqO1y1hvY617W1pVavnG.jpg" group-title="Movies | Julfilmer [VOD]",Christmas in Pine Valley (2022)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c8FgK92umNLI4KU2WcXoyt8oyrH.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on the Farm (2021)
@@ -12203,7 +12209,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/402031.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg" group-title="Movies | Romance (VOD)",The Perfect Date
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/402718.mkv
 
-# --- Movies | Romantic [VOD] (90) ---
+# --- Movies | Romantic [VOD] (91) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg" group-title="Movies | Romantic [VOD]",Good Luck to You, Leo Grande (2022)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443530.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="Movies | Romantic [VOD]",A Sunday Affair (2023)
@@ -12384,6 +12390,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501673.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501672.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="Movies | Romantic [VOD]",Your Fault: London (2026)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501978.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="Movies | Romantic [VOD]",Voicemails for Isabelle (2026)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502113.mkv
 
 # --- Movies | Sci-Fi & Fantasy [VOD] (322) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Wishmaster 2: Evil Never Dies
@@ -20197,4 +20205,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 10039
+# Total: 10043

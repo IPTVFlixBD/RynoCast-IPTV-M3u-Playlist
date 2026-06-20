@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: line.mytvzone.xyz:80
-# Generated: 2026-06-20 08:36:18
+# Generated: 2026-06-20 19:53:08
 # Expires: 2027-03-30
 # Family Safe Edition
 # ==============================================
@@ -1353,21 +1353,15 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/106064.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/lpc.png" group-title="IT ▎SPORT",IT ▎LPC PIACENZA
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/106066.m3u8
 
-# --- MOTO GP (7) ---
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV NO COMMENTARY HD
+# --- MOTO GP (4) ---
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV LIVE TRACKING
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567411.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV COMMENTTARY HD
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV LIVE TIMING
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567412.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV LIVE TRACKING HD
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV HELICOPTER
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567413.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV MAIN EVENT
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567410.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV ONBOARD 1 HD
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567414.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV ONBOARD 2 HD
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567415.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV ONBOARD 3 HD
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567416.m3u8
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//f1tv.png" group-title="MOTO GP",MGP ▎MGP TV ONBOARD 4 HD
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/567417.m3u8
 
 # --- MULTI  ▎ VIAPLAY (49) ---
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="MULTI  ▎ VIAPLAY",MULTI ▎VIAPLAY XTRA 1 HD
@@ -4075,4 +4069,4 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1837308.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",WC ▎WC26 REPLAY 15 HD
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1837309.m3u8
 
-# Total: 1984
+# Total: 1981
