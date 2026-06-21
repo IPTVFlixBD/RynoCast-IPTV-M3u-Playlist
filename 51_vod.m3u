@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-20 08:42:23
+# Generated: 2026-06-21 19:53:19
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1571,9 +1571,11 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4614) ---
+# --- Movies | DE | CINEMA VOD (4615) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aaV365bjSxPMZdT18RybAYGqSp.jpg" group-title="Movies | DE | CINEMA VOD",Disclosure Day - Der Tag der Wahrheit (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185344.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2JBvN0wvczaEzHIEsddtZzVHqc.jpg" group-title="Movies | DE | CINEMA VOD",Sabbatical (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185338.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhoY7Kragr9TAeodig2oljVYJYT.jpg" group-title="Movies | DE | CINEMA VOD",Andor Hirsch (2025)  DE
@@ -21313,7 +21315,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/175405.mkv
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NykGq9U_nvHcnlz53nrNy0irTr3mu7ZG9_l2LrC9oP-9UH81gs-sVcoups3fYUyD4M6otuNdQQ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies | TR | MASTERCHEF TURKiYE",MASTERCHEF TÜRKiYE 18.01.2026
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/175422.mkv
 
-# --- Movies | TR | SURVIVOR 2026 (144) ---
+# --- Movies | TR | SURVIVOR 2026 (145) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ailcwsm.jpg" group-title="Movies | TR | SURVIVOR 2026",##### SURVIVOR 2026 #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/130519.mkv
 #EXTINF:-1 tvg-logo="https://iaahbr.tmgrup.com.tr/087a12/0/0/0/0/0/0?u=https://iahbr.tmgrup.com.tr/album/2025/12/31/2026-survivor-ne-zaman-basliyor-survivor-unluler-ve-gonulluler-yarismacilari-kimler-1767190230912.jpg&mw=752&mh=700" group-title="Movies | TR | SURVIVOR 2026",SURVIVOR 1.BÖLÜM
@@ -21602,6 +21604,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185108.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185233.mkv
 #EXTINF:-1 tvg-logo="https://iaahbr.tmgrup.com.tr/087a12/0/0/0/0/0/0?u=https://iahbr.tmgrup.com.tr/album/2025/12/31/2026-survivor-ne-zaman-basliyor-survivor-unluler-ve-gonulluler-yarismacilari-kimler-1767190230912.jpg&mw=752&mh=700" group-title="Movies | TR | SURVIVOR 2026",SURVIVOR 143.BÖLÜM
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185244.mkv
+#EXTINF:-1 tvg-logo="https://iaahbr.tmgrup.com.tr/087a12/0/0/0/0/0/0?u=https://iahbr.tmgrup.com.tr/album/2025/12/31/2026-survivor-ne-zaman-basliyor-survivor-unluler-ve-gonulluler-yarismacilari-kimler-1767190230912.jpg&mw=752&mh=700" group-title="Movies | TR | SURVIVOR 2026",SURVIVOR 144.BÖLÜM
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185342.mkv
 
 # --- Movies | TR | TV - SHOW´S VOD (4) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ijb7q8x.jpg" group-title="Movies | TR | TV - SHOW´S VOD",##### TURK TV - SHOW'S#####
@@ -41945,4 +41949,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20901
+# Total: 20903

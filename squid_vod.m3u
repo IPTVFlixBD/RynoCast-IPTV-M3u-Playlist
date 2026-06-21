@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-20 19:45:59
+# Generated: 2026-06-21 19:52:20
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -10781,7 +10781,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9440.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg" group-title="Movies | Filme Aventura (NOU)",Mirror Mirror (2012)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3820.mp4
 
-# --- Movies | Filme Comedie (491) ---
+# --- Movies | Filme Comedie (492) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg" group-title="Movies | Filme Comedie",The One and Only Ivan - 2020
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71317.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pemUf5lKEzgxGebxxMVKL5NHSW.jpg" group-title="Movies | Filme Comedie",Meet the Blacks - 2016
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71158.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg" group-title="Movies | Filme Comedie",Death at a Funeral - 2010
@@ -17247,6 +17249,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/360.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Fortnite x The Simpsons",Fortnite x The Simpsons (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1113.mp4
 
+# --- Movies | Fosse Verdon (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Fosse Verdon",Fosse/Verdon (2019)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1305.mp4
+
 # --- Movies | Foundation (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Foundation",Foundation
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/101.mp4
@@ -18471,6 +18477,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/292.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mr. Robot",Mr. Robot
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/452.mp4
 
+# --- Movies | Mrs America (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mrs America",Mrs. America (2020)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1306.mp4
+
 # --- Movies | Muhtemel Ask (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Muhtemel Ask",Muhtemel Aşk (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1304.mp4
@@ -18606,6 +18616,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/972.mp4
 # --- Movies | Once Upon a Time (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Once Upon a Time",Once Upon a Time
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/491.mp4
+
+# --- Movies | One Dollar Lawyer (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | One Dollar Lawyer",One Dollar Lawyer (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1307.mp4
 
 # --- Movies | One Hundred Years of Solitude (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | One Hundred Years of Solitude",One Hundred Years of Solitude
@@ -20891,4 +20905,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9115
+# Total: 9119
