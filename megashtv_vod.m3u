@@ -1,15 +1,17 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: megashtv.digital:8080
-# Generated: 2026-06-21 19:54:32
+# Generated: 2026-06-22 09:02:38
 # Expires: 2027-05-18
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Deutsche Serien (47) ---
+# --- Movies | Deutsche Serien (48) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",=====Deutsche Serien=====
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Nur für dein Leben (2026)
+http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/301.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Dutton Ranch (2026) DE
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/296.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Marshals - A Yellowstone Story (2026) DE
@@ -2623,9 +2625,11 @@ http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (206) ---
+# --- Movies | Seriale me titra Shqip (207) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",I Will Find You (2026)
+http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/302.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Dutton Ranch (2026)
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/297.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Berlin and the Lady with an Ermine (2026)
@@ -9173,4 +9177,4 @@ http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
 http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/258
 
-# Total: 4572
+# Total: 4574

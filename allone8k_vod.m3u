@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-21 19:56:20
+# Generated: 2026-06-22 08:53:34
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -13619,7 +13619,17 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (28) ---
+# --- Movies | AR | كأس العالم 2026 (33) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a38855190320.jpg" group-title="Movies | AR | كأس العالم 2026",اسبانيا ضد السعودية (21-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658263.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3887d417143.jpg" group-title="Movies | AR | كأس العالم 2026",بلجيكا ضد ايران (22-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658262.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3874fada9d7.jpg" group-title="Movies | AR | كأس العالم 2026",المانيا ضد الكوديفوار (21-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658261.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a387621db8a5.jpg" group-title="Movies | AR | كأس العالم 2026",الإكوادور ضد كوراساو (21-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658259.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a381f00a6c79.jpg" group-title="Movies | AR | كأس العالم 2026",هولندا ضد السويد (21-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658250.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a37e0206a477.jpg" group-title="Movies | AR | كأس العالم 2026",البرازيل ضد هايتي (20-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/658246.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a37e0206a094.jpg" group-title="Movies | AR | كأس العالم 2026",الباراغواي ضد تركيا (20-06-2026)
@@ -80105,4 +80115,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 39834
+# Total: 39839

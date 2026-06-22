@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-21 19:56:20
+# Generated: 2026-06-22 08:53:34
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -4670,8 +4670,6 @@ http://allone8k.info:8080/live/hany/hany1234/237263.m3u8
 http://allone8k.info:8080/live/hany/hany1234/237264.m3u8
 
 # --- AR | MBC Extra 4K (22) ---
-#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
-http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC MIX 4K
 http://allone8k.info:8080/live/hany/hany1234/451357.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC EXTRA 4K
@@ -4700,6 +4698,8 @@ http://allone8k.info:8080/live/hany/hany1234/324919.m3u8
 http://allone8k.info:8080/live/hany/hany1234/324920.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC Comedy 4K
 http://allone8k.info:8080/live/hany/hany1234/324921.m3u8
+#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
+http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC CLASS 4K
 http://allone8k.info:8080/live/hany/hany1234/324922.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC PLUS 4K
@@ -6481,6 +6481,34 @@ http://allone8k.info:8080/live/hany/hany1234/256103.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Watchit_Logo.png" group-title="AR | WATCH iT! ORIGINALS 4K",✪ Watch iT ✪ 10
 http://allone8k.info:8080/live/hany/hany1234/256105.m3u8
 
+# --- AR | YANGO PLAY 4K (13) ---
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY Trend 4K
+http://allone8k.info:8080/live/hany/hany1234/469268.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM EXTRA 4K
+http://allone8k.info:8080/live/hany/hany1234/419410.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY MOHAMAD RAMADAN
+http://allone8k.info:8080/live/hany/hany1234/419097.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY ACTION 01 4K
+http://allone8k.info:8080/live/hany/hany1234/419050.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY ADEL IMAM 02 4K
+http://allone8k.info:8080/live/hany/hany1234/419052.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY ADEL IMAM 01 4K
+http://allone8k.info:8080/live/hany/hany1234/419045.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 01 4K
+http://allone8k.info:8080/live/hany/hany1234/418083.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 02 4K
+http://allone8k.info:8080/live/hany/hany1234/419012.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 03 4K
+http://allone8k.info:8080/live/hany/hany1234/419013.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 04 4K
+http://allone8k.info:8080/live/hany/hany1234/419026.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 05 4K
+http://allone8k.info:8080/live/hany/hany1234/419032.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 06 4K
+http://allone8k.info:8080/live/hany/hany1234/419033.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR | YANGO PLAY 4K",YANGO PLAY AFLAM 07 4K
+http://allone8k.info:8080/live/hany/hany1234/419034.m3u8
+
 # --- AR | YEMEN 4K | اليمن (19) ---
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="AR | YEMEN 4K | اليمن",YEM: Aden  Almostakelah HD
 http://allone8k.info:8080/live/hany/hany1234/420305.m3u8
@@ -6600,34 +6628,6 @@ http://allone8k.info:8080/live/hany/hany1234/643897.m3u8
 http://allone8k.info:8080/live/hany/hany1234/643896.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pixhost.to/images/2809/565732768_ramadan.png" group-title="AR | رمضان يجمعنا ☾",القرآن الكريم ☾ بصوت محمد المنشاوي ☽
 http://allone8k.info:8080/live/hany/hany1234/643895.m3u8
-
-# --- AR |YANGO PLAY 4K (13) ---
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY Trend 4K
-http://allone8k.info:8080/live/hany/hany1234/469268.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM EXTRA 4K
-http://allone8k.info:8080/live/hany/hany1234/419410.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY MOHAMAD RAMADAN
-http://allone8k.info:8080/live/hany/hany1234/419097.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY ACTION 01 4K
-http://allone8k.info:8080/live/hany/hany1234/419050.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY ADEL IMAM 02 4K
-http://allone8k.info:8080/live/hany/hany1234/419052.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY ADEL IMAM 01 4K
-http://allone8k.info:8080/live/hany/hany1234/419045.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 01 4K
-http://allone8k.info:8080/live/hany/hany1234/418083.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 02 4K
-http://allone8k.info:8080/live/hany/hany1234/419012.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 03 4K
-http://allone8k.info:8080/live/hany/hany1234/419013.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 04 4K
-http://allone8k.info:8080/live/hany/hany1234/419026.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 05 4K
-http://allone8k.info:8080/live/hany/hany1234/419032.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 06 4K
-http://allone8k.info:8080/live/hany/hany1234/419033.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acNiny_ncc2eAD1Xya-2VGMTPk5yg6yFmWBTOZIu7UlBs7FWeb-j0QrPxSxXsk5zMD4" group-title="AR |YANGO PLAY 4K",YANGO PLAY AFLAM 07 4K
-http://allone8k.info:8080/live/hany/hany1234/419034.m3u8
 
 # --- AT | AUSTRIA (26) ---
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/3__TV-logo-1556EA3598-seeklogo.com.png" group-title="AT | AUSTRIA",3+ HD AT
@@ -8570,6 +8570,8 @@ http://allone8k.info:8080/live/hany/hany1234/254079.m3u8
 http://allone8k.info:8080/live/hany/hany1234/254388.m3u8
 
 # --- DE | APPLE TV (33) ---
+#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
+http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 01
 http://allone8k.info:8080/live/hany/hany1234/233039.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 02
@@ -8596,8 +8598,6 @@ http://allone8k.info:8080/live/hany/hany1234/233049.m3u8
 http://allone8k.info:8080/live/hany/hany1234/233050.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 13
 http://allone8k.info:8080/live/hany/hany1234/233051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
-http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Fast & Furious
 http://allone8k.info:8080/live/hany/hany1234/233038.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Friends DE S01
@@ -13926,6 +13926,8 @@ http://allone8k.info:8080/live/hany/hany1234/468945.m3u8
 http://allone8k.info:8080/live/hany/hany1234/468946.m3u8
 
 # --- KU | Kurd VIP (61) ---
+#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
+http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] KHAK HD
 http://allone8k.info:8080/live/hany/hany1234/473970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] ZED HD
@@ -14046,8 +14048,6 @@ http://allone8k.info:8080/live/hany/hany1234/473547.m3u8
 http://allone8k.info:8080/live/hany/hany1234/473548.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/aa14593c6bd0c7b542e5f355c5916bb8.png" group-title="KU | Kurd VIP",VIP_KU | Neu TV
 http://allone8k.info:8080/live/hany/hany1234/473549.m3u8
-#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
-http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 
 # --- KU | Kurd documentary دیکومینتاری (7) ---
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd documentary دیکومینتاری",KU | NEWROZ DOC HD
@@ -18319,7 +18319,7 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# --- كأس العالم FIFA World Cup 2026™ (49) ---
+# --- كأس العالم FIFA World Cup 2026™ (50) ---
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (SS)
 http://allone8k.info:8080/live/hany/hany1234/314992.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (F)
@@ -18418,5 +18418,7 @@ http://allone8k.info:8080/live/hany/hany1234/657728.m3u8
 http://allone8k.info:8080/live/hany/hany1234/618316.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ AT
 http://allone8k.info:8080/live/hany/hany1234/657081.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ TR
+http://allone8k.info:8080/live/hany/hany1234/658254.m3u8
 
-# Total: 8999
+# Total: 9000

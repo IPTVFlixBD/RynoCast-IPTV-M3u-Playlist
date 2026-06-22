@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-21 19:52:20
+# Generated: 2026-06-22 08:53:32
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -7419,7 +7419,17 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (153) ---
+# --- Movies | Filme 2026 (158) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85EYON4oXVYTPdMuW5q5ELQLU88.jpg" group-title="Movies | Filme 2026",The Wizard of the Kremlin - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71585.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg" group-title="Movies | Filme 2026",Signal One - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71584.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="Movies | Filme 2026",Pressure - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71583.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg" group-title="Movies | Filme 2026",A Great Awakening - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71582.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZj8mogbWSSX07Yad2sWrGjnR3c.jpg" group-title="Movies | Filme 2026",Royally Screwed - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71581.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA6e4wmyulZn76xBd5Bq29PZwnb.jpg" group-title="Movies | Filme 2026",Yaz Evi (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71275.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | Filme 2026",Sonunda Sen (2026)
@@ -17265,6 +17275,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/246.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Franklin",Franklin
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/616.mp4
 
+# --- Movies | Frasier (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Frasier",Frasier (1993)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1308.mp4
+
 # --- Movies | Friends (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Friends",Friends
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/234.mp4
@@ -20905,4 +20919,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9119
+# Total: 9125

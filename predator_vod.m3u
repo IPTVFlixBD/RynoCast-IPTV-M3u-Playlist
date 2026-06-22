@@ -1,15 +1,17 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-20 19:51:54
+# Generated: 2026-06-22 09:00:40
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Deutsche Serien (47) ---
+# --- Movies | Deutsche Serien (48) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",=====Deutsche Serien=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Nur für dein Leben (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/301.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Dutton Ranch (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/296.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Marshals - A Yellowstone Story (2026) DE
@@ -2623,9 +2625,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (206) ---
+# --- Movies | Seriale me titra Shqip (207) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",I Will Find You (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/302.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Dutton Ranch (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/297.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Berlin and the Lady with an Ermine (2026)
@@ -9133,4 +9137,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4554
+# Total: 4556
