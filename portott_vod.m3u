@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-22 08:59:02
+# Generated: 2026-06-22 22:38:44
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13721,7 +13721,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3800) ---
+# --- Movies | SRS - NEW ADDED [EN] (3801) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Invader ZIM (2001) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Old Stories: Moses (2026) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33663.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Polygamist (2026) (ZA)
@@ -112153,7 +112155,11 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/32108
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Unfamiliar (2026) (DE)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/32521
 
-# --- Series | SRS - TURKISH SERIES SUB [EN] (85) ---
+# --- Series | SRS - TURKISH SERIES SUB [EN] (87) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Muhtemel Ask - Possible Love (2026) (TR)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33673
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Alti Ustu Istanbul - It's Just Istanbul (2026) (TR)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33672
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Doganin Kanunu - The Law of Nature (2026) (TR)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/33644
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Delikanli - The Gentleman (2026) (TR)
@@ -112325,4 +112331,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56052
+# Total: 56055

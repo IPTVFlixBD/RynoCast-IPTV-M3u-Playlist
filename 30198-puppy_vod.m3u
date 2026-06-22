@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-06-22 09:00:36
+# Generated: 2026-06-22 22:39:07
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -4697,7 +4697,9 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22421.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - Single's Inferno
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22423.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3800) ---
+# --- Movies | SRS - NEW ADDED [EN] (3801) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Invader ZIM (2001) (US)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Old Stories: Moses (2026) (US)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33663.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Polygamist (2026) (ZA)
@@ -47197,7 +47199,11 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1305833.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/16970
 
-# --- Series | SRS - TURKISH SERIES SUB [EN] (85) ---
+# --- Series | SRS - TURKISH SERIES SUB [EN] (87) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Muhtemel Ask - Possible Love (2026) (TR)
+http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33673
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Alti Ustu Istanbul - It's Just Istanbul (2026) (TR)
+http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33672
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Doganin Kanunu - The Law of Nature (2026) (TR)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/33644
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Delikanli - The Gentleman (2026) (TR)
@@ -47369,4 +47375,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23646
+# Total: 23649

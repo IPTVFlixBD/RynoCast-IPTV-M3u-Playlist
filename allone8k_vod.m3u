@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-22 08:53:34
+# Generated: 2026-06-22 22:31:47
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -13619,7 +13619,11 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (33) ---
+# --- Movies | AR | كأس العالم 2026 (35) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a392aabeb580.jpg" group-title="Movies | AR | كأس العالم 2026",مصر ضد نيوزلاندا (22-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658265.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a39298160293.jpg" group-title="Movies | AR | كأس العالم 2026",اليابان ضد تونس (21-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658264.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a38855190320.jpg" group-title="Movies | AR | كأس العالم 2026",اسبانيا ضد السعودية (21-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/658263.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3887d417143.jpg" group-title="Movies | AR | كأس العالم 2026",بلجيكا ضد ايران (22-06-2026)
@@ -43331,7 +43335,15 @@ http://allone8k.info:8080/movie/hany/hany1234/416351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" group-title="Movies | EN | MOVIES 23-24",EN: Arthur the King - 2024
 http://allone8k.info:8080/movie/hany/hany1234/402826.mp4
 
-# --- Movies | EN | MOVIES 25-26 (755) ---
+# --- Movies | EN | MOVIES 25-26 (759) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Masters of the Universe - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658267.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg" group-title="Movies | EN | MOVIES 25-26",AM: The Mandalorian and Grogu - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658268.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD0wfZifpJQGOTPboSVXQ3XI3DV.jpg" group-title="Movies | EN | MOVIES 25-26",EN: The Voices of Our Mother - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658269.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmGIRyuMH72WHJengMo8LQjnZQn.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Voicemails for Isabelle - 2026
+http://allone8k.info:8080/movie/hany/hany1234/658270.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7aBU98usPaaFymldN6IcYRsHZr.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Busboys - 2026
 http://allone8k.info:8080/movie/hany/hany1234/658190.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vim76mMXig00YRxN2iGYJASoGkP.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Extreme Makeover: Homer Edition - 2026
@@ -80115,4 +80127,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 39839
+# Total: 39845

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-22 09:00:40
+# Generated: 2026-06-22 22:32:59
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2628,6 +2628,8 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 # --- Movies | Seriale me titra Shqip (207) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",House of the Dragon
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/112.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",I Will Find You (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/302.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Dutton Ranch (2026)
@@ -2876,8 +2878,6 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/116.mp4
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/115.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Lord of the Rings: The Rings of Power
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/113.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",House of the Dragon
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/112.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",She-Hulk: Attorney at Law
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/111.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Snowfall
