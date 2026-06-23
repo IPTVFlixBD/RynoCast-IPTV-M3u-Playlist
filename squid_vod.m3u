@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-22 22:34:41
+# Generated: 2026-06-23 08:38:24
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -7419,7 +7419,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (158) ---
+# --- Movies | Filme 2026 (160) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUDoDeCyobKik81PWUrBWOEV0qt.jpg" group-title="Movies | Filme 2026",André Is an Idiot - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71595.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGhd37yFzGBX7NLmKxv8LPvRo9c.jpg" group-title="Movies | Filme 2026",Addition - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71594.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85EYON4oXVYTPdMuW5q5ELQLU88.jpg" group-title="Movies | Filme 2026",The Wizard of the Kremlin - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71585.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg" group-title="Movies | Filme 2026",Signal One - 2026
@@ -20919,4 +20923,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9125
+# Total: 9127

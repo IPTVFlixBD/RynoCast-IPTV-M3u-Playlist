@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-06-22 22:34:14
+# Generated: 2026-06-23 08:29:33
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -16552,6 +16552,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404496
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404506
 
 # --- Series | Drama [Series] (665) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Cape Fear
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501611
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Agency
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/502196
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doc
@@ -16576,8 +16578,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501746
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/471161
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Witness
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501677
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Cape Fear
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501611
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Your Friends & Neighbors
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403218
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",After the Flood
