@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-23 08:28:34
+# Generated: 2026-06-23 20:41:13
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -111821,7 +111821,11 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/22725
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/16970
 
-# --- Series | SRS - SERIES 2026 [FR] (168) ---
+# --- Series | SRS - SERIES 2026 [FR] (170) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Memory of a Killer (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33697
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Sur tes traces (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33696
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - R.J. Decker (2026) (US)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/33660
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Outlast : La jungle (2026) (US)
@@ -112335,4 +112339,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56057
+# Total: 56059

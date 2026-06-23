@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-23 08:40:59
+# Generated: 2026-06-23 20:37:13
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -13619,7 +13619,9 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (35) ---
+# --- Movies | AR | كأس العالم 2026 (36) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3a792ed2ad5.jpg" group-title="Movies | AR | كأس العالم 2026",الارجنتين ضد النمسا (22-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/658338.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a392aabeb580.jpg" group-title="Movies | AR | كأس العالم 2026",مصر ضد نيوزلاندا (22-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/658265.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a39298160293.jpg" group-title="Movies | AR | كأس العالم 2026",اليابان ضد تونس (21-06-2026)
@@ -80127,4 +80129,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 39845
+# Total: 39846
