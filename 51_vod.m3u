@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-23 20:35:36
+# Generated: 2026-06-24 08:40:33
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1571,9 +1571,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4615) ---
+# --- Movies | DE | CINEMA VOD (4617) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6snaOFKs5nSd6YS0A33WbXy9vc1.jpg" group-title="Movies | DE | CINEMA VOD",Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D) (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185456.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13YU9zVOD6unuZuiLapZTXQql4G.jpg" group-title="Movies | DE | CINEMA VOD",Pandora: Feuer und Eis (2025) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185457.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aaV365bjSxPMZdT18RybAYGqSp.jpg" group-title="Movies | DE | CINEMA VOD",Disclosure Day - Der Tag der Wahrheit (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185344.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2JBvN0wvczaEzHIEsddtZzVHqc.jpg" group-title="Movies | DE | CINEMA VOD",Sabbatical (2026) DE
@@ -41955,4 +41959,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20906
+# Total: 20908
