@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-25 08:31:21
+# Generated: 2026-06-25 20:14:18
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -8849,7 +8849,11 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/46397.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/slovenya_bayrak.gif" group-title="SLO - SLOVENSKI",(SLO) Sport TV 3 ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/46398.m3u8
 
-# --- SRB : SRBİJA (75) ---
+# --- SRB : SRBİJA (77) ---
+#EXTINF:-1 tvg-logo="" group-title="SRB : SRBİJA",(SRB) RTV Mir
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SRB : SRBİJA",(SRB) Prva Tv
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351003.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="SRB : SRBİJA",✦✦✦✦✦ SERBIA ✦✦✦✦✦
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/46975.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="SRB : SRBİJA",(SRB) Rts 1 ᴴᴰ
@@ -9001,7 +9005,9 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/39386.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="SRB : SRBİJA",(SRB) Red TV ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/207039.m3u8
 
-# --- SRB : SRBİJA SPORT (29) ---
+# --- SRB : SRBİJA SPORT (30) ---
+#EXTINF:-1 tvg-logo="" group-title="SRB : SRBİJA SPORT",(SRB) Sport Klub 7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351002.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="SRB : SRBİJA SPORT",⚽⚽✦✦✦ SPORT ✦✦✦⚽⚽
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/206997.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="SRB : SRBİJA SPORT",(SRB) Arena Sport 1 Premium
@@ -11421,4 +11427,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5541
+# Total: 5544
