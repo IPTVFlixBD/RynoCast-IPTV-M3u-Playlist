@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-24 20:09:21
+# Generated: 2026-06-25 08:31:21
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -239,7 +239,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/74568.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/148AO5bZAiHtbSHZbYiCietAK6K.jpg" group-title="Movies | AR - FILM",من 30 سنة (AR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/74566.mkv
 
-# --- Movies | BE - VTM GO/NPO (20) ---
+# --- Movies | BE - VTM GO/NPO (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Miljoenenhuizen (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7068.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",82 Dagen in de hel (BE)
@@ -274,6 +274,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4554.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4555.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",40 jaar reilen en Heylen (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4562.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Drift (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9804.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",De Verraders: De Lockdown Tapes (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9336.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Brieven aan Samson (BE)
@@ -30849,7 +30851,17 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/56122.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EyDLx7ea4ysBcvf8pdV6RyR6ut.jpg" group-title="Movies | NL - AMAZON ORIGINAL",Disturbing the Peace (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/52407.mkv
 
-# --- Movies | NL - AMAZON ORIGINALS (196) ---
+# --- Movies | NL - AMAZON ORIGINALS (200) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",Fight Night: The Million Dollar Heist (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9812.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",Ferry Lost (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9811.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",Fear (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9810.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",FBI: International (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9809.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",Earth Abides (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9806.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",Cross (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9800.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",Confidence Queen (NL)
@@ -31240,8 +31252,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/102.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",The Grand-ish Tour (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/8895.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NL - AMAZON ORIGINALS",FBI (NL)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9711.mp4
 
 # --- Movies | NL - ANIMATIE (640) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekF2RiziyzLeXsTvEvhhRjEc7Eo.jpg" group-title="Movies | NL - ANIMATIE",The Super Mario Galaxy Movie (NL)
@@ -33003,7 +33013,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/170145.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg" group-title="Movies | NL - BOLLYWOOD",Tiger 3 (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168386.mkv
 
-# --- Movies | NL - BRITBOX (3) ---
+# --- Movies | NL - BRITBOX (4) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Dr. Death (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9803.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Cooper & Fry (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9799.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Beyond Paradise (NL)
@@ -33361,7 +33373,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/58599.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | NL - DISNEY+ ORIGINAL",Star Wars Episode IX-The Rise of Skywalker: Digital Extras (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/56582.mkv
 
-# --- Movies | NL - DISNEY+ ORIGINALS (92) ---
+# --- Movies | NL - DISNEY+ ORIGINALS (93) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - DISNEY+ ORIGINALS",Doctor Odyssey (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9802.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - DISNEY+ ORIGINALS",Bloody Flower (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9779.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - DISNEY+ ORIGINALS",Andor (NL)
@@ -39947,7 +39961,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185213.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",The Gorge (NL) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185142.mkv
 
-# --- Movies | NL - NETFLIX (887) ---
+# --- Movies | NL - NETFLIX (888) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",Dynamite Kiss (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9805.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",Devil's Diner (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9801.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",Bridgerton (NL)
@@ -43789,7 +43805,11 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9063.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO+/RTL",Thin Ice (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9431.mp4
 
-# --- Movies | NL - PARAMOUNT ORIGINALS (28) ---
+# --- Movies | NL - PARAMOUNT ORIGINALS (30) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",Fire Country (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9813.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",Elsbeth (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9807.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",CIA (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9769.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",1923 (NL)
@@ -44333,7 +44353,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/152741.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Yn4lvksfagrwH5FARlRXkeJWR0.jpg" group-title="Movies | NL - SCIENCEFICTION",Left Behind: Rise of the Antichrist (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/151666.mkv
 
-# --- Movies | NL - SKY SHOWTIME (52) ---
+# --- Movies | NL - SKY SHOWTIME (53) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",Slutet på sommaren (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9808.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",Chicago P.D. (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9796.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",Chicago Fire (NL)
@@ -47363,13 +47385,11 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342867.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wj9g94tIdNMEGAN6wr1hyJDqAu.jpg" group-title="Movies | TR  - BILIM KURGU",Yıldızlara Doğru (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342886.mkv
 
-# --- Movies | TR - 4K ᵘˡᵗʳᵃ SERILER (10) ---
+# --- Movies | TR - 4K ᵘˡᵗʳᵃ SERILER (9) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Game of Thrones (TR) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9139.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Most Wanted: Julius Kivimäki (TR Sub) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7847.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Jasmine (TR)  4K ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/6392.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Paraleller (TR) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/6327.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Run Away (TR) 4K ᵘˡᵗʳᵃ
@@ -47385,9 +47405,11 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5228.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Kaosun Anatomisi (TR) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5220.mp4
 
-# --- Movies | TR - AKSIYON (556) ---
+# --- Movies | TR - AKSIYON (557) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xejLLz5QCPto0eR7od8FZn2DLt.jpg" group-title="Movies | TR - AKSIYON",Ölümcül Uçuş (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/343254.mkv
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350869.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iV30anuKJcrEPHe4GtRb6dtw89G.jpg" group-title="Movies | TR - AKSIYON",Koca Çirkin (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350868.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI3Qe9hGsPLqs3QlXTlEvz4GWrw.jpg" group-title="Movies | TR - AKSIYON",Ölmek İçin Zaman Yok (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/343252.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg" group-title="Movies | TR - AKSIYON",Spectre (TR)
@@ -50603,7 +50625,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - ALTYAZILI SERILER",Game of Thrones (TR Sub)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/804.mp4
 
-# --- Movies | TR - AMAZON ORIGINAL (132) ---
+# --- Movies | TR - AMAZON ORIGINAL (133) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - AMAZON ORIGINAL",Rüya Gibi Evler Sahilde (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9852.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - AMAZON ORIGINAL",Av Partisi (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9604.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - AMAZON ORIGINAL",Privileges (TR)
@@ -51137,7 +51161,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62384.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D3Nd1yRz296gMaFNTTbXdphyD0.jpg" group-title="Movies | TR - AMAZON PRIME",The Flu - Virüs (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61253.mkv
 
-# --- Movies | TR - ANIMASYON (655) ---
+# --- Movies | TR - ANIMASYON (656) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXQ0UVNJTFi7YhDgchFJJCBOxQO.jpg" group-title="Movies | TR - ANIMASYON",Violet Evergarden: Film (TR) SUB
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350867.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezr04Mdk5JL9v5mt6bj0bt7CbyX.jpg" group-title="Movies | TR - ANIMASYON",Atlantis: Milo’nun Dönüşü (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342804.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjr7YX263jcprPcNCXNg1B1b2gj.jpg" group-title="Movies | TR - ANIMASYON",Asteriks: Sihirli İksirin Sırrı (TR)
@@ -52449,7 +52475,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKnrREWbF74LFKXsNDYTf2SeZ4X.jpg" group-title="Movies | TR - ANIMASYON",Tom and Jerry & The Wizard of Oz (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342875.mkv
 
-# --- Movies | TR - ANİMASYON (50) ---
+# --- Movies | TR - ANİMASYON (51) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - ANİMASYON",Genç Mutant Ninja Kaplumbağalar (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9840.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - ANİMASYON",Milo Murphy's Law (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9678.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - ANİMASYON",LEGO Dreamzzz: Düş Dünyası (TR)
@@ -53503,7 +53531,15 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342820.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRlnPb85ZbAGpTYsWI57Huk1Ggt.jpg" group-title="Movies | TR - BELGESEL",The Road to Stardom: The Making of A Star Is Born (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342869.mkv
 
-# --- Movies | TR - BLU TV ORIGINAL (81) ---
+# --- Movies | TR - BLU TV ORIGINAL (114) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Çıplak (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9858.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Yeni Nesil Ebeveynler (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9856.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",City of God: Savaş Devam Ediyor (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9828.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Avrupa Sınır Kontrolü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9820.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",The Murdochs: Empire of Influence (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5890.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Hayaller Bizim İki Gözüm (TR)
@@ -53636,8 +53672,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1540.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1433.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Kafalarına Göre (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1127.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Ciplak (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1084.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Dijital Flörtleşme (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1045.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Hayaller Bizim  İki gözüm (TR)
@@ -53666,6 +53700,66 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/796.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1969.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Şokopop Yesilçam 101 (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1968.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",7YÜZ (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9816.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Afili Dostlar (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9817.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Aslında (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9818.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Uzay Feneri 23 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Betrayed (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9821.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Big Love (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9822.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Bize Gezmek Olsun (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9823.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Building Off the Grid (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9824.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Büyük Tıkınma (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9825.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Cell 8 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9826.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Crossing Lines (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9827.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Deadliest Catch: The Viking Returns (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9829.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Deneme Çekimi (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9830.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Diabolical (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9832.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Dövüşçü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9833.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Nesli Tükenmiş mi? (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9834.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Finding Escobar's Millions (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9835.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Hoffman Family Gold (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9836.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Liderlik Sırları (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9837.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Masal Şatosu: Peri Hırsızı (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9838.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Non mi lasciare (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9839.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Podacto Stüdyo (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9841.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Secrets of the Underground (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9843.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Sewer Divers (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9845.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Tadına Doyulmaz Sohbetler (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9847.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",The ABC Murders (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9848.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",The Journey Of India (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9849.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",The Perfect Murder (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9851.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Three Men Four Wheels (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9853.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - BLU TV ORIGINAL",Çile Bülbülüm (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9854.mp4
 
 # --- Movies | TR - BOLLYWOOD (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" group-title="Movies | TR - BOLLYWOOD",Mücevher Hırsızı - Soygun Başlıyor (TR)
@@ -53933,7 +54027,15 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/92064.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFK7QzJqneKJH24umJLbahBynhT.jpg" group-title="Movies | TR - DISNEY+",X-Men 6: Apocalypse (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62405.mkv
 
-# --- Movies | TR - DRAM (85) ---
+# --- Movies | TR - DRAM (89) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivuhsE8jCVDTK40rWg2Fu1QFt0B.jpg" group-title="Movies | TR - DRAM",Üzgünüm, Bebeğim (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350870.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNodYn6pAPESo1GLYO6lHHSAj22.jpg" group-title="Movies | TR - DRAM",İçimdeki Güneş (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350865.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg" group-title="Movies | TR - DRAM",Outside In (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350864.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pQDYpfOC1HS8PughsViY0NgyH3.jpg" group-title="Movies | TR - DRAM",Oğlumuz (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg" group-title="Movies | TR - DRAM",Alamo (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/348532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12z5oCy4s3GBOUrNCWvcKYBK4eI.jpg" group-title="Movies | TR - DRAM",Tutku (TR)
@@ -58353,7 +58455,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/797.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - Gain ORIGINAL",Bizi Ayıran Çizgi (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1935.mp4
 
-# --- Movies | TR - GÜNLÜK DİZİLER (24) ---
+# --- Movies | TR - GÜNLÜK DİZİLER (25) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Doğanın Kanunu (Bolum 3)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350880.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30fXRXsx1tF0tiuXEy8Hvx2bupR.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Altı Üstü İstanbul (Bolum 2)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/348956.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erd75Gon5bXL38kngnH6DCrOUj2.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Daha 17 (Bolum 4)
@@ -58403,7 +58507,13 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/329476.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Yeraltı (SEZON FİNALİ)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/328718.mkv
 
-# --- Movies | TR - GÜNLÜK PROGRAMLAR (8) ---
+# --- Movies | TR - GÜNLÜK PROGRAMLAR (11) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hw9vCkftcsR4S8zg2r6R23TOmQ7.jpg" group-title="Movies | TR - GÜNLÜK PROGRAMLAR",Zuhal Topal'la Yemekteyiz (24 Haziran 2026)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350878.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHVQpPGTKiGVJVExEH1W7YPdhBg.jpg" group-title="Movies | TR - GÜNLÜK PROGRAMLAR",Müge Anlı (24 Haziran 2026)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350877.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Esra_Erol-TOFD.jpg/250px-Esra_Erol-TOFD.jpg" group-title="Movies | TR - GÜNLÜK PROGRAMLAR",Esra Erol (24 Haziran 2026)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350876.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hw9vCkftcsR4S8zg2r6R23TOmQ7.jpg" group-title="Movies | TR - GÜNLÜK PROGRAMLAR",Zuhal Topal'la Yemekteyiz (23 Haziran 2026)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/349619.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHVQpPGTKiGVJVExEH1W7YPdhBg.jpg" group-title="Movies | TR - GÜNLÜK PROGRAMLAR",Müge Anlı (23 Haziran 2026)
@@ -58551,7 +58661,17 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/60474.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdGZYOX60kX9Qi19UkjfVCfU39Y.jpg" group-title="Movies | TR - HBO & APPLE TV+",Wheeler (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62403.mkv
 
-# --- Movies | TR - HBO ORIGINAL (79) ---
+# --- Movies | TR - HBO ORIGINAL (83) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Jasmine (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9859.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Yeni Papa (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9857.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",My Brilliant Friend (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9850.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Like Water for Chocolate (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9844.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Gizli Muhafızlar (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9842.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",House of the Dragon (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9780.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Proud (TR)
@@ -58592,8 +58712,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7961.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/6477.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Heaven (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/6413.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",Jasmine (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/6388.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",The Sentinels (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5893.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - HBO ORIGINAL",The Garden: Commune or Cult (TR)
@@ -59585,7 +59703,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62391.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbBVAWpMFZtckP4pmEVU22ifpNi.jpg" group-title="Movies | TR - KLASIK FILM",Predator 1 (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61185.mkv
 
-# --- Movies | TR - KORKU & GERILIM (350) ---
+# --- Movies | TR - KORKU & GERILIM (351) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brNkSCLfMN51OxcsZGM5dS0EM3x.jpg" group-title="Movies | TR - KORKU & GERILIM",Undertone (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350871.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7j5ZLDGWQ4U3iAD2wLNhs0CjpuQ.jpg" group-title="Movies | TR - KORKU & GERILIM",All My Friends Hate Me (TR) SUB
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/346731.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65GzoqaD5KYniKS5nOfeqfv0nOl.jpg" group-title="Movies | TR - KORKU & GERILIM",El vigilante (TR)
@@ -60287,7 +60407,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342888.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg" group-title="Movies | TR - KORKU & GERILIM",Şeytan Çıkmazı (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342897.mkv
 
-# --- Movies | TR - MACERA (14) ---
+# --- Movies | TR - MACERA (15) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV3JagGaMXr5elWBPCiVupcGRCE.jpg" group-title="Movies | TR - MACERA",Demir Maske (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350866.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g18KrOZjITOlHSEMWTgUpCyAvEf.jpg" group-title="Movies | TR - MACERA",Apocalypse Now Now (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342797.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTIvpbQqFGkhqv11Y3WkHZ8iorL.jpg" group-title="Movies | TR - MACERA",Alacakaranlık Efsanesi: Tutulma (TR)
@@ -60367,7 +60489,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342872.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vznEpyt2LNr3P14s7n70sR2iWgA.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor: Ragnarok (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342873.mkv
 
-# --- Movies | TR - PARAMOUNT ORIGINAL (14) ---
+# --- Movies | TR - PARAMOUNT ORIGINAL (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - PARAMOUNT ORIGINAL",Kayıp Sembol (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9560.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - PARAMOUNT ORIGINAL",The Twilight Zone (TR)
@@ -60396,6 +60518,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4045.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/3551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - PARAMOUNT ORIGINAL",SkyMed (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/2862.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - PARAMOUNT ORIGINAL",100 Things to Do Before High School (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9815.mp4
 
 # --- Movies | TR - POPÜLER SERİLER (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - POPÜLER SERİLER",Game of Thrones (TR)
@@ -60697,7 +60821,15 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342887.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10ErazhJxfL68rWg2KLfwiRuIou.jpg" group-title="Movies | TR - ROMANTIK",İyi Bir Yıl (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342895.mkv
 
-# --- Movies | TR - SINEMA 2026 (103) ---
+# --- Movies | TR - SINEMA 2026 (107) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvyO3mXSXkvnJLQCpa7WDr7awUl.jpg" group-title="Movies | TR - SINEMA 2026",Dedektif Koyunlar (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350875.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="Movies | TR - SINEMA 2026",Dante'nin Elinden (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350874.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQRbBCbqortBDx3PixdpU50oVDj.jpg" group-title="Movies | TR - SINEMA 2026",Alpha (TR) SUB
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350873.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg" group-title="Movies | TR - SINEMA 2026",Nirvanna the Band the Show the Movie (TR) SUB
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/350872.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR0RQIy51Fqjy5zBkBILdyZdUID.jpg" group-title="Movies | TR - SINEMA 2026",Isabelle'e Sesli Mesaj (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/348344.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vim76mMXig00YRxN2iGYJASoGkP.jpg" group-title="Movies | TR - SINEMA 2026",Extreme Makeover: Homer Edition (TR)
@@ -61841,7 +61973,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342881.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/530RZ2HsxAgKVO4joNFjAgucbri.jpg" group-title="Movies | TR - YABANCI KOMEDI",Yıldırım Emri (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342884.mkv
 
-# --- Movies | TR - YABANCI NETFLIX (1129) ---
+# --- Movies | TR - YABANCI NETFLIX (1130) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="Movies | TR - YABANCI NETFLIX",Kocalar İş Başında (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/348343.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHK4R14rjhoDIBwmk9uwTNpopFz.jpg" group-title="Movies | TR - YABANCI NETFLIX",Gel Yüzelim (TR)
@@ -62484,8 +62616,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/93987.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg" group-title="Movies | TR - YABANCI NETFLIX",Operation Finale (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62374.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg" group-title="Movies | TR - YABANCI NETFLIX",Outside In (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62375.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuBHGAMC61h9tb2pg6UGjn11svM.jpg" group-title="Movies | TR - YABANCI NETFLIX",Rampage (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62379.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzjiyJQUJbkgqe6G97FU4YgYxRt.jpg" group-title="Movies | TR - YABANCI NETFLIX",Risen (TR)
@@ -62540,6 +62670,10 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/59448.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/59434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOLnV1lM3NuMsgYwIhz454fQRgt.jpg" group-title="Movies | TR - YABANCI NETFLIX",Öfke Çemberi 2 (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/197400.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",Marjinal (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9846.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",The American Experiment (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9831.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",Oasis (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9763.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",Güneşin Torunları (TR)
@@ -73073,4 +73207,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 36302
+# Total: 36369

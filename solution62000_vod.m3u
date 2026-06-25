@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-24 08:34:59
+# Generated: 2026-06-25 08:33:09
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -261,7 +261,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (250) ---
+# --- Movies | Dessins Animés (251) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h1FVf2kiS1964VsGmkYQHJoVsHe.jpg" group-title="Movies | Dessins Animés",Les Légendaires (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28205.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
@@ -360,6 +360,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1793.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg" group-title="Movies | Dessins Animés",Vice-versa - 2015
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1459.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zRK1GjEq5bfdugSiqkJsDL3WSUw.jpg" group-title="Movies | Dessins Animés",Lydia et le Vaisseau des tempêtes (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28924.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bN39LmzrqNuCzgV3jUUsg6KBes9.jpg" group-title="Movies | Dessins Animés",Mon ninja et moi 3 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28180.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSQktALDmbunDbwkuZbZFMEWVFr.jpg" group-title="Movies | Dessins Animés",Super Mario Galaxy, le film (2026)
@@ -6767,7 +6769,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (189) ---
+# --- Movies | prime video (190) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeSccMVPe1BWYVrQrx5gbiUJRUn.jpg" group-title="Movies | prime video",Bêêêêtective Privé (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28923.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | prime video",Une Famille de Bâtards (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28631.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg" group-title="Movies | prime video",Is God Is (2026)
@@ -8357,4 +8361,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1222
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Copenhagen Test
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1223
 
-# Total: 4145
+# Total: 4147
