@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-25 20:16:11
+# Generated: 2026-06-26 08:35:50
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1191,7 +1191,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1639) ---
+# --- Movies | Films (1642) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yp0cF606jIoSWfI4KiFNLHSFhOG.jpg" group-title="Movies | Films",The Neglected (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28928.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sxdWvYJDyZeKHhBSU8Kczw7yC.jpg" group-title="Movies | Films",Le Virtuose (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28927.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dOTZP3gnMjJHva914Xrzljhyl7c.jpg" group-title="Movies | Films",Chers parents (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28926.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg" group-title="Movies | Films",Exit Protocol (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28906.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uUOBgpLTKPRrhXTfngbmGIkzVgc.jpg" group-title="Movies | Films",I Love Boosters (2026)
@@ -8361,4 +8367,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1222
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Copenhagen Test
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1223
 
-# Total: 4147
+# Total: 4150

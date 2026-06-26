@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-25 20:14:18
+# Generated: 2026-06-26 08:43:49
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -7489,7 +7489,9 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/183633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) 7 NEWS HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/183632.m3u8
 
-# --- PL - CINEMA (35) ---
+# --- PL - CINEMA (39) ---
+#EXTINF:-1 tvg-logo="" group-title="PL - CINEMA",(PL) Star Cinema HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351332.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbohd.png" group-title="PL - CINEMA",(PL) HBO 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42990.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo2lamhd.png" group-title="PL - CINEMA",(PL) HBO 2 4K+
@@ -7560,6 +7562,12 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190632.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190631.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - CINEMA",(PL) Bollywood HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190627.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - CINEMA",(PL) Film UA Drama HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351334.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - CINEMA",(PL) Star Family HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351333.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - CINEMA",(PL) PolsatBoxGo | Fast&Fun
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351327.m3u8
 
 # --- PL - DOKUMENTY (30) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="PL - DOKUMENTY",(PL) National Geographic 4K+
@@ -7623,7 +7631,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190602.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - DOKUMENTY",(PL) TVP HISTORIA 2
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190599.m3u8
 
-# --- PL - KIDS (12) ---
+# --- PL - KIDS (15) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png" group-title="PL - KIDS",(PL) Disney Channel 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/43012.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="PL - KIDS",(PL) Cartoon Network 4K+
@@ -7648,8 +7656,14 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42981.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/56858.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - KIDS",(PL) BBC CBeebies HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - KIDS",(PL) Duck TV Plus HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351341.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - KIDS",(PL) 2x2 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - KIDS",(PL) Kyc Kyc
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351331.m3u8
 
-# --- PL - MUSIC (17) ---
+# --- PL - MUSIC (23) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/atmrozrywka.png" group-title="PL - MUSIC",(PL) ATM Rozrywka TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/43044.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nutatvplhd.png" group-title="PL - MUSIC",(PL) Nuta TV 4K+
@@ -7684,8 +7698,26 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42985.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51395.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxmusictv.png" group-title="PL - MUSIC",(PL) Vox Music 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42979.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) Junior Music
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190654.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL)  JAZZ TV HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351348.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) MixTape HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) 360 Tune Box
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351330.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) MTV Club
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351329.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) MTV HITS
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351328.m3u8
 
-# --- PL - POLSKA (88) ---
+# --- PL - POLSKA (99) ---
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) GOD TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351355.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Current Time HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351354.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Espreso TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351353.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/poland_bayrak.gif" group-title="PL - POLSKA",(PL) TVN 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/36162.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn7hd.png" group-title="PL - POLSKA",(PL) TVN 7 4K+
@@ -7802,8 +7834,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190657.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190656.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Top Kids HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Junior Music
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190654.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Duck TV HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190652.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Gametoon HD
@@ -7862,8 +7892,26 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190580.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP 3 WROCŁAW
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) SBN (Sonlife Broadcasting Network)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) BBC News
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351352.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) CTV - Dla Ciebie
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TV Regio HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351344.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) News24 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Echo24 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Dacha HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Kvartal TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) PolsatBoxGo | Polsat News Polityka
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351172.m3u8
 
-# --- PL - SPORTS (26) ---
+# --- PL - SPORTS (27) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - SPORTS",(PL) Golf Channel HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51368.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - SPORTS",(PL) Motowizja
@@ -7916,6 +7964,8 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42975.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42926.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - SPORTS",(PL) SPORT KLUB
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51394.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - SPORTS",(PL) FighTime
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351345.m3u8
 
 # --- PL - TVN MIX (20) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN MOTO
@@ -11427,4 +11477,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5544
+# Total: 5569

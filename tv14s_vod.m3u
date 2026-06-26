@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-06-25 20:14:55
+# Generated: 2026-06-26 08:46:05
 # Expires: 2026-09-14
 # Family Safe Edition
 # ==============================================
@@ -6749,7 +6749,7 @@ http://tv14s.xyz:8080/movie/37376578/37376578/321606.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17VU3cN3apSe7KyIWexBkBvEcOc.jpg" group-title="Movies | 2025 MOVIES",Pizza Under Fire (2025)
 http://tv14s.xyz:8080/movie/37376578/37376578/321608.mp4
 
-# --- Movies | 2026 Movies (318) ---
+# --- Movies | 2026 Movies (319) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://tv14s.xyz:8080/movie/37376578/37376578/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7386,6 +7386,8 @@ http://tv14s.xyz:8080/movie/37376578/37376578/326922.mp4
 http://tv14s.xyz:8080/movie/37376578/37376578/326923.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTdamL46xHJXipmoHlx0GUxuE9r.jpg" group-title="Movies | 2026 Movies",Unconnected
 http://tv14s.xyz:8080/movie/37376578/37376578/326924.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="Movies | 2026 Movies",Citizen Vigilante (2026)
+http://tv14s.xyz:8080/movie/37376578/37376578/326925.mkv
 
 # --- Movies | Action Movies (1643) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -60237,4 +60239,4 @@ http://tv14s.xyz:8080/series/37376578/37376578/2375
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Dark Skies
 http://tv14s.xyz:8080/series/37376578/37376578/2378
 
-# Total: 30035
+# Total: 30036
