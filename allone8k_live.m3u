@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-26 08:35:28
+# Generated: 2026-06-26 20:06:35
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -4670,8 +4670,6 @@ http://allone8k.info:8080/live/hany/hany1234/237263.m3u8
 http://allone8k.info:8080/live/hany/hany1234/237264.m3u8
 
 # --- AR | MBC Extra 4K (22) ---
-#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
-http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC MIX 4K
 http://allone8k.info:8080/live/hany/hany1234/451357.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC EXTRA 4K
@@ -4700,6 +4698,8 @@ http://allone8k.info:8080/live/hany/hany1234/324919.m3u8
 http://allone8k.info:8080/live/hany/hany1234/324920.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC Comedy 4K
 http://allone8k.info:8080/live/hany/hany1234/324921.m3u8
+#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
+http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC CLASS 4K
 http://allone8k.info:8080/live/hany/hany1234/324922.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC PLUS 4K
@@ -8570,6 +8570,8 @@ http://allone8k.info:8080/live/hany/hany1234/254079.m3u8
 http://allone8k.info:8080/live/hany/hany1234/254388.m3u8
 
 # --- DE | APPLE TV (33) ---
+#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
+http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 01
 http://allone8k.info:8080/live/hany/hany1234/233039.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 02
@@ -8596,8 +8598,6 @@ http://allone8k.info:8080/live/hany/hany1234/233049.m3u8
 http://allone8k.info:8080/live/hany/hany1234/233050.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 13
 http://allone8k.info:8080/live/hany/hany1234/233051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
-http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Fast & Furious
 http://allone8k.info:8080/live/hany/hany1234/233038.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Friends DE S01
@@ -13926,6 +13926,8 @@ http://allone8k.info:8080/live/hany/hany1234/468945.m3u8
 http://allone8k.info:8080/live/hany/hany1234/468946.m3u8
 
 # --- KU | Kurd VIP (61) ---
+#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
+http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] KHAK HD
 http://allone8k.info:8080/live/hany/hany1234/473970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] ZED HD
@@ -14046,8 +14048,6 @@ http://allone8k.info:8080/live/hany/hany1234/473547.m3u8
 http://allone8k.info:8080/live/hany/hany1234/473548.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/aa14593c6bd0c7b542e5f355c5916bb8.png" group-title="KU | Kurd VIP",VIP_KU | Neu TV
 http://allone8k.info:8080/live/hany/hany1234/473549.m3u8
-#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
-http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 
 # --- KU | Kurd documentary دیکومینتاری (7) ---
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd documentary دیکومینتاری",KU | NEWROZ DOC HD

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-06-26 08:34:18
+# Generated: 2026-06-26 20:17:55
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -421,7 +421,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",CA: YES TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13765.m3u8
 
-# --- Chile (51) ---
+# --- Chile (49) ---
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14878.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C
@@ -446,8 +446,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9106.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/1513.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png" group-title="Chile",CL: HBO HD SUB
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13503.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Chile",CL: History 2 HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14278.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Chile",CL: History HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/12184.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red
@@ -482,8 +480,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14275.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/11895.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title="Chile",CL: Rec TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14880.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title="Chile",CL: Rec TV HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/52.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png" group-title="Chile",CL: Space HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9709.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chile",CL: Star Channel HD
@@ -551,7 +547,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: Telecafe
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/1572.m3u8
 
-# --- Culturales (58) ---
+# --- Culturales (57) ---
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png" group-title="Culturales",Animal Planet
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13835.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png" group-title="Culturales",Animal Planet *
@@ -566,8 +562,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13832.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/8887.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png" group-title="Culturales",Animal Planet HD *
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13833.m3u8
-#EXTINF:-1 tvg-logo="https://logos.iptv.wtf/culturales/lovenature.png" group-title="Culturales",CL: Love Nature
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14281.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/discovery.png" group-title="Culturales",Discovery Channel
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13828.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/discovery.png" group-title="Culturales",Discovery Channel *
@@ -669,7 +663,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Culturales",Love Nature
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15835.m3u8
 
-# --- Deportes (106) ---
+# --- Deportes (105) ---
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera HD
@@ -692,8 +686,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/37.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/32.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",CL: ESPN 3 HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/33.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes",CL: ESPN 4 HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13890.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",CL: ESPN Extra
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13891.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",CL: ESPN HD
@@ -1705,4 +1697,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 825
+# Total: 821
