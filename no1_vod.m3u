@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-06-26 20:10:31
+# Generated: 2026-06-27 08:31:21
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1571,9 +1571,15 @@ http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4620) ---
+# --- Movies | DE | CINEMA VOD (4623) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsp6DZb0Z2CAHcaRTsw2kwsN6ul.jpg" group-title="Movies | DE | CINEMA VOD",Backrooms (2026) DE
+http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/185464.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHbzSzjJnmcq02l2razSScBEVBf.jpg" group-title="Movies | DE | CINEMA VOD",Driver's Ed (2026) DE
+http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/185465.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enPFyKfbcy3Lyrdsvc0FXay9HRb.jpg" group-title="Movies | DE | CINEMA VOD",Ein fast perfekter Antrag (2026) DE
+http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/185466.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGrNjSuegU19if2CM9qkMOg2EU7.jpg" group-title="Movies | DE | CINEMA VOD",Nouvelle Vague (2025) DE
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/185459.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bAlkQC0X5App52NrVVpvZSPiOA.jpg" group-title="Movies | DE | CINEMA VOD",Pillion (2025) DE
@@ -41953,4 +41959,4 @@ http://no1.no1turk.com:2086/series/T.Tarkan/DKiQCHhmAo/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://no1.no1turk.com:2086/series/T.Tarkan/DKiQCHhmAo/3927
 
-# Total: 20906
+# Total: 20909

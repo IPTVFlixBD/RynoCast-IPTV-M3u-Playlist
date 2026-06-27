@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-26 20:10:57
+# Generated: 2026-06-27 08:35:37
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -5553,7 +5553,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42672.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nationalgeographic.png" group-title="IT - DOCUMENTARIES",(IT) Nat Geo HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42675.m3u8
 
-# --- IT - ITALIA (22) ---
+# --- IT - ITALIA (21) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai1hd.png" group-title="IT - ITALIA",(IT) Rai 1 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38566.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai2hd.png" group-title="IT - ITALIA",(IT) Rai 2 FHD
@@ -5590,8 +5590,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38544.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/129213.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="IT - ITALIA",(IT) Tv 2000 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/89846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IT - ITALIA",(IT) Uninettuno University TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/129211.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - ITALIA",(IT) 27Twentyseven FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/129209.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - ITALIA",(IT) Sardegna 1 HD
@@ -5799,7 +5797,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/218187.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - SKY SPORTS",(IT) Sky Sport 259 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/218189.m3u8
 
-# --- IT - SPORTS (19) ---
+# --- IT - SPORTS (18) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raisport.png" group-title="IT - SPORTS",(IT) Rai Sport + FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42739.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/sportitalia.png" group-title="IT - SPORTS",(IT) Sport Italia FHD
@@ -5812,8 +5810,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42741.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51528.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/interchannel.png" group-title="IT - SPORTS",(IT) Inter Milan TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/51527.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/LacrosseTV.png" group-title="IT - SPORTS",(IT) Lacrosse TV FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/217785.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/motorsporttv.png" group-title="IT - SPORTS",(IT) Motor Trend FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/89787.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/redbul.png" group-title="IT - SPORTS",(IT) Red Bull TV FHD
@@ -7667,7 +7663,9 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351329.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) MTV HITS
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351328.m3u8
 
-# --- PL - POLSKA (99) ---
+# --- PL - POLSKA (110) ---
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) EVENT5
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351476.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) GOD TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Current Time HD
@@ -7848,6 +7846,26 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190580.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP 3 WROCŁAW
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/190577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP 2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP 3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP INFO FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351481.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP Kultura FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVP Dokument FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) NHK WORLD-JAPAN
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) BLOOMBERG EUROPEAN TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Sejm RP
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Porucznik Kabura TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351474.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) SBN (Sonlife Broadcasting Network)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) BBC News
@@ -8423,33 +8441,47 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351358.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO : ROMAINE",(RO) UTV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351357.m3u8
 
-# --- RO : SPORT (13) ---
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Digi Sport 1 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31362.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Digi Sport 2 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31361.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Digi Sport 3 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31360.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Digi Sport 4 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31359.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Prima Sport 1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31392.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Prima Sport 2 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31391.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Prima Sport 3 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31390.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Prima Sport 4 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31389.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Eurosport 1 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31352.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Eurosport 2 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31351.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Fightbox 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/121919.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) Look Sport
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31340.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/romania.png" group-title="RO : SPORT",(RO) The Fishing & Hunting
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/121926.m3u8
+# --- RO : SPORT (20) ---
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Prima Sport 1 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351450.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Prima Sport 2 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Prima Sport 3 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351448.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Prima Sport 4 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351447.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Prima Sport 5 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Digi Sport 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Digi Sport 1 (Multi Audio)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Digi Sport 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Digi Sport 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Digi Sport 4 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Telekom Sport 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Telekom Sport 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Telekom Sport 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Telekom Sport 4 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Look Sport 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Look Sport 2 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351427.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Look Sport 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) PRO-X FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Eurosport 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RO : SPORT",(RO) Eurosport 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351421.m3u8
 
 # --- RUS - ROSSIYA (193) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/nn/ntv_ru.png" group-title="RUS - ROSSIYA",(RU) NTV Mir HD+
@@ -11479,4 +11511,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5571
+# Total: 5587

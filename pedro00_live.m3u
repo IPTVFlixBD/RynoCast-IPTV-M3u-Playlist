@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-06-26 20:10:28
+# Generated: 2026-06-27 08:34:32
 # Expires: 2026-06-27
 # Family Safe Edition
 # ==============================================
@@ -1573,7 +1573,7 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/660027.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/MYSPAIN/M+_LALIGA_TV_HD.png" group-title="ESPANOL REPETICIÓN LALIGA",|SP| LALIGA REPLAY 10 HD
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/660028.m3u8
 
-# --- EU ITALIA (181) ---
+# --- EU ITALIA (175) ---
 #EXTINF:-1 tvg-logo="http://vodkom.com/Logo/FLAGS/ITALIA.png" group-title="EU ITALIA",===== ITALIA GENERAL =====
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/56132.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/Logo/ITALIA/Rai1HD.png" group-title="EU ITALIA",|IT| RAI1 HD
@@ -1586,18 +1586,6 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/56135.m3u8
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/56136.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/Logo/ITALIA/Rai5HD.png" group-title="EU ITALIA",|IT| RAI5 HD
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/56137.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ITALIA",|IT| GRANDE FRATELLO VIP DIRETTA  1 FHD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/687194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ITALIA",|IT| GRANDE FRATELLO VIP DIRETTA  +1 FHD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/687195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ITALIA",|IT| GRANDE FRATELLO VIP DIRETTA  2 FHD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/687196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ITALIA",|IT| GRANDE FRATELLO VIP PARTY FHD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/687197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ITALIA",|IT| GRANDE FRATELLO VIP DIRETTA 1 HD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/687198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ITALIA",|IT| GRANDE FRATELLO VIP DIRETTA 2 HD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/687199.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/Logo/ITALIA/Rete4HD.png" group-title="EU ITALIA",|IT| RETE4 HD
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/56138.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/Logo/ITALIA/Cine34.png" group-title="EU ITALIA",|IT| CINE34
@@ -3285,7 +3273,7 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1079562.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 4 SD 50FPS
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1079563.m3u8
 
-# --- WORLD CUP 2026 (70) ---
+# --- WORLD CUP 2026 (78) ---
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/worldcup26.jpg" group-title="WORLD CUP 2026",====== WORLD CUP 2026 ======
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392057.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/worldcup26.jpg" group-title="WORLD CUP 2026",====== MATCHES | RESULTS ======
@@ -3342,16 +3330,32 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392160.m3u8
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392161.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 4k (SA)
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392063.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 4K (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395615.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 4k (SA)
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392064.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 4K (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395616.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 FHD (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395617.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 FHD (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395618.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 HD (SA)
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392067.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 HD (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395619.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 HD (SA)
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392068.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 HD (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395620.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 SD (SA)
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392071.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 3 SD (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395621.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 SD (SA)
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392072.m3u8
+#EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" group-title="WORLD CUP 2026",|WC| BEIN MAX 4 SD (MX)
+http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2395622.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX_FRENCH.png" group-title="WORLD CUP 2026",|WC| BEIN SPORTS 1 HD FR
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392073.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX_FRENCH.png" group-title="WORLD CUP 2026",|WC| BEIN SPORTS 2 HD FR
@@ -3427,4 +3431,4 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392113.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/worldcup/CDM.png" group-title="WORLD CUP 2026",|WC| ARRYADIA HD
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/2392114.m3u8
 
-# Total: 1673
+# Total: 1675
