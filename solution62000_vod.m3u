@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-26 20:07:39
+# Generated: 2026-06-27 19:20:27
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1191,7 +1191,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1642) ---
+# --- Movies | Films (1644) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jOZNmxiWl6gnn40IXYY7GKeX5k.jpg" group-title="Movies | Films",Belle (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uoBOi1xbfbJ9l8xg76uwI2B4MZX.jpg" group-title="Movies | Films",Les Enfants de la Résistance (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28939.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yp0cF606jIoSWfI4KiFNLHSFhOG.jpg" group-title="Movies | Films",The Neglected (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28928.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sxdWvYJDyZeKHhBSU8Kczw7yC.jpg" group-title="Movies | Films",Le Virtuose (2026)
@@ -5443,7 +5447,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (492) ---
+# --- Movies | NETFLIX (493) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="Movies | NETFLIX",Little Brother (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28942.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="Movies | NETFLIX",Mes hommes d'action (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28794.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg" group-title="Movies | NETFLIX",Les Couleurs du mal : Noir (2026)
@@ -6775,7 +6781,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (190) ---
+# --- Movies | prime video (191) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg" group-title="Movies | prime video",Permis de Conduire (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28940.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeSccMVPe1BWYVrQrx5gbiUJRUn.jpg" group-title="Movies | prime video",Bêêêêtective Privé (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28923.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | prime video",Une Famille de Bâtards (2026)
@@ -8367,4 +8375,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1222
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Copenhagen Test
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1223
 
-# Total: 4150
+# Total: 4154

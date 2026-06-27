@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-26 20:06:11
+# Generated: 2026-06-27 19:22:42
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -5427,15 +5427,13 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21669.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78929.m3u8
 
-# --- Uk (127) ---
+# --- Uk (116) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" group-title="Uk",=========Uk=========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC1 HD
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC ONE HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC FOUR SD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC News 24 SD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84904.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC News SD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84903.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC TWO HD
@@ -5456,8 +5454,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84858.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84857.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media One FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media One +1 SD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media Two HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84809.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media Three FHD
@@ -5494,9 +5490,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84879.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: ID SD (Investigation Discovery)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ITV3 SD
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ITV 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ITV4 SD
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ITV 2 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84875.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: More4 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84874.m3u8
@@ -5630,18 +5626,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84814.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: U&Drama SD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: RTE One.
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84932.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: RTE 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",IE: TG4 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84930.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: BBC Two Northern Ireland
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84929.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Premier 1 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84928.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Premier 2 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 01 (Direct)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84926.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 02 (Direct)
@@ -5672,14 +5658,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84914.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84913.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 09 (Direct)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84912.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media One
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media One +1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media Two
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84909.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media Four
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media Four FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84807.m3u8
 
@@ -9023,4 +9001,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4481
+# Total: 4470
