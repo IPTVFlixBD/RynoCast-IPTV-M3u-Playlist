@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-27 19:16:58
+# Generated: 2026-06-28 08:45:52
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -4431,7 +4431,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/12192.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY",IT - Leonardo (2021)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/12191.mp4
 
-# --- Movies | SRS - KIDS [EN] (170) ---
+# --- Movies | SRS - KIDS [EN] (171) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - KIDS [EN]",EN - TaleSpin (1990) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33748.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - KIDS [EN]",EN - Just Add Magic: Mystery City (2020) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/32384.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - KIDS [EN]",EN - Adventure Time: Fionna & Cake (2023) (US)
@@ -13721,7 +13723,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3801) ---
+# --- Movies | SRS - NEW ADDED [EN] (3803) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - I Will Find You (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33747.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - You're Killing Me (2026) (CA)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33746.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Invader ZIM (2001) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Old Stories: Moses (2026) (US)
@@ -25687,7 +25693,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023058.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEWiBXJGXK28jGBAm8oFKKTB0WD.jpg" group-title="Movies | VOD - ACTIE [NL]",NL - The Matrix Revolutions (2003)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023059.mkv
 
-# --- Movies | VOD - ACTION [EN] (250) ---
+# --- Movies | VOD - ACTION [EN] (251) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3Yu6JdufxUSqy6PJgT887UpSMt.jpg" group-title="Movies | VOD - ACTION [EN]",EN - All the King's Men (2006)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398735.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s0HYWAobp76qkjlNREvzFNOUdG.jpg" group-title="Movies | VOD - ACTION [EN]",EN - Killing Time (1998)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1390073.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOllBeOuAA03nfMANWSYWTqiNhg.jpg" group-title="Movies | VOD - ACTION [EN]",EN - Ghost Town (2023)
@@ -32085,9 +32093,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023075.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMzXTf5XwgapEN3LFdksE9Eu30d.jpg" group-title="Movies | VOD - DOCUMENTAIRE [NL]",NL - 블랙핑크: 세상을 밝혀라 (2020)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022913.mkv
 
-# --- Movies | VOD - DOCUMENTARY [EN] (529) ---
+# --- Movies | VOD - DOCUMENTARY [EN] (530) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBCMj5cNqefTP4oHdnIC7BOLXnp.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",FR - Al Pacino, le Bronx et la fureur  (2022)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/665533.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - The Crash (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398746.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJZlsBpDxx3LrGwXvwXkQyVnp9A.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Trainwreck: Poop Cruise (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1393874.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGeSXtzs1DyR6CiitK7EbRB1fWN.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - The NOAH Flood (2026)
@@ -39623,7 +39633,15 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/628728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD - ITALY [IT]",L'amore a domicilio  (2019)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/671565.mp4
 
-# --- Movies | VOD - KIDS [EN] (101) ---
+# --- Movies | VOD - KIDS [EN] (105) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/362lcwTJlNyAhitTlp2UraECISR.jpg" group-title="Movies | VOD - KIDS [EN]",EN - Stuart Little (1999)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398745.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zImw7IVg8dxPkqMfT0L33sdsIHC.jpg" group-title="Movies | VOD - KIDS [EN]",EN - Stuart Little 3: Call of the Wild (2005)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398744.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjfeMLWqJY44mqqJKZSa6jx4Y1j.jpg" group-title="Movies | VOD - KIDS [EN]",EN - Stuart Little 2 (2002)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398743.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="Movies | VOD - KIDS [EN]",EN - Sing 2 (2021)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pzI1DIlxwAFffw9OZcG6cr031U.jpg" group-title="Movies | VOD - KIDS [EN]",EN - Animal Farm (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1392106.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whvkL0wzxgKmVbaPontq9NlVd5z.jpg" group-title="Movies | VOD - KIDS [EN]",EN - Charlie the Wonderdog (2025)
@@ -60607,7 +60625,19 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8628) ---
+# --- Movies | VOD - NEW ADDED [EN] (8634) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Sheep Detectives (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398747.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Savage House (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398741.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Masters of the Universe (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398740.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Little Brother (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398738.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Strung (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398737.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Finding Emily (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398736.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Sheep Detectives (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1397714.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Rugrats Movie (1998)
@@ -79657,7 +79687,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1053364.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg" group-title="Movies | VOD - NUEVO 2024/2025 [ES]",ES - La gran noche del pop (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1053356.mkv
 
-# --- Movies | VOD - OTHERS [EN] (3421) ---
+# --- Movies | VOD - OTHERS [EN] (3422) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbbLSIo2MdBkL2ubdd47mQaJWcf.jpg" group-title="Movies | VOD - OTHERS [EN]",EN - Love Sarah (2020)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UnWJss37wVLTVj4fTzKyv3Mrbp.jpg" group-title="Movies | VOD - OTHERS [EN]",EN - The Shrimp on the Barbie (1990)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxjJJ9baW4FUI6YQc1IkGmkYLKu.jpg" group-title="Movies | VOD - OTHERS [EN]",EN - The Good Time Girls (short film) (2017)
@@ -112391,4 +112423,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56085
+# Total: 56101
