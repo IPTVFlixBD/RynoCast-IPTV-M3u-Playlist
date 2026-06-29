@@ -1,15 +1,17 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vip.europaiptv.vip:2086
-# Generated: 2026-06-29 08:42:03
+# Generated: 2026-06-29 21:33:30
 # Expires: 2026-11-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | AMAZON  PRIME- PARAMOUNT ANIME FILM (41) ---
+# --- Movies | AMAZON  PRIME- PARAMOUNT ANIME FILM (42) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON  PRIME- PARAMOUNT ANIME FILM",##### AMAZON PRIME ANIME FILM #####
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/59872.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vSpTrmhvHVF8JrezrkOYHF8GWA.jpg" group-title="Movies | AMAZON  PRIME- PARAMOUNT ANIME FILM",Alles voller Monster (2025)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185486.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JiahNjimDQOGqiTtYitmKlCUO2.jpg" group-title="Movies | AMAZON  PRIME- PARAMOUNT ANIME FILM",Die wilden Mäuse (2023)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/184872.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOZCN1IpDivlnfJKd4o2V1GCthe.jpg" group-title="Movies | AMAZON  PRIME- PARAMOUNT ANIME FILM",Der wilde Roboter (2024)
@@ -179,15 +181,31 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/59657.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hchRmyJ2FIkJtoqALWScxGlwu5E.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT DOCU REALITY FILM",Time (2020)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/59658.mkv
 
-# --- Movies | AMAZON PRIME - PARAMOUNT FILM (532) ---
+# --- Movies | AMAZON PRIME - PARAMOUNT FILM (540) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",##### AMAZON PRIME FILM #####
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/59871.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKoexH2mCTB9RUcl25IZUseKQb9.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Chez Momo - Ein kriminelles Erbe (2026)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185487.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQ6A6gkgHvxiMW3vPysYQX73xGa.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Deine Schuld: London (2026)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185488.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHbzSzjJnmcq02l2razSScBEVBf.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Driver's Ed - Vorfahrt für die Liebe (2026)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185490.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e235pLCI0TeW2GL1wL6rVNkieQL.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Over Your Dead Body (2026)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185494.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fghzenCFUk3Y1MQXPIsKyOmluMt.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Der Medicus II (2025)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185489.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aCPjtt0mxnMmdvdfCuCGDqxEg8.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",The Gentleman (2025)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185495.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66Ysv3Wwp2L7UaC2eh90VMySxjL.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Kleine Dinge wie diese (2024)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185492.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCjTJ5JyVRZ85Io1kXuMffVArFd.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Konklave (2024)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185493.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thMcGgtwmiCKMe0WQ8xnR977AXA.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Entführt von meinem Lehrer - Die Geschichte von Elizabeth Thomas (2023)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185491.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",The Bayou (2025)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Une Famille de Bâtards (2026)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185092.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e235pLCI0TeW2GL1wL6rVNkieQL.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Over Your Dead Body (2026)
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185094.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKYnmMwVF0vNwKM0svOcCv6HhYP.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Die Jagd nach der Mumie von Paris (2025)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185093.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjtoSj586EcnBwuop9d01EEVYyG.jpg" group-title="Movies | AMAZON PRIME - PARAMOUNT FILM",Red Sonja (2025)
@@ -1571,9 +1589,11 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4624) ---
+# --- Movies | DE | CINEMA VOD (4620) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iE3P4LFSJCBX5PRWxbPs7DQh7yI.jpg" group-title="Movies | DE | CINEMA VOD",Alpha (2025) DE
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185499.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpcDnatuJlRUldshZkZoqdJDijg.jpg" group-title="Movies | DE | CINEMA VOD",The Death of Robin Hood (2026) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185468.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsp6DZb0Z2CAHcaRTsw2kwsN6ul.jpg" group-title="Movies | DE | CINEMA VOD",Backrooms (2026) DE
@@ -1612,8 +1632,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185238.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185239.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFVxglqtDIaevsf3Cj8CJNSC3HO.jpg" group-title="Movies | DE | CINEMA VOD",Astrid Lindgren – Die Menschheit hat den Verstand verloren (2026) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185226.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="Movies | DE | CINEMA VOD",Culpa Tuya - Deine Schuld: London (2026) DE
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185227.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg" group-title="Movies | DE | CINEMA VOD",EPiC: Elvis Presley in Concert (2026) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185098.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="Movies | DE | CINEMA VOD",undertone (2026) DE
@@ -1762,8 +1780,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/182884.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/182583.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBI6i64jVaORw0rLFoYy3xDmqn5.jpg" group-title="Movies | DE | CINEMA VOD",Tschernobyl – Die ersten 48 Stunden (2026) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/182584.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QUEFxTno1ztSOHyKJDfGuG5Rsl.jpg" group-title="Movies | DE | CINEMA VOD",Der Medicus II (2025) DE
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/182562.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOCDfnuidJaFAWWZwasJeWzJd0R.jpg" group-title="Movies | DE | CINEMA VOD",Game Over - Der Fall der Credit Suisse (2025) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/182563.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg" group-title="Movies | DE | CINEMA VOD",The Strangers: Chapter 3 (2026) DE
@@ -2424,8 +2440,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/170272.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/170273.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8WMIgd1TjRN1CKe4rzdl9TZw6.jpg" group-title="Movies | DE | CINEMA VOD",Revólver (2024) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/170274.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzKeASTj4HitqVXB1cdvswmMV50.jpg" group-title="Movies | DE | CINEMA VOD",The Gentleman (2025) DE
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/170275.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0bHl70kXS47j9VyD9CMikGYvS1.jpg" group-title="Movies | DE | CINEMA VOD",Trail of Vengeance (2025) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/170124.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYEdduy7YnoC733Itl3Uuxe2yJ6.jpg" group-title="Movies | DE | CINEMA VOD",Predator: Badlands (2025) DE
@@ -2636,8 +2650,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/168417.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/168418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIP55viAXVMjCTjTRGeMq0WD4fZ.jpg" group-title="Movies | DE | CINEMA VOD",Wenn das Licht zerbricht (2024) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/168419.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66Ysv3Wwp2L7UaC2eh90VMySxjL.jpg" group-title="Movies | DE | CINEMA VOD",Kleine Dinge wie diese (2024)
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/168397.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4DQjOD7j8h24MjTZSlSyHVGqyl.jpg" group-title="Movies | DE | CINEMA VOD",Mein Monster - Ungeheuer verliebt (2024) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/168398.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiiZjcrVzzAkhKhrsPYu8MGw94T.jpg" group-title="Movies | DE | CINEMA VOD",Delfine Hautnah mit Bertie Gregory (2025) DE
@@ -3890,8 +3902,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/145190.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/145180.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVjF6VRDfc8gmpEWIcUbkgUsFmo.jpg" group-title="Movies | DE | CINEMA VOD",City of Darkness (2024) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/145124.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCjTJ5JyVRZ85Io1kXuMffVArFd.jpg" group-title="Movies | DE | CINEMA VOD",Konklave (2024) DE
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/145109.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GOCBgPRqiubXTmRQOTxlHFW1Ct.jpg" group-title="Movies | DE | CINEMA VOD",Thelma - Rache war nie süßer (2024) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/145112.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QGAUtP5YvEFRMdYl2iEhgHybDw.jpg" group-title="Movies | DE | CINEMA VOD",Bring Him to Me (2023) DE
@@ -10830,10 +10840,12 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/159231.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/144893.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | KINDER CINEMA VOD",##### GERMANY VOD KINDERFILME #####
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/36243.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2wClSPUcs0NidsNBueaTBmGkJd.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Milky Subway: The Galactic Express - The Movie (2026) DE
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/184529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geypzdXdx8LooxB691r3bhlrybB.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Toy Story 5 (2026) DE
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185454.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3oMYwggLjnv5v1oQSmUso6yTd.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Hoppers (2026) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/180053.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2wClSPUcs0NidsNBueaTBmGkJd.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Milky Subway: The Galactic Express - The Movie (2026) DE
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/184529.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0hobISwXRIv6gMQN9nAFvRBXAZ.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Charlie - Der Superhund (2025)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/183094.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lggrFZlEDu3kmic1DnZl9c6bcD9.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Der Super Mario Galaxy Film (2026) DE
@@ -11362,8 +11374,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/152563.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/109429.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42Hw0UiFkMIYFzLbxSUcylyfhDF.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Unten am Fluss (1978) DE
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/113634.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geypzdXdx8LooxB691r3bhlrybB.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Toy Story 5 (2026) DE
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185454.mkv
 
 # --- Movies | DE | KLASSIKER FILME VOD (1716) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txZ2GumdS8bEtdW1cO8dmBLGsek.jpg" group-title="Movies | DE | KLASSIKER FILME VOD",Largo Winch - Tödliches Erbe (2008) DE
@@ -23356,6 +23366,8 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/36236.mp4
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/184303.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYjLQ3ULyr3nWj218Cu7YYU0Z8x.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Hoplayanlar (2026)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/183099.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCnW0kmoyDCkUjt6Qr0khVPODY7.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Tom ve Jerry: Kayıp Pusula (2025) TR
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185462.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GgXSqCFAMASOPsMHl20kagc5i5.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Kaçak Fil (2024) TR
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/184939.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAS3apaaDmSZTYPe4sbelmJ3OzU.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Kral Şakir: Dünyalar Karıştı (2025)
@@ -24250,8 +24262,6 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/66453.mkv
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/85378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L6qqU6Q3k4MmPojncNbT43FSTL.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Cesur (2012)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/41751.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCnW0kmoyDCkUjt6Qr0khVPODY7.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Tom ve Jerry: Kayıp Pusula (2025) TR
-http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185462.mkv
 
 # --- Movies | TR-VOD | EFSANE FILMLER (2149) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="Movies | TR-VOD | EFSANE FILMLER",Elektra (2005)
@@ -32155,9 +32165,11 @@ http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1057) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1058) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/36235.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAA74yUrRVbaFWw1uAKNdIh74rL_b35aknaR4ZSyd2w&s=10" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Bayram ivedik (2026)
+http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185477.mkv
 #EXTINF:-1 tvg-logo="https://guzelhikayedizi.com/wp-content/uploads/2025/11/Guzel-Hikaye-Resmi-Poster-566x800.png" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Güzel Hikâye (2026)
 http://vip.europaiptv.vip:2086/movie/Nazmi/6sZ7sJxakq/185446.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVJ6BlqCMuA8UqWxyla3HxpGroD.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Erken Kış (2025)
@@ -35503,7 +35515,7 @@ http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/4130
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES",7 vs. Wild - Wildcard Competition
 http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/4145
 
-# --- Series | AMAZON PRIME - PARAMOUNT SERIES (387) ---
+# --- Series | AMAZON PRIME - PARAMOUNT SERIES (388) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",4 Blocks
 http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/515
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",12 Monkeys
@@ -36278,6 +36290,8 @@ http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/4110
 http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/4125
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",Every Year After
 http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/4128
+#EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",Bis morgen bei der Arbeit!
+http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/4150
 
 # --- Series | APPLE TV+ ANIME SERIES (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | APPLE TV+ ANIME SERIES",Ein Huhn will’s wissen / Interrupting Chicken
@@ -41967,4 +41981,4 @@ http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://vip.europaiptv.vip:2086/series/Nazmi/6sZ7sJxakq/3927
 
-# Total: 20913
+# Total: 20920

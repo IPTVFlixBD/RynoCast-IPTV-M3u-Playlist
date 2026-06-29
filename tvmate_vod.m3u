@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-06-28 19:19:22
+# Generated: 2026-06-29 21:34:46
 # Expires: 2026-07-24
 # Family Safe Edition
 # ==============================================
@@ -59555,7 +59555,7 @@ http://tvmate.icu:8080/series/VM121628/56784321/2374
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Marshals
 http://tvmate.icu:8080/series/VM121628/56784321/2377
 
-# --- Series | All Series (341) ---
+# --- Series | All Series (342) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://tvmate.icu:8080/series/VM121628/56784321/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -60238,5 +60238,7 @@ http://tvmate.icu:8080/series/VM121628/56784321/2372
 http://tvmate.icu:8080/series/VM121628/56784321/2375
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Dark Skies
 http://tvmate.icu:8080/series/VM121628/56784321/2378
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",Moving
+http://tvmate.icu:8080/series/VM121628/56784321/2379
 
-# Total: 30036
+# Total: 30037
