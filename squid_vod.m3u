@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-28 19:26:12
+# Generated: 2026-06-29 08:48:50
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -7419,7 +7419,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (160) ---
+# --- Movies | Filme 2026 (161) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="Movies | Filme 2026",Citizen Vigilante - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71719.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUDoDeCyobKik81PWUrBWOEV0qt.jpg" group-title="Movies | Filme 2026",André Is an Idiot - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71595.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGhd37yFzGBX7NLmKxv8LPvRo9c.jpg" group-title="Movies | Filme 2026",Addition - 2026
@@ -17819,6 +17821,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/905.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Insula de 1 Milion",Insula de 1 Milion
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/11.mp4
 
+# --- Movies | Interview with the Vampire (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Interview with the Vampire",Interview with the Vampire (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1309.mp4
+
 # --- Movies | Into the Badlands (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Into the Badlands",Into the Badlands
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/294.mp4
@@ -20923,4 +20929,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9127
+# Total: 9129

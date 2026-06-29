@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-28 19:19:59
+# Generated: 2026-06-29 08:43:43
 # Expires: 2026-10-13
 # Family Safe Edition
 # ==============================================
@@ -585,9 +585,11 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/104730.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ SKY SPORT KANÄLE ]",DE- SKY SPORT AUSTRIA 4 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/107720.m3u8
 
-# --- [ SPORT KANÄLE ] (28) ---
+# --- [ SPORT KANÄLE ] (29) ---
 #EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",***** SPORT *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2727.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ SPORT KANÄLE ]",DE - UFC HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/139842.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/dc4c1ab666bae306456eec29496e8676.png" group-title="[ SPORT KANÄLE ]",DE - EUROSPORT 1 FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2777.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/2411c6b212ee6d33ba0f5097631376c3.png" group-title="[ SPORT KANÄLE ]",DE - EUROSPORT 2 FHD
@@ -719,4 +721,4 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137527.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ ÖSTERREICH SKY ]",AU- SKY SPORT 5 HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/137528.m3u8
 
-# Total: 341
+# Total: 342

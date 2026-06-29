@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-06-28 19:28:41
+# Generated: 2026-06-29 08:47:17
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -58605,7 +58605,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/797.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - Gain ORIGINAL",Bizi Ayıran Çizgi (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1935.mp4
 
-# --- Movies | TR - GÜNLÜK DİZİLER (26) ---
+# --- Movies | TR - GÜNLÜK DİZİLER (27) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erd75Gon5bXL38kngnH6DCrOUj2.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Daha 17 (Bolum 5)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/352159.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Muhtemel Aşk (Bolum 2)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/351342.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Doğanın Kanunu (Bolum 3)
@@ -73403,4 +73405,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 36467
+# Total: 36468
