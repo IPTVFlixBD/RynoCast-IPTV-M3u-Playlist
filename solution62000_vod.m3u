@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-29 21:32:22
+# Generated: 2026-06-30 08:46:03
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1191,7 +1191,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1644) ---
+# --- Movies | Films (1645) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg" group-title="Movies | Films",Le Diable s'habille en Prada 2 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28951.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jOZNmxiWl6gnn40IXYY7GKeX5k.jpg" group-title="Movies | Films",Belle (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28941.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uoBOi1xbfbJ9l8xg76uwI2B4MZX.jpg" group-title="Movies | Films",Les Enfants de la Résistance (2026)
@@ -5447,7 +5449,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (493) ---
+# --- Movies | NETFLIX (494) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="Movies | NETFLIX",Little Brother (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28942.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="Movies | NETFLIX",Mes hommes d'action (2026)
@@ -6434,6 +6436,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1201.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Sur tes traces
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1214.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Agent Kim Reactivated
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1225.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -8377,4 +8381,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1223
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Atomic
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1224
 
-# Total: 4155
+# Total: 4157
