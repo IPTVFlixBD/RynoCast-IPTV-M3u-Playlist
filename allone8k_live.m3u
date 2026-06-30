@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-30 08:41:51
+# Generated: 2026-06-30 20:09:23
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -4555,7 +4555,7 @@ http://allone8k.info:8080/live/hany/hany1234/298462.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/libya-sport-tv.png" group-title="AR | LIBYA | ليبيا",LIB: LIBYA SPORT 2 4K
 http://allone8k.info:8080/live/hany/hany1234/298463.m3u8
 
-# --- AR | MBC 4K (35) ---
+# --- AR | MBC 4K (37) ---
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/69c31c73ccf76.jpg" group-title="AR | MBC 4K",MBC Live 4K.
 http://allone8k.info:8080/live/hany/hany1234/306951.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="AR | MBC 4K",MBC 1 4K.
@@ -4578,6 +4578,8 @@ http://allone8k.info:8080/live/hany/hany1234/306943.m3u8
 http://allone8k.info:8080/live/hany/hany1234/306944.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pixhost.to/images/8478/735839191_1340_1.png" group-title="AR | MBC 4K",MBC IRAQ 4K.
 http://allone8k.info:8080/live/hany/hany1234/306945.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/MBC_Mood_Logo.svg/120px-MBC_Mood_Logo.svg.png" group-title="AR | MBC 4K",MBC MOOD 4K.
+http://allone8k.info:8080/live/hany/hany1234/659730.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="AR | MBC 4K",MBC MAX 4K.
 http://allone8k.info:8080/live/hany/hany1234/306946.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.ch/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="AR | MBC 4K",MBC Drama + 4K.
@@ -4612,6 +4614,8 @@ http://allone8k.info:8080/live/hany/hany1234/306927.m3u8
 http://allone8k.info:8080/live/hany/hany1234/306928.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pixhost.to/images/8478/735839191_1340_1.png" group-title="AR | MBC 4K",MBC IRAQ 4K
 http://allone8k.info:8080/live/hany/hany1234/306929.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/MBC_Mood_Logo.svg/120px-MBC_Mood_Logo.svg.png" group-title="AR | MBC 4K",MBC MOOD 4K
+http://allone8k.info:8080/live/hany/hany1234/659731.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="AR | MBC 4K",MBC MAX 4K
 http://allone8k.info:8080/live/hany/hany1234/306930.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com/Logo/ARABICHD/MBC+_Variety_HD.png" group-title="AR | MBC 4K",MBC Variety 4K
@@ -4715,7 +4719,7 @@ http://allone8k.info:8080/live/hany/hany1234/324926.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC ZOOM 4K
 http://allone8k.info:8080/live/hany/hany1234/324928.m3u8
 
-# --- AR | MBC HD - SD (43) ---
+# --- AR | MBC HD - SD (44) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="AR | MBC HD - SD",MBC 1 HD.
 http://allone8k.info:8080/live/hany/hany1234/141061.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJlbEZw8aKmRQHAfcvBtuKCeL8BYcFcCa5KNqkkDlzEZQLn3_H6yoTWauuAYrv4x9nfeNyrgd6fw25SPm0BuWfI25oHUXmm2LqQVAskR5_Eicm7sZBsFDX0qng5Ejg1O-rfGJbIwaxSSYJAIg3aXuH7rBOWDwFaKwljBG5CUIM3CvuHnpDKCLE5uS/w1600/mbc2.png" group-title="AR | MBC HD - SD",MBC 2 HD.
@@ -4728,6 +4732,8 @@ http://allone8k.info:8080/live/hany/hany1234/141064.m3u8
 http://allone8k.info:8080/live/hany/hany1234/141065.m3u8
 #EXTINF:-1 tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" group-title="AR | MBC HD - SD",IRAQ HD.
 http://allone8k.info:8080/live/hany/hany1234/141066.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/MBC_Mood_Logo.svg/120px-MBC_Mood_Logo.svg.png" group-title="AR | MBC HD - SD",MBC MOOD HD
+http://allone8k.info:8080/live/hany/hany1234/659732.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/629078167651603.Y3JvcCwxMzYwLDEwNjMsMCwxOTE.png" group-title="AR | MBC HD - SD",MBC Masr HD
 http://allone8k.info:8080/live/hany/hany1234/141067.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RBy7p4IVRuLXtd_KdO4HtgiMeT6SDbX8BPAlfoh4n8qoEAmBFk3S29FyzqAqfXdfFJamDjemSYoZ9J3WTtC6VakaFc02qiKfWebEKPrERoXeSqOdvftp1Ea-seG5s6UywxVeML36wrouhNQBCeFYhCTiTEt8mgU2gQgEMkRBUu5OVRTfKEydwc1C/s416/mbc-masr2.png" group-title="AR | MBC HD - SD",MBC Masr 2 HD.
@@ -18423,4 +18429,4 @@ http://allone8k.info:8080/live/hany/hany1234/657081.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ TR
 http://allone8k.info:8080/live/hany/hany1234/658254.m3u8
 
-# Total: 9001
+# Total: 9004

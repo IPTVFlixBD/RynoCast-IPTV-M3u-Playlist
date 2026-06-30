@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-30 08:41:51
+# Generated: 2026-06-30 20:09:23
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -13637,7 +13637,19 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (52) ---
+# --- Movies | AR | كأس العالم 2026 (58) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a43b2df982dc.jpg" group-title="Movies | AR | كأس العالم 2026",المغرب ضد هولندا (30-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/659728.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a43b7d91173f.jpg" group-title="Movies | AR | كأس العالم 2026",الجزائر ضد استرليا (28-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/659727.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a43b77f26b12.jpg" group-title="Movies | AR | كأس العالم 2026",الارجنتين ضد الاردن (28-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/659726.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a43b3ddda092.jpg" group-title="Movies | AR | كأس العالم 2026",كندا ضد جنوب افريقيا (29-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/659725.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a43b35b12606.jpg" group-title="Movies | AR | كأس العالم 2026",المانيا ضد الباراجواي (30-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/659724.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a43b026cec55.jpg" group-title="Movies | AR | كأس العالم 2026",البرازيل ضد اليابان (29-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/659723.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3ff03c0e543.jpg" group-title="Movies | AR | كأس العالم 2026",السنغال ضد العراق (26-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/659318.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a3fce7354884.jpg" group-title="Movies | AR | كأس العالم 2026",السعودية ضد الرأس الأخضر (27-06-2026)
@@ -80247,4 +80259,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 39905
+# Total: 39911
