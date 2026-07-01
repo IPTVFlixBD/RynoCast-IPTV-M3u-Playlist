@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-30 20:02:46
+# Generated: 2026-07-01 08:40:04
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -933,7 +933,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (334) ---
+# --- Deutschland (292) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -1246,26 +1246,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/36130.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11847.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn Sport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 6
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 7
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 8
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 9
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN UEFA Champions League 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78362.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn NBA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75445.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn MLB
@@ -1410,10 +1390,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/82157.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 19
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 1 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 2 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 3 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 4 HD
@@ -1542,66 +1518,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85438.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN Sport Mix
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85378.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN Sport 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN Sport 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 6
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 7
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 8
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 9
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 11
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 12
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 13
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 14
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 15
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 16
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 17
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 18
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 19
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 20
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 01
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 02
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85387.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 03
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85386.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 04
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 05
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 06
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 07
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 08
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 09
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85379.m3u8
 
 # --- Digitalb (82) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Digitalb_logo.png" group-title="Digitalb",====Digitalb====
@@ -9001,4 +8917,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4470
+# Total: 4428
