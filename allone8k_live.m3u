@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-07-01 08:42:13
+# Generated: 2026-07-01 20:18:27
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -4674,8 +4674,6 @@ http://allone8k.info:8080/live/hany/hany1234/237263.m3u8
 http://allone8k.info:8080/live/hany/hany1234/237264.m3u8
 
 # --- AR | MBC Extra 4K (22) ---
-#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
-http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC MIX 4K
 http://allone8k.info:8080/live/hany/hany1234/451357.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC EXTRA 4K
@@ -4704,6 +4702,8 @@ http://allone8k.info:8080/live/hany/hany1234/324919.m3u8
 http://allone8k.info:8080/live/hany/hany1234/324920.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC Comedy 4K
 http://allone8k.info:8080/live/hany/hany1234/324921.m3u8
+#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
+http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC CLASS 4K
 http://allone8k.info:8080/live/hany/hany1234/324922.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC PLUS 4K
@@ -8578,6 +8578,8 @@ http://allone8k.info:8080/live/hany/hany1234/254079.m3u8
 http://allone8k.info:8080/live/hany/hany1234/254388.m3u8
 
 # --- DE | APPLE TV (33) ---
+#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
+http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 01
 http://allone8k.info:8080/live/hany/hany1234/233039.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 02
@@ -8604,8 +8606,6 @@ http://allone8k.info:8080/live/hany/hany1234/233049.m3u8
 http://allone8k.info:8080/live/hany/hany1234/233050.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 13
 http://allone8k.info:8080/live/hany/hany1234/233051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
-http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Fast & Furious
 http://allone8k.info:8080/live/hany/hany1234/233038.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Friends DE S01
