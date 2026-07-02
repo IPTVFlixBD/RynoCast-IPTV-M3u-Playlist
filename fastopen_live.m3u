@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-07-01 20:21:14
+# Generated: 2026-07-02 08:34:50
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -12333,7 +12333,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104361.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Iceland",N4 Iceland HD VIP IS
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/17203.m3u8
 
-# --- India (310) ---
+# --- India (311) ---
+#EXTINF:-1 tvg-logo="" group-title="India",Colors Cineplex IN
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135521.m3u8
 #EXTINF:-1 tvg-logo="" group-title="India",##########   India   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2543.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/andtvhd.png" group-title="India",&TV FHD IN
@@ -31579,4 +31581,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15680
+# Total: 15681

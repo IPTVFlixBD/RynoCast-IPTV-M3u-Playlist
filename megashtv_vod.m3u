@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: megashtv.digital:8080
-# Generated: 2026-07-01 20:11:54
+# Generated: 2026-07-02 08:42:00
 # Expires: 2027-05-18
 # Family Safe Edition
 # ==============================================
@@ -9153,9 +9153,11 @@ http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/69012.mkv
 
-# --- Series | SERIES-ITA (11) ---
+# --- Series | SERIES-ITA (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",===== SERIES-ITA=====
 http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/253
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Dutton Ranch (2026) ITA
+http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/303
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Hostage (2025) ITA
 http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/256
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",L'Istituto (2025) ITA
@@ -9177,4 +9179,4 @@ http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
 http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/258
 
-# Total: 4574
+# Total: 4575

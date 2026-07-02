@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-01 20:12:25
+# Generated: 2026-07-02 08:34:09
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -261,7 +261,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (251) ---
+# --- Movies | Dessins Animés (252) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h1FVf2kiS1964VsGmkYQHJoVsHe.jpg" group-title="Movies | Dessins Animés",Les Légendaires (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28205.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
@@ -764,6 +764,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1668.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5222.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg" group-title="Movies | Dessins Animés",La Famille Delajungle, le film - 2002
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7191.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg" group-title="Movies | Dessins Animés",Les Chat-ventures de Rocky (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28993.mkv
 
 # --- Movies | Disney+ (80) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tkILExgVXhNLoxy4KNgCk9PC4lU.jpg" group-title="Movies | Disney+",Tron: Ares (2025)
@@ -5453,7 +5455,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (494) ---
+# --- Movies | NETFLIX (495) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHImt9szlNQaNM2iY3vcgSdDp.jpg" group-title="Movies | NETFLIX",Enola Holmes 3 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28992.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="Movies | NETFLIX",Little Brother (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28942.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="Movies | NETFLIX",Mes hommes d'action (2026)
@@ -8389,4 +8393,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1223
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Atomic
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1224
 
-# Total: 4161
+# Total: 4163

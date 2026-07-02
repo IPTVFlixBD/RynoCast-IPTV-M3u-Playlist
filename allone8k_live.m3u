@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-07-01 20:18:27
+# Generated: 2026-07-02 08:39:56
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -18327,7 +18327,9 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# --- كأس العالم FIFA World Cup 2026™ (50) ---
+# --- كأس العالم FIFA World Cup 2026™ (51) ---
+#EXTINF:-1 tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX LIVE
+http://allone8k.info:8080/live/hany/hany1234/659761.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (SS)
 http://allone8k.info:8080/live/hany/hany1234/314992.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (F)
@@ -18429,4 +18431,4 @@ http://allone8k.info:8080/live/hany/hany1234/657081.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ TR
 http://allone8k.info:8080/live/hany/hany1234/658254.m3u8
 
-# Total: 9004
+# Total: 9005

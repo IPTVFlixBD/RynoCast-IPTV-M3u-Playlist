@@ -1,8 +1,8 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-07-01 20:19:17
-# Expires: 2026-07-01
+# Generated: 2026-07-02 08:40:46
+# Expires: 2026-07-02
 # Family Safe Edition
 # ==============================================
 
@@ -8119,7 +8119,11 @@ http://lidns.cc/movie/yu3k45/3audeg/6005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Brasil Paralelo",Unitopia
 http://lidns.cc/movie/yu3k45/3audeg/6324.mp4
 
-# --- Movies | Cinema (7) ---
+# --- Movies | Cinema (9) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg" group-title="Movies | Cinema",Mestres do Universo [CINEMA] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/546721.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwEuq51BV59mm2LgZ42bWgPgagW.jpg" group-title="Movies | Cinema",Toy Story 5 [CINEMA] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/546711.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg" group-title="Movies | Cinema",Supergirl [CINEMA] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/546645.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e8BQ6RP3GRPz45yno1jjlXu56.jpg" group-title="Movies | Cinema",Dia D [CINEMA] (2026)
@@ -10656,7 +10660,7 @@ http://lidns.cc/movie/yu3k45/3audeg/530546.mp4
 http://lidns.cc/movie/yu3k45/3audeg/527648.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKbA1iYh9oL63BbZie1YWxqcWpB.jpg" group-title="Movies | Disney Plus",O 13º Aniversário (1999)
 http://lidns.cc/movie/yu3k45/3audeg/527587.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Iibo2DWihvLUDfPYvc3mU11lDe.jpg" group-title="Movies | Disney Plus",Ladrão de Osso (1948)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDJf82zt6IWsD4SW69d8D7RrK5T.jpg" group-title="Movies | Disney Plus",Ladrão de Osso (1948)
 http://lidns.cc/movie/yu3k45/3audeg/526668.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bft6EuB96z0ureK832edqwAplDS.jpg" group-title="Movies | Disney Plus",A Espiã Que Sabia de Menos (2015)
 http://lidns.cc/movie/yu3k45/3audeg/526471.mp4
@@ -17259,7 +17263,9 @@ http://lidns.cc/movie/yu3k45/3audeg/893.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Faroeste",Longmire: O Xerife
 http://lidns.cc/movie/yu3k45/3audeg/1204.mp4
 
-# --- Movies | Ficção Científica (151) ---
+# --- Movies | Ficção Científica (152) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtA3Ol4Ldnk01N0tBLP3EEFtPkv.jpg" group-title="Movies | Ficção Científica",O Enigma de Andrômeda (1971)
+http://lidns.cc/movie/yu3k45/3audeg/546704.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8wd3T71OKoyXDbdTYkMS8nZAl2.jpg" group-title="Movies | Ficção Científica",Alta Frequência (2000)
 http://lidns.cc/movie/yu3k45/3audeg/546252.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zORA6fNnE6W0RhCTgh1GacRv10h.jpg" group-title="Movies | Ficção Científica",Hellboy: A Espada das Tempestades (2006)
@@ -18751,7 +18757,9 @@ http://lidns.cc/movie/yu3k45/3audeg/6424.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",X-Men: Evolution
 http://lidns.cc/movie/yu3k45/3audeg/3199.mp4
 
-# --- Movies | Lançamento (1131) ---
+# --- Movies | Lançamento (1132) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="Movies | Lançamento",Clika [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/546728.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg" group-title="Movies | Lançamento",Enola Holmes 3 (2026)
 http://lidns.cc/movie/yu3k45/3audeg/546696.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRxxZtu7QCzVJXUKNyocugeMYyp.jpg" group-title="Movies | Lançamento",Bang My Box: The Robin Byrd Story [L] (2026)
@@ -18904,9 +18912,9 @@ http://lidns.cc/movie/yu3k45/3audeg/544872.mp4
 http://lidns.cc/movie/yu3k45/3audeg/544866.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iILiJSRViTEcF23MHhGCbVm3mfW.jpg" group-title="Movies | Lançamento",Mortal Kombat 2 [4K] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/544865.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg" group-title="Movies | Lançamento",Iron Maiden: Burning Ambition (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bWtTKl9HHxQJf1fQ32Q6kXqEqo.jpg" group-title="Movies | Lançamento",Iron Maiden: Burning Ambition (2026)
 http://lidns.cc/movie/yu3k45/3audeg/544821.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg" group-title="Movies | Lançamento",Iron Maiden: Burning Ambition [L] (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bWtTKl9HHxQJf1fQ32Q6kXqEqo.jpg" group-title="Movies | Lançamento",Iron Maiden: Burning Ambition [L] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/544820.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50yWyY981TyUHhoxxSEKwO70FmQ.jpg" group-title="Movies | Lançamento",O Diabo Veste Prada 2 [L] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/544748.mp4
@@ -21015,7 +21023,15 @@ http://lidns.cc/movie/yu3k45/3audeg/8363.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",The Beginning After the End [L]
 http://lidns.cc/movie/yu3k45/3audeg/7298.mp4
 
-# --- Movies | Legendado (4775) ---
+# --- Movies | Legendado (4781) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4otILVAFN1Nu6ohiUjYYIQAFnx.jpg" group-title="Movies | Legendado",Senhora Presidente [L] (2022)
+http://lidns.cc/movie/yu3k45/3audeg/546705.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlH9KGqzPcwXYebKcp97noELJwd.jpg" group-title="Movies | Legendado",O Chalé [L] (2020)
+http://lidns.cc/movie/yu3k45/3audeg/546702.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SmW73foiBY45fZfK8Zjk0Uxh6N.jpg" group-title="Movies | Legendado",KV1 - Almas de Ferro [L] (2018)
+http://lidns.cc/movie/yu3k45/3audeg/546700.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGtIS0hhiMjMBHOOnQcLzvr8OAM.jpg" group-title="Movies | Legendado",Freddy vs. Jason [L] (2003)
+http://lidns.cc/movie/yu3k45/3audeg/546699.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roa7lJAj0m7XQEc9lY5zeYXggsu.jpg" group-title="Movies | Legendado",Drag Queens Contra Zumbis [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/546689.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Vsofb2efpBFwNTa7I0joEJRZQq.jpg" group-title="Movies | Legendado",A Mãe Obsessiva [L] (2025)
@@ -21426,7 +21442,7 @@ http://lidns.cc/movie/yu3k45/3audeg/544859.mp4
 http://lidns.cc/movie/yu3k45/3audeg/544858.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IflTrxN8yw44ZxhfvJPziGzGHM.jpg" group-title="Movies | Legendado",O Silêncio dos Inocentes [L] (1991)
 http://lidns.cc/movie/yu3k45/3audeg/544857.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFU7CYHAaiOYN7nLCRgw60fIkJR.jpg" group-title="Movies | Legendado",O Sequestro do Metrô 1 2 3 [L] (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDQeUJBEeeMYbAVhO35ybBkstDS.jpg" group-title="Movies | Legendado",O Sequestro do Metrô 1 2 3 [L] (2009)
 http://lidns.cc/movie/yu3k45/3audeg/544856.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqzq9iS5UQz2EErqwyUtvwGBfnw.jpg" group-title="Movies | Legendado",O Rei da Água [L] (1998)
 http://lidns.cc/movie/yu3k45/3audeg/544854.mp4
@@ -28978,6 +28994,10 @@ http://lidns.cc/movie/yu3k45/3audeg/303195.mp4
 http://lidns.cc/movie/yu3k45/3audeg/308180.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="Movies | Legendado",ZOMBIES 4: A Era dos Vampiros [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/297531.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Fallout [L]
+http://lidns.cc/movie/yu3k45/3audeg/9841.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Dexter: Ressurreição [L]
+http://lidns.cc/movie/yu3k45/3audeg/9840.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Tip Toe [L]
 http://lidns.cc/movie/yu3k45/3audeg/9836.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Inseparável [L]
@@ -42667,4 +42687,4 @@ http://lidns.cc/movie/yu3k45/3audeg/7542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Turcas",Yargı: Segredos de Família
 http://lidns.cc/movie/yu3k45/3audeg/2553.mp4
 
-# Total: 21280
+# Total: 21290

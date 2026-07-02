@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-01 20:15:02
+# Generated: 2026-07-02 08:41:17
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -25697,7 +25697,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023058.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEWiBXJGXK28jGBAm8oFKKTB0WD.jpg" group-title="Movies | VOD - ACTIE [NL]",NL - The Matrix Revolutions (2003)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023059.mkv
 
-# --- Movies | VOD - ACTION [EN] (251) ---
+# --- Movies | VOD - ACTION [EN] (252) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txpa2ZrQd5mnCRfWdi2AajepAtd.jpg" group-title="Movies | VOD - ACTION [EN]",EN - White Tiger (1996)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399993.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3Yu6JdufxUSqy6PJgT887UpSMt.jpg" group-title="Movies | VOD - ACTION [EN]",EN - All the King's Men (2006)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398735.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s0HYWAobp76qkjlNREvzFNOUdG.jpg" group-title="Movies | VOD - ACTION [EN]",EN - Killing Time (1998)
@@ -32099,9 +32101,19 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1023075.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMzXTf5XwgapEN3LFdksE9Eu30d.jpg" group-title="Movies | VOD - DOCUMENTAIRE [NL]",NL - 블랙핑크: 세상을 밝혀라 (2020)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022913.mkv
 
-# --- Movies | VOD - DOCUMENTARY [EN] (530) ---
+# --- Movies | VOD - DOCUMENTARY [EN] (535) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBCMj5cNqefTP4oHdnIC7BOLXnp.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",FR - Al Pacino, le Bronx et la fureur  (2022)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/665533.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqslD1RJJX8Qx1ITVvA5X65cyPT.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - No Baby on Board (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399978.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVLBoQkBxeyuh7akvDWHdhnJvNI.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Homecoming: The Tokyo Series (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399973.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Chris & Martina: The Final Set (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399968.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfFvltKHntGBupFuubx3r61v48e.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D) (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399965.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRxxZtu7QCzVJXUKNyocugeMYyp.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Bang My Box: The Robin Byrd Story (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399962.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - The Crash (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398746.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJZlsBpDxx3LrGwXvwXkQyVnp9A.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Trainwreck: Poop Cruise (2025)
@@ -60631,7 +60643,65 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8634) ---
+# --- Movies | VOD - NEW ADDED [EN] (8663) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGQTZNcEPbynjZd2uoI8IKgDdLm.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - We're So Dead (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399992.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Tuner (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399991.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abdw51gf1oy3UWllAwqGl6WdkiS.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The President's Cake (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399990.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYCaa2MI7Z2EShKjWZA2hlLTPXS.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Magnificent Mendez (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399989.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nms6RzPVYegxA5Kq7e6mg2cNYDq.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Kids (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399988.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Devil Wears Prada 2 (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399987.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLkTJe0ze5h9Z0Rs9IJMfXnuZU8.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Summerween (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399986.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxb0FoBH6e5NJwdVKiwjMAQzvcy.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Southern Scares (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399985.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Ryan Hamilton: This Just Hit Me (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399984.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Power Ballad (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399983.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB61RzPSbRMfcvQmGbP4TsQFAgJ.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Pickleball Pete (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399982.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqCDDco2gUey2xDmhWqZ6O6smJc.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Past Life (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399981.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7viobm2EsL9WrjxWEkBAFSNW75.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Once Upon a Time in a Cinema (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399980.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Obsession (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399979.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Mother's Pride (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399977.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5f0AG1eGsRC5aIdUGt8wAkrTSuS.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Mad Bills to Pay (or Destiny, dile que no soy malo) (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399976.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - I Love Boosters (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399975.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - HUNGRY (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399974.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ5DHdQ5d1wUgvzeZmVsQPJP3Gx.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Homage (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399972.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GFSou9g6euYcgJiRnWe608aqg9.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Glenrothan (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399971.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmdLLhhqj5oTRjhSS4V1yAKc06C.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Final Diagnosis: No Second Chances (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399970.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Enola Holmes 3 (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399969.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9waKPyT5JWv9EWTf79j25yT6Bu4.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Carolina Caroline (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399967.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tYRbCPZVQD1AjZ6YGMRx71lbDU.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - California Schemin' (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399966.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Get Out (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399964.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsRtKyM8aXpiMpx8msOo0IUOEFO.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Bare Skin (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399963.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOC89NMH4vFcbtqwc7mx9EWxap1.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Above the Line (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399961.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doxZww6QN9tDqIyFkijH8COWsAS.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - 119.MP4 (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399960.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - 40 Dates and 40 Nights (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399959.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Sheep Detectives (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1398747.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Savage House (2026)
@@ -111031,6 +111101,14 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1025323.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9E7HCeLTgXdI5Rm0wlOet7vj4Y.jpg" group-title="Movies | VOD - افلام جديدة",AR - وداعًا جوليا (2023)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1305833.mp4
 
+# --- Movies | مسلسلات أجنبيه (3) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",EN - The Killings at Parrish Station (2026) (AU)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33774.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",EN - Elle (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33773.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",EN - Worst Neighbor Ever (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33772.mp4
+
 # --- Series | SRS - DISNEY+ SERIES [FR] (272) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - DISNEY+ SERIES [FR]",FR - 9-1-1: Nashville (2025) (US)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/32982
@@ -112465,4 +112543,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56122
+# Total: 56160
