@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-07-02 19:40:10
+# Generated: 2026-07-03 08:05:51
 # Expires: 2026-07-29
 # Family Safe Edition
 # ==============================================
@@ -6155,7 +6155,7 @@ http://lunar.pm:8080/live/Slim/Sexyslim/36326.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ie/VirginMediaTwo.ie.png" group-title="Irish",IE:Virgin Media Two
 http://lunar.pm:8080/live/Slim/Sexyslim/36340.m3u8
 
-# --- Italy (152) ---
+# --- Italy (151) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/25377199451.png" group-title="Italy",IT: Alice HD
 http://lunar.pm:8080/live/Slim/Sexyslim/122718.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84200116801.png" group-title="Italy",IT: Aurora ARTE HD
@@ -6304,8 +6304,6 @@ http://lunar.pm:8080/live/Slim/Sexyslim/122793.m3u8
 http://lunar.pm:8080/live/Slim/Sexyslim/122794.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/8795764333.png" group-title="Italy",IT: SKY UNO HD
 http://lunar.pm:8080/live/Slim/Sexyslim/122795.m3u8
-#EXTINF:-1 tvg-logo="https://curl.pk/img/u/2b6e7eef761ae18725fa3c4f6472b2a5153.jpg" group-title="Italy",⭐⭐⭐ KIDS ⭐⭐⭐
-http://lunar.pm:8080/live/Slim/Sexyslim/122796.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/29894243791.png" group-title="Italy",IT: BABY TV HD
 http://lunar.pm:8080/live/Slim/Sexyslim/122797.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/2801454865.png" group-title="Italy",IT: Boing HD
@@ -10801,4 +10799,4 @@ http://lunar.pm:8080/live/Slim/Sexyslim/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Slim/Sexyslim/120491.m3u8
 
-# Total: 5332
+# Total: 5331

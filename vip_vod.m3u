@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vip.europaiptv.vip:2086
-# Generated: 2026-07-02 19:39:59
+# Generated: 2026-07-03 08:05:55
 # Expires: 2026-09-13
 # Family Safe Edition
 # ==============================================
@@ -1589,9 +1589,13 @@ http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4624) ---
+# --- Movies | DE | CINEMA VOD (4626) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCbtFTIBdwpOI5KRp8dSrK6hm6x.jpg" group-title="Movies | DE | CINEMA VOD",Das Drama - Noch mal auf Anfang (2026) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/185511.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg" group-title="Movies | DE | CINEMA VOD",Gelbe Briefe (2026) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/185512.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miYhb9ohxb9gfFcH5EtbSBYJIWF.jpg" group-title="Movies | DE | CINEMA VOD",Supergirl (2026)
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/185508.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LxyuMNFYhmDZNBKvZeZe4RDPun.jpg" group-title="Movies | DE | CINEMA VOD",Jackass: Einer geht noch (2026) DE
@@ -30787,11 +30791,13 @@ http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1060) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1061) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/36235.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAA74yUrRVbaFWw1uAKNdIh74rL_b35aknaR4ZSyd2w&s=10" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Bayram ivedik (2026)
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/185477.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qXbYre8DzT7bSrgfSwUIsnp4Tq.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Kızı Kazan Aşk (2024)
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/185513.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12j1kpLtMDVIrZVmrc70j1kokNT.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Sitare: Cin Kraliçesi (2025)
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/185505.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVJ6BlqCMuA8UqWxyla3HxpGroD.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Erken Kış (2025)
@@ -40605,4 +40611,4 @@ http://vip.europaiptv.vip:2086/series/@ozkankarakaya/248CRk62Tu/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://vip.europaiptv.vip:2086/series/@ozkankarakaya/248CRk62Tu/3927
 
-# Total: 20234
+# Total: 20237
