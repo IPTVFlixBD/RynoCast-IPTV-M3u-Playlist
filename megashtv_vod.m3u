@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: megashtv.digital:8080
-# Generated: 2026-07-04 08:07:32
+# Generated: 2026-07-04 19:13:56
 # Expires: 2027-05-18
 # Family Safe Edition
 # ==============================================
@@ -341,9 +341,11 @@ http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1141) ---
+# --- Movies | Filma me titra Shqip (1142) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="Movies | Filma me titra Shqip",Enola Holmes 3 (2026)
+http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/85926.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="Movies | Filma me titra Shqip",Michael (2026)
 http://megashtv.digital:8080/movie/Benjamin_Kolonevic22/pwKM9GFJtc/85889.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="Movies | Filma me titra Shqip",In the Grey (2026)
@@ -9179,4 +9181,4 @@ http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
 http://megashtv.digital:8080/series/Benjamin_Kolonevic22/pwKM9GFJtc/258
 
-# Total: 4575
+# Total: 4576
