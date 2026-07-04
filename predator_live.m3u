@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-07-03 19:45:01
+# Generated: 2026-07-04 08:05:11
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -516,8 +516,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85744.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85786.m3u8
 
 # --- De Filme Und Serien (112) ---
-#EXTINF:-1 tvg-logo="https://a-9.1fichier.com/d1048710850" group-title="De Filme Und Serien",24/7 Queen of the South DE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78782.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",====De Filme Und Serien====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80936.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: MAX KINO HD
@@ -674,6 +672,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80653.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80652.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: SERIEAX Gomorra HD+
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80651.m3u8
+#EXTINF:-1 tvg-logo="https://a-9.1fichier.com/d1048710850" group-title="De Filme Und Serien",24/7 Queen of the South DE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/78782.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: SERIEAX Grimm HD+
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80650.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: SERIEAX Haus des Geldes HD+
