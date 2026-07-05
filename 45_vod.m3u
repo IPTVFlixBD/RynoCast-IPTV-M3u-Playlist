@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-07-04 19:03:05
+# Generated: 2026-07-05 19:13:18
 # Expires: 2026-07-21
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (577) ---
+# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (578) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Peaky Blinders: The Immortal Man [Multi-Sub] [4K] [2026]
 http://45.139.122.199:8080/movie/Christian1/christian1/2337375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Hunting Season [Multi-Sub] [4K] [2025]
@@ -1162,6 +1162,8 @@ http://45.139.122.199:8080/movie/Christian1/christian1/2433476.mkv
 http://45.139.122.199:8080/movie/Christian1/christian1/2449122.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Avatar: Fire and Ash [Multi-Sub] [4K] [2025]
 http://45.139.122.199:8080/movie/Christian1/christian1/2459551.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qSoyXh55bRMYByBCMgIddcWJwO.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Hammerhead Sharks Up Close with Bertie Gregory [Multi-Sub] [4K] [2026]
+http://45.139.122.199:8080/movie/Christian1/christian1/2473145.mkv
 
 # --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (369) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",On Her Majesty's Secret Service [4K] [1969]
@@ -5629,7 +5631,7 @@ http://45.139.122.199:8080/movie/Christian1/christian1/456000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPmSY3y4A2xMSkF24tdIfDQNKJy.jpg" group-title="Movies | Disney [ENG]",Three Little Pigs - 1933
 http://45.139.122.199:8080/movie/Christian1/christian1/456001.mkv
 
-# --- Movies | Events (797) ---
+# --- Movies | Events (798) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYMVSRk2n4WpzKMw7V6mKz4Psoh.jpg" group-title="Movies | Events",Conor Mcgregor - Notorious [UFC]
 http://45.139.122.199:8080/movie/Christian1/christian1/20399.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhOGE2YmMtZDA4MC00MTk0LWJlNzYtNjgxMGQ1MmYxNjgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies | Events",The 72nd Annual Primetime Emmy Awards [2020]
@@ -7222,6 +7224,8 @@ http://45.139.122.199:8080/movie/Christian1/christian1/2392761.mkv
 http://45.139.122.199:8080/movie/Christian1/christian1/2413411.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZMkXjfitmjV9MbhAadFgCQrp7Q.jpg" group-title="Movies | Events",Ashton Sylve vs. Joseph Diaz Jr. [2026]
 http://45.139.122.199:8080/movie/Christian1/christian1/2448327.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Events",zayas vs boots boxing
+http://45.139.122.199:8080/movie/Christian1/christian1/2472941.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5f/6d/90/5f6d90b4410634765f6b954fc0c336a4.jpg" group-title="Movies | Events",F1 Abu Dhabi GP R22 [4K] [2021]
 http://45.139.122.199:8080/movie/Christian1/christian1/151508.mkv
 
@@ -13390,7 +13394,7 @@ http://45.139.122.199:8080/movie/Christian1/christian1/18726.mkv
 http://45.139.122.199:8080/movie/Christian1/christian1/18734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Murder on the Orient Express [PRE] [2017]
 http://45.139.122.199:8080/movie/Christian1/christian1/19248.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y14VzRr1er9DNiJffToo763esMe.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Still/Born [multi-sub] [2018]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1BbnMArbnSISel8dK9mpRwWIB.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Still/Born [multi-sub] [2018]
 http://45.139.122.199:8080/movie/Christian1/christian1/19258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJAZWq7kS1G6eps4oJCKOgutHU.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Cut Shoot Kill [multi-sub] [2017]
 http://45.139.122.199:8080/movie/Christian1/christian1/19351.mkv
@@ -27523,7 +27527,7 @@ http://45.139.122.199:8080/movie/Christian1/christian1/2462155.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Bar3vLPSVSCeXF9qeNZSG6I7jj.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Which Way to the Front? [PRE] [1970] [NO-SUB]
 http://45.139.122.199:8080/movie/Christian1/christian1/2462156.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5918) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5921) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Christian1/christian1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -39360,6 +39364,12 @@ http://45.139.122.199:8080/movie/Christian1/christian1/2465663.mkv
 http://45.139.122.199:8080/movie/Christian1/christian1/2466741.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Solo Mio [PRE] [2026]
 http://45.139.122.199:8080/movie/Christian1/christian1/2466742.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fzp1Fvf60BtwATCoMEBeHG2cgi.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",A Royal Recipe for Love [PRE] [2023]
+http://45.139.122.199:8080/movie/Christian1/christian1/2468290.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGFS01I30wgAtsWF2HXFPVmRAmd.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Man in Love [PRE] [2021]
+http://45.139.122.199:8080/movie/Christian1/christian1/2468291.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4NuDItXfGsM43wbbqvUa8TFDlj.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Wedding in the Hamptons [PRE] [2023]
+http://45.139.122.199:8080/movie/Christian1/christian1/2468292.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -41227,4 +41237,4 @@ http://45.139.122.199:8080/movie/Christian1/christian1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Christian1/christian1/2173473.mkv
 
-# Total: 20583
+# Total: 20588

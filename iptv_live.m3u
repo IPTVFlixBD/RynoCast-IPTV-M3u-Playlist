@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-07-04 19:08:22
+# Generated: 2026-07-05 19:19:31
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -19,7 +19,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5162.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Pluto TV Yu-Gi-Oh
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5163.m3u8
 
-# --- Documentary (19) ---
+# --- Documentary (20) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFfbmdH/Rasan.jpg" group-title="Documentary",Rasan HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/94.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfc7ssR/Kalapur.png" group-title="Documentary",Kalapur
@@ -58,12 +58,14 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5582.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5584.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Documentary",Asharq Discovery HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Shna Documentary
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5601.m3u8
 
 # --- Education (1) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2MsCTm/parwarday-TV.jpg" group-title="Education",Parwarday TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/3302.m3u8
 
-# --- Entertainment (85) ---
+# --- Entertainment (87) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ph3PBFz/bmc.png" group-title="Entertainment",BMC
 http://iptv.nextnet.krd:25461/live/nextnet/3738/88.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbB3j8t/zed.png" group-title="Entertainment",Zed HD
@@ -234,8 +236,12 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5586.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5592.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Hge9Iuu9wtGq63Rvd4C5S21jUdCXBxBRupMQgpOyaWSNDHB5C-GuSrGnTKtuHI4E92Xht-laSQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Hrmzyar HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Shna TV
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",New Family
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5603.m3u8
 
-# --- Kids (18) ---
+# --- Kids (19) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cw70S9F/pelistank.png" group-title="Kids",Pelistank HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/187.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6QtcJ8/niga-kids.jpg" group-title="Kids",Niga Kids
@@ -272,8 +278,10 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5546.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Hormzyar Kids
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5597.m3u8
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/e96c7248-d9df-4788-8554-2436032329cc" group-title="Kids",One Kids
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5598.m3u8
 
-# --- Movies (16) ---
+# --- Movies (18) ---
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180824/tgu/kisspng-mbc-drama-television-channel-mbc-plus-drama-mbc-tv-loogos-mbc-tv-channel-frequencies-on-sate-1713949968187.webp" group-title="Movies",MBC Max
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4729.m3u8
 #EXTINF:-1 tvg-logo="https://media0043.elcinema.com/tvguide/1218_1.png" group-title="Movies",Rotana Aflam Plus
@@ -306,8 +314,12 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5587.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5589.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IxihOWulE1p8C7FWjVC-f75uA5-YdAggFA&s" group-title="Movies",MBC 2
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5591.m3u8
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/898f1156-d0dd-4c2c-b9fa-70ee98ed5970" group-title="Movies",New Movies
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5599.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",New Action
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5602.m3u8
 
-# --- News (21) ---
+# --- News (23) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pf5722L/kurdsat.jpg" group-title="News",Kurdsat
 http://iptv.nextnet.krd:25461/live/nextnet/3738/84.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPbHCyb/kurdsat-news.jpg" group-title="News",Kurdsat News
@@ -350,6 +362,10 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5013.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Shams tv
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Barin Movies
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5604.m3u8
+#EXTINF:-1 tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/nuce-tv_0.jpg" group-title="News",Nucha TV
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5605.m3u8
 
 # --- Persian (30) ---
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8a2a409eac24592005bbd1c564" group-title="Persian",Mihan TV
@@ -497,10 +513,22 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5588.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Hormzyar Sport
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5596.m3u8
 
-# --- USA (2) ---
+# --- USA (8) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="USA",WION
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",Test A1
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5606.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",Test A2
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",Test A3
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5608.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",Test A6
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5610.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",Test A7
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5611.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",Test B1
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5613.m3u8
 
-# Total: 237
+# Total: 251

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-04 19:15:06
+# Generated: 2026-07-05 19:17:51
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -30893,7 +30893,9 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/50758.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGIy308alpX12xdBVsREgsHawQC.jpg" group-title="Movies | TR-VOD | Komedi/Dram/Romantik",Confissões de Uma Garota Excluída (2021) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/48592.mkv
 
-# --- Movies | TR-VOD | Korku/Gizem (324) ---
+# --- Movies | TR-VOD | Korku/Gizem (325) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCg1FNCwiUIkzyuiTtMMfjmx4Za.jpg" group-title="Movies | TR-VOD | Korku/Gizem",Lee Cronin'den Mumya (2026) TR
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185520.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BGeAlfOjSduB13tw11NkDOg8O3.jpg" group-title="Movies | TR-VOD | Korku/Gizem",Sessiz Gece, Kanlı Gece (2025) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185230.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="Movies | TR-VOD | Korku/Gizem",We Bury the Dead (2026) TR
@@ -42003,4 +42005,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20931
+# Total: 20932
