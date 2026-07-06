@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-06 08:28:45
+# Generated: 2026-07-06 21:24:27
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1589,9 +1589,11 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4626) ---
+# --- Movies | DE | CINEMA VOD (4627) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ci25TcxCHkLTadVtFc7L9ztv6ir.jpg" group-title="Movies | DE | CINEMA VOD",Passenger (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" group-title="Movies | DE | CINEMA VOD",Fuze (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185518.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCbtFTIBdwpOI5KRp8dSrK6hm6x.jpg" group-title="Movies | DE | CINEMA VOD",Das Drama - Noch mal auf Anfang (2026) DE
@@ -32181,7 +32183,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1061) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1062) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36235.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAA74yUrRVbaFWw1uAKNdIh74rL_b35aknaR4ZSyd2w&s=10" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Bayram ivedik (2026)
@@ -34304,6 +34306,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148849.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mavzer (2020)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/73341.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Sarı Zarflar (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185524.mkv
 
 # --- Movies | TÜRK YABANCI INTERNET DIZILER (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TÜRK YABANCI INTERNET DIZILER",TR: Hausen
@@ -42003,4 +42007,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20931
+# Total: 20933

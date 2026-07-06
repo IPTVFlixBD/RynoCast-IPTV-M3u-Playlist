@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-07-06 08:29:11
+# Generated: 2026-07-06 21:16:48
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -13645,7 +13645,9 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (64) ---
+# --- Movies | AR | كأس العالم 2026 (65) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4b0ecb9dc82.jpg" group-title="Movies | AR | كأس العالم 2026",البرازيل ضد النرويج (5-06-2026)
+http://allone8k.info:8080/movie/hany/hany1234/660004.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4a63b521bb9.jpg" group-title="Movies | AR | كأس العالم 2026",فرنسا ضد الباراغواي (5-07-2026)
 http://allone8k.info:8080/movie/hany/hany1234/659983.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4a5c9a792ec.jpg" group-title="Movies | AR | كأس العالم 2026",الأرجنتين ضد كاب فيردي (4-07-2026)
@@ -80335,4 +80337,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 39949
+# Total: 39950
