@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-07-05 19:17:41
+# Generated: 2026-07-06 08:35:43
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -113059,9 +113059,11 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/260
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Anime",One Piece
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/261
 
-# --- Series | VOD Series - Denmark (33) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Denmark",Klovn
-http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/10
+# --- Series | VOD Series - Arabic (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Arabic",Al Hayba the Comeback
+http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/278
+
+# --- Series | VOD Series - Denmark (32) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Denmark",Slangedraeber
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/221
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Denmark",Legenden
@@ -113126,10 +113128,6 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/322
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/323
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Denmark",Bullshit
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/332
-
-# --- Series | VOD Series - English (1) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - English",Al Hayba the Comeback
-http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/278
 
 # --- Series | VOD Series - English 2 (46) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - English 2",A Place To Call Home - English
@@ -113553,7 +113551,7 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/399
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Germany",Turn Up Charlie - Germany
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/400
 
-# --- Series | VOD Series - Multisubs (96) ---
+# --- Series | VOD Series - Multisubs (97) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Mirzapur
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/11
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Vikings
@@ -113746,6 +113744,8 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/405
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/406
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",11 22 63
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/407
+#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Desperate Housewives
+http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/413
 
 # --- Series | VOD Series - Turkey (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Turkey",Gassal

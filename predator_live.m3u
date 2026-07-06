@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-07-04 19:03:56
+# Generated: 2026-07-06 08:34:17
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -515,9 +515,25 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85744.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgique",BE: DAZN 1 FR
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85786.m3u8
 
-# --- De Filme Und Serien (112) ---
+# --- De Filme Und Serien (120) ---
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",====De Filme Und Serien====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Action Movies Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85938.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Comedy Movies Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Crime Series Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Drama Movies Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85935.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Family Movies Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Romance Movies Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Thrillers Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85932.m3u8
+#EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: Rakuten TV Top Movies Germany
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: MAX KINO HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Filme Und Serien",DE: MAX KINO 2 HD
@@ -2856,6 +2872,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84704.m3u8
 # --- Italy (164) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" group-title="Italy",========Italy========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN FIFA 2026 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/77756.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Rai 4K
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61043.m3u8
 #EXTINF:-1 tvg-logo="http://predator.digital:8080/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italy",IT: Rai 1 FHD
@@ -2880,7 +2898,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/535.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/533.m3u8
 #EXTINF:-1 tvg-logo="http://predator.digital:8080/images/976de43414ecc51902830ab061e0603d.png" group-title="Italy",IT: Rai Scuola HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/532.m3u8
-#EXTINF:-1 tvg-logo="http://predator.digital:8080/images/cad82083a67ca71e3fe15ea68f5dd94a.png" group-title="Italy",IT: Rai Storia HD
+#EXTINF:-1 tvg-logo="http://predator.digital:8080/images/cad82083a67ca71e3fe15ea68f5dd94a.png" group-title="Italy",IT: Rai Storia FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/530.m3u8
 #EXTINF:-1 tvg-logo="http://predator.digital:8080/images/70c13eb3b1542b3862a5e68e2cb856d3.png" group-title="Italy",IT: Rai YoYo HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/529.m3u8
@@ -3092,8 +3110,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81255.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Dazn Zona  FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN Serie A 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77756.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN Serie A 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77755.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN Serie A 3
@@ -8595,7 +8611,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (163) ---
+# --- World Sports (164) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026  RTK 1
@@ -8608,6 +8624,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85912.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026 SS-3
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",IT: DAZN FIFA 2026 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85930.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 2 FHD
@@ -8923,4 +8941,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4431
+# Total: 4440
