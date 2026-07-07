@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-07-06 21:16:48
+# Generated: 2026-07-07 20:20:04
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -65,7 +65,7 @@ http://allone8k.info:8080/movie/hany/hany1234/8154.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR |  CHRISTIAN مسلسلات مسيحية",CHR - اسبوع الالام
 http://allone8k.info:8080/movie/hany/hany1234/8153.mp4
 
-# --- Movies | AR |  KHALIJI خليجي (342) ---
+# --- Movies | AR |  KHALIJI خليجي (343) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR |  KHALIJI خليجي",ساهر الليل - 2010
 http://allone8k.info:8080/movie/hany/hany1234/11375.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR |  KHALIJI خليجي",يوم شفتك - 2026
@@ -750,6 +750,8 @@ http://allone8k.info:8080/movie/hany/hany1234/1711.mp4
 http://allone8k.info:8080/movie/hany/hany1234/1710.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR |  KHALIJI خليجي",٦٠ يوم - 2021
 http://allone8k.info:8080/movie/hany/hany1234/1709.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AR |  KHALIJI خليجي",كالوس - 2017
+http://allone8k.info:8080/movie/hany/hany1234/11430.mp4
 
 # --- Movies | AR | (يعرض الأن - بوليوود) (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | (يعرض الأن - بوليوود)",الحصاد المر - 2025
@@ -13645,7 +13647,13 @@ http://allone8k.info:8080/movie/hany/hany1234/140131.mp4
 #EXTINF:-1 tvg-logo="https://media0004.elcinema.com/uploads/_315x420_26a15d8ad50c3c4fabac3f2b1075f0ba28068317e5f382c661240dd977457d19.jpg" group-title="Movies | AR | ZAMAN JAMIL أفلام الزمن الجميل",VOD AR> 1960 - نداء العشاق
 http://allone8k.info:8080/movie/hany/hany1234/140113.mp4
 
-# --- Movies | AR | كأس العالم 2026 (65) ---
+# --- Movies | AR | كأس العالم 2026 (68) ---
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4cf2dade74a.jpg" group-title="Movies | AR | كأس العالم 2026",امريكا ضد بلجيكا (7-07-2026)
+http://allone8k.info:8080/movie/hany/hany1234/660047.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4cf25090ad1.jpg" group-title="Movies | AR | كأس العالم 2026",البرتغال ضد اسبانيا (6-07-2026)
+http://allone8k.info:8080/movie/hany/hany1234/660046.mkv
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4bbc14c15e9.jpg" group-title="Movies | AR | كأس العالم 2026",انجلترا ضد المكسيك (6-07-2026)
+http://allone8k.info:8080/movie/hany/hany1234/660007.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4b0ecb9dc82.jpg" group-title="Movies | AR | كأس العالم 2026",البرازيل ضد النرويج (5-06-2026)
 http://allone8k.info:8080/movie/hany/hany1234/660004.mkv
 #EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/6a4a63b521bb9.jpg" group-title="Movies | AR | كأس العالم 2026",فرنسا ضد الباراغواي (5-07-2026)
@@ -80337,4 +80345,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 39950
+# Total: 39954

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-06 21:24:27
+# Generated: 2026-07-07 20:09:42
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -2032,13 +2032,13 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/39365.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27011.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/1280px-Logo_SRF_zwei.svg.png" group-title="DE-NATIONAL/REGIONAL",DE: SRF HD 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27010.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ORF_HD.svg/1200px-ORF_HD.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ORF_1_HD_neu.svg/1280px-ORF_1_HD_neu.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF 1 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27066.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ORF_2_HD_logo.svg/1200px-ORF_2_HD_logo.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ORF_2_HD.svg/3840px-ORF_2_HD.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27065.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ORF_III_11-2.svg/1280px-ORF_III_11-2.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/ORF_III_HD_Logo.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF 3 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27064.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/2000px-ORF_Sport%2B.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF Sport Plus HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/3840px-ORF_Sport%2B.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ORF Sport Plus HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27063.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ATV.svg/640px-ATV.svg.png" group-title="DE-NATIONAL/REGIONAL",AT: ATV HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27109.m3u8
@@ -3745,197 +3745,91 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171528.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 3+ HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171529.m3u8
 
-# --- PL: POLAND (152) ---
+# --- PL: POLAND (92) ---
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",##### POLAND #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| TVN TURBO
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| MOTOWIZJA
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| HGTV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178553.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| TVN STYLE
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178554.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| TLC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178555.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| FOOD NETWORK
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178556.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DISCOVERY LIFE
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POLSAT CAFE
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POLSAT PLAY
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| BBC LIFESTYLW
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| TVP 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| BBC EARTH
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178563.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| PLANETE+
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NATIONAL GEOGRAPHIC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178565.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NATGEO WILD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NATGEO PEOPLE
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| FOKUS
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178568.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| HISTORY 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178569.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| HISTORY
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| ADENTURE
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| VIDOC TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| ESKA TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| ESKA TV EXTRA
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178574.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| ESKA ROCK
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| VOX MUSIC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DISCO POLO MUSIC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POLSAT MUSIC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POLO TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| MTV POLSKA
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| MUSIC BOX
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178581.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| MEZZO
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POWER TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NUTA TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NUTA GOLS
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| SZLAGIER TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DISNEY CHANNEL
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178587.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DISNEY JR
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178588.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DISNEY XD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178589.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NICK JR
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178590.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NICKELODEON
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| NICK TOONS
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178592.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| MINI MINI PLUS
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| TELE TOON PLUS
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DAVINCI
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| CBEEBIES
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| KINO POLSKA MUSIC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| CRIME PLUS INVESTIGATION
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| INVESTIGATION DISCOVERY
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POLSAT SPORT 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| POLSAT SPORT 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| DW
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| COMEDY CENTRAL EXTRA
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| TELEREPUBLICA
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL| WP TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL:  Polsat Sport Extra 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Extra 2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/76349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Extra 3 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52714.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Extra 4 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eleven Sports 1
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eleven Sports 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52733.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eleven Sports 3
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52732.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52725.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Extra HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Premium 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Premium 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52694.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport News
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Seriale Romans
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Film HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52740.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Food
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52741.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Cafe
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52742.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Super
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Premium 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport Premium 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52745.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Play HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Viasat History
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52757.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport News
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Sport 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eurosport
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eurosport 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52654.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: PolsatNews 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Seriale Romans
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat News HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Viasat History
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eurosport 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52654.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Polonia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52656.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: MTV Polska
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52657.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Jim Jam
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52658.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Seriale
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Kino TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Filmbox Extra
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Filmbox Family
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: ALE KINO
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52701.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: HBO HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52739.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: HBO 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52734.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: HBO 3 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Filmbox Extra
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52670.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Filmbox Family
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat Film HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52740.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Filmbox Action
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: FilmBox Premium
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Seriale
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polonia 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: FokusTV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Kino TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: ALE KINO
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Kino
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52678.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: FOX Comedy
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Rozrywka
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV6
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Info
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52707.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP 1
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Sport
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52695.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV4
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Info
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52707.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVS
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52708.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN24 BiS
@@ -3944,72 +3838,34 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52709.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52711.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN-TURBO
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN 7
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN 24
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV Republika
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN Fabula HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP ABC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Kultura
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Polonia
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52656.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Rozrywka
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52673.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Warszawa
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Historia
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: FOX Comedy
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Puls 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Kuchnia
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: N-SPORT
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: 13 Ulica
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TNT
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Da Vinci
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52748.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polsat News HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: CBS Reality
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: National Geographic
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: National Geographic  Wild
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52659.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery Turbo
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52761.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery Life
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52680.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery Science
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Sport
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: AXN
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV PULS
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52679.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Eurosport
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: 4FUN
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Music Vox TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Polonia 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Tele 5
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Power TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52692.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Planete
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52696.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: DOMO plus
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: 4FUN
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Stopklatka TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Stars TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TRWAM
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Kuchnia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: N-SPORT
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Euronews
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52715.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: HGTV
@@ -4018,38 +3874,62 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52716.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52717.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: PoloTV
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV6
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Kino
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV PULS
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Tele 5
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Power TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Music Vox TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: MTV Polska
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52657.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Jim Jam
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52658.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Boomerang
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN 7
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN 24
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52721.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TV Republika
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Puls 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: 13 Ulica
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52730.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TNT
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVN Fabula HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Warszawa
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52752.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Stopklatka TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP Historia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TVP ABC
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Stars TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52664.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TRWAM
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery Science
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: National Geographic  Wild
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52659.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: CBS Reality
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Discovery Turbo
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: National Geographic
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TELETOON  Nick JR
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Da Vinci
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Nickelodeon
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52713.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: MiniMini
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52704.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Disney Channel
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52684.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Disney XD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Nickelodeon
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: BBC Earth
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: MiniMini
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: TELETOON  Nick JR
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: AXN
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: Boomerang
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/52672.m3u8
 
 # --- RO: Romanya (314) ---
 #EXTINF:-1 tvg-logo="" group-title="RO: Romanya",##### ROMANIA #####
@@ -6579,4 +6459,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3229
+# Total: 3169

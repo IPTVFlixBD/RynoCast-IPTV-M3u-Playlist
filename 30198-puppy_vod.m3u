@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-07-06 21:20:23
+# Generated: 2026-07-07 20:21:53
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -4699,7 +4699,11 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22421.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - Single's Inferno
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22423.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3804) ---
+# --- Movies | SRS - NEW ADDED [EN] (3806) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Patience (2025) (GB)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33786.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Life, Larry and the Pursuit of Unhappiness: An Almost History of America (2026) (US)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33785.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Cape Town (2016) (ZA)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33761.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - I Will Find You (2026) (US)
@@ -21419,7 +21423,11 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1021720.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/er8Th8giuf7KHfv5G5HV5ewSCat.jpg" group-title="Movies | VOD - NETFLIX [MULTISUB]",NF - Wedding Games (2023)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1021721.mkv
 
-# --- Movies | VOD - NEW ADDED [EN] (8663) ---
+# --- Movies | VOD - NEW ADDED [EN] (8665) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Birdcage (1996)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1400374.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vol5TCGHDbi8r0yo0TrIGFiGxJ7.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Beaches (1988)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1400373.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGQTZNcEPbynjZd2uoI8IKgDdLm.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - We're So Dead (2025)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1399992.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Tuner (2026)
@@ -47509,4 +47517,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23715
+# Total: 23719

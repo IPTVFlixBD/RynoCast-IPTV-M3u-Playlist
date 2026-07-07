@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-06 21:14:08
+# Generated: 2026-07-07 20:14:04
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13727,7 +13727,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3804) ---
+# --- Movies | SRS - NEW ADDED [EN] (3806) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Patience (2025) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33786.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Life, Larry and the Pursuit of Unhappiness: An Almost History of America (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33785.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Cape Town (2016) (ZA)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33761.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - I Will Find You (2026) (US)
@@ -60649,7 +60653,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8663) ---
+# --- Movies | VOD - NEW ADDED [EN] (8665) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Birdcage (1996)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1400374.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vol5TCGHDbi8r0yo0TrIGFiGxJ7.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Beaches (1988)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1400373.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGQTZNcEPbynjZd2uoI8IKgDdLm.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - We're So Dead (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1399992.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Tuner (2026)
@@ -111478,7 +111486,7 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/8966
 http://portott.com/series/c4c24c0217/c4b2e86278c6/8959
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - DISNEY+ SERIES [FR]",FR - Big Sky
 http://portott.com/series/c4c24c0217/c4b2e86278c6/8946
-#EXTINF:-1 tvg-logo="" group-title="Series | SRS - DISNEY+ SERIES [FR]",FR - The Resident
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - DISNEY+ SERIES [FR]",FR - The Resident (2018) (US)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/8779
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - DISNEY+ SERIES [FR]",FR - Disney Les Making-Of : The Mandalorian
 http://portott.com/series/c4c24c0217/c4b2e86278c6/8407
@@ -112559,4 +112567,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56168
+# Total: 56172
