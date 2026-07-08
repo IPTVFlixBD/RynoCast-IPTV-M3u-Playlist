@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-06 08:30:27
+# Generated: 2026-07-08 19:44:43
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -769,7 +769,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5222.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg" group-title="Movies | Dessins Animés",La Famille Delajungle, le film - 2002
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7191.mkv
 
-# --- Movies | Disney+ (80) ---
+# --- Movies | Disney+ (81) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tkILExgVXhNLoxy4KNgCk9PC4lU.jpg" group-title="Movies | Disney+",Tron: Ares (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21316.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wd4sdRTSCfcKnJSFWR5iMIQExd4.jpg" group-title="Movies | Disney+",Freaky Friday 2 : Encore dans la peau de ma mère (2025)
@@ -930,6 +930,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/985.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1030.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",Lucky Luke
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",The Dropout
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1233.mp4
 
 # --- Movies | Documentaires (64) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqC7bXiLC7USV64TfPUjl1s5plC.jpg" group-title="Movies | Documentaires",L'affaire epstein : la piste française (2026)
@@ -1195,7 +1197,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1650) ---
+# --- Movies | Films (1652) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kpS1FLAA0Jg16oTueSZiEdxQ37A.jpg" group-title="Movies | Films",Alter ego (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29129.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6BDQJoZpzhFJCTop59BRR51k9yp.jpg" group-title="Movies | Films",Passenger (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29102.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gLatb5eouLTAWrJGKA1QqMJMoFx.jpg" group-title="Movies | Films",Journal d'une Fashionista (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28998.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg" group-title="Movies | Films",Tu Yaa Main (2026)
@@ -3718,7 +3724,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4095.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4082.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg" group-title="Movies | Films",Mourir peut attendre (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4077.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG48yMURtIivDmxDczLQXqENyzx.jpg" group-title="Movies | Films",Dangerous - 2021
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg" group-title="Movies | Films",Dangerous (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4073.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubpMr8hOsRHZmg1J8iNxnUAsTZL.jpg" group-title="Movies | Films",Settlers - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4070.mkv
@@ -4410,7 +4416,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1177.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1570.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbIzFklV5qSqz0QTx2IRMcLCseh.jpg" group-title="Movies | Films",The Open House (2018)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1597.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa4EY0jr7NaSmjhUysHg5y7MmPF.jpg" group-title="Movies | Films",The Passenger - 2018
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vcBghk7zDWALJeWOJTbpWT1aeqw.jpg" group-title="Movies | Films",The Passenger (2018)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1765.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg" group-title="Movies | Films",The Dark Knight : Le Chevalier noir (2008)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27865.mkv
@@ -5463,7 +5469,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (496) ---
+# --- Movies | NETFLIX (498) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ao22xjPx81Fmv3gbZTMEZ2YzTXK.jpg" group-title="Movies | NETFLIX",Les Mariées d'Adam (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29098.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHImt9szlNQaNM2iY3vcgSdDp.jpg" group-title="Movies | NETFLIX",Enola Holmes 3 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28992.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="Movies | NETFLIX",Little Brother (2026)
@@ -5850,7 +5858,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7209.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7135.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" group-title="Movies | NETFLIX",Le Book club mortel - 2023
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7134.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCzPOzT6cfTaHUfTnLCkdGn3Sdj.jpg" group-title="Movies | NETFLIX",Agent Stone - 2023
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pPwVYDfwNThUrGDNDStkv6QVHkS.jpg" group-title="Movies | NETFLIX",Agent Stone (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7082.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBmY1Kyh7Y2oGsbX48klb31Bem.jpg" group-title="Movies | NETFLIX",Zom 100 : La liste de la mort - 2023
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7047.mp4
@@ -6456,6 +6464,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1214.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1225.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Human Vapor
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1228.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",MINDHUNTER
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1232.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7761,7 +7771,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1220
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مدبلج Muhtemel Aşk - احتمال حب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 
-# --- Series | Series divers (322) ---
+# --- Series | Series divers (323) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8406,5 +8416,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1223
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1224
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Elle
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1229
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Zodiaque
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1234
 
-# Total: 4170
+# Total: 4176

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-07-07 20:21:53
+# Generated: 2026-07-08 19:54:48
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -21423,7 +21423,13 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1021720.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/er8Th8giuf7KHfv5G5HV5ewSCat.jpg" group-title="Movies | VOD - NETFLIX [MULTISUB]",NF - Wedding Games (2023)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1021721.mkv
 
-# --- Movies | VOD - NEW ADDED [EN] (8665) ---
+# --- Movies | VOD - NEW ADDED [EN] (8668) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KlYdWoOrbL5ux357rW9LC155qw.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Scary Movie (Multi-Subs) (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Passenger (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401000.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13YU9zVOD6unuZuiLapZTXQql4G.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Pandora: Fire and Ice (2025)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1400999.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Birdcage (1996)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1400374.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vol5TCGHDbi8r0yo0TrIGFiGxJ7.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Beaches (1988)
@@ -47329,13 +47335,17 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/615340.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9E7HCeLTgXdI5Rm0wlOet7vj4Y.jpg" group-title="Movies | VOD - افلام جديدة",AR - وداعًا جوليا (2023)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1305833.mp4
 
-# --- Movies | مسلسلات أجنبيه (3) ---
+# --- Movies | مسلسلات أجنبيه (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",EN - The Killings at Parrish Station (2026) (AU)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33774.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",EN - Elle (2026) (US)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33773.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",EN - Worst Neighbor Ever (2026) (US)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33772.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",AR - Life, Larry and the Pursuit of Unhappiness: An Almost History of America (2026) (US)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33788.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | مسلسلات أجنبيه",AR - Patience (2026) (GB)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33787.mp4
 
 # --- Series | SRS - QUEBEC SERIES [QC] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
@@ -47517,4 +47527,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23719
+# Total: 23724
