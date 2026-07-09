@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-07-09 08:07:10
+# Generated: 2026-07-09 20:37:35
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -13623,7 +13623,9 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/819876.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg" group-title="Movies | VOD - DISNEY+ [MULTISUB]",D+ - The Guardians of the Galaxy Holiday Special (2022)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/819877.mkv
 
-# --- Movies | VOD - DOCUMENTARY [EN] (534) ---
+# --- Movies | VOD - DOCUMENTARY [EN] (535) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uXL16pegV9mccBeUqB9VGos5hv.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - #SKYKING (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401201.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqslD1RJJX8Qx1ITVvA5X65cyPT.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - No Baby on Board (2025)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1399978.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVLBoQkBxeyuh7akvDWHdhnJvNI.jpg" group-title="Movies | VOD - DOCUMENTARY [EN]",EN - Homecoming: The Tokyo Series (2026)
@@ -47527,4 +47529,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23724
+# Total: 23725

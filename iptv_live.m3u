@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-07-09 08:08:50
+# Generated: 2026-07-09 20:37:01
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -281,15 +281,11 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5597.m3u8
 #EXTINF:-1 tvg-logo="blob:https://web.telegram.org/e96c7248-d9df-4788-8554-2436032329cc" group-title="Kids",One Kids
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5598.m3u8
 
-# --- Movies (18) ---
+# --- Movies (16) ---
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180824/tgu/kisspng-mbc-drama-television-channel-mbc-plus-drama-mbc-tv-loogos-mbc-tv-channel-frequencies-on-sate-1713949968187.webp" group-title="Movies",MBC Max
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4729.m3u8
 #EXTINF:-1 tvg-logo="https://media0043.elcinema.com/tvguide/1218_1.png" group-title="Movies",Rotana Aflam Plus
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4734.m3u8
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/0284d8b4-9271-472d-ba8b-59aa7cf86650?height=&width=450&croppingPoint=mc&version=1&type=avif" group-title="Movies",El Kebeer Awi
-http://iptv.nextnet.krd:25461/live/nextnet/3738/4740.m3u8
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2024/Hanin/Aug/Bab_elahra_En/original/Bab_elahra_En.png?height=&width=450&croppingPoint=mc&version=1&type=avif" group-title="Movies",Bab Al Hara
-http://iptv.nextnet.krd:25461/live/nextnet/3738/4744.m3u8
 #EXTINF:-1 tvg-logo="Masrah Masr" group-title="Movies",Masrah Masr
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4745.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hGdXRMd.png" group-title="Movies",Pluto TV Classic TV
@@ -513,7 +509,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5588.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Hormzyar Sport
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5596.m3u8
 
-# --- USA (8) ---
+# --- USA (7) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="USA",WION
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
@@ -526,9 +522,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5607.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",Test A6
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Test A7
-http://iptv.nextnet.krd:25461/live/nextnet/3738/5611.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",Test B1
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5613.m3u8
 
-# Total: 251
+# Total: 248

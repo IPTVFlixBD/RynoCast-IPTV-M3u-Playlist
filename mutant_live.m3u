@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-07-09 08:12:52
+# Generated: 2026-07-09 20:33:43
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -13479,13 +13479,21 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/952118.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DYN SPORT ᴿᴬᵂ",DE | DYN SPORTS 20ᴿᴬᵂ
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/952119.m3u8
 
-# --- DE | ENJOYTV DOCUMENTARIES (2) ---
+# --- DE | ENJOYTV DOCUMENTARIES (3) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV DOCUMENTARIES",DE | EnjoyTV Biathlon Nation Ein Team Eine Mission 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055103.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV DOCUMENTARIES",DE | EnjoyTV American Murder Gabby Petito 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052514.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV DOCUMENTARIES",DE | EnjoyTV The American Experiment 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052492.m3u8
 
-# --- DE | ENJOYTV KINDER (15) ---
+# --- DE | ENJOYTV KINDER (18) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV KINDER",DE | EnjoyTV Bebefinn 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055055.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV KINDER",DE | EnjoyTV Mascha und der Bär 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055054.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV KINDER",DE | EnjoyTV Little Angel 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055053.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV KINDER",DE | EnjoyTV Frog &Toad 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052512.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV KINDER",DE | EnjoyTV Um die Welt mit Willy Fog 24/7
@@ -13517,7 +13525,9 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052379.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV KINDER",DE | EnjoyTVCoComelon Lane 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052378.m3u8
 
-# --- DE | ENJOYTV MOVIES (23) ---
+# --- DE | ENJOYTV MOVIES (24) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MOVIES",DE | EnjoyTV Arnold Schwarzenegger 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055104.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MOVIES",DE | EnjoyTV Shah Rukh Khan 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052331.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MOVIES",DE | EnjoyTV Elvis Presley 24/7
@@ -13565,7 +13575,15 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052297.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MOVIES",DE | EnjoyTV Krimi 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052299.m3u8
 
-# --- DE | ENJOYTV MUZIK (9) ---
+# --- DE | ENJOYTV MUZIK (13) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Morning Music 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055065.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Taylor Swift Hits 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055064.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Pop Hits 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055063.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Techno Party 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055062.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Rammstein 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052352.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Capital Bra 24/7
@@ -13585,7 +13603,9 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052345.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV MUZIK",DE | EnjoyTV Deutsche Musik 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052344.m3u8
 
-# --- DE | ENJOYTV REALITY TV (6) ---
+# --- DE | ENJOYTV REALITY TV (7) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV REALITY TV",DE | EnjoyTV Rise and Fall 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055102.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV REALITY TV",DE | EnjoyTV Life Below Zero 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052513.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV REALITY TV",DE | EnjoyTV Kampf der Realitystars 24/7
@@ -13599,7 +13619,9 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052488.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV REALITY TV",DE | EnjoyTV Temptation Island 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052377.m3u8
 
-# --- DE | ENJOYTV SERIES (17) ---
+# --- DE | ENJOYTV SERIES (18) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SERIES",DE | EnjoyTV Power Book IV Force 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055101.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SERIES",DE | EnjoyTV Maxton Hall – Die Welt zwischen uns 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052510.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SERIES",DE | EnjoyTV Parade’s End – Der letzte Gentleman 24/7
@@ -13635,7 +13657,15 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052361.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SERIES",DE | EnjoyTV Adolescence 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052353.m3u8
 
-# --- DE | ENJOYTV SPORTS (1) ---
+# --- DE | ENJOYTV SPORTS (5) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SPORTS",DE | EnjoyTV Startaufstellung 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055100.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SPORTS",DE | EnjoyTV Ronaldinho The One and Only 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055058.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SPORTS",DE | EnjoyTV Formula 1 Drive to Survive 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055057.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SPORTS",DE | EnjoyTV WWE Unreal 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1055056.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DE | ENJOYTV SPORTS",DE | EnjoyTV Rafa 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1052515.m3u8
 
@@ -45991,7 +46021,7 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/447745.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NATIONAL-LEAGUE REPLAY ᵛᶦᵖ",UK: NATIONAL-LEAGUE REPLAY 12 HD
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/447744.m3u8
 
-# --- UK | NEWS (13) ---
+# --- UK | NEWS (12) ---
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/UK/CNN.png" group-title="UK | NEWS",UK | CNN HD
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/113741.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/UKHDNEWS/BLOOMBERG.png" group-title="UK | NEWS",UK | BLOOMBERG
@@ -46010,8 +46040,6 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/113742.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/63049.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/UKHDNEWS/BLOOMBERG.png" group-title="UK | NEWS",UK | BLOOMBERG
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/113740.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/UKHDNEWS/FRANCE24.png" group-title="UK | NEWS",UK | FRANCE 24
-http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/113744.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/UKHDNEWS/GBnews.png" group-title="UK | NEWS",UK | GB NEWS
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/300434.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/UKHDNEWS/NHKWORLD.png" group-title="UK | NEWS",UK | NHK WORLD
@@ -56517,4 +56545,4 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301591.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="✦●✦● INFORMATION ✦●✦●",✦●✦● BOXING ✦●✦●
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301588.m3u8
 
-# Total: 27796
+# Total: 27810

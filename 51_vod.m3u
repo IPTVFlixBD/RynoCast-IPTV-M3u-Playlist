@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-09 08:16:15
+# Generated: 2026-07-09 20:45:31
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1589,9 +1589,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4629) ---
+# --- Movies | DE | CINEMA VOD (4631) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13AFdmJiirStuAu0D4kPxRXG6xo.jpg" group-title="Movies | DE | CINEMA VOD",Nürnberg 45 - Im Angesicht des Bösen (2025) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185660.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1u5BVSM60JgA8XT4bWXwu83ywM.jpg" group-title="Movies | DE | CINEMA VOD",Perfect Match (2024) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185661.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qSoyXh55bRMYByBCMgIddcWJwO.jpg" group-title="Movies | DE | CINEMA VOD",Hammerhead Sharks Up Close with Bertie Gregory (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185527.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7dZmrjMSnuDTJjsPWxUV27yeO.jpg" group-title="Movies | DE | CINEMA VOD",The Furious (2026) DE
@@ -42013,4 +42017,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20936
+# Total: 20938
