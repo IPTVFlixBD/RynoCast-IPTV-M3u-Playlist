@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-08 19:44:09
+# Generated: 2026-07-09 08:16:15
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -10849,7 +10849,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/167426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMa1w0AGkLdpoPsMh0bDAvS44ZO.jpg" group-title="Movies | DE | CINEMA VOD",The Wailing - Der Tod hat viele Gesichter (2024) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/167427.mkv
 
-# --- Movies | DE | KINDER CINEMA VOD (272) ---
+# --- Movies | DE | KINDER CINEMA VOD (271) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spJJCe4rntGxu9YXDEw2r5hz5oq.jpg" group-title="Movies | DE | KINDER CINEMA VOD",The Night Before Christmas in Wonderland (2024) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/170346.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QuuyFdtuAIes24WGWxldVtq4Ho.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Die Heinzels – Neue Mützen, neue Mission (2024) DE
@@ -10938,8 +10938,6 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/141146.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/141218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Kw4bY8ajNKM3C6nNJ7rI3AlXJ5.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Die Dschungelhelden auf Weltreise (2023) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/140684.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sfTYayU5G1bn3yKnqrNTVZPZ13.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Ich - Einfach unverbesserlich 4 (2024) DE
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/140537.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne4Csgm0KznasqqMNZtC1S6YSWN.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Keine Zeit zu spionieren: Ein Willkommen bei den Louds-Film (2024) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/140358.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNR8JBce1UQLxB9HJaAMRfQKV3P.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Barbie und Stacie - Eine Schwester für alle Fälle (2024) DE
@@ -41763,7 +41761,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3937
 #EXTINF:-1 tvg-logo="" group-title="Series | RTL+SERIES",Memory of a Killer
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4051
 
-# --- Series | TABII TV SERIES (60) ---
+# --- Series | TABII TV SERIES (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TABII TV SERIES",1973 Biltmore Oteli Cinayeti
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/1364
 #EXTINF:-1 tvg-logo="" group-title="Series | TABII TV SERIES",Akif
@@ -41884,6 +41882,10 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4111
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4113
 #EXTINF:-1 tvg-logo="" group-title="Series | TABII TV SERIES",Leyla Hâli
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4114
+#EXTINF:-1 tvg-logo="" group-title="Series | TABII TV SERIES",Benim Adım Aylamaz
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4151
+#EXTINF:-1 tvg-logo="" group-title="Series | TABII TV SERIES",Harman Yeri
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4152
 
 # --- Series | TOD TV SERIES (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Erkek Severse (2022)
@@ -42011,4 +42013,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20935
+# Total: 20936

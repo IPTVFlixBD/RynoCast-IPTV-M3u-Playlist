@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-07-08 19:47:16
+# Generated: 2026-07-09 08:13:47
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -6837,7 +6837,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501951.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg" group-title="Movies | Documentaries [VOD]",Untold UK: Liverpool's Miracle of Istanbul (2026)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501979.mkv
 
-# --- Movies | Drama [VOD] (988) ---
+# --- Movies | Drama [VOD] (989) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/260102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="Movies | Drama [VOD]",Luckiest Girl Alive
@@ -8634,10 +8634,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/494508.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/494510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="Movies | Drama [VOD]",The Swedish Connection (2026)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/494807.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
-http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/494856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/494855.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/494856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies | Drama [VOD]",47 Ronin (2013)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/495081.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" group-title="Movies | Drama [VOD]",War for the Planet of the Apes (2017)
@@ -8814,6 +8814,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502551.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502553.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1b3dNFDuE7i05TJlXrIC571yR01.jpg" group-title="Movies | Drama [VOD]",The Unforgivable (2021)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502691.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg" group-title="Movies | Drama [VOD]",Nothing to Lose (2026)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/502811.mkv
 
 # --- Movies | F1[VOD] (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | F1[VOD]",Formula 1 2026 Osterrikes GP    -RACiNG
@@ -15525,7 +15527,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404522
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Not Dead Yet
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404529
 
-# --- Series | Crime [Series] (205) ---
+# --- Series | Crime [Series] (206) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Black Snow
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/502812
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Evil Lives Here: My Child the Killer
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/502642
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Criminal Minds
@@ -16238,8 +16242,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/456694
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/455691
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Wild Australia
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/447980
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Hells Angels – storhed og fald
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404531
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",How to Change Your Mind
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404536
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Small Town Secrets
@@ -16654,6 +16656,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404496
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404506
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Murdaugh Murders: A Southern Scandal
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404527
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Hells Angels – storhed og fald
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404531
 
 # --- Series | Drama [Series] (668) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",In Plain Sight
@@ -20329,4 +20333,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 10104
+# Total: 10106

@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-07-08 19:52:41
+# Generated: 2026-07-09 08:10:25
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- AF | AFRICA (172) ---
+# --- AF | AFRICA (173) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",##### AF - GHANA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/109826.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AF | AFRICA",GHANA - CHANNEL ONE TV
@@ -86,6 +86,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/346695.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/109938.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/QTV.png" group-title="AF | AFRICA",GAMBIA - QTV HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/109939.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AF | AFRICA",GAMBIA - GRTS
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450979.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/TANZANIA/TANZANIA.png" group-title="AF | AFRICA",##### AF - TANZANIA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/109940.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/tbc.png" group-title="AF | AFRICA",TNZ - TBC1 FHD
@@ -24005,7 +24007,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/74836.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NOVA_DOCUMENTARY.png" group-title="EU | EXYU | DOKUMENTARNI",EXYU - NOVA DOCUMENTARY
 http://teck-tv.com/live/2605201443100597/C655BF416768/1192980.m3u8
 
-# --- EU | EXYU | HRVATSKA (33) ---
+# --- EU | EXYU | HRVATSKA (39) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/CROATIA.png" group-title="EU | EXYU | HRVATSKA",##### EXYU - HRVATSKA#####
 http://teck-tv.com/live/2605201443100597/C655BF416768/74670.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 1 HD
@@ -24072,8 +24074,20 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1239899.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1264923.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NOVAWORLD.png" group-title="EU | EXYU | HRVATSKA",HR - NOVA WORLD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1396566.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | HRVATSKA",HR - RTL ADRIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305079.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Pink.png" group-title="EU | EXYU | HRVATSKA",HR - PICKBOX TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | EXYU | HRVATSKA",HR - NOVA FAMILY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | EXYU | HRVATSKA",HR - NOVA CINEMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | EXYU | HRVATSKA",HR - DIVA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EU | EXYU | HRVATSKA",HR - VTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450931.m3u8
 
-# --- EU | EXYU | MAKEDONIJA (77) ---
+# --- EU | EXYU | MAKEDONIJA (82) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA GENERAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1277834.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/alsat-m.png" group-title="EU | EXYU | MAKEDONIJA",MK - ALSAT M HD
@@ -24098,18 +24112,28 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/272532.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/74971.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/BALKANTRIP.png" group-title="EU | EXYU | MAKEDONIJA",MK - BALKAN TRIP HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/305008.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 1
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 1 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1239888.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 2
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 2 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1239887.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 3
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 3 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1239886.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 4
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 4 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1239885.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450917.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 6 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450918.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 7 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450919.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 8 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450920.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 9 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450921.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 10 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1450922.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/OTV%7F.png" group-title="EU | EXYU | MAKEDONIJA",MK - OTV  HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/305071.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - RTL ADRIA HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/305079.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SB.TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - SBTV HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/305084.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TELEVIZIJADALMACIJA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TELEVIZIJA DALMACIJA HD
@@ -24170,6 +24194,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/272535.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/272538.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - SPORTSKA TV HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/272547.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="EU | EXYU | MAKEDONIJA",MK - DISCOVERY CHANNEL
+http://teck-tv.com/live/2605201443100597/C655BF416768/1412932.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA MOVIES #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/74967.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - CINEMAX HD [HR]
@@ -24198,8 +24224,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/305044.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/305021.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV1000.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV 1000 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/305086.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Pink.png" group-title="EU | EXYU | MAKEDONIJA",MK - PICKBOX TV HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/305074.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/GP1_HD.png" group-title="EU | EXYU | MAKEDONIJA",MK - GP1 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/305041.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO 2 HD
@@ -24226,10 +24250,10 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/272540.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/272544.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/PLANETATV.png" group-title="EU | EXYU | MAKEDONIJA",MK - PLANETA TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/1399335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="EU | EXYU | MAKEDONIJA",MK - DISCOVERY CHANNEL
-http://teck-tv.com/live/2605201443100597/C655BF416768/1412932.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/BALKANMUSIC.png" group-title="EU | EXYU | MAKEDONIJA",MK - BALKAN MUSIC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1411628.m3u8
 
-# --- EU | EXYU | SRBIJA (106) ---
+# --- EU | EXYU | SRBIJA (105) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="EU | EXYU | SRBIJA",##### EXYU - SRBIJA GENERAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1277828.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/RTV_LUKAVAC.png" group-title="EU | EXYU | SRBIJA",RS - RTV LUKAVAC HD
@@ -24438,8 +24462,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1397156.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1397157.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/PESTERTV.png" group-title="EU | EXYU | SRBIJA",RS - PESTER TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/1399244.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/BALKANMUSIC.png" group-title="EU | EXYU | SRBIJA",RS - BALKAN MUSIC
-http://teck-tv.com/live/2605201443100597/C655BF416768/1411628.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/RADIOLOLA.png" group-title="EU | EXYU | SRBIJA",RS - RADIO LOLA
 http://teck-tv.com/live/2605201443100597/C655BF416768/1446445.m3u8
 
@@ -30649,4 +30671,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1442110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 REPLAY",VIP - WORLD CUP 2026 REPLAY 15 FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1442111.m3u8
 
-# Total: 15146
+# Total: 15157

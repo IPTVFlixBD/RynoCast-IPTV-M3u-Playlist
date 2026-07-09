@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-07-07 20:09:10
+# Generated: 2026-07-09 08:06:20
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (440) ---
+# --- Shqiptare (439) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3752,8 +3752,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/840.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2963.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-9.png" group-title="Shqiptare",AL: Klan Kosova 2 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79680.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Klan Kosova +6 USA
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81476.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-10.png" group-title="Shqiptare",AL: Tv Dukagjini ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/790.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-10.png" group-title="Shqiptare",AL: Tv Dukagjini ᴴᴰ
@@ -8611,11 +8609,15 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (162) ---
+# --- World Sports (163) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026  RTK 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026 Vala Sport 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026 Vala Sport 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85945.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026 SS-2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026 SS-3
@@ -8634,8 +8636,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85890.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85891.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball Tv 3 FIFA 2026 UHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85892.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",FIFA WORLD CUP 2026 M6 ᵁᴴᴰ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85913.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
