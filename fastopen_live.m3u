@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-07-10 08:04:46
+# Generated: 2026-07-10 20:04:29
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -11991,13 +11991,17 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/91187.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",Nova Cinema 2 FHD GR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/116069.m3u8
 
-# --- HRVATSKA-Croatia (42) ---
+# --- HRVATSKA-Croatia (44) ---
 #EXTINF:-1 tvg-logo="" group-title="HRVATSKA-Croatia",TV Jadran HR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104056.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HRVATSKA-Croatia",TV Dalmacija HR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104055.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/hr/Kinotv.hr.png" group-title="HRVATSKA-Croatia",Kino TV ex-Yu
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/9032.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HRVATSKA-Croatia",Hajduk TV HD HR Ex-Yu
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HRVATSKA-Croatia",Hajduk TV FHD HR Ex-Yu
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135883.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA-Croatia",HRT 1 ex-Yu
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/201.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA-Croatia",HRT 2 ex-Yu
@@ -27261,7 +27265,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79211.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom VIP",SKY SPORTS MAIN EVENT FHD (L) UK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105256.m3u8
 
-# --- United States (295) ---
+# --- United States (296) ---
+#EXTINF:-1 tvg-logo="" group-title="United States",NewsNation FHD US
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135885.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United States",##########   United States   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2528.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United States",Newsmax TV HD US
@@ -31603,4 +31609,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15692
+# Total: 15695

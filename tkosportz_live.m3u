@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-07-10 08:09:31
+# Generated: 2026-07-10 20:05:26
 # Expires: 2026-07-26
 # Family Safe Edition
 # ==============================================
@@ -71,7 +71,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224156.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",15.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224276.m3u8
 
-# --- 02. USA CABLE  TV #1 (154) ---
+# --- 02. USA CABLE  TV #1 (156) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/10357.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/08/directv-newyorkabcwabc.png" group-title="02. USA CABLE  TV #1",ABC EAST
@@ -380,6 +380,10 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/206864.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/94761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="02. USA CABLE  TV #1",DOVE CHANNEL
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/50019.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png" group-title="02. USA CABLE  TV #1",01. THE ANDY GRIFFITH SHOW
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246825.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e916affb29c60007211c8a/colorLogoPNG.png" group-title="02. USA CABLE  TV #1",01. GUNSMOKE
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246826.m3u8
 
 # --- 03. MOVIE CHANNELS (71) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO.png" group-title="03. MOVIE CHANNELS",HBO
@@ -15885,4 +15889,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190959.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s18801_ll_h3_aa.png" group-title="35. CANADA",CA: SPORTSNET PACIFIC
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190961.m3u8
 
-# Total: 7910
+# Total: 7912
