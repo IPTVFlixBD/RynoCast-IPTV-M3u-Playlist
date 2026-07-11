@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-11 07:59:42
+# Generated: 2026-07-11 18:58:46
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -690,9 +690,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25429.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25431.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: IDMAN TV
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",BAKU TV
+#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: BAKU TV HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: MEDENIYET TV
+#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: Mədəniyyət TV HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: CBC SPORT HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25441.m3u8
@@ -702,6 +702,16 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25442.m3u8
 # --- BE: BELGIUM (71) ---
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",##### BELGIUM #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/41853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 3 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 4 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo TV HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA UNE HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174036.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA UNE HD+
@@ -754,22 +764,16 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174059.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] 2BE HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174061.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CANVAS HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174062.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] KETNETHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174063.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VIER HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VTM HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174065.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] KETNET JUNIOR HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174067.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] AB3 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174068.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CANVAS FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CANVAS HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174070.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] EEN FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174071.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] EEN HD
@@ -838,10 +842,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174102.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] PLAY SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174104.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] TIPIK HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] TIPIK HD+
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174106.m3u8
 
 # --- BG: BULGARIA (145) ---
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",##### BULGARIA #####
@@ -4646,14 +4646,38 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94831.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU Match! Premier HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Setanta Sports 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94847.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/649.png" group-title="RU: Russia",RU: Setanta Sports 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94428.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/M2-logo-719227FCEC-seeklogo.com.png" group-title="RU: Russia",RU: Setanta Sports+ HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Sport HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Action
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Premiere
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Comedy
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Rosskoe (TV 1000 Русское кино)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94673.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3301.png" group-title="RU: Russia",RU✦ Viju TV1000 Русское HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94478.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg" group-title="RU: Russia",RU✦ Viju Explore
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Planet
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Nature
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju History scfi
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94800.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Dizi tv  HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94710.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Россия 1 +
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94850.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Россия 24 +
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Россия РТР +
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94847.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",МИР24 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",HollywooD
@@ -4664,8 +4688,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94827.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94806.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Экспресс HD (Пенза)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Setanta sport 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",МИР (HD)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU:Матч! Игра HD
@@ -4682,8 +4704,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94734.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94737.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Астрахань Sport HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94546.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/649.png" group-title="RU: Russia",M2 TV HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94428.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2001.png" group-title="RU: Russia",НТВ HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Сургут 1
@@ -4714,8 +4734,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94501.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94502.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827.jpg" group-title="RU: Russia",Ocko Star
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94504.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/M2-logo-719227FCEC-seeklogo.com.png" group-title="RU: Russia",M2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94506.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="RU: Russia",Первый Музыкальный RU
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94507.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="RU: Russia",Первый Музыкальный RU HD
@@ -4796,24 +4814,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94803.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",UPL TV 1 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Action
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Premiere
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94785.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Comedy
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Rosskoe (TV 1000 Русское кино)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94673.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3301.png" group-title="RU: Russia",RU✦ Viju TV1000 Русское HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94478.m3u8
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg" group-title="RU: Russia",RU✦ Viju Explore
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94503.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Planet
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Nature
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju History scfi
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94800.m3u8
 
 # --- TR | 7/24 SERIES (16) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | 7/24 SERIES",##### TR 7/24 SERIES #####
@@ -5562,7 +5562,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/106091.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/106093.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/619cbdc2866ac325b46b7c01.png" group-title="TR | MUZIK",TR: TRT MUZIK TV HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/61787.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qp3QSJj/slowkaradeniztv.png" group-title="TR | MUZIK",TR: DiNi MUZiK HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qp3QSJj/slowkaradeniztv.png" group-title="TR | MUZIK",TR: Stingray Remember the 80s HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/106697.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/5e415748866ac31d980eb317.png" group-title="TR | MUZIK",TR:  UHD MUZİK 4K
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/61786.m3u8
@@ -5572,7 +5572,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/106692.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/66067.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fk149f5.png" group-title="TR | MUZIK",TR: KINGBOX PAVYON TV HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/68462.m3u8
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/dj/dj_PNG43.png" group-title="TR | MUZIK",TR: TAS PLAK HD
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/dj/dj_PNG43.png" group-title="TR | MUZIK",TR: Stingray Urban Beat HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/39672.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4g9cpi6.png" group-title="TR | MUZIK",TR✦  TURK HALK MUZGi HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/62547.m3u8
