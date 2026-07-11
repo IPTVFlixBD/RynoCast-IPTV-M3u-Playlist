@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-07-10 20:07:04
+# Generated: 2026-07-11 08:01:56
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -1883,9 +1883,11 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22422.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX KIDS",NF - Hilda
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22424.mp4
 
-# --- Movies | SRS - NETFLIX [MULTISUB] (1407) ---
+# --- Movies | SRS - NETFLIX [MULTISUB] (1408) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",EN - 800 Meters (2022)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/14308.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - Salcedo, Leather, and Boogaloo (2026) (CO)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33818.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - BAKI-DOU: The Invincible Samurai (2026) (JP)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33665.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - Mocro Maffia (2018) (NL)
@@ -4699,7 +4701,9 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22421.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETFLIX [MULTISUB]",NF - Single's Inferno
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/22423.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3806) ---
+# --- Movies | SRS - NEW ADDED [EN] (3807) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - DARLING in the FRANXX (2018) (JP)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33817.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Patience (2025) (GB)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/33786.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Life, Larry and the Pursuit of Unhappiness: An Almost History of America (2026) (US)
@@ -47529,4 +47533,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23725
+# Total: 23727

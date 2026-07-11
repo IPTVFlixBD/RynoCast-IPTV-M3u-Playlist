@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-07-10 20:09:32
+# Generated: 2026-07-11 08:03:00
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -355,7 +355,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1251780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AF | AFRICA",AF - FRANCE  24
 http://teck-tv.com/live/2605201443100597/C655BF416768/1251781.m3u8
 
-# --- AF | C+ AFRICA (198) ---
+# --- AF | C+ AFRICA (199) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/AFRICA-AFRICA.png" group-title="AF | C+ AFRICA",##### C+ AFRICA - GENERAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/194878.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/FRANCE2FHD.png" group-title="AF | C+ AFRICA",AF - FRANCE 2
@@ -374,6 +374,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/194714.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/194701.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/TVT.png" group-title="AF | C+ AFRICA",AF - TVT
 http://teck-tv.com/live/2605201443100597/C655BF416768/194700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AF | C+ AFRICA",AF - TELE 24
+http://teck-tv.com/live/2605201443100597/C655BF416768/1452105.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/tele50.png" group-title="AF | C+ AFRICA",AF - TELE 50
 http://teck-tv.com/live/2605201443100597/C655BF416768/1288268.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/Canal_News.png" group-title="AF | C+ AFRICA",AF - CNEWS
@@ -10759,7 +10761,19 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1060161.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/usa/22.png" group-title="AM | USA | DOCUMENTARY",US - WILD EARTH UHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/277134.m3u8
 
-# --- AM | USA | ENTERTAINMENT (306) ---
+# --- AM | USA | ENTERTAINMENT (312) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | ENTERTAINMENT",##### BIG BROTHER #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1266772.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/brother.png" group-title="AM | USA | ENTERTAINMENT",US - BIG BROTHER QUAD VIEW FEED FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1266690.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/brother.png" group-title="AM | USA | ENTERTAINMENT",US - BIG BROTHER FEED 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1266694.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/brother.png" group-title="AM | USA | ENTERTAINMENT",US - BIG BROTHER FEED 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1266693.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/brother.png" group-title="AM | USA | ENTERTAINMENT",US - BIG BROTHER FEED 3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1266692.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/brother.png" group-title="AM | USA | ENTERTAINMENT",US - BIG BROTHER FEED 4 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1266691.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | ENTERTAINMENT",##### ENTERTAINMENT #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/69600.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/a&ee.png" group-title="AM | USA | ENTERTAINMENT",US - A&E EAST HD ◉
@@ -15319,7 +15333,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1278621.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 70 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278622.m3u8
 
-# --- AM | USA | MLB (54) ---
+# --- AM | USA | MLB (53) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | MLB",#### MLB PPV ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/79689.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB NETWORK HD
@@ -15334,35 +15348,33 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/302488.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388877.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - THE MLB CHANNEL HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388886.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 : PHILADELPHIA PHILLIES @ DETROIT TIGERS JUL 10 – 7:40 PM ET / JUL 11 – 12:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233018.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 : MILWAUKEE BREWERS @ PITTSBURGH PIRATES JUL 10 – 7:40 PM ET / JUL 11 – 12:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233019.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 : NEW YORK YANKEES @ WASHINGTON NATIONALS JUL 10 – 7:45 PM ET / JUL 11 – 12:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 : KANSAS CITY ROYALS @ BALTIMORE ORIOLES JUL 10 – 8:05 PM ET / JUL 11 – 1:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233021.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 : CHICAGO CUBS @ CINCINNATI REDS JUL 10 – 8:10 PM ET / JUL 11 – 1:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232804.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 : SEATTLE MARINERS @ TAMPA BAY RAYS JUL 10 – 8:10 PM ET / JUL 11 – 1:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233022.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 07 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 07 : CLEVELAND GUARDIANS @ MIAMI MARLINS JUL 10 – 8:10 PM ET / JUL 11 – 1:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232803.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 08 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 08 : BOSTON RED SOX @ NEW YORK METS JUL 10 – 8:15 PM ET / JUL 11 – 1:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232801.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 : ATHLETICS @ CHICAGO WHITE SOX JUL 10 – 8:40 PM ET / JUL 11 – 1:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232807.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 : HOUSTON ASTROS @ TEXAS RANGERS JUL 10 – 9:05 PM ET / JUL 11 – 2:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232806.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 : LOS ANGELES ANGELS @ MINNESOTA TWINS JUL 10 – 9:10 PM ET / JUL 11 – 2:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232802.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 : ATLANTA BRAVES @ ST. LOUIS CARDINALS JUL 10 – 9:15 PM ET / JUL 11 – 2:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233023.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/233024.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 : ARIZONA DIAMONDBACKS @ LOS ANGELES DODGERS JUL 10 – 11:10 PM ET / JUL 11 – 4:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233025.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 : COLORADO ROCKIES @ SAN FRANCISCO GIANTS JUL 10 – 11:15 PM ET / JUL 11 – 4:15 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232808.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 16 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/236409.m3u8
@@ -30358,13 +30370,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1406508.m3u8
 # --- VIP | WORLD CUP 2026 (72) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | WORLD CUP 2026",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/75821.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317147.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317146.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317145.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317144.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/317143.m3u8
@@ -30374,13 +30386,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/317142.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/317141.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | WORLD CUP 2026",##### FRENCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/71938.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317140.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317139.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317138.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317137.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/317136.m3u8
@@ -30390,13 +30402,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/317135.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/317134.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | WORLD CUP 2026",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/30414.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317133.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317132.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317131.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/314846.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/303446.m3u8
@@ -30406,9 +30418,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/275304.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/275299.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | WORLD CUP 2026",##### GERMANY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/17319.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",DE - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",DE - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273443.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",DE - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273442.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",DE - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/273441.m3u8
@@ -30422,9 +30434,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/273438.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/273437.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | WORLD CUP 2026",##### SPAIN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/20937.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",SP - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",SP - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273436.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",SP - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",SP - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273435.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",SP - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/273434.m3u8
@@ -30438,9 +30450,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/273431.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/273430.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | WORLD CUP 2026",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/747.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",IT - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",IT - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273421.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",IT - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273420.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/273419.m3u8
@@ -30454,9 +30466,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/273416.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/273415.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | WORLD CUP 2026",##### PORTUGAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317150.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",PT - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",PT - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273414.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",PT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",PT - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273413.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/273412.m3u8
@@ -30470,9 +30482,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/214342.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/214324.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | WORLD CUP 2026",##### ALBANIA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/808.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",ALB - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",ALB - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273428.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",ALB - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/273427.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/273426.m3u8
@@ -30486,9 +30498,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/273423.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/273422.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="VIP | WORLD CUP 2026",##### TURKEY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317149.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",TR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",TR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/214293.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",TR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",TR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/214284.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026",TR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/201238.m3u8
@@ -30504,13 +30516,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/110286.m3u8
 # --- VIP | WORLD CUP 2026 4K (72) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | WORLD CUP 2026 4K",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317157.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364461.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364460.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364453.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364450.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/364449.m3u8
@@ -30520,13 +30532,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/364446.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/364445.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | WORLD CUP 2026 4K",##### FRENCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317156.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364442.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364440.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364435.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/364432.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/363846.m3u8
@@ -30536,13 +30548,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363844.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/363843.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | WORLD CUP 2026 4K",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317155.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/363820.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/363785.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/363783.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/363782.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/363781.m3u8
@@ -30552,9 +30564,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363772.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/363770.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | WORLD CUP 2026 4K",##### GERMANY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317153.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",DE - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",DE - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/362620.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",DE - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/362590.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",DE - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/362577.m3u8
@@ -30568,9 +30580,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/362561.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/362557.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | WORLD CUP 2026 4K",##### SPAIN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317154.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",SP - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",SP - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/363761.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",SP - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",SP - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/363758.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",SP - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/363756.m3u8
@@ -30584,9 +30596,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363680.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/363645.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | WORLD CUP 2026 4K",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317152.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",IT - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",IT - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/362541.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",IT - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/362529.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/362527.m3u8
@@ -30600,9 +30612,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/362508.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/362504.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | WORLD CUP 2026 4K",##### PORTUGAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/317151.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",PT - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",PT - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/325605.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",PT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",PT - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/325604.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/325603.m3u8
@@ -30616,9 +30628,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/324012.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/323990.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | WORLD CUP 2026 4K",##### ALBANIA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/362550.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",ALB - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",ALB - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/362498.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",ALB - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/348196.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/346031.m3u8
@@ -30632,9 +30644,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/329631.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/325606.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="VIP | WORLD CUP 2026 4K",##### TURKEY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388013.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - SPAIN VS BELGIUM 20:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - NORWAY VS ENGLAND 22:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317166.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - ARGENTINA VS SWITZERLAND 02:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/317165.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/317164.m3u8
@@ -30683,4 +30695,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1442110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 REPLAY",VIP - WORLD CUP 2026 REPLAY 15 FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1442111.m3u8
 
-# Total: 15163
+# Total: 15169

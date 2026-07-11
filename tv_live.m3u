@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-07-10 20:10:44
+# Generated: 2026-07-11 07:50:52
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -9983,7 +9983,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203859.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 30 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203858.m3u8
 
-# --- NL - VIAPLAY FORMULE F1 (19) ---
+# --- NL - VIAPLAY FORMULE F1 (22) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/125218.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1 UHD
@@ -9996,6 +9996,12 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/300474.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/170447.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay F1 TV+ 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/300479.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Cockpits (LIVE ON MATCH)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365797.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Timing (LIVE ON MATCH)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365795.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Track Positioning (LIVE ON MATCH)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365796.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Formula 1  (Olav Mol) FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203828.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) F1 Viaplay Vrije Traning 1 (Herhaling)
@@ -15315,927 +15321,477 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UA - UKRAINE",(UA) Prosto TV| москва ПАЛАЄ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360530.m3u8
 
-# --- UK - CINEMA (64) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5 Action.png" group-title="UK - CINEMA",(UK) 5 Action
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354642.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/B4U MOVIES.png" group-title="UK - CINEMA",(UK) B4U Movies
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354632.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CBS Action.png" group-title="UK - CINEMA",(UK) CBS Action
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354626.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Film 4 HD.png" group-title="UK - CINEMA",(UK) Film 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354615.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Film 4 HD.png" group-title="UK - CINEMA",(UK) Film 4 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354614.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/STARZ TV.png" group-title="UK - CINEMA",(UK) Starz TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354540.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TCM MOVIES.png" group-title="UK - CINEMA",(UK) Tcm Movies
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354536.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Action.png" group-title="UK - CINEMA",(UK) SKY Cinema Action
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354593.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Animation.png" group-title="UK - CINEMA",(UK) SKY Cinema Animation
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354591.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Animation HD.png" group-title="UK - CINEMA",(UK) SKY Cinema Animation HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354590.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Action HD.png" group-title="UK - CINEMA",(UK) SKY Cinema Action HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354592.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA DISNEY.png" group-title="UK - CINEMA",(UK) SKY Cinema Disney
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354587.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Drama.png" group-title="UK - CINEMA",(UK) SKY Cinema Drama
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354586.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA COMEDY.png" group-title="UK - CINEMA",(UK) SKY Cinema Comedy
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354589.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA COMEDY.png" group-title="UK - CINEMA",(UK) SKY Cinema Comedy
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354588.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA FAMILY.png" group-title="UK - CINEMA",(UK) SKY Cinema Family
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354585.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA FAMILY.png" group-title="UK - CINEMA",(UK) SKY Cinema Family
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354584.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA GREATS.png" group-title="UK - CINEMA",(UK) SKY Cinema Greats
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354583.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA HITS.png" group-title="UK - CINEMA",(UK) SKY Cinema Hits
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354582.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Premiere.png" group-title="UK - CINEMA",(UK) SKY Cinema Premiere
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354581.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Premiere HD.png" group-title="UK - CINEMA",(UK) SKY Cinema Premiere HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354580.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA SCI-FI.png" group-title="UK - CINEMA",(UK) SKY Cinema Sci-Fi
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354579.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Select.png" group-title="UK - CINEMA",(UK) SKY Cinema Select
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354578.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Cinema Select HD.png" group-title="UK - CINEMA",(UK) SKY Cinema Select HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354577.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY CINEMA THRILLER.png" group-title="UK - CINEMA",(UK) SKY Cinema Thriller
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354576.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) Cineedge Movies
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354622.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/HORROR CHANNEL.png" group-title="UK - CINEMA",(UK) Horror Channel
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354609.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SHOWCASE.png" group-title="UK - CINEMA",(UK) Showcase
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354594.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY MOVIES HITS.png" group-title="UK - CINEMA",(UK) SKY Movies Hits
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354574.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/sky SHOWCASE.png" group-title="UK - CINEMA",(UK) SKY Showcase
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354573.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Showcase HD.png" group-title="UK - CINEMA",(UK) SKY Showcase HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354572.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store info
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354571.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 1 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354570.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 10 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354569.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 11 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354568.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 12 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354567.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 13 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354566.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 14 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354565.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 15 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354564.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 16 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354563.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 17 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354562.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 18 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354561.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 19 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354560.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 2 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354559.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 20 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354558.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 21 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354557.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 22 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354556.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 23 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354555.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 24 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354554.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 25 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354553.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 26 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354552.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 27 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354551.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 28 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354550.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 29 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354549.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 3 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354548.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 30 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354547.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 4 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354546.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 5 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354545.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 6 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354544.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 7 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354543.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 8 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354542.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) SKY Store Premiere 9 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354541.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) Superrix Movies
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354538.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - CINEMA",(UK) Sylvester Stallone
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354537.m3u8
+# --- UK - CINEMA (21) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/AMC From BT UK.png" group-title="UK - CINEMA",(UK) AMC From BT
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365964.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Film4 UK.png" group-title="UK - CINEMA",(UK) Film4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365963.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/GREAT! TV UK.png" group-title="UK - CINEMA",(UK) GREAT! TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365962.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Horror Channel UK.png" group-title="UK - CINEMA",(UK) Horror Channel
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365961.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Horror Channel +1 UK.png" group-title="UK - CINEMA",(UK) Horror Channel ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365960.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Action & Adventure UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Action & Adventure
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365959.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Action & Adventure HD UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Action & Adventure ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365958.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Comedy UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Comedy
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365957.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Comedy HD UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Comedy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365956.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Cinema Crime & Thriller UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Crime & Thriller
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365955.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Cinema Drama & Romance UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Drama & Romance
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365954.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Family UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Family
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365953.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Family HD UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Family ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365952.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Greats UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Greats
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365951.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Cinema Premiere UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Premiere
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365950.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Premiere +1 FHD UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Premiere ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365949.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Sci-Fi & Horror UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Sci-Fi & Horror
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365948.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Select UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Select
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365947.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Cinema Women FHD UK.png" group-title="UK - CINEMA",(UK) Sky Cinema Women ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365946.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Syfy UK.png" group-title="UK - CINEMA",(UK) Syfy
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365945.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Syfy +1 UK.png" group-title="UK - CINEMA",(UK) Syfy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365944.m3u8
 
-# --- UK - DOCUMENTARY (20) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Crime.png" group-title="UK - DOCUMENTARY",(UK) SKY Crime
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354657.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY DOCUMENTARIES.png" group-title="UK - DOCUMENTARY",(UK) SKY Documentaries
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354655.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky History.png" group-title="UK - DOCUMENTARY",(UK) SKY History
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354653.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY NATURE.png" group-title="UK - DOCUMENTARY",(UK) SKY Nature
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354652.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY WITNESS.png" group-title="UK - DOCUMENTARY",(UK) SKY Witness
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354650.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DMAX HD.png" group-title="UK - DOCUMENTARY",(UK) DMAX
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354676.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DMAX HD.png" group-title="UK - DOCUMENTARY",(UK) DMAX HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354675.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ALIBI.png" group-title="UK - DOCUMENTARY",(UK) Al Ibi
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354687.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Alibi HD.png" group-title="UK - DOCUMENTARY",(UK) Alibi HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354686.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BLAZE.png" group-title="UK - DOCUMENTARY",(UK) Blaze
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354680.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DISCOVERY CHANNEL.png" group-title="UK - DOCUMENTARY",(UK) Discovery Channel
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354679.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DISCOVERY SCIENCE.png" group-title="UK - DOCUMENTARY",(UK) Discovery Science
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354677.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/EDEN.png" group-title="UK - DOCUMENTARY",(UK) Eden
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354662.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/HISTORY 2.png" group-title="UK - DOCUMENTARY",(UK) History 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354661.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Nat Geo.png" group-title="UK - DOCUMENTARY",(UK) Nat Geo
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354660.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/PBS America.png" group-title="UK - DOCUMENTARY",(UK) PBS America
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354659.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TRAVELXP.png" group-title="UK - DOCUMENTARY",(UK) Travelxp
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354648.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/True Crime.png" group-title="UK - DOCUMENTARY",(UK) True Crime
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354647.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Viceland.png" group-title="UK - DOCUMENTARY",(UK) Viceland
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354646.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Yesterday.png" group-title="UK - DOCUMENTARY",(UK) Yesterday
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354644.m3u8
+# --- UK - DOCUMENTARY (36) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Animal Planet UK.png" group-title="UK - DOCUMENTARY",(UK) Animal Planet
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366000.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Animal Planet +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Animal Planet ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365999.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Blaze UK.png" group-title="UK - DOCUMENTARY",(UK) Blaze
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365998.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Crime+Investigation +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Crime+Investigation ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365997.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Discovery Channel UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Channel
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365996.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Discovery History UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery History
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365995.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Discovery History +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery History ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365994.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Discovery Science UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Science
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365993.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Discovery Science +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Science ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365992.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Discovery Turbo UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Turbo
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365991.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/DMAX UK.png" group-title="UK - DOCUMENTARY",(UK) DMAX
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365990.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/DMAX +1 UK.png" group-title="UK - DOCUMENTARY",(UK) DMAX ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365989.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Eden UK.png" group-title="UK - DOCUMENTARY",(UK) Eden
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365988.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Eden +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Eden ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365987.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Food Network UK.png" group-title="UK - DOCUMENTARY",(UK) Food Network
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365986.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Food Network +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Food Network ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365985.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/HGTV UK.png" group-title="UK - DOCUMENTARY",(UK) HGTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365984.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/HGTV +1 UK.png" group-title="UK - DOCUMENTARY",(UK) HGTV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365983.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/History UK.png" group-title="UK - DOCUMENTARY",(UK) History
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365982.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/History +1 UK.png" group-title="UK - DOCUMENTARY",(UK) History ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365981.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Investigation Discovery UK.png" group-title="UK - DOCUMENTARY",(UK) Investigation Discovery
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365980.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Nat Geo Wild UK.png" group-title="UK - DOCUMENTARY",(UK) Nat Geo Wild
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365979.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/PBS America UK.png" group-title="UK - DOCUMENTARY",(UK) PBS America
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365978.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/QUEST UK.png" group-title="UK - DOCUMENTARY",(UK) Quest
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365977.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/QUEST RED UK.png" group-title="UK - DOCUMENTARY",(UK) Quest Red
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365976.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/QUEST RED +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Quest Red ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365975.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Crime UK.png" group-title="UK - DOCUMENTARY",(UK) Real Crime
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365974.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Real Lives UK.png" group-title="UK - DOCUMENTARY",(UK) Real Lives
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365973.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Really UK.png" group-title="UK - DOCUMENTARY",(UK) Really
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365972.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky DOCUMENTARIES FHD UK.png" group-title="UK - DOCUMENTARY",(UK) Sky Documentaries ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365971.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky History 2 UK.png" group-title="UK - DOCUMENTARY",(UK) Sky History 2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365970.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky NATURE HD UK.png" group-title="UK - DOCUMENTARY",(UK) Sky Nature ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365969.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TLC UK.png" group-title="UK - DOCUMENTARY",(UK) TLC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365968.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TLC +1 UK.png" group-title="UK - DOCUMENTARY",(UK) TLC ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365967.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TRUE CRIME UK.png" group-title="UK - DOCUMENTARY",(UK) True Crime
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365966.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/True Crime Xtra UK.png" group-title="UK - DOCUMENTARY",(UK) True Crime Xtra
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365965.m3u8
 
-# --- UK - ENGLISH (217) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC One HD.png" group-title="UK - ENGLISH",(UK) BBC One
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355160.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC One HD.png" group-title="UK - ENGLISH",(UK) BBC One HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355159.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC One NI HD.png" group-title="UK - ENGLISH",(UK) BBC One NI HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355158.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC Two HD.png" group-title="UK - ENGLISH",(UK) BBC Two
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355153.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC Two HD.png" group-title="UK - ENGLISH",(UK) BBC Two HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355150.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC TWO ENG.png" group-title="UK - ENGLISH",(UK) BBC Two Eng
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355151.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC Two HD.png" group-title="UK - ENGLISH",(UK) BBC Two Northern Ireland
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355149.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC Two Wales.png" group-title="UK - ENGLISH",(UK) BBC Two Wales
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355148.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC TWO SCOTLAND.png" group-title="UK - ENGLISH",(UK) BBC Two (Scotland)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355152.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC SCOTLAND.png" group-title="UK - ENGLISH",(UK) BBC Scotland
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355155.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC SCOTLAND.png" group-title="UK - ENGLISH",(UK) BBC Scotland
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355156.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC Three.png" group-title="UK - ENGLISH",(UK) BBC Three
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355154.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC 3.png" group-title="UK - ENGLISH",(UK) BBC 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355167.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC FOUR.png" group-title="UK - ENGLISH",(UK) BBC Four
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355164.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC FOUR.png" group-title="UK - ENGLISH",(UK) BBC Four
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355163.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC ALBA.png" group-title="UK - ENGLISH",(UK) BBC Alba
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355166.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC ENTERTAINMENT.png" group-title="UK - ENGLISH",(UK) BBC Entertainment
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355165.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC News HD.png" group-title="UK - ENGLISH",(UK) BBC News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355162.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC News HD.png" group-title="UK - ENGLISH",(UK) BBC News HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355161.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC PARLIAMENT.png" group-title="UK - ENGLISH",(UK) BBC Parliament
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355157.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BBC WORLD NEWS.png" group-title="UK - ENGLISH",(UK) BBC World News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355147.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV HD.png" group-title="UK - ENGLISH",(UK) ITV HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355054.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV 1 HD.png" group-title="UK - ENGLISH",(UK) ITV 1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355062.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV 2.png" group-title="UK - ENGLISH",(UK) ITV 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355061.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV 3.png" group-title="UK - ENGLISH",(UK) ITV 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355059.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV 4 HD.png" group-title="UK - ENGLISH",(UK) ITV 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355058.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV 4 +1.png" group-title="UK - ENGLISH",(UK) ITV 4 +1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355057.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV 4 HD.png" group-title="UK - ENGLISH",(UK) ITV 4 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355056.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV Be.png" group-title="UK - ENGLISH",(UK) ITV Be
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355055.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RTE 1.png" group-title="UK - ENGLISH",(UK) RTE 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354989.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RTE 2.png" group-title="UK - ENGLISH",(UK) RTE 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354988.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RTE JR.png" group-title="UK - ENGLISH",(UK) RTE Jr
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354987.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RTE NEWS.png" group-title="UK - ENGLISH",(UK) RTE News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354986.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RTE ONE.png" group-title="UK - ENGLISH",(UK) RTE One
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354985.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RTE TWO.png" group-title="UK - ENGLISH",(UK) RTE Two
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354984.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky 1.png" group-title="UK - ENGLISH",(UK) SKY 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354977.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky 2.png" group-title="UK - ENGLISH",(UK) SKY 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354976.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY ARTS.png" group-title="UK - ENGLISH",(UK) SKY Arts
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354975.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY ARTS.png" group-title="UK - ENGLISH",(UK) SKY Arts
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354974.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY ATLANTIC.png" group-title="UK - ENGLISH",(UK) SKY Atlantic
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354973.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY ATLANTIC.png" group-title="UK - ENGLISH",(UK) SKY Atlantic
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354972.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Comedy HD.png" group-title="UK - ENGLISH",(UK) SKY Comedy
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354971.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Comedy HD.png" group-title="UK - ENGLISH",(UK) SKY Comedy HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354970.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Drama HD.png" group-title="UK - ENGLISH",(UK) SKY Drama HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354969.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Family HD.png" group-title="UK - ENGLISH",(UK) SKY Family HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354968.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Greats HD.png" group-title="UK - ENGLISH",(UK) SKY Greats HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354967.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Kids.png" group-title="UK - ENGLISH",(UK) SKY Kids
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354966.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Max.png" group-title="UK - ENGLISH",(UK) SKY Max
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354965.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky News HD.png" group-title="UK - ENGLISH",(UK) SKY News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354964.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky News HD.png" group-title="UK - ENGLISH",(UK) SKY News HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354963.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sci-Fi.png" group-title="UK - ENGLISH",(UK) SKY Sci-Fi
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354962.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SCI-FI & HORROR.png" group-title="UK - ENGLISH",(UK) SKY Sci-Fi & Horror
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354961.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SONY CHANNEL.png" group-title="UK - ENGLISH",(UK) Sony Channel
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354960.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SONY MAX.png" group-title="UK - ENGLISH",(UK) Sony Max
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354959.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SONY MAX 2.png" group-title="UK - ENGLISH",(UK) Sony Max 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354958.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SONY SAB.png" group-title="UK - ENGLISH",(UK) Sony SAB
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354957.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/4SEVEN.png" group-title="UK - ENGLISH",(UK) 4Seven
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355190.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5 Select HD.png" group-title="UK - ENGLISH",(UK) 5 Select HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355189.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5 Star.png" group-title="UK - ENGLISH",(UK) 5 Star
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355188.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5 USA.png" group-title="UK - ENGLISH",(UK) 5 USA
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355187.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5SELECT.png" group-title="UK - ENGLISH",(UK) 5Select
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355186.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5 Star.png" group-title="UK - ENGLISH",(UK) 5Star
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355185.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/5 USA.png" group-title="UK - ENGLISH",(UK) 5USA
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355184.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/92 News.png" group-title="UK - ENGLISH",(UK) 92 News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355183.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ABP NEWS.png" group-title="UK - ENGLISH",(UK) ABP News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355182.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Al Jazeera.png" group-title="UK - ENGLISH",(UK) Al Jazeera
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355181.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Al Jazeera FHD.png" group-title="UK - ENGLISH",(UK) Al Jazeera FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355180.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Al Jazeera.png" group-title="UK - ENGLISH",(UK) Al Jazeera News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355179.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/AMC.png" group-title="UK - ENGLISH",(UK) AMC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355178.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) Arirang TV HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355172.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ARY DIGITAL.png" group-title="UK - ENGLISH",(UK) ARY Digital
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355171.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/B4U MUSIC.png" group-title="UK - ENGLISH",(UK) B4U Music
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355170.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/B4U PLUS.png" group-title="UK - ENGLISH",(UK) B4U Plus
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355169.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/BABY TV.png" group-title="UK - ENGLISH",(UK) Baby TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355168.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Bloomberg News HD.png" group-title="UK - ENGLISH",(UK) Bloomberg
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355146.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Bloomberg News HD.png" group-title="UK - ENGLISH",(UK) Bloomberg News HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355145.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Boomerang.png" group-title="UK - ENGLISH",(UK) Boomerang
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355144.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Boomerang.png" group-title="UK - ENGLISH",(UK) Boomerang
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355143.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Box Hits.png" group-title="UK - ENGLISH",(UK) Box Hits
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355142.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) Bugs Bunny EN
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355141.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CARTOON NETWORK.png" group-title="UK - ENGLISH",(UK) Cartoon Network
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355140.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CARTOON NETWORK.png" group-title="UK - ENGLISH",(UK) Cartoon Network
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355139.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CARTOONITO.png" group-title="UK - ENGLISH",(UK) Cartoonito
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355138.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CARTOONITO.png" group-title="UK - ENGLISH",(UK) Cartoonito
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355137.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CBBC.png" group-title="UK - ENGLISH",(UK) Cbbc
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355136.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Cbeebies HD.png" group-title="UK - ENGLISH",(UK) Cbeebies
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355135.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Cbeebies HD.png" group-title="UK - ENGLISH",(UK) Cbeebies HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355134.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CBS DRAMA.png" group-title="UK - ENGLISH",(UK) CBS Drama
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355133.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CBS JUSTICE.png" group-title="UK - ENGLISH",(UK) CBS Justice
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355132.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CBS REALITY.png" group-title="UK - ENGLISH",(UK) CBS Reality
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355131.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CHALLENGE.png" group-title="UK - ENGLISH",(UK) Challenge
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355129.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Channel 4 HD.png" group-title="UK - ENGLISH",(UK) Channel 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355128.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Channel 4 HD.png" group-title="UK - ENGLISH",(UK) Channel 4 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355127.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Channel 5 HD.png" group-title="UK - ENGLISH",(UK) Channel 5
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355126.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Channel 5 HD.png" group-title="UK - ENGLISH",(UK) Channel 5 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355125.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) CHARLIE´S Angels
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355124.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CITV.png" group-title="UK - ENGLISH",(UK) Citv
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355123.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Clubland TV.png" group-title="UK - ENGLISH",(UK) Clubland TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355122.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CNBC.png" group-title="UK - ENGLISH",(UK) Cnbc
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355121.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CNBC News.png" group-title="UK - ENGLISH",(UK) Cnbc News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355120.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CNN.png" group-title="UK - ENGLISH",(UK) CNN
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355119.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CNN.png" group-title="UK - ENGLISH",(UK) CNN
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355118.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/COLORS.png" group-title="UK - ENGLISH",(UK) Colors
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355117.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/COLORS.png" group-title="UK - ENGLISH",(UK) Colors
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355116.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/COLORS EUROPE.png" group-title="UK - ENGLISH",(UK) Colors Europe
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355115.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Comedy central HD.png" group-title="UK - ENGLISH",(UK) Comedy Central
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355114.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Comedy central HD.png" group-title="UK - ENGLISH",(UK) Comedy Central
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355113.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/COMEDY CENTRAL EXTRA.png" group-title="UK - ENGLISH",(UK) Comedy Central Extra
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355112.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Comedy central HD.png" group-title="UK - ENGLISH",(UK) Comedy central HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355111.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Court TV.png" group-title="UK - ENGLISH",(UK) Court TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355110.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Create & Craft.png" group-title="UK - ENGLISH",(UK) Create & Craft
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355109.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/CRIME.png" group-title="UK - ENGLISH",(UK) Crime
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355108.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DAVE.png" group-title="UK - ENGLISH",(UK) Dave
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355107.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DAVE.png" group-title="UK - ENGLISH",(UK) Dave
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355106.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Dave Ja Vu.png" group-title="UK - ENGLISH",(UK) Dave Ja Vu
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355105.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DISNEY CHANNEL.png" group-title="UK - ENGLISH",(UK) Disney Channel
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355104.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DISNEY JUNIOR.png" group-title="UK - ENGLISH",(UK) Disney Junior
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355103.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/DISNEY XD.png" group-title="UK - ENGLISH",(UK) Disney Xd
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355102.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Drama.png" group-title="UK - ENGLISH",(UK) Drama
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355101.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Drama.png" group-title="UK - ENGLISH",(UK) Drama
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355100.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/E!.png" group-title="UK - ENGLISH",(UK) E!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355099.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/E4.png" group-title="UK - ENGLISH",(UK) E4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355098.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/E4.png" group-title="UK - ENGLISH",(UK) E4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355097.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/E4 +1.png" group-title="UK - ENGLISH",(UK) E4 +1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355096.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/E4 Extra.png" group-title="UK - ENGLISH",(UK) E4 Extra
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355095.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Euronews.png" group-title="UK - ENGLISH",(UK) Euronews
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355093.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) Fanstastic Beasts
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355092.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) Fargo Finished ꜱᴇʀɪᴇ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355091.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/FIVE.png" group-title="UK - ENGLISH",(UK) Five
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355090.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Food Network HD.png" group-title="UK - ENGLISH",(UK) Food Network
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355089.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Food Network HD.png" group-title="UK - ENGLISH",(UK) Food Network HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355088.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/FOX NEWS.png" group-title="UK - ENGLISH",(UK) FOX
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355087.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/FOX NEWS.png" group-title="UK - ENGLISH",(UK) FOX News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355086.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/France 24 English.png" group-title="UK - ENGLISH",(UK) France 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355085.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/France 24 English.png" group-title="UK - ENGLISH",(UK) France 24 English
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355084.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/GB News.png" group-title="UK - ENGLISH",(UK) Gb News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355081.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/GB News HD.png" group-title="UK - ENGLISH",(UK) Gb News HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355080.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/GOLD.png" group-title="UK - ENGLISH",(UK) Gold
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355078.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/GOLD.png" group-title="UK - ENGLISH",(UK) Gold
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355077.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/GOOD FOOD.png" group-title="UK - ENGLISH",(UK) Good Food
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355076.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/HGTV +1.png" group-title="UK - ENGLISH",(UK) Hgtv +1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355073.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/HISTORY.png" group-title="UK - ENGLISH",(UK) History
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355070.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Horse and Country.png" group-title="UK - ENGLISH",(UK) Horse And Country
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355068.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV.png" group-title="UK - ENGLISH",(UK) ITV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355064.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ITV Be.png" group-title="UK - ENGLISH",(UK) Itvbe
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355053.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Legend.png" group-title="UK - ENGLISH",(UK) Legend
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355047.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Legend Xtra.png" group-title="UK - ENGLISH",(UK) Legend Xtra
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355046.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/LONDON LIVE.png" group-title="UK - ENGLISH",(UK) London Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355045.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) Madani Channel
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355044.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MAGIC.png" group-title="UK - ENGLISH",(UK) Magic
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355043.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Magic HD.png" group-title="UK - ENGLISH",(UK) Magic HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355042.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MORE 4.png" group-title="UK - ENGLISH",(UK) More 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355040.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MORE 4.png" group-title="UK - ENGLISH",(UK) More 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355039.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV 90s.png" group-title="UK - ENGLISH",(UK) MTV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355036.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV 80s.png" group-title="UK - ENGLISH",(UK) MTV 80s
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355035.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV 90s.png" group-title="UK - ENGLISH",(UK) MTV 90s
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355034.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV BASE.png" group-title="UK - ENGLISH",(UK) MTV Base
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355033.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV HITS.png" group-title="UK - ENGLISH",(UK) MTV Hits
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355032.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV LIVE.png" group-title="UK - ENGLISH",(UK) MTV Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355031.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV MUSIC.png" group-title="UK - ENGLISH",(UK) MTV Music
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355030.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MTV ROCKS.png" group-title="UK - ENGLISH",(UK) MTV Rocks
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355029.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) New Vision TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355027.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Nick Jr.png" group-title="UK - ENGLISH",(UK) Nick Jr
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355026.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Nick Jr.png" group-title="UK - ENGLISH",(UK) Nick Jr
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355025.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NICK JR TOO.png" group-title="UK - ENGLISH",(UK) Nick Jr Too
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355024.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NICK JUNIOR.png" group-title="UK - ENGLISH",(UK) Nick Junior
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355023.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NICKELODEON.png" group-title="UK - ENGLISH",(UK) Nickelodeon
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355022.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NICKELODEON.png" group-title="UK - ENGLISH",(UK) Nickelodeon
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355021.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NICKTOONS.png" group-title="UK - ENGLISH",(UK) Nicktoons
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355020.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NICKTOONS.png" group-title="UK - ENGLISH",(UK) Nicktoons
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355019.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NOW 70s.png" group-title="UK - ENGLISH",(UK) Now 70s
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355018.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NOW 70s.png" group-title="UK - ENGLISH",(UK) Now 70S
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355017.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NOW 80S.png" group-title="UK - ENGLISH",(UK) Now 80S
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355016.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NOW 90S.png" group-title="UK - ENGLISH",(UK) Now 90S
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355015.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/PARAMOUNT.png" group-title="UK - ENGLISH",(UK) Paramount
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355014.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) Peace TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355013.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/PICK.png" group-title="UK - ENGLISH",(UK) Pick
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355012.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Pop.png" group-title="UK - ENGLISH",(UK) Pop
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355011.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Pop.png" group-title="UK - ENGLISH",(UK) Pop
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355010.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Pop Max.png" group-title="UK - ENGLISH",(UK) Pop Max
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355008.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Pop Max.png" group-title="UK - ENGLISH",(UK) Pop Max
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355007.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/PTC Punjabi.png" group-title="UK - ENGLISH",(UK) Ptc Punjabi
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355003.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QUEST.png" group-title="UK - ENGLISH",(UK) Quest
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355002.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QUEST.png" group-title="UK - ENGLISH",(UK) Quest
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355001.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Quest Red.png" group-title="UK - ENGLISH",(UK) Quest Red
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/355000.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Quest Red +1.png" group-title="UK - ENGLISH",(UK) Quest Red +1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354999.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QVC BEAUTY.png" group-title="UK - ENGLISH",(UK) QVC Beauty
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354998.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QVC EXTRA.png" group-title="UK - ENGLISH",(UK) QVC Extra
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354996.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QVC EXTRA.png" group-title="UK - ENGLISH",(UK) QVC Extra
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354995.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QVC FHD.png" group-title="UK - ENGLISH",(UK) QVC FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354994.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/QVC Style FHD.png" group-title="UK - ENGLISH",(UK) QVC Style FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354993.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/REALLY.png" group-title="UK - ENGLISH",(UK) Really
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354992.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/REALLY.png" group-title="UK - ENGLISH",(UK) Really
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354991.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/S4C.png" group-title="UK - ENGLISH",(UK) S4C
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354983.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SAB TV.png" group-title="UK - ENGLISH",(UK) SAB TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354982.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/STV.png" group-title="UK - ENGLISH",(UK) STV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354954.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SYFY.png" group-title="UK - ENGLISH",(UK) Syfy
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354951.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TINY POP.png" group-title="UK - ENGLISH",(UK) Tiny Pop
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354943.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TLC.png" group-title="UK - ENGLISH",(UK) TLC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354942.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - ENGLISH",(UK) TV One
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354939.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/UNIVERSAL CHANNEL.png" group-title="UK - ENGLISH",(UK) Universal Channel
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354938.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/UTV.png" group-title="UK - ENGLISH",(UK) Utv
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354937.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/UTV IRELAND.png" group-title="UK - ENGLISH",(UK) Utv Ireland
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354936.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/VH1.png" group-title="UK - ENGLISH",(UK) Vh1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354935.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Viaplay Xtra.png" group-title="UK - ENGLISH",(UK) Viaplay Xtra
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354934.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/VIRGIN MEDIA ONE.png" group-title="UK - ENGLISH",(UK) Virgin Media One
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354932.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/VIRGIN MEDIA three.png" group-title="UK - ENGLISH",(UK) Virgin Media three
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354931.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/VIRGIN MEDIA TWO.png" group-title="UK - ENGLISH",(UK) Virgin Media Two
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354930.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/WATCH.png" group-title="UK - ENGLISH",(UK) Watch
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354928.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Watch HD.png" group-title="UK - ENGLISH",(UK) Watch HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354927.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/ZEE TV INDIA.png" group-title="UK - ENGLISH",(UK) ZEE TV India
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354923.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbeebieshd.png" group-title="UK - ENGLISH",(UK) CBeebies
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38198.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedycentralushd.png" group-title="UK - ENGLISH",(UK) Comedy Central
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38204.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbcentertainment.png" group-title="UK - ENGLISH",(UK) BBC Entertainment
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38252.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davehd.png" group-title="UK - ENGLISH",(UK) Dave
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38203.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eentertainmenthd.png" group-title="UK - ENGLISH",(UK) E!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38202.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/gold.png" group-title="UK - ENGLISH",(UK) More 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/38200.m3u8
+# --- UK - ENGLISH (91) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/4Seven UK.png" group-title="UK - ENGLISH",(UK) 4Seven
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK - ENGLISH",(UK) 5Select ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366090.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/5Star UK.png" group-title="UK - ENGLISH",(UK) 5Star
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366089.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/5USA UK.png" group-title="UK - ENGLISH",(UK) 5USA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366088.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Alibi UK.png" group-title="UK - ENGLISH",(UK) Alibi
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366087.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC Four UK.png" group-title="UK - ENGLISH",(UK) BBC Four
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366086.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC Four HD UK.png" group-title="UK - ENGLISH",(UK) BBC Four ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366085.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC LIFESTYLE UK.jpg" group-title="UK - ENGLISH",(UK) BBC Lifestyle
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366084.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC News HD UK.png" group-title="UK - ENGLISH",(UK) BBC News ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366083.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One UK.png" group-title="UK - ENGLISH",(UK) BBC One
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366082.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One Channel Islands UK.png" group-title="UK - ENGLISH",(UK) BBC One Channel Islands
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366081.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One HD UK.png" group-title="UK - ENGLISH",(UK) BBC One HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366080.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One Northern Ireland UK.png" group-title="UK - ENGLISH",(UK) BBC One Northern Ireland
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366079.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One Oxford UK.png" group-title="UK - ENGLISH",(UK) BBC One Oxford
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366078.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One Scotland UK.png" group-title="UK - ENGLISH",(UK) BBC One Scotland
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366077.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One Wales UK.png" group-title="UK - ENGLISH",(UK) BBC One Wales
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366076.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC One Yorks UK.png" group-title="UK - ENGLISH",(UK) BBC One Yorks
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366075.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC Parliament UK.png" group-title="UK - ENGLISH",(UK) BBC Parliament
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366074.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC Two UK.png" group-title="UK - ENGLISH",(UK) BBC Two
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366073.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC Two HD UK.png" group-title="UK - ENGLISH",(UK) BBC Two ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366072.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC Two Scotland UK.png" group-title="UK - ENGLISH",(UK) BBC Two Scotland
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366071.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BBC World News UK.png" group-title="UK - ENGLISH",(UK) BBC World News
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366070.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/BET UK.png" group-title="UK - ENGLISH",(UK) BET
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366069.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Bloomberg TV UK.png" group-title="UK - ENGLISH",(UK) Bloomberg TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366068.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Challenge UK.png" group-title="UK - ENGLISH",(UK) Challenge
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366067.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Challenge +1 UK.png" group-title="UK - ENGLISH",(UK) Challenge ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366066.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Channel 4 UK.png" group-title="UK - ENGLISH",(UK) Channel 4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366065.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Channel 4 HD UK.png" group-title="UK - ENGLISH",(UK) Channel 4 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366064.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Channel 5 UK.png" group-title="UK - ENGLISH",(UK) Channel 5
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366063.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Channel 5 HD UK.png" group-title="UK - ENGLISH",(UK) Channel 5 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366062.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/CNN UK.png" group-title="UK - ENGLISH",(UK) CNN
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366061.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Comedy Central UK.png" group-title="UK - ENGLISH",(UK) Comedy Central
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366060.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Comedy Central Extra UK.png" group-title="UK - ENGLISH",(UK) Comedy Central Extra
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366059.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Comedy Central Extra +1 UK.png" group-title="UK - ENGLISH",(UK) Comedy Central Extra ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366058.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Dave UK.png" group-title="UK - ENGLISH",(UK) Dave
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366057.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Dave ja vu UK.png" group-title="UK - ENGLISH",(UK) Dave Ja Vu
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366056.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Drama UK.png" group-title="UK - ENGLISH",(UK) Drama
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366055.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/E! UK.png" group-title="UK - ENGLISH",(UK) E!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366054.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/E4 UK.png" group-title="UK - ENGLISH",(UK) E4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366053.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/E4 +1 UK.png" group-title="UK - ENGLISH",(UK) E4 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK - ENGLISH",(UK) E4 Extra
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366051.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/FOX News UK.png" group-title="UK - ENGLISH",(UK) FOX News
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366050.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/GOLD UK.png" group-title="UK - ENGLISH",(UK) Gold
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366049.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/GOLD +1 UK.png" group-title="UK - ENGLISH",(UK) Gold ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366048.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Horse & Country UK.png" group-title="UK - ENGLISH",(UK) Horse & Country
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366047.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV +1 UK.png" group-title="UK - ENGLISH",(UK) ITV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366046.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV 1 UK.png" group-title="UK - ENGLISH",(UK) ITV 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366045.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV2 UK.png" group-title="UK - ENGLISH",(UK) ITV2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366044.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV2 +1 UK.png" group-title="UK - ENGLISH",(UK) ITV2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366043.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV2 HD UK.png" group-title="UK - ENGLISH",(UK) ITV2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366042.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV3 UK.png" group-title="UK - ENGLISH",(UK) ITV3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366041.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV3 +1 UK.png" group-title="UK - ENGLISH",(UK) ITV3 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366040.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV4 UK.png" group-title="UK - ENGLISH",(UK) ITV4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366039.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITV4 +1 UK.png" group-title="UK - ENGLISH",(UK) ITV4 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366038.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITVBe +1 UK.png" group-title="UK - ENGLISH",(UK) ITVBe ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366037.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/London Live UK.png" group-title="UK - ENGLISH",(UK) London Live
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366036.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/More4 UK.png" group-title="UK - ENGLISH",(UK) More4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366035.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Motors TV HD UK.png" group-title="UK - ENGLISH",(UK) Motors TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK - ENGLISH",(UK) MTA 2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366033.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Pick UK.png" group-title="UK - ENGLISH",(UK) Pick
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366032.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Pick +1 UK.png" group-title="UK - ENGLISH",(UK) Pick ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366031.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Revelation UK.png" group-title="UK - ENGLISH",(UK) Revelation
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366030.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/RTÉ Jr UK.png" group-title="UK - ENGLISH",(UK) RTÉ Jr
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366029.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/RTÉ News Now UK.png" group-title="UK - ENGLISH",(UK) RTÉ News Now
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366028.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/RTÉ One UK.png" group-title="UK - ENGLISH",(UK) RTÉ One
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366027.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/RTÉ One HD UK.png" group-title="UK - ENGLISH",(UK) RTÉ One ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366026.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/RTÉ Two UK.png" group-title="UK - ENGLISH",(UK) RTÉ Two
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366025.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/RTÉ Two HD UK.png" group-title="UK - ENGLISH",(UK) RTÉ Two ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366024.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S4C UK.png" group-title="UK - ENGLISH",(UK) S4C
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366023.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S 1 UK.png" group-title="UK - ENGLISH",(UK) Sky 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366022.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S 1 HD UK.png" group-title="UK - ENGLISH",(UK) Sky 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366021.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Arts UK.png" group-title="UK - ENGLISH",(UK) Sky Arts
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366020.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Atlantic UK.png" group-title="UK - ENGLISH",(UK) Sky Atlantic
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366019.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Atlantic +1 UK.png" group-title="UK - ENGLISH",(UK) Sky Atlantic ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK - ENGLISH",(UK) Sky Comedy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366017.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S News UK.png" group-title="UK - ENGLISH",(UK) Sky News
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366016.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Witness HD UK.png" group-title="UK - ENGLISH",(UK) Sky Witness ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366015.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TalkTV UK.png" group-title="UK - ENGLISH",(UK) TalkTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366014.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TBN UK.png" group-title="UK - ENGLISH",(UK) TBN
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366013.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TG4 UK.png" group-title="UK - ENGLISH",(UK) TG4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366012.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TravelXP Europe UK.png" group-title="UK - ENGLISH",(UK) TravelXP Europe
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366011.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/tru TV UK.png" group-title="UK - ENGLISH",(UK) Tru TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366010.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TV3 UK.png" group-title="UK - ENGLISH",(UK) TV3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366009.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/UTV HD UK.png" group-title="UK - ENGLISH",(UK) UTV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366008.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Virgin Media One UK.png" group-title="UK - ENGLISH",(UK) Virgin Media One
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366007.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Virgin Media Three UK.png" group-title="UK - ENGLISH",(UK) Virgin Media Three
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366006.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Virgin Media Two UK.png" group-title="UK - ENGLISH",(UK) Virgin Media Two
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366005.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Virgin two HD UK.png" group-title="UK - ENGLISH",(UK) Virgin Two ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366004.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/W UK.png" group-title="UK - ENGLISH",(UK) W
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366003.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/W +1 UK.png" group-title="UK - ENGLISH",(UK) W ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366002.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/YESTERDAY UK.png" group-title="UK - ENGLISH",(UK) Yesterday
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366001.m3u8
 
-# --- UK - SPORTS (156) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sports 1.png" group-title="UK - SPORTS",(UK) TNT Sports 1 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354727.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sports 1.png" group-title="UK - SPORTS",(UK) TNT Sports 1 ꜰʜᴅ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354726.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sports 1 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354725.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sport 2.png" group-title="UK - SPORTS",(UK) TNT Sport 2 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354730.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sports 2.png" group-title="UK - SPORTS",(UK) TNT Sports 2 ꜰʜᴅ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354723.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sports 2 4K+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354722.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sports 3.png" group-title="UK - SPORTS",(UK) TNT Sports 3 ꜰʜᴅ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354721.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sports 3 4K+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354720.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sport 4 ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354729.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sport 1.png" group-title="UK - SPORTS",(UK) TNT Sports 4 ꜰʜᴅ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354719.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT Sports 4 HD.png" group-title="UK - SPORTS",(UK) TNT Sports 4 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354718.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT SPORTS 5.png" group-title="UK - SPORTS",(UK) TNT Sports 5 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354717.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT SPORTS 6.png" group-title="UK - SPORTS",(UK) TNT Sports 6 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354716.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT SPORTS 7.png" group-title="UK - SPORTS",(UK) TNT Sports 7 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354715.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT SPORTS 8.png" group-title="UK - SPORTS",(UK) TNT Sports 8 4K+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354714.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sports 9 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354728.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/TNT SPORTS 10.png" group-title="UK - SPORTS",(UK) TNT Sports 10 4k+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354724.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sports Espn
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354713.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) TNT Sports Ultimate
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354712.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/EUROSPORT 1.png" group-title="UK - SPORTS",(UK) Eurosport 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354844.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/EUROSPORT 2.png" group-title="UK - SPORTS",(UK) Eurosport 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354842.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/EUROSPORT 2.png" group-title="UK - SPORTS",(UK) Eurosport 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354841.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SKY Sport Premier League
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354789.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Action HD.png" group-title="UK - SPORTS",(UK) SKY Sports Action
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354788.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Action HD.png" group-title="UK - SPORTS",(UK) SKY Sports Action
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354787.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Action HD.png" group-title="UK - SPORTS",(UK) SKY Sports Action HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354786.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Arena HD.png" group-title="UK - SPORTS",(UK) SKY Sports Arena
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354785.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Arena HD.png" group-title="UK - SPORTS",(UK) SKY Sports Arena
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354784.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Arena HD.png" group-title="UK - SPORTS",(UK) SKY Sports Arena HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354783.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Cricket HD.png" group-title="UK - SPORTS",(UK) SKY Sports Cricket
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354782.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Cricket HD.png" group-title="UK - SPORTS",(UK) SKY Sports Cricket
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354781.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Cricket HD.png" group-title="UK - SPORTS",(UK) SKY Sports Cricket HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354780.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports F1 HD.png" group-title="UK - SPORTS",(UK) SKY Sports F1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354779.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports F1 HD.png" group-title="UK - SPORTS",(UK) SKY Sports F1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354778.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports F1 HD.png" group-title="UK - SPORTS",(UK) SKY Sports F1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354777.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Football HD.png" group-title="UK - SPORTS",(UK) SKY Sports Football
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354776.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Football HD.png" group-title="UK - SPORTS",(UK) SKY Sports Football HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354775.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SPORTS FOOTBALL[Live During Events Only].png" group-title="UK - SPORTS",(UK) SKY Sports FOOTBALL[Live During Events Only]
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354774.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SPORTS GOLF (Match Time).png" group-title="UK - SPORTS",(UK) SKY Sports Golf
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354773.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Golf HD.png" group-title="UK - SPORTS",(UK) SKY Sports Golf HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354772.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SPORTS GOLF (Match Time).png" group-title="UK - SPORTS",(UK) SKY Sports GOLF(Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354771.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Main Event HD.png" group-title="UK - SPORTS",(UK) SKY Sports Main Event
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354770.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Main Event HD.png" group-title="UK - SPORTS",(UK) SKY Sports Main Event
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354769.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Main Event HD.png" group-title="UK - SPORTS",(UK) SKY Sports Main Event HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354768.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Mix HD.png" group-title="UK - SPORTS",(UK) SKY Sports Mix
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354767.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Mix HD.png" group-title="UK - SPORTS",(UK) SKY Sports Mix
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354766.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Mix HD.png" group-title="UK - SPORTS",(UK) SKY Sports Mix HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354765.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports News HQ HD.png" group-title="UK - SPORTS",(UK) SKY Sports News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354764.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports News HQ HD.png" group-title="UK - SPORTS",(UK) SKY Sports News
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354763.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports News HQ HD.png" group-title="UK - SPORTS",(UK) SKY Sports News Hq HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354762.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SPORTS NFL.png" group-title="UK - SPORTS",(UK) SKY Sports NFL
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354761.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Premier League HD.png" group-title="UK - SPORTS",(UK) SKY Sports Premier League
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354760.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Premier League HD.png" group-title="UK - SPORTS",(UK) SKY Sports Premier League HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354759.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SPORTS PREMIER LEAGUE[Live During Events Only].png" group-title="UK - SPORTS",(UK) SKY Sports Premier LEAGUE[Live During Events Only]
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354758.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Racing HD.png" group-title="UK - SPORTS",(UK) SKY Sports Racing
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354757.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Racing HD.png" group-title="UK - SPORTS",(UK) SKY Sports Racing
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354756.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Racing HD.png" group-title="UK - SPORTS",(UK) SKY Sports Racing HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354755.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Tennis.png" group-title="UK - SPORTS",(UK) SKY Sports Tennis
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354754.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Sky Sports Tennis.png" group-title="UK - SPORTS",(UK) SKY Sports Tennis
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354753.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SKY Sports Ultra 1 4K (Event Only)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354752.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SKY Sports Ultra 2 4K (Event Only)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354751.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/LALIGA TV.png" group-title="UK - SPORTS",(UK) LaLiga TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354819.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/LALIGA TV.png" group-title="UK - SPORTS",(UK) Laliga TV ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354818.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/LFC TV.png" group-title="UK - SPORTS",(UK) Lfc TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354817.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MUTV.png" group-title="UK - SPORTS",(UK) Mutv
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354813.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/MUTV.png" group-title="UK - SPORTS",(UK) Mutv ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354812.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NFL Network.png" group-title="UK - SPORTS",(UK) NFL Network
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354811.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Sports 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354823.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) hub premier 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354835.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354834.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Sports 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354822.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354831.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354830.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Sports 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354821.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354829.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 5
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354828.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 6
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354827.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 7
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354826.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 8
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354825.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 9
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354824.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 10
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354833.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Hub Premier 11
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354832.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354809.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354808.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354807.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354806.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 5
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354805.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 6
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354804.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Now Sports 7
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354803.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",Now Sports 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354920.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/NZ SKY SPORT 5 [Live During Events Only].png" group-title="UK - SPORTS",NZ: SKY Sport 5[Live During Events Only]
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354919.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SKY SPORTS PREMIER LEAGUE[Live During Events Only].png" group-title="UK - SPORTS",Sky_Sports_Premier_League
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354918.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Astro Cricket.png" group-title="UK - SPORTS",(UK) Astro Cricket
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354914.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Astro Pl
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354911.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Astro Pl2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354910.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Astro Premier League
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354909.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Astro Premier League 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354908.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Bein Sports 1.png" group-title="UK - SPORTS",(UK) Bein Sports 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354903.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Bein Sports 1 Pl
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354902.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Bein Sports 3.png" group-title="UK - SPORTS",(UK) Bein Sports 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354901.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Bein Sports 3.png" group-title="UK - SPORTS",(UK) Bein Sports 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354900.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Bein Sports Usa
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354898.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Blackburn Rovers.png" group-title="UK - SPORTS",(UK) Champs Blackburn Rovers
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354887.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Charlton Athletic.png" group-title="UK - SPORTS",(UK) Champs Charlton Athletic
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354885.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Millwall.png" group-title="UK - SPORTS",(UK) Champs Millwall F.C.
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354878.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) EIR Sport 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354858.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) EIR Sport 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354857.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) EPL 01
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354856.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Flow Sport
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354838.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Premier Sports 1.png" group-title="UK - SPORTS",(UK) Premier Sports 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354799.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Premier Sports 1.png" group-title="UK - SPORTS",(UK) Premier Sports 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354798.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Premier Sports 2 (Match Time).png" group-title="UK - SPORTS",(UK) Premier Sports 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354797.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Premier Sports 2 (Match Time).png" group-title="UK - SPORTS",(UK) Premier Sports 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354796.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Premier Sports 2 (Match Time).png" group-title="UK - SPORTS",(UK) Premier Sports 2 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354795.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/RACING.png" group-title="UK - SPORTS",(UK) Racing
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354794.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Rush Sport
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354791.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 01 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354750.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 02 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354749.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 03 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354748.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 04 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354747.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 05 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354746.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 06 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354745.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 07 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354744.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 08 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354743.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 09 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354742.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) SPFL 10 (Match Time)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354741.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Super Sport Blitz [Live During Events Only]
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354738.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Super Sport Cricket
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354737.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Supersport 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354736.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Supersport 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354735.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Supersport 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354734.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SuperSport Action.png" group-title="UK - SPORTS",(UK) SuperSport Action
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354733.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/SuperSport Golf.png" group-title="UK - SPORTS",(UK) SuperSport Golf
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354732.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) WWE ꜰʜᴅ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354921.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354709.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 10
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354708.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 11
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354707.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 12
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354706.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 13
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354705.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 14
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354704.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 15
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354703.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354702.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354701.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354700.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 5
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354699.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 6
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354698.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 7
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354697.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 8
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354696.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) Viaplay Event 9
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354695.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Viaplay Sports 1.png" group-title="UK - SPORTS",(UK) Viaplay Sports 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354694.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Viaplay Sports 2.png" group-title="UK - SPORTS",(UK) Viaplay Sports 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354693.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/Willow Cricket.png" group-title="UK - SPORTS",(UK) Willow Cricket
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354690.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) WWE
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354689.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) UFC Fight Night Pass
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354711.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) UFC ꜰʜᴅ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354922.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Uk/uklogo.png" group-title="UK - SPORTS",(UK) UFC WWE
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/354710.m3u8
+# --- UK - KIDS (21) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Baby TV UK.png" group-title="UK - KIDS",(UK) Baby TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365882.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Boomerang UK.png" group-title="UK - KIDS",(UK) Boomerang
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365881.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Cartoon Network UK.png" group-title="UK - KIDS",(UK) Cartoon Network
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365880.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Cartoonito UK.png" group-title="UK - KIDS",(UK) Cartoonito
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365879.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/CBBC HD UK.png" group-title="UK - KIDS",(UK) CBBC ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365878.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/CBeebies HD UK.png" group-title="UK - KIDS",(UK) CBeebies ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365877.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Disney Channel UK.png" group-title="UK - KIDS",(UK) Disney Channel
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365876.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Disney Channel +1 UK.png" group-title="UK - KIDS",(UK) Disney Channel ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365875.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Duck TV UK.png" group-title="UK - KIDS",(UK) Duck TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365874.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/ITVX Kids UK.png" group-title="UK - KIDS",(UK) ITVX Kids
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365873.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Nick Jr. UK.png" group-title="UK - KIDS",(UK) Nick Jr
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365872.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Nick Jr. +1 UK.png" group-title="UK - KIDS",(UK) Nick Jr ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365871.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Nick Jr. Too UK.png" group-title="UK - KIDS",(UK) Nick Jr Too
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365870.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Nickelodeon UK.png" group-title="UK - KIDS",(UK) Nickelodeon
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365869.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Nickelodeon +1 UK.png" group-title="UK - KIDS",(UK) Nickelodeon ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365868.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/NickToons UK.png" group-title="UK - KIDS",(UK) NickToons
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365867.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/POP UK.png" group-title="UK - KIDS",(UK) POP
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365866.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/POP +1 UK.png" group-title="UK - KIDS",(UK) POP ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365865.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Pop UP UK.png" group-title="UK - KIDS",(UK) Pop UP
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK - KIDS",(UK) Sky Kids ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365863.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Tom And Jerry HD UK.png" group-title="UK - KIDS",(UK) Tom And Jerry ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365862.m3u8
+
+# --- UK - MUSIC (11) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Club MTV UK.png" group-title="UK - MUSIC",(UK) Club MTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365893.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Clubland VIP UK.png" group-title="UK - MUSIC",(UK) Clubland VIP
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK - MUSIC",(UK) Magic TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365891.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/MTV UK.png" group-title="UK - MUSIC",(UK) MTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365890.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/MTV Base UK.png" group-title="UK - MUSIC",(UK) MTV Base
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365889.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/MTV Classic UK.png" group-title="UK - MUSIC",(UK) MTV Classic
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365888.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Now 80s UK.png" group-title="UK - MUSIC",(UK) Now 80s
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365887.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Rap 2K Music TV UK.png" group-title="UK - MUSIC",(UK) Rap 2K Music TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365886.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Starz TV UK.png" group-title="UK - MUSIC",(UK) Starz TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365885.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Trace Urban UK.png" group-title="UK - MUSIC",(UK) Trace Urban
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365884.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TV 1 UK.png" group-title="UK - MUSIC",(UK) TV 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365883.m3u8
+
+# --- UK - SPORTS (50) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Eurosport 1 HD UK.png" group-title="UK - SPORTS",(UK) Eurosport 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365943.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Eurosport 2 HD UK.png" group-title="UK - SPORTS",(UK) Eurosport 2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365942.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Fight Network FHD UK.png" group-title="UK - SPORTS",(UK) Fight Network ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365941.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/GINX eSports TV UK.png" group-title="UK - SPORTS",(UK) GINX eSports TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365940.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/LFC TV UK.png" group-title="UK - SPORTS",(UK) LFC TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365939.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/MU TV HD UK.png" group-title="UK - SPORTS",(UK) MU TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365938.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/MUTV UK.png" group-title="UK - SPORTS",(UK) MUTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365937.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/MUTV HD UK.png" group-title="UK - SPORTS",(UK) MUTV HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365936.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Premier Sports 1 UK.png" group-title="UK - SPORTS",(UK) Premier Sports 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365935.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Premier Sports 1 HD UK.png" group-title="UK - SPORTS",(UK) Premier Sports 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365934.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Premier Sports HD UK.png" group-title="UK - SPORTS",(UK) Premier Sports ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365933.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Racing UK.png" group-title="UK - SPORTS",(UK) Racing
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365932.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Red Bull TV FHD UK.jpg" group-title="UK - SPORTS",(UK) Red Bull TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365931.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Setanta Sports UK.jpg" group-title="UK - SPORTS",(UK) Setanta Sports
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365930.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Action UK.png" group-title="UK - SPORTS",(UK) Sky Sports Action
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365929.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Action HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Action ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365928.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Sports Arena UK.png" group-title="UK - SPORTS",(UK) Sky Sports Arena
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365927.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Arena HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Arena ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365926.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Cricket UK.png" group-title="UK - SPORTS",(UK) Sky Sports Cricket
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365925.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Sports Cricket HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Cricket ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365924.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Sports F1 UK.png" group-title="UK - SPORTS",(UK) Sky Sports F1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365923.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports F1 HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports F1 HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365922.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Football UK.png" group-title="UK - SPORTS",(UK) Sky Sports Football
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365921.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Football HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Football ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365920.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Golf UK.png" group-title="UK - SPORTS",(UK) Sky Sports Golf
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365919.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Golf HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Golf ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365918.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Main Event UK.png" group-title="UK - SPORTS",(UK) Sky Sports Main Event
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365917.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Main Event HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Main Event ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365916.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/S Sports Mix HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Mix ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365915.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports News HQ UK.png" group-title="UK - SPORTS",(UK) Sky Sports News HQ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365914.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Premier League UK.png" group-title="UK - SPORTS",(UK) Sky Sports Premier League
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365913.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Premier League HD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Premier League ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365912.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/Sky Sports Racing FHD UK.png" group-title="UK - SPORTS",(UK) Sky Sports Racing ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365911.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 1 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365910.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 1 FHD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365909.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 1 HD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365908.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 2 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365907.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 2 FHD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365906.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 2 HD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365905.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 3 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365904.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 3 FHD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365903.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 3 HD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 3 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365902.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 4 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365901.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 4 HD UK.png" group-title="UK - SPORTS",(UK) TNT Sports 4 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365900.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 5 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 5
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365899.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 6 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 6
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365898.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 7 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365897.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 8 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 8
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365896.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/TNT Sports 9 UK.png" group-title="UK - SPORTS",(UK) TNT Sports 9
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365895.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/UK/World Of FreeSports HD UK.png" group-title="UK - SPORTS",(UK) World Of FreeSports ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365894.m3u8
 
 # --- UK - UFC SPORTS (15) ---
 #EXTINF:-1 tvg-logo="" group-title="UK - UFC SPORTS",UFC Event 1
@@ -16817,4 +16373,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353620.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Arablar/1828080.png" group-title="İR : PERSİAN",(IR) Velayat TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353619.m3u8
 
-# Total: 8224
+# Total: 8000
