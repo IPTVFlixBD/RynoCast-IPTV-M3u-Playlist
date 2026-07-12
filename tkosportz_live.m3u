@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-07-11 19:06:05
+# Generated: 2026-07-12 07:55:48
 # Expires: 2026-07-26
 # Family Safe Edition
 # ==============================================
@@ -32,7 +32,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223562.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224252.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT03: MILLBRIDGE SPEEDWAY
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",08. 330p AMA Supercross Championship Buchanan
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV EVENTS / RACING (ET)",08. 330p AMA Supercross Championship Buchanan
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246601.m3u8
 
 # --- 01. PPV FIGHTS/WWE (ET) (17) ---
@@ -48,7 +48,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218787.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223036.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223037.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. 230p Gassiev vs. Kadiru
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223041.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223518.m3u8
@@ -71,7 +71,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224156.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",15.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224276.m3u8
 
-# --- 01. UFC 329 (5) ---
+# --- 01. UFC 329 (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 329",01. UFC EARLY
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38153.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 329",02. Prelims
@@ -82,6 +82,8 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38155.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38156.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 329",07. Spanish Main
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223967.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 329",05. MULTIVIEW
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223004.m3u8
 
 # --- 02. USA CABLE  TV #1 (156) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
@@ -15901,4 +15903,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190959.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s18801_ll_h3_aa.png" group-title="35. CANADA",CA: SPORTSNET PACIFIC
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190961.m3u8
 
-# Total: 7917
+# Total: 7918

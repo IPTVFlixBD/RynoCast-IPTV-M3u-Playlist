@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-07-11 19:03:13
+# Generated: 2026-07-12 08:01:21
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -17755,7 +17755,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104038.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/BalticumAuksinis.lt.png" group-title="Lithuania",BALTICUM AUKSINIS LT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104037.m3u8
 
-# --- Macedonia (60) ---
+# --- Macedonia (75) ---
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 8 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",##########   Macedonia   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2548.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",1 TV HD MK
@@ -17770,7 +17772,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2482.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74286.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Blic TV FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",CinePlex HD MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Nasa TV TC HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74290.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Cinestar TV Premiere 1 HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74271.m3u8
@@ -17788,7 +17790,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74288.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18647.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Folk TV HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",Fox HD MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Star Movies FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74267.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Fox Life HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74266.m3u8
@@ -17802,10 +17804,28 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18651.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Hugo 2 HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18652.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 3 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 4 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 5 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136010.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 6 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136011.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 7 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136012.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 9 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136014.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 10 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",INTV Avstralija HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",Kafanska HD MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Star Channel FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",INTV 1 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2352.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",INTV 2 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2350.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Leskovac TV HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18654.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",MRT 1 MK
@@ -17836,7 +17856,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18662.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",RTV21 MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",Roma TV FHD MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Skaj Folk FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18657.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Sandzak TV HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18658.m3u8
@@ -17846,9 +17866,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2347.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2349.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Sitel TV MK (BackUP)
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/10616.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",Sitel 3 MK
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",Sonce TV HD MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Star Life FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18659.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Sportska TV HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18660.m3u8
@@ -17856,13 +17874,13 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18660.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV 1000 HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV HD MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Star Crime FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18661.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Iris Stip HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74281.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Plus Kumanovo HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74276.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Sitel 2 MK
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Sitel FHD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/9040.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV+ MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2485.m3u8
@@ -17876,6 +17894,18 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/18664.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74273.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="Macedonia",Viasat History HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",T Prime 1 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136005.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",T Prime 2 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136006.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",T Prime Action HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136007.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Arena M1 Premium FHD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136016.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Arena M2 Premium FHD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136017.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",Arena M3 Premium FHD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136018.m3u8
 
 # --- Malaysia (102) ---
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",##########   Malaysia   ##########
@@ -31609,4 +31639,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15695
+# Total: 15710

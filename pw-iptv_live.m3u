@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-07-11 19:03:45
+# Generated: 2026-07-12 08:03:29
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -12377,15 +12377,11 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/438.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11410.jpg?71730" group-title="HU| HUNGARY HD/4K",HU: DIGI Animal World
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/424.m3u8
 
-# --- IE| IRELAND HD/4K (5) ---
+# --- IE| IRELAND HD/4K (3) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12023.jpg?619293" group-title="IE| IRELAND HD/4K",IRL: RTE ONE 4K ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/380821.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12023.jpg?619293" group-title="IE| IRELAND HD/4K",IRL: RTE ONE HD ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/585496.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12121.jpg?12138" group-title="IE| IRELAND HD/4K",IRL: VIRGIN MEDIA ONE ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/380823.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12037.jpg?13227" group-title="IE| IRELAND HD/4K",IRL: RTE TWO HD ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/380822.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2320.jpg?14568" group-title="IE| IRELAND HD/4K",IRL: VIRGIN MEDIA TWO ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/380824.m3u8
 
@@ -16883,9 +16879,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162424.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13031.jpg?15425" group-title="UK| MUSIC ᴴᴰ/ᴿᴬᵂ",UK: RMTV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162519.m3u8
 
-# --- UK| NEWS ᴴᴰ/ᴿᴬᵂ (14) ---
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?20760" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BBC NEWS HD ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162142.m3u8
+# --- UK| NEWS ᴴᴰ/ᴿᴬᵂ (13) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?20760" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BBC WORLD NEWS HD ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162143.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11569.jpg?14373" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BLOOMBERG HD ◉
@@ -18121,4 +18115,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8809
+# Total: 8806
