@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-07-11 07:55:13
+# Generated: 2026-07-13 07:57:45
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -690,9 +690,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25429.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25431.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: IDMAN TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",BAKU TV
+#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: BAKU TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: MEDENIYET TV
+#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: Mədəniyyət TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: CBC SPORT HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25441.m3u8
@@ -702,6 +702,16 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25442.m3u8
 # --- BE: BELGIUM (71) ---
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",##### BELGIUM #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/41853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 3 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 4 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo TV HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA UNE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174036.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA UNE HD+
@@ -754,22 +764,16 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174059.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] 2BE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174061.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CANVAS HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174062.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] KETNETHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174063.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VIER HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VTM HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174065.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] KETNET JUNIOR HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174067.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] AB3 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174068.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CANVAS FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CANVAS HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174070.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] EEN FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174071.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] EEN HD
@@ -838,10 +842,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174102.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] PLAY SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174104.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] TIPIK HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] TIPIK HD+
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174106.m3u8
 
 # --- BG: BULGARIA (145) ---
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",##### BULGARIA #####
@@ -1579,84 +1579,10 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (79) ---
+# --- DE-DAZN EVENT (42) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/euu61nn32m0ejb456k3rt7080_image-header_pDach_1783029257000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Goodwood Festival of Speed | Tag 2 (2026-07-10 09:20:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185574.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kx9r1vewkafk19xftndobf9gm_image-header_pDach_1783088091000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Dota 2 - Week 1, Day 4 - Stream C (2026-07-10 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185575.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1taq656mpmvn210i7bg0mdqot3_image-header_pDach_1783094868000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Dota 2 - Week 1, Day 4 - Stream A (2026-07-10 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185576.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/simd3n5l7yqk13nw0lzd6b9dr_image-header_pDach_1783416423000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Fatal Fury: City of the Wolves - Day 3 (2026-07-10 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185579.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/r0e33ytqpxt61istb2yfichjz_image-header_pDach_1783073005000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Valorant - Day 8 (2026-07-10 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185580.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xfmbw1nemfo1g791emkd3kyn_image-header_pDach_1783334588000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Apex Legends - Day 4 (2026-07-10 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185583.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7sozgfmmrom1mq43urmdxsg9h_image-header_pDach_1782906108000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",PFL MENA | Riad (Viertelfinale) (2026-07-10 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185585.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ecxhoccmxkxc5yl0skct2dsdr_image-header_pDach_1783502474000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Deutschland U19 - Spanien U19 | Finale (2026-07-10 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185588.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5s4bz3kf9xs1lsemq3p7ttzc_image-header_pDach_1782817345000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",European Darts Open | Tag 1 (Session 2) (2026-07-10 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185589.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cieros9jj1w52aogcqqrn18y8_image-header_pDach_1721247293000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",PPL New York | Tag 2 (Abendsession) (2026-07-11 00:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185590.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19qpy734668cd19urqaadzn1cj_image-header_pDach_1779369216000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Portsmouth Bombers FC vs. Mighty Avengers (2026-07-11 01:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185591.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/okj3qzumde8h18nqhuyk7oa4z_image-header_pDach_1783520589000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wellington Olympic vs. FC Western (2026-07-11 03:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185592.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/21compm14g3y8re068ufazxgc_image-header_pDach_1783523365000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UFC 329 | Conor McGregor vs Max Holloway 2 (Weigh-In) (2026-07-11 03:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185593.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o1l83vnmohw91ut9got3gzfw3_image-header_pDach_1783520572000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tauranga City vs. Auckland II (2026-07-11 04:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185594.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17sxwg39vwndv1xe3go1u1n2vg_image-header_pDach_1783520580000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cashmere Technical vs. Wanaka (2026-07-11 04:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185595.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/fwivwgy07ql1151oimxdpihzc_image-header_pDach_1783520631000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Birkenhead United vs. Auckland United (2026-07-11 05:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185596.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dcdxvltxliap1l54qk81ftgxs_image-header_pDach_1783520626000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Melville United vs. Bay Olympic (2026-07-11 05:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185597.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/al9lt8v8csiw2re2uamo00lab_image-header_pDach_1732640551000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Trail Verbier Saint-Bernard by UTMB (2026-07-11 07:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185598.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cpzurgc1morai4wr6b9k0fiqu_image-header_pDach_1783029257000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Goodwood Festival of Speed | Tag 3 (2026-07-11 09:20:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185599.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/nzbpkustf0g1qb8k1mdtgsoa_image-header_pDach_1783352947000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Siheung Citizen vs. Busan Transportation (2026-07-11 10:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185600.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5gtm1fkkzc4bmjlxhxgv1a8fn_image-header_pDach_1746629138000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nürburgring | Rennen 1 (2026-07-11 10:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185601.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1pr0d2rvrdndk1cooij9wj6x2h_image-header_pDach_1783088091000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Dota 2 - Week 1, Day 5 - Stream C (2026-07-11 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185602.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/h4j29b1l43e21p3g0jssn6ojb_image-header_pDach_1783088091000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Dota 2 - Week 1, Day 5 - Stream B (2026-07-11 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185603.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1at5m5nztslg11cr3irvzc978z_image-header_pDach_1783088025000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Dota 2 - Week 1, Day 5 - Stream A (2026-07-11 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185604.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lqtwte3pygrs1dv6kwt2bhiiq_image-header_pDach_1782789432000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Daejeon Korail vs. Gyeongju KHNP (2026-07-11 12:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185605.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c7dvitap281n7nn90amwc73uu_image-header_pDach_1782129318000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Etappe 8 | Perigueux - Bergerac (2026-07-11 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185606.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kcdjqk5z4oi719v8lnbf1bmv5_image-header_pDach_1782974617000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ching Fung vs. MUST IPO SC (2026-07-11 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185607.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5rt1wf0bqd9se0tw2quoazigd_image-header_pDach_1782817232000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",European Darts Open | Tag 2 (Session 1) (2026-07-11 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185608.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q9pw16qh62rj1n0tfiqackibh_image-header_pDach_1783075132000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Valorant - Day 9 (2026-07-11 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185609.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cskgbhjfzn5lntjtdf0fgjn1d_image-header_pDach_1782485197000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Tapaokaew vs Niall McGreevy (2026-07-11 14:10:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185610.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a28y2fff5bd11gmk9j65qmylb_image-header_pDach_1780315008000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ekhaya FC vs. FCB Nyasa Big Bullets (2026-07-11 14:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185611.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1j91bswv07kw11natgxhhtsaa0_image-header_pDach_1782974611000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gala FC vs. Macau Chiba FC (2026-07-11 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185613.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/73hpa664qa1r897eb0443awff_image-header_pDach_1746629138000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nürburgring | Rennen 2 (2026-07-11 15:20:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185614.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1dxs5q0e64uok1qjg1bk7pcx9v_image-header_pDach_1783334588000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Apex Legends - Day 5 (2026-07-11 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185615.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6pdfp80x72tl7kzpm0zosdj0y_image-header_pDach_1782714812000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Portugal | Qualifikation (2026-07-11 16:20:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185616.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8xu860vxezsbmo0fu3me3qd2c_image-header_pDach_1782817345000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",European Darts Open | Tag 2 (Session 2) (2026-07-11 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185617.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/pvexdgijwbgs1qygfkhyiniq7_image-header_pDach_1778731893000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bath Estate FC vs. Pointe Michel FC (2026-07-11 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185618.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tsloeuhjxtme1kxdsh3fi4cyd_image-header_pDach_1778731662000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Harlem United SC vs. Mahaut Soca Strikers FC (2026-07-12 00:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tsloeuhjxtme1kxdsh3fi4cyd_image-header_pDach_1778731662000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",European Darts Open | Viertelfinale, Halbfinale & Finale
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185619.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/31kyjfgv30obqi3yvzerl6ywk_image-header_pDach_1781612743000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UFC 329 | Conor McGregor vs Max Holloway 2 (Main Card mit Originalkommentar) (2026-07-12 03:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185620.m3u8
@@ -4646,14 +4572,38 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94831.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU Match! Premier HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Setanta Sports 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94847.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/649.png" group-title="RU: Russia",RU: Setanta Sports 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94428.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/M2-logo-719227FCEC-seeklogo.com.png" group-title="RU: Russia",RU: Setanta Sports+ HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Sport HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Action
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Premiere
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Comedy
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Rosskoe (TV 1000 Русское кино)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94673.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3301.png" group-title="RU: Russia",RU✦ Viju TV1000 Русское HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94478.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg" group-title="RU: Russia",RU✦ Viju Explore
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Planet
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Nature
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju History scfi
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94800.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Dizi tv  HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94710.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Россия 1 +
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94850.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Россия 24 +
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU: Россия РТР +
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94847.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",МИР24 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",HollywooD
@@ -4664,8 +4614,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94827.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94806.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Экспресс HD (Пенза)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Setanta sport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",МИР (HD)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU:Матч! Игра HD
@@ -4682,8 +4630,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94734.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94737.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Астрахань Sport HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94546.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/649.png" group-title="RU: Russia",M2 TV HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94428.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2001.png" group-title="RU: Russia",НТВ HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",Сургут 1
@@ -4714,8 +4660,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94501.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94502.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827.jpg" group-title="RU: Russia",Ocko Star
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94504.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/M2-logo-719227FCEC-seeklogo.com.png" group-title="RU: Russia",M2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94506.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="RU: Russia",Первый Музыкальный RU
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94507.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="RU: Russia",Первый Музыкальный RU HD
@@ -4796,24 +4740,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94803.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",UPL TV 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Action
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Premiere
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94785.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Comedy
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju TV 1000 Rosskoe (TV 1000 Русское кино)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94673.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3301.png" group-title="RU: Russia",RU✦ Viju TV1000 Русское HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94478.m3u8
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg" group-title="RU: Russia",RU✦ Viju Explore
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94503.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Planet
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju+ Nature
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RU: Russia",RU✦ Viju History scfi
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94800.m3u8
 
 # --- TR | 7/24 SERIES (16) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | 7/24 SERIES",##### TR 7/24 SERIES #####
@@ -5562,7 +5488,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/106091.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/106093.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/619cbdc2866ac325b46b7c01.png" group-title="TR | MUZIK",TR: TRT MUZIK TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/61787.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qp3QSJj/slowkaradeniztv.png" group-title="TR | MUZIK",TR: DiNi MUZiK HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qp3QSJj/slowkaradeniztv.png" group-title="TR | MUZIK",TR: Stingray Remember the 80s HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/106697.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/5e415748866ac31d980eb317.png" group-title="TR | MUZIK",TR:  UHD MUZİK 4K
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/61786.m3u8
@@ -5572,7 +5498,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/106692.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/66067.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fk149f5.png" group-title="TR | MUZIK",TR: KINGBOX PAVYON TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/68462.m3u8
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/dj/dj_PNG43.png" group-title="TR | MUZIK",TR: TAS PLAK HD
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/dj/dj_PNG43.png" group-title="TR | MUZIK",TR: Stingray Urban Beat HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39672.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4g9cpi6.png" group-title="TR | MUZIK",TR✦  TURK HALK MUZGi HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/62547.m3u8
@@ -6529,4 +6455,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3204
+# Total: 3167

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-07-12 19:05:53
+# Generated: 2026-07-13 07:55:46
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -15425,7 +15425,9 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/955380.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="Movies | VOD - ENGLISH 4K",EN - Indiana Jones and the Dial of Destiny (2023) 4K
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/954024.mkv
 
-# --- Movies | VOD - ENGLISH SUB [EN] (126) ---
+# --- Movies | VOD - ENGLISH SUB [EN] (127) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" group-title="Movies | VOD - ENGLISH SUB [EN]",EN - Train to Busan (2016)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401725.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="Movies | VOD - ENGLISH SUB [EN]",EN - Ikka (2026)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401649.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg" group-title="Movies | VOD - ENGLISH SUB [EN]",EN - My Dearest Assassin (2026)
@@ -46179,7 +46181,19 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/660592.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg" group-title="Movies | VOD - SCANDINAVIA MULTISUB [MU]",SC - Being the Ricardos  (2021)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/660591.mkv
 
-# --- Movies | VOD - SPORT [EN] (398) ---
+# --- Movies | VOD - SPORT [EN] (404) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC 329: McGregor vs. Holloway 2 (Prelims) (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401724.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC 329: McGregor vs. Holloway 2 (Main Card) (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401723.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC 329: McGregor vs. Holloway 2 (Early Prelims) (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401722.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbT38Zi0FP-f1EDTNKgNOLwpNDFf99PbqKBVUkrgwQhHS8ncSIlonQYGA&s=10" group-title="Movies | VOD - SPORT [EN]",EN - Delante Johnson vs. Christopher Guerrero (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401721.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62-fOarAM7ZWYYmrkUjYVHzfiC0h-S7BJfSNpR-4FLRfAHOqkRL3kfQM&s=10" group-title="Movies | VOD - SPORT [EN]",EN - Bruce Carrington vs. Rene Palacios (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401720.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zg3DPspM8xFrHdNDgEmjYcROQrY.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Abdullah Mason vs. Albert Bell (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1401719.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX3Pd6UY1ohGrPyJMOMV3pCn5tJ.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 280: Fiziev vs. Torres (Prelims) (2026)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1398836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX3Pd6UY1ohGrPyJMOMV3pCn5tJ.jpg" group-title="Movies | VOD - SPORT [EN]",UFC Fight Night 280: Fiziev vs. Torres (2026)
@@ -47601,4 +47615,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23761
+# Total: 23768
