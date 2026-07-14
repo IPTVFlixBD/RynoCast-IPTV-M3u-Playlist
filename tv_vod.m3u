@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-07-14 07:51:38
+# Generated: 2026-07-14 19:22:51
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -239,7 +239,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/74568.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/148AO5bZAiHtbSHZbYiCietAK6K.jpg" group-title="Movies | AR - FILM",من 30 سنة (AR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/74566.mkv
 
-# --- Movies | BE - VTM GO/NPO (25) ---
+# --- Movies | BE - VTM GO/NPO (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Miljoenenhuizen (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7068.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",82 Dagen in de hel (BE)
@@ -274,6 +274,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4554.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4555.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",40 jaar reilen en Heylen (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4562.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",VTMies (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10091.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Ward Gaat Hard (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10012.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Blind Getrouwd Nieuw-Zeeland (BE)
@@ -41375,7 +41377,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185213.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",The Gorge (NL) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185142.mkv
 
-# --- Movies | NL - NETFLIX (893) ---
+# --- Movies | NL - NETFLIX (894) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",The Apartment Job (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10093.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",No tengo miedo (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",The Woods (NL)
@@ -74685,7 +74689,9 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/9661
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - DISCOVERY SERIES",À table avec mon ex! (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/9662
 
-# --- Series | NL - DRAMA SERIES (29) ---
+# --- Series | NL - DRAMA SERIES (30) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | NL - DRAMA SERIES",Dream to You (NL)
+http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/10092
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - DRAMA SERIES",L'arte della gioia (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/9876
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - DRAMA SERIES",Irish Blood (NL)
@@ -74823,4 +74829,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37177
+# Total: 37180

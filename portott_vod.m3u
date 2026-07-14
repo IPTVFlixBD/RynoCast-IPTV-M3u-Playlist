@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-14 07:55:21
+# Generated: 2026-07-14 19:16:54
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -3311,7 +3311,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22458.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTARY [EN]",EN - The UnBelievable with Dan Aykroyd (2023)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22472.mp4
 
-# --- Movies | SRS - DRAME [FR] (173) ---
+# --- Movies | SRS - DRAME [FR] (174) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DRAME [FR]",FR - Ni una más (2024) (ES)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33847.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DRAME [FR]",FR - Dawson (1998) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33790.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DRAME [FR]",FR - The Best Immigrant (2025) (BE)
@@ -112223,7 +112225,11 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/22725
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/16970
 
-# --- Series | SRS - SERIES 2026 [FR] (180) ---
+# --- Series | SRS - SERIES 2026 [FR] (182) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - De la Secte à l'Infanticide: L'histoire d'Andrea Yates (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33848
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Prisoner (2026) (GB)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33846
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - The Lady : A Royal Murder Scandal (2026) (GB)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/33825
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Zodiaque (2026) (FR)
@@ -112761,4 +112767,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56269
+# Total: 56272

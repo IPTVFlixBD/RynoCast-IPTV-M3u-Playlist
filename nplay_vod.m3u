@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nplay.tel:2095
-# Generated: 2026-07-14 07:45:19
+# Generated: 2026-07-14 19:22:04
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
@@ -21497,7 +21497,9 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Arabic-Sub]",Peaky Blinders [AR]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2855.mp4
 
-# --- Movies | English [Multi-Sub] (4416) ---
+# --- Movies | English [Multi-Sub] (4417) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",No Second Chance
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22568.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Hannah Montana [Multi-audio]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Danish Woman
@@ -30565,7 +30567,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/3400.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",The Santa Clauses [4K]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/3568.mp4
 
-# --- Movies | Events (800) ---
+# --- Movies | Events (801) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYMVSRk2n4WpzKMw7V6mKz4Psoh.jpg" group-title="Movies | Events",Conor Mcgregor - Notorious [UFC]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/20399.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhOGE2YmMtZDA4MC00MTk0LWJlNzYtNjgxMGQ1MmYxNjgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies | Events",The 72nd Annual Primetime Emmy Awards [2020]
@@ -30586,6 +30588,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/94641.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/94829.mkv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EO9ReY8XkAA221P.jpg:large" group-title="Movies | Events",Harry och Meghan: Ett Kungahus i Kris [PRE] [2020]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/94881.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="Movies | Events",UFC 329: McGregor vs. Holloway 2 - 2026
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2482134.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="Movies | Events",UFC 329: McGregor vs. Holloway 2 - 2026
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480830.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="Movies | Events",UFC 329: McGregor vs. Holloway 2 [2026]
@@ -40317,7 +40321,11 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399797.mkv
 
-# --- Movies | N1 Sports Events Replays (579) ---
+# --- Movies | N1 Sports Events Replays (581) ---
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.00 The Open. Live at the Range  Golf Major 7.14  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2482577.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",02.00 Home Run Derby  Major League Baseball 7.14  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2481816.mkv
 #EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F3b469126-0c67-40b4-8ba6-f1122f76dea1%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",21.00 Croatia Open (250) ATP Tour 7.13  TV4 Play
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2481750.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/250/248/logo_WSTsnooker.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.30 Championship League Snooker  Snooker 7.13  Viaplay SE
@@ -79227,4 +79235,4 @@ http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/497
 #EXTINF:-1 tvg-logo="" group-title="Series | Turkish Series [ مسلسلات تركية مترجمة ]",İçerde
 http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/556
 
-# Total: 39552
+# Total: 39556

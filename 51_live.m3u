@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-14 07:47:44
+# Generated: 2026-07-14 19:20:25
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -2892,6 +2892,16 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/143460.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/143562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",FR.SPOR| INFOSPORT+ HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/143605.m3u8
+
+# --- GE: Georgia (4) ---
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Setanta Sports 1 Georgia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/185844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Setanta Sports 2 Georgia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/185845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Setanta Sports 3 Georgia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/185846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Silk Sport 4 georgia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/185847.m3u8
 
 # --- GR: GREECE (79) ---
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",##### GREECE VIP #####
@@ -6415,4 +6425,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3147
+# Total: 3151

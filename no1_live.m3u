@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-07-13 20:18:11
+# Generated: 2026-07-14 19:14:17
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -2892,6 +2892,16 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/143460.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/143562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",FR.SPOR| INFOSPORT+ HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/143605.m3u8
+
+# --- GE: Georgia (4) ---
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Setanta Sports 1 Georgia
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Setanta Sports 2 Georgia
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Setanta Sports 3 Georgia
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GE: Georgia",Silk Sport 4 georgia
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/185847.m3u8
 
 # --- GR: GREECE (79) ---
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",##### GREECE VIP #####
@@ -6415,4 +6425,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3147
+# Total: 3151

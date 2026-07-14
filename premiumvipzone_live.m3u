@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-07-14 07:49:55
+# Generated: 2026-07-14 19:12:04
 # Expires: 2026-08-13
 # Family Safe Edition
 # ==============================================
@@ -13267,7 +13267,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/1358.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/antenastars.png" group-title="RO - Muzica",Antena Play - Live
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/283427.m3u8
 
-# --- RO - Radio (39) ---
+# --- RO - Radio (35) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQHn5FPW/logo-zu.png" group-title="RO - Radio",Radio ZU
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/265233.m3u8
 #EXTINF:-1 tvg-logo="https://live.rockfm.ro/kissfm.aacp" group-title="RO - Radio",Radio Kiss FM Romania
@@ -13304,8 +13304,6 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141670.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141669.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Maria
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141667.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Social FM
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141666.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Itsy Bitsy
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141664.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Vocea Sperantei
@@ -13316,18 +13314,12 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141662.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141660.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Sud FM
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141659.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Gaga
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Romania Actualitati
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/141657.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Milos FM
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/13608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Pro Fm
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/13609.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Digi Fm
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/13610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Magic FM
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/13612.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Accent FM
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/13616.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - Radio",Radio Play Suceava
@@ -16435,4 +16427,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/178059.m3u8
 #EXTINF:-1 tvg-logo="https://mctapi.com/image.php?type=live&id=cb_bbc_bandit" group-title="Unknown",bbc_bandit
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177689.m3u8
 
-# Total: 8091
+# Total: 8087
