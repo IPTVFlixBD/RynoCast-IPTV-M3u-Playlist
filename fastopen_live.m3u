@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-07-16 07:49:47
+# Generated: 2026-07-16 19:26:06
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -17756,8 +17756,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104038.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104037.m3u8
 
 # --- Macedonia (75) ---
-#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 8 HD MK
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",##########   Macedonia   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2548.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",1 TV HD MK
@@ -17814,6 +17812,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136010.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 7 HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136012.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 8 HD MK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 9 HD MK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/136014.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",TV Hugo 10 HD MK
