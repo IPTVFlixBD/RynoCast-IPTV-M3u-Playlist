@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-07-15 19:18:17
+# Generated: 2026-07-16 07:56:50
 # Expires: 2026-07-24
 # Family Safe Edition
 # ==============================================
@@ -6732,9 +6732,9 @@ http://tvmate.icu:8080/movie/VM121628/56784321/267041.mp4
 http://tvmate.icu:8080/movie/VM121628/56784321/267042.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h51c4ZeOaWNO5oSQALOtNRHQD4r.jpg" group-title="Movies | 2025 MOVIES",Bare Skin (2025)
 http://tvmate.icu:8080/movie/VM121628/56784321/327086.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Blowie (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZsGuwDeaB1gQKesiCoNQG0nI8D.jpg" group-title="Movies | 2025 MOVIES",Blowie (2025)
 http://tvmate.icu:8080/movie/VM121628/56784321/327149.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | 2025 MOVIES",Dr. Q (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hsuPESbBxISQioxwFJTy8ocod2t.jpg" group-title="Movies | 2025 MOVIES",Dr. Q (2026)
 http://tvmate.icu:8080/movie/VM121628/56784321/327150.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EnPGJAFYMxyspJn6UwdOpqqwb8.jpg" group-title="Movies | 2025 MOVIES",Amorosa (2025)
 http://tvmate.icu:8080/movie/VM121628/56784321/318359.mp4
@@ -6757,7 +6757,7 @@ http://tvmate.icu:8080/movie/VM121628/56784321/321606.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17VU3cN3apSe7KyIWexBkBvEcOc.jpg" group-title="Movies | 2025 MOVIES",Pizza Under Fire (2025)
 http://tvmate.icu:8080/movie/VM121628/56784321/321608.mp4
 
-# --- Movies | 2026 Movies (362) ---
+# --- Movies | 2026 Movies (363) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://tvmate.icu:8080/movie/VM121628/56784321/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7482,6 +7482,8 @@ http://tvmate.icu:8080/movie/VM121628/56784321/327136.mp4
 http://tvmate.icu:8080/movie/VM121628/56784321/327138.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" group-title="Movies | 2026 Movies",The Furious (2026)
 http://tvmate.icu:8080/movie/VM121628/56784321/327153.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" group-title="Movies | 2026 Movies",Backrooms (2026)
+http://tvmate.icu:8080/movie/VM121628/56784321/327269.mkv
 
 # --- Movies | Action Movies (1644) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -60333,4 +60335,4 @@ http://tvmate.icu:8080/series/VM121628/56784321/2379
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Real Housewives of Atlanta
 http://tvmate.icu:8080/series/VM121628/56784321/2380
 
-# Total: 30083
+# Total: 30084

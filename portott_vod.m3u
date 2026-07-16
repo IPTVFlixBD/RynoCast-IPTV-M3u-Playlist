@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-15 19:20:35
+# Generated: 2026-07-16 07:52:43
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13749,7 +13749,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3812) ---
+# --- Movies | SRS - NEW ADDED [EN] (3814) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Lucky (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33859.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Ride or Die (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33858.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Sentenced to Be a Hero (2026) (JP)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33839.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Five Star Weekend (2026) (US)
@@ -112799,4 +112803,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56288
+# Total: 56290

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-15 19:20:35
+# Generated: 2026-07-16 07:52:43
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -2273,13 +2273,9 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/262194.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/expnatyra.png" group-title="|ALB| DOCUMENTARY",ALB - X NATYRA UHD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/262183.m3u8
 
-# --- |ALB| GENERAL (38) ---
+# --- |ALB| GENERAL (36) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIA.png" group-title="|ALB| GENERAL",##### GENERAL #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/261932.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ALBANIA/FERMAVIP.png" group-title="|ALB| GENERAL",ALB - FERMA VIP 1
-http://portott.com/live/c4c24c0217/c4b2e86278c6/1377040.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ALBANIA/FERMAVIP.png" group-title="|ALB| GENERAL",ALB - FERMA VIP 2
-http://portott.com/live/c4c24c0217/c4b2e86278c6/1377041.m3u8
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topchannel.png" group-title="|ALB| GENERAL",ALB - TOP CHANNEL 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/261954.m3u8
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topchannel.png" group-title="|ALB| GENERAL",ALB - TOP CHANNEL UHD
@@ -6128,13 +6124,13 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/556871.m3u8
 # --- |AR| BAHRAIN (10) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAINLOGOS.png" group-title="|AR| BAHRAIN",##### BAHRAIN TV #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756576.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAIN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN QURAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAINQURAN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN QURAN
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756573.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAIN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAINTV.png" group-title="|AR| BAHRAIN",AR - BAHRAIN TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756568.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAIN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN INTERNATIONAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAININTERNATIONAL.png" group-title="|AR| BAHRAIN",AR - BAHRAIN INTERNATIONAL
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756570.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAIN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN LAWAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAINLAWAL.png" group-title="|AR| BAHRAIN",AR - BAHRAIN LAWAL
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756569.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/LUALUA.png" group-title="|AR| BAHRAIN",AR - LUALUA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642523.m3u8
@@ -6142,9 +6138,9 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/642523.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756575.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALITTIHAD.png" group-title="|AR| BAHRAIN",AR - AL ITTIHAD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756574.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAIN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN SPORT 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAINSPORT1.png" group-title="|AR| BAHRAIN",AR - BAHRAIN SPORT 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756571.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAIN.png" group-title="|AR| BAHRAIN",AR - BAHRAIN SPORT 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/BAHRAINSPORT2.png" group-title="|AR| BAHRAIN",AR - BAHRAIN SPORT 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756572.m3u8
 
 # --- |AR| BEIN ENTERTAINMENT (25) ---
@@ -10090,27 +10086,27 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/765052.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/765051.m3u8
 
 # --- |AR| SUDAN (26) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SUDAN.png" group-title="|AR| SUDAN",##### SD - SUDAN #####
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDAN.png" group-title="|AR| SUDAN",##### SD - SUDAN #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/756853.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-CHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310703.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDANIA24.png" group-title="|AR| SUDAN",SD - SUDANIA 24 SD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310694.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/KHARTOUM%20.png" group-title="|AR| SUDAN",SD - KHARTOUM TV HD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/KHARTOUM.png" group-title="|AR| SUDAN",SD - KHARTOUM TV HD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310702.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/KASSALATV.png" group-title="|AR| SUDAN",SD - KASSALA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/KASSALA.png" group-title="|AR| SUDAN",SD - KASSALA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310701.m3u8
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/redsea.png" group-title="|AR| SUDAN",SD - RED SEA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/REDSEA.png" group-title="|AR| SUDAN",SD - RED SEA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310708.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AL-SHAMALIA.png" group-title="|AR| SUDAN",SD - AL SHAMALIA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALSHAMALIA.png" group-title="|AR| SUDAN",SD - AL SHAMALIA
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310707.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/tayba.png" group-title="|AR| SUDAN",SD - TAYBA SUDAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/TAYBASUDAN.png" group-title="|AR| SUDAN",SD - TAYBA SUDAN
 http://portott.com/live/c4c24c0217/c4b2e86278c6/620298.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/sudanknowledge.png" group-title="|AR| SUDAN",SD - SUDAN KNOWLEDGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANKNOWLEDGE.png" group-title="|AR| SUDAN",SD - SUDAN KNOWLEDGE
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310705.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-BUKRA.png" group-title="|AR| SUDAN",SD - SUDAN BUKRA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANBUKRA.png" group-title="|AR| SUDAN",SD - SUDAN BUKRA
 http://portott.com/live/c4c24c0217/c4b2e86278c6/683178.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-DRAMA.png" group-title="|AR| SUDAN",SD - SUDAN DRAMA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANDRAMA.png" group-title="|AR| SUDAN",SD - SUDAN DRAMA
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310704.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ssbc.png" group-title="|AR| SUDAN",SD - SSBC SUDAN
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310698.m3u8
@@ -10122,25 +10118,25 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/310695.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310693.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-MUSIC.png" group-title="|AR| SUDAN",SD - SUDAN MUSIC
 http://portott.com/live/c4c24c0217/c4b2e86278c6/310692.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/HOOOSH%20TV.png" group-title="|AR| SUDAN",SD - HOOOSH TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/HOOOSH.png" group-title="|AR| SUDAN",SD - HOOOSH TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642524.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-CHINGUIT.png" group-title="|AR| SUDAN",SD - DABANGO SUDAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - DABANGO SUDAN
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642525.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-CHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN CHINGUIT TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN CHINGUIT TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642781.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-CHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN DAVA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN DAVA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642780.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-EL-WATANIA.png" group-title="|AR| SUDAN",SD - SUDAN EL WATANIA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN EL WATANIA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642779.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/SUDAN-CHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN MEDINA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN MEDINA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642778.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/TDM-PROMOTIONAL.png" group-title="|AR| SUDAN",SD - TDM PROMOTIONAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/TDMPROMOTIONAL.png" group-title="|AR| SUDAN",SD - TDM PROMOTIONAL
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642777.m3u8
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/ashorooqtv.png" group-title="|AR| SUDAN",SD - SUDAN ASHOROOQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANASHOROOQ.png" group-title="|AR| SUDAN",SD - SUDAN ASHOROOQ
 http://portott.com/live/c4c24c0217/c4b2e86278c6/702143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| SUDAN",SD - ALZARGA TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALZARGA.png" group-title="|AR| SUDAN",SD - ALZARGA TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1361481.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/SUDAN-NOOR.png" group-title="|AR| SUDAN",SD - SUDAN NOOR TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="|AR| SUDAN",SD - SUDAN NOOR TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/642776.m3u8
 
 # --- |AR| SYRIA (21) ---
@@ -25096,11 +25092,11 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | TOUR DE FRANCE | Wed 15 Jul 13:44 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR DE FRANCE | Thu 16 Jul 13:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MULTIVIEW  | Wed 15 Jul 14:05 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MULTIVIEW  | Thu 16 Jul 13:40 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307814.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | CORALES PUNTACANA CHAMPIONSHIP | DAY 1 | Thu 16 Jul 18:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307813.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307812.m3u8
@@ -37264,11 +37260,11 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | TOUR DE FRANCE | 11. ETAP | Wed 15 Jul 13:44 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR DE FRANCE | 12. ETAP | Thu 16 Jul 13:15 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | TOUR DE FRANCE | 11. ETAP | MULTIVIEW | Wed 15 Jul 14:05 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR DE FRANCE | 12. ETAP | MULTIVIEW | Thu 16 Jul 13:40 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168964.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | CORALES CHAMPIONSHIP | 1. DZIEŃ | Thu 16 Jul 18:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168963.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168962.m3u8
@@ -42509,4 +42505,4 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/828028.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/828027.m3u8
 
-# Total: 20899
+# Total: 20897

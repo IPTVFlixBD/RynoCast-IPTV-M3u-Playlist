@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-15 19:22:05
+# Generated: 2026-07-16 07:52:03
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -171,7 +171,7 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/792.m3u8
 #EXTINF:-1 tvg-logo="https://www.embracerelief.org/wp-content/uploads/2025/01/ramadan-2025-logo.png" group-title="ALGERIE",Ramdan M3akoum TV
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/15176.m3u8
 
-# --- ARABE (143) ---
+# --- ARABE (144) ---
 #EXTINF:-1 tvg-logo="" group-title="ARABE",======MOURITANYIA======
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/2466.m3u8
 #EXTINF:-1 tvg-logo="http://183.81.169.72:8089/Mouritania.png" group-title="ARABE",El.Mouritanya.TV1
@@ -390,6 +390,8 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/332.m3u8
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABE",Arabica
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/1214.m3u8
+#EXTINF:-1 tvg-logo="https://iazi5gkjrvag.merlincdn.net/content/Y/EF/23404/logo_50.png?v=638472232042998883" group-title="ARABE",OMAN
+http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/29331.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARABE",MasperoZaman
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/1215.m3u8
 #EXTINF:-1 tvg-logo="https://app.toober.com/storage/channels/logos/Royatv.png" group-title="ARABE",Roya TV
@@ -2607,4 +2609,4 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/19453.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="Thmanayh Sports",Goal-Zone
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/2771.m3u8
 
-# Total: 1253
+# Total: 1254
