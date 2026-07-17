@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-16 19:24:40
+# Generated: 2026-07-17 07:56:27
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1203,7 +1203,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1662) ---
+# --- Movies | Films (1665) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg" group-title="Movies | Films",Police Flash 80 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29340.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg" group-title="Movies | Films",Night Patrol (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29339.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg" group-title="Movies | Films",Kissing Is the Easy Part (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29338.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg" group-title="Movies | Films",The Furious (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29317.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oeaKqM10h6OLS6JuPj6JEdQipUC.jpg" group-title="Movies | Films",Escobank (2025)
@@ -6845,7 +6851,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (194) ---
+# --- Movies | prime video (195) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tv1eO5lCZ8mIEqAuDmuHI4LkCzV.jpg" group-title="Movies | prime video",Marave (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29154.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg" group-title="Movies | prime video",Permis de Conduire (2026)
@@ -7234,6 +7240,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1185.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1230.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Totems
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1239.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Ride or Die
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1242.mp4
 
 # --- Series | Series Algerienne (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Algerienne",أولاد الحلال
@@ -7661,7 +7669,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/356
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Tunisienne",2024 - نهار على عمار
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/371
 
-# --- Series | Series Turk (74) ---
+# --- Series | Series Turk (75) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",نهضة السلاجقة العظمى
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/67
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",الخياط
@@ -7810,6 +7818,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1212
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1220
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مدبلج Muhtemel Aşk - احتمال حب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
 # --- Series | Series divers (324) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
@@ -8461,4 +8471,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1234
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Prisoner
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1240
 
-# Total: 4197
+# Total: 4202
