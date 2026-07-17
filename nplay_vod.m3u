@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nplay.tel:2095
-# Generated: 2026-07-17 07:55:53
+# Generated: 2026-07-17 19:21:00
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
@@ -8257,7 +8257,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/91160.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3J8XDd1MmwfWlUFktdw313otVbR.jpg" group-title="Movies | Astrid Lindgren",Alla vi barn i Bullerbyn [SE] [Multi-Sub] [1986]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/91086.mkv
 
-# --- Movies | Barn (524) ---
+# --- Movies | Barn (525) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",The Snoopy Show
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/1186.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",The Wonderful World of Mickey Mouse
@@ -8268,6 +8268,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/5017.mp4
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/6830.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",The Thundermans: Undercover
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/7633.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Barn",Kulipari: Dream Walker
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",Toffelhjältarna
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22491.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",Pingu in the City
@@ -21523,7 +21525,9 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Arabic-Sub]",Peaky Blinders [AR]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2855.mp4
 
-# --- Movies | English [Multi-Sub] (4420) ---
+# --- Movies | English [Multi-Sub] (4421) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",NASA's Unexplained Files
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22630.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Betrayal (2026)
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Hawk
@@ -40353,7 +40357,21 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399797.mkv
 
-# --- Movies | N1 Sports Events Replays (307) ---
+# --- Movies | N1 Sports Events Replays (313) ---
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/997/440/logo_F2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.05 Spa.Francorchamps  Formel 2 7.17  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484584.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.10 The Open. Featured Groups 2  Golf Major 7.17  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484557.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.45 The Open. Multiview  Golf Major 7.17  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484556.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.45 The Open. Featured Groups 1  Golf Major 7.17  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484555.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",08.30 The Open. Live at the Range  Golf Major 7.17  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484554.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",07.30 The Open. Huvudsändning  Golf Major 7.17  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484553.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.00 Phillies . Mets  Major League Baseball 7.16  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2483899.mkv
 #EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F3b469126-0c67-40b4-8ba6-f1122f76dea1%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",21.00 Croatia Open (250). kvartsfinal ATP Tour 7.16  TV4 Play
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2483872.mkv
 #EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="Movies | N1 Sports Events Replays",21.25 Sportnytt 7.16  SVT Play
@@ -40860,8 +40878,6 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2479667.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2479279.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",03.00 Invägning. McGregor vs Holloway  UFC 7.11  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2479274.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/311/692/logo_GTWorldChallenge.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.25 GT World Challenge Asia  GT World Challenge 7.10  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2479271.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",11.55 Denis Shapovalov . Pablo Carreño Busta tennis FHD 6.29  HBO Max SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2461340.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/1003/296/logo_F3.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",08.35 Spielberg  Formel 3 6.28  Viaplay SE
@@ -40969,7 +40985,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2309912.mkv
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e2720206-3698-436a-a739-9c5374903c2e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202602261355" group-title="Movies | N1 Sports Events Replays",13.15 Cognizant Classic in The Palm Beaches. Main Feed (Third Round) 2.28
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2309905.mkv
 
-# --- Movies | Nordic (1253) ---
+# --- Movies | Nordic (1257) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Helikopterrånet
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Alex
@@ -43314,6 +43330,14 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/20999.mp4
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21022.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Den gode stemning - Secrets
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22113.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",All the Sins
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22636.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Oppdrag M/S Bjørvika
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22635.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Drapet i Holmenkollen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22633.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Delete Me
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22631.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Fiskedestination
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22596.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",King Karavan
@@ -78741,4 +78765,4 @@ http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/497
 #EXTINF:-1 tvg-logo="" group-title="Series | Turkish Series [ مسلسلات تركية مترجمة ]",İçerde
 http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/556
 
-# Total: 39309
+# Total: 39321

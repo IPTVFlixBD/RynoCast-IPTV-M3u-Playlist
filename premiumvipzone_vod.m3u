@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-07-17 08:06:02
+# Generated: 2026-07-17 19:10:52
 # Expires: 2026-08-13
 # Family Safe Edition
 # ==============================================
@@ -2495,7 +2495,9 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/1371.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Anime",Yasuke (2021)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/1298.mp4
 
-# --- Movies | Seriale Comedie (540) ---
+# --- Movies | Seriale Comedie (541) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Comedie",The Hawk (2026)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4970.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Comedie",Super Subbu (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4963.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Comedie",Elle (2026)
@@ -4685,11 +4687,15 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/1708.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Documentare",Worst Roommate Ever (2022)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/969.mp4
 
-# --- Movies | Seriale Drama/Crime (1431) ---
+# --- Movies | Seriale Drama/Crime (1433) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Drama/Crime",The Tribute (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4908.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Drama/Crime",Run Away (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4341.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Drama/Crime",The Map of Longing (2026)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4972.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Drama/Crime",Lucky (2026)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4971.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Drama/Crime",TAGUSARI bros. (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4968.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Drama/Crime",Notes from the Last Row (2026)
@@ -9023,9 +9029,11 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/473.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Romanesti",Vlad (2019)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/85.mp4
 
-# --- Movies | Seriale Sci-Fi & Fantasy (348) ---
+# --- Movies | Seriale Sci-Fi & Fantasy (349) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",Dominion (2014)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4517.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",The East Palace (2026)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4969.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",Human Vapor (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4962.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",Battlestar Galactica (2004)
@@ -108535,4 +108543,4 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/221948.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GQ3k3KmG0LI8Z4uCcGAsGQn6Ky.jpg" group-title="Movies | ⚡Films⚡Spain⚡",Últimas noticias en Yuba County (2021) ES
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/221949.mkv
 
-# Total: 54139
+# Total: 54143

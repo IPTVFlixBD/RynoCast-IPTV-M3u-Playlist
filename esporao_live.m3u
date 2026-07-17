@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: esporao.mine.nu:21921
-# Generated: 2026-07-17 08:01:51
+# Generated: 2026-07-17 19:19:51
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
 
 
-# --- CINEMA (35) ---
+# --- CINEMA (36) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizi-us.png" group-title="CINEMA",DIZI
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/8672.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies-us.png" group-title="CINEMA",MY TIME
@@ -78,6 +78,8 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/20986.m3u8
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/5533.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nos-studios-pt.png" group-title="CINEMA",NOS STUDIOS HD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/6984.m3u8
+#EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-xs.gif" group-title="CINEMA",TOP MOVIES
+http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35472.m3u8
 
 # --- CULTURA (20) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_parlamento_por.png" group-title="CULTURA",ARTV
@@ -287,7 +289,7 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35346.m3u8
 #EXTINF:-1 tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/f0c9d0da-1a1b-4059-b4aa-f236702b7db5.png" group-title="NOTICIAS",NOW HD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35347.m3u8
 
-# --- TEMATICOS (30) ---
+# --- TEMATICOS (29) ---
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-mulher-hd-xs.gif" group-title="TEMATICOS",SIC MULHER HD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/7253.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-mulher-hd-xs.gif" group-title="TEMATICOS",SIC MULHER
@@ -346,7 +348,5 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/34415.m3u8
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35470.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-xs.gif" group-title="TEMATICOS",SIC REPLAY
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35471.m3u8
-#EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-xs.gif" group-title="TEMATICOS",TVI AFRICA
-http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35472.m3u8
 
 # Total: 163

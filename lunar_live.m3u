@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-07-17 07:54:00
+# Generated: 2026-07-17 19:11:52
 # Expires: 2026-08-10
 # Family Safe Edition
 # ==============================================
@@ -11557,7 +11557,7 @@ http://lunar.pm:8080/live/Stephanie/time44/100366.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="USA News",CNN HD
 http://lunar.pm:8080/live/Stephanie/time44/104092.m3u8
 
-# --- USA Sports (66) ---
+# --- USA Sports (64) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports",Altitude Sports
 http://lunar.pm:8080/live/Stephanie/time44/109824.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports",Altitude Sports 2
@@ -11600,8 +11600,6 @@ http://lunar.pm:8080/live/Stephanie/time44/9558.m3u8
 http://lunar.pm:8080/live/Stephanie/time44/9557.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsplus.png" group-title="USA Sports",FOX SOCCER PLUS
 http://lunar.pm:8080/live/Stephanie/time44/9551.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/gol-tv-us.png" group-title="USA Sports",Gol TV
-http://lunar.pm:8080/live/Stephanie/time44/66605.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/marquee-sports-network-us.png" group-title="USA Sports",Marquee Sports Network
 http://lunar.pm:8080/live/Stephanie/time44/95736.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mav-tv-us.png" group-title="USA Sports",Mav TV HD
@@ -11646,8 +11644,6 @@ http://lunar.pm:8080/live/Stephanie/time44/9549.m3u8
 http://lunar.pm:8080/live/Stephanie/time44/26630.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/SECNetwork.us.png" group-title="USA Sports",SEC NETWORK
 http://lunar.pm:8080/live/Stephanie/time44/44845.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/sssen.png" group-title="USA Sports",Silver State Sports (SSSEN)
-http://lunar.pm:8080/live/Stephanie/time44/131357.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/spectrum-sportsnet-la-us.png" group-title="USA Sports",Spectrum Sportsnet LA (Dodgers)
 http://lunar.pm:8080/live/Stephanie/time44/109804.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/spectrum-sportsnet-us.png" group-title="USA Sports",Spectrum SportsNet (Lakers)
@@ -11919,4 +11915,4 @@ http://lunar.pm:8080/live/Stephanie/time44/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Stephanie/time44/120491.m3u8
 
-# Total: 5877
+# Total: 5875

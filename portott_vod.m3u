@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-17 07:53:45
+# Generated: 2026-07-17 19:20:07
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -2947,7 +2947,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22178.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTAL [ES]",ES - Kingdom of Dreams
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22365.mp4
 
-# --- Movies | SRS - DOCUMENTARY [EN] (182) ---
+# --- Movies | SRS - DOCUMENTARY [EN] (183) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTARY [EN]",EN - World War II with Tom Hanks (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33869.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTARY [EN]",EN - How The Nazis Lost The War (2021) (AU)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33666.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - DOCUMENTARY [EN]",EN - Rafa (2026) (US)
@@ -13749,7 +13751,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3814) ---
+# --- Movies | SRS - NEW ADDED [EN] (3816) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Dark (2026) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33871.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Hawk (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33870.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Lucky (2026) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33859.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Ride or Die (2026) (US)
@@ -112847,4 +112853,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56312
+# Total: 56315
