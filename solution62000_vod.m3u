@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-18 19:00:38
+# Generated: 2026-07-19 19:00:24
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -773,7 +773,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5222.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg" group-title="Movies | Dessins Animés",La Famille Delajungle, le film - 2002
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7191.mkv
 
-# --- Movies | Disney+ (82) ---
+# --- Movies | Disney+ (83) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg" group-title="Movies | Disney+",Descendants : La Malédiction du Pays des Merveilles (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29377.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tkILExgVXhNLoxy4KNgCk9PC4lU.jpg" group-title="Movies | Disney+",Tron: Ares (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21316.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wd4sdRTSCfcKnJSFWR5iMIQExd4.jpg" group-title="Movies | Disney+",Freaky Friday 2 : Encore dans la peau de ma mère (2025)
@@ -1203,7 +1205,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1665) ---
+# --- Movies | Films (1667) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TPo1gsNCswrgyxrqdGN44OmPuH.jpg" group-title="Movies | Films",Les rayons et les ombres (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29376.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zngPhsBOrE6gEDWmBvutzYsKZ1E.jpg" group-title="Movies | Films",Sans pitié (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29375.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg" group-title="Movies | Films",Police Flash 80 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29340.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg" group-title="Movies | Films",Night Patrol (2026)
@@ -5501,7 +5507,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (500) ---
+# --- Movies | NETFLIX (504) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg" group-title="Movies | NETFLIX",23 000 vies (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29378.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9FsSrhV4OM8dyyGR9dLF6auddW2.jpg" group-title="Movies | NETFLIX",Jusqu'au bout (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29153.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ao22xjPx81Fmv3gbZTMEZ2YzTXK.jpg" group-title="Movies | NETFLIX",Les Mariées d'Adam (2025)
@@ -6502,6 +6510,12 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1228.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1232.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",La Petite Maison dans la prairie
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1237.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Motorvalley
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1244.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les Enfants de plomb
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1245.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Le Palais de l'Est
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1247.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7821,7 +7835,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (324) ---
+# --- Series | Series divers (325) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8470,5 +8484,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1229
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1234
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Prisoner
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1240
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Hawk
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1246
 
-# Total: 4202
+# Total: 4210
