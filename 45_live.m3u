@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-07-18 18:56:00
+# Generated: 2026-07-19 07:54:32
 # Expires: 2027-07-13
 # Family Safe Edition
 # ==============================================
@@ -152,13 +152,13 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2125790.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125789.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lumsden/Tang vs. Jiang/Wu | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125788.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chile vs. Georgia | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125787.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Watkins Glen | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125786.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Uruguay vs. Hong Kong China | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125785.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Faith Fest 250 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125784.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Saratoga Live | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125783.m3u8
@@ -200,7 +200,7 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2125763.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125757.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Belgium: Qualifying (Sky Sports) | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125756.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | 2026 Predator European Championships: Slovenia | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 19:07 (GMT) | 2026 Predator European Championships: Slovenia | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125755.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | RWS: Chiabkard vs. Narak | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125754.m3u8
@@ -1161,11 +1161,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351423.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/College%20Baseball.png" group-title="College Baseball US",College Baseball 15 :
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351424.m3u8
 
-# --- DR Sport DK (2) ---
+# --- DR Sport DK (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/DR_logo.png" group-title="DR Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2433705.m3u8
-#EXTINF:-1 tvg-logo="https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='611236'&Width=1920&Height=1080&ImageId='80108302'" group-title="DR Sport DK",23:00 FIFA VM 2026: Frankrig - England, bronzekamp 7/18 [DR Sport]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485084.m3u8
 
 # --- Denmark (216) ---
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flags-circle-3d/100/Denmark-128.png" group-title="Denmark",-= Denmark =-
@@ -1787,77 +1785,15 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2160773.m3u8
 #EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL36ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2160774.m3u8
 
-# --- ESPN+ Events US (40) ---
+# --- ESPN+ Events US (9) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/2yb4OEL.png" group-title="ESPN+ Events US",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/101275.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="ESPN+ Events US",UFC Fight Pass 24/7 FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/101217.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ce22adc4-2850-46dc-9342-d05785518a3f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607171939" group-title="ESPN+ Events US",10:00 AM EDT Washington, DC vs. Toms River, NJ 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485617.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3ed48e5b-ce92-474c-9d42-faac57f06b65/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",10:00 AM EDT Logan, WV vs. Warner Robins, GA 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485616.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e934fa04-8d64-47b5-8d12-cc02ca3d91cf/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",10:00 AM EDT Elmhurst, IL vs. Wheelersburg, OH 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485615.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3aa76d1a-c4de-498a-a657-d0fa16dc9f0f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162201" group-title="ESPN+ Events US",11:00 AM EDT Inez, TX vs. Helotes, TX 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485614.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a69a8427-4bb1-4b4f-bb26-2453fe09a7f5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162209" group-title="ESPN+ Events US",12:00 PM EDT Las Vegas, NV vs. Sahuarita, AZ 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485613.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4513917b-d560-43e3-9029-bf187809c87f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",1:00 PM EDT Johnston, IA 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485612.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d700fa02-4792-4ec0-8253-3cf96f9ba8b3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162156" group-title="ESPN+ Events US",1:00 PM EDT Minersville, PA vs. Massapequa, NY 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485611.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bc0a2e83-0998-4904-ba6d-8bfeeb79d440/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",1:00 PM EDT Lebanon, TN vs. Mountain Brook, AL 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485610.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6d8f5223-e69a-456f-a2c8-3ce689dd4642/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",2:00 PM EDT 2026 World Matchplay (First Round) 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485609.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fafc13ed-1bb2-42f0-8afd-29e70098eb8a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162155" group-title="ESPN+ Events US",2:00 PM EDT Carlsbad, NM vs. Kenner, LA 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485608.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8c07f7a7-ed7c-40f4-8331-4bce05e84870/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162155" group-title="ESPN+ Events US",3:00 PM EDT Monument, CO vs. Soldotna, AK 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485606.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3351b1a3-8052-4828-935b-220b0fcc2e7e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162154" group-title="ESPN+ Events US",4:00 PM EDT Gorham, ME vs. Worcester, MA 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485605.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/630447f3-26df-4a61-bc39-fd85dcd10f2f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:00 PM EDT Taylors, SC vs. Lake Mary, FL 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485604.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b768912e-c9ec-40d8-afd1-c0fbb6ab6477/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:00 PM EDT Appleton, WI vs. St. Clair, MI 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485603.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8c9f2878-7af1-4e65-bcce-d60a0330b7a1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607151655" group-title="ESPN+ Events US",4:30 PM EDT Utah Archers vs. Philadelphia Waterdogs 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485602.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ebbf95ae-a825-409b-9dd8-0447da82fbc7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202606101851" group-title="ESPN+ Events US",5:30 PM EDT PFL Austin (Prelims) 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485601.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e512ec11-08e7-4063-b74b-89bd7207ffec/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202606101853" group-title="ESPN+ Events US",5:30 PM EDT En Español - PFL Austin (Prelims) 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485600.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/68822ccc-a408-43ea-9df3-c096f787ddab/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162154" group-title="ESPN+ Events US",6:00 PM EDT Live Oak, CA vs. San Marino, CA 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485599.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6bb5e153-3c4f-4b1c-97fb-822ddc7a5592/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607092046" group-title="ESPN+ Events US",6:30 PM EDT Martha's Vineyard Sharks vs. North Adams SteepleCATS 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485597.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6ef197e1-bc08-49d1-bc88-5c787205451e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152245" group-title="ESPN+ Events US",7:00 PM EDT Detroit City FC vs. Indy Eleven 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485596.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b104516b-ca99-41ac-a4c8-3effbefa9e62/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152248" group-title="ESPN+ Events US",7:00 PM EDT Union Omaha vs. Westchester SC 7/18
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485595.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b13613c9-9508-4ef2-9d3d-26bbf325a01c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",7:00 PM EDT Sat, 7/18 - ESPN FC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485594.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/41780d51-8212-454b-af5f-9883fd7e91cb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",7:00 PM EDT Winterville, NC vs. Yorktown, VA 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485593.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8163240e-9944-434d-bd14-c2e058d15978/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152245" group-title="ESPN+ Events US",7:00 PM EDT New York Cosmos vs. Corpus Christi FC 7/18
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485592.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1c9d5c1a-0548-4a86-8120-3f48cb755789/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152245" group-title="ESPN+ Events US",7:00 PM EDT Sporting Club Jacksonville vs. Brooklyn FC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485591.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/12b3eaf9-fe33-43de-a740-ead693fbbb78/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152246" group-title="ESPN+ Events US",7:00 PM EDT Richmond Kickers vs. Spokane Velocity FC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485590.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7913de0d-1195-46d0-aebb-285661ea5f2b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152246" group-title="ESPN+ Events US",7:00 PM EDT Charlotte Independence vs. Chattanooga Red Wolves SC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485589.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ba51821f-9912-41f2-ae30-bc7f00bdf463/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",7:00 PM EDT Omaha, NE vs. Columbia, MO 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485588.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2d53aa1e-2d06-48b0-ab10-636c5a54297a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152245" group-title="ESPN+ Events US",7:00 PM EDT Loudoun United FC vs. Tampa Bay Rowdies 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485587.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5a864787-0426-46e0-a116-a5089fe3b7e9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152247" group-title="ESPN+ Events US",7:30 PM EDT Rhode Island FC vs. Hartford Athletic 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485586.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/173dcb8c-d84d-4db9-be78-d4b29682fda5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152246" group-title="ESPN+ Events US",7:30 PM EDT Charleston Battery vs. Sacramento Republic FC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485585.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cad78609-6044-4607-9e33-bdd22cc2c268/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152247" group-title="ESPN+ Events US",7:30 PM EDT One Knoxville SC vs. AV Alta FC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485584.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a963dbcd-6bd2-4326-9ece-805c53b69ab1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607162153" group-title="ESPN+ Events US",8:00 PM EDT Concord, NH vs. St. Albans, VT 7/19
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485583.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7b3c3801-c297-4e8c-bfcc-8fe2f8500ed7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152248" group-title="ESPN+ Events US",8:30 PM EDT FC Tulsa vs. El Paso Locomotive FC 7/19
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485582.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/178ccc94-bf48-4ef3-9dc3-b67b55695089/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607152248" group-title="ESPN+ Events US",9:00 PM EDT San Antonio FC vs. Las Vegas Lights FC 7/19
@@ -2231,105 +2167,35 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2114417.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/6/221/full/kbzgpcg1efl3ckze0a40g8jjs.png" group-title="Entertainment US",WGN 9 Chicago US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2114418.m3u8
 
-# --- FOX One US (49) ---
+# --- FOX One US (14) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjgBXxP8SzLTDegn56CwdKAqIYkbBDY_ca7-VfOsYcA&s" group-title="FOX One US",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2484847.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16376211/9monq0n5ic6ihtdq.jpg" group-title="FOX One US",6:00 AM EDT AFL Premiership Football - West Coast Eagles vs Brisbane Lions 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485146.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8485742/6wrmn258nftgwpwk.jpg" group-title="FOX One US",8:30 AM EDT B1G Plus Encore - Wrestling: Wisconsin at Purdue 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485143.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8747179/s68ksrqdrmldm6os.jpg" group-title="FOX One US",9:00 AM EDT American Flat Track - DuQuoin Mile 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485142.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1297776/09scgy8gnmc0s8xt.png" group-title="FOX One US",9:30 AM EDT PTO Highlights 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485141.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1073055/worv9yzhzwx1awtw.jpg" group-title="FOX One US",10:00 AM EDT IndyCar Practice - Nashville 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485140.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1315837/7i7u68eriagbschc.jpg" group-title="FOX One US",10:30 AM EDT France vs Morocco 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485139.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-15365057/iasfghylvpu081ci.jpg" group-title="FOX One US",10:30 AM EDT Wisconsin Football Classic - Guaranteed Rate Bowl: Wisconsin vs. Oklahoma State 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485138.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16281337/qer6oailm0s26zib.jpg" group-title="FOX One US",11:00 AM EDT 2nd Annual Wienie 500 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485137.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-12485663/5qcih8iv53emtgdq.jpg" group-title="FOX One US",11:30 AM EDT IndyCar NXT Practice - Nashville 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485136.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-15201353/531bri9cbucezuoa.jpg" group-title="FOX One US",11:30 AM EDT Wisconsin Football Classic - Rose Bowl: Wisconsin vs. Stanford 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485135.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1318980/ir803rl8w97iw08j.jpg" group-title="FOX One US",12:00 PM EDT The Basketball Tournament 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485134.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1070846/wjp5cmw0s61y3bfj.jpg" group-title="FOX One US",12:30 PM EDT NCTS Racing - North Wilkesboro 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485133.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9646634/oabgqa537c2v4fct.jpg" group-title="FOX One US",12:30 PM EDT Saratoga Live 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485132.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1246853/jato2v7mk5fz5qx2.jpg" group-title="FOX One US",12:30 PM EDT B1G Softball - Quarterfinal #3: Wisconsin vs. Oregon 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485131.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319596/atnctp2ohr7n29th.png" group-title="FOX One US",1:00 PM EDT Bare Knuckle Fighting Championship 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485130.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1303687/n0ns04tvf1m8s2kz.jpg" group-title="FOX One US",1:00 PM EDT Liga MX - FC Juárez v Club Puebla 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485129.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9646634/oabgqa537c2v4fct.jpg" group-title="FOX One US",2:00 PM EDT Fox Saratoga Saturday: The Diana Stakes 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485128.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1313882/422ujjvc7ogl2gpn.jpg" group-title="FOX One US",2:00 PM EDT Mexico vs England 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485127.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-13084931/cydj8mzsy3zjqzyt.jpg" group-title="FOX One US",2:30 PM EDT Wisconsin Hockey Classic - 2024 WCHA Championship: Wisconsin vs. Ohio State 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485126.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1073075/fxnv2usrkftyj5hz.jpg" group-title="FOX One US",3:00 PM EDT IndyCar Qualifications - Nashville 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485125.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9646634/oabgqa537c2v4fct.jpg" group-title="FOX One US",3:00 PM EDT Saratoga Live 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485124.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-12474464/n5yu8xfdzl40jtzi.jpg" group-title="FOX One US",4:00 PM EDT NHRA Pro Mod Series - Norwalk 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485123.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-12486704/rc58e0b40t1s2skw.jpg" group-title="FOX One US",4:30 PM EDT IndyCar NXT Qualifications - Nashville 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485122.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319004/v9wvf137fo98w283.jpg" group-title="FOX One US",5:00 PM EDT WC - France vs. England 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485121.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8582528/25561pn21aa08ui8.jpg" group-title="FOX One US",5:00 PM EDT Wisconsin Basketball Classic - 2004 Men's B1G Championship: Wisconsin vs. Illinois 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485120.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1156434/l5spjr67e70hwtrb.jpg" group-title="FOX One US",5:00 PM EDT MLS en Español - LA Galaxy v Los Angeles Football Club 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485119.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-12301645/1rm803ylaq86wlua.jpg" group-title="FOX One US",5:30 PM EDT STIHL Timbersports - Individual World Championship 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485118.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1073055/worv9yzhzwx1awtw.jpg" group-title="FOX One US",6:00 PM EDT IndyCar Practice - Nashville 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485117.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9646634/oabgqa537c2v4fct.jpg" group-title="FOX One US",6:00 PM EDT Saratoga Live 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485116.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8582528/25561pn21aa08ui8.jpg" group-title="FOX One US",6:00 PM EDT Wisconsin Basketball Classic - 2008 B1G Championship: Wisconsin vs. Illinois 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485115.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1073055/worv9yzhzwx1awtw.jpg" group-title="FOX One US",7:00 PM EDT IndyCar Practice - Nashville 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485114.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1149038/qez8hkiyg1vpgwwd.jpg" group-title="FOX One US",7:00 PM EDT The PokerStars Big Game on Tour - Episode 4 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485113.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1137021/9sz0hnaieyqij4ah.jpg" group-title="FOX One US",7:00 PM EDT Wisconsin Volleyball Classic - Wisconsin at Nebraska 7/18 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485112.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16308453/7185jlaj89n72qq1.jpg" group-title="FOX One US",8:00 PM EDT MLB - Los Angeles Dodgers vs. New York Yankees 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485111.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9681633/qwjr9cjgh9hdssp4.jpg" group-title="FOX One US",8:00 PM EDT NHRA - Pro Stock Motorcycle All-Star Callout 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485110.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1318980/ir803rl8w97iw08j.jpg" group-title="FOX One US",8:00 PM EDT The Basketball Tournament 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485109.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8582602/2b1nhbuc3rl2lij6.jpg" group-title="FOX One US",8:00 PM EDT Wisconsin Volleyball Classic - Wisconsin at Penn State 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485108.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1153288/26czg5zwkghltw9z.jpg" group-title="FOX One US",8:00 PM EDT MLB en Español - Yankees vs Dodgers 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485107.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16308471/y3v6gb0o7x6s3moz.jpg" group-title="FOX One US",8:00 PM EDT MLB - San Francisco Giants vs. Seattle Mariners 7/19 [FOX One]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486066.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319811/a0pht8dqvyksgu6o.jpg" group-title="FOX One US",8:00 PM EDT The Basketball Tournament - Louisville Alumni vs Kentucky Alumni 7/19 [FOX One]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486064.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319004/v9wvf137fo98w283.jpg" group-title="FOX One US",9:00 PM EDT Bronze Final: France vs England 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485106.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486061.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-14606678/nu5i4mlau00778pt.jpg" group-title="FOX One US",9:00 PM EDT Wisconsin Football Classic - Michigan at Wisconsin 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485105.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486060.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-11778512/3cvelhwy1twakqqm.jpg" group-title="FOX One US",9:00 PM EDT Liga MX - Club Necaxa v Atlante FC 7/19 [FOX One]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486059.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8747179/s68ksrqdrmldm6os.jpg" group-title="FOX One US",10:00 PM EDT American Flat Track - DuQuoin Mile 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485104.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486058.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16376670/95uc1efrrfsumwlr.jpg" group-title="FOX One US",11:00 PM EDT AFL Premiership Football - Richmond vs Hawthorn 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485103.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486057.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1073055/worv9yzhzwx1awtw.jpg" group-title="FOX One US",11:00 PM EDT IndyCar Practice - Nashville 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485102.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486056.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1050576/gvhidotl9kl9urbs.jpg" group-title="FOX One US",11:00 PM EDT B1G Men's Ice Hockey - Wisconsin at Minnesota 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485101.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486055.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-13707551/s3s861em1gjxofkg.jpg" group-title="FOX One US",11:00 PM EDT Chivas En Fox Deportes - Chivas de Guadalajara v Toluca FC 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485100.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16308453/7185jlaj89n72qq1.jpg" group-title="FOX One US",12:00 AM EDT Dodgers at Yankees 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485099.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486054.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16308471/y3v6gb0o7x6s3moz.jpg" group-title="FOX One US",12:00 AM EDT Giants at Mariners 7/19 [FOX One]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486053.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-13185458/dtdnbhaok3hrq5ve.jpg" group-title="FOX One US",1:00 AM EDT B1G Men's Soccer - Championship: Indiana vs. Wisconsin 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485098.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486052.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-12474464/n5yu8xfdzl40jtzi.jpg" group-title="FOX One US",2:00 AM EDT NHRA Pro Mod Series - Norwalk 7/19 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485097.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486051.m3u8
 
 # --- Family & Kids US (22) ---
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Family & Kids US",Nickelodeon US
@@ -2889,40 +2755,32 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351516.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/6GDGuR.md.png" group-title="HBO Max Original US",HBOMax Original 17
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351517.m3u8
 
-# --- HBO Max Sports DK (6) ---
+# --- HBO Max Sports DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8p4Es/_1BHEW3jO3qoPaY9w.png?f=webp&w=400" group-title="HBO Max Sports DK",13:00 Tour de France cykling FHD 7/18 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2484886.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="HBO Max Sports DK",13:30 Tour de France | Multiview cykling FHD 7/18 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2484885.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8vBls/1knAohlQIYkOi5FqA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 BSB | Præsentation superbike FHD 7/18 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2484884.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5vW6Z/_lcLWqDG5oTj0AQXA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Corales Puntacana Championship | Dag 3 golf FHD 7/18 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2484883.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/E8FoN/nL4DKpaHxUyplrD1A.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",03:50 VM | Dag 2  bmx FHD 7/19 [HBO Max DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2484882.m3u8
 
 # --- HBO Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | TOUR DE FRANCE | Sat 18 Jul 13:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | VM | DAG 2  | Sun 19 Jul 03:50 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Susanne1/susanne1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | TOUR DE FRANCE | MULTIVIEW | Sat 18 Jul 13:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | IULIAN BOIKO - PHIL O'KANE | Sun 19 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Susanne1/susanne1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | BSB | PRÆSENTATION | Sat 18 Jul 13:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LIAM PULLEN - HAOHUI DENG | Sun 19 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Susanne1/susanne1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | CORALES PUNTACANA CHAMPIONSHIP | DAG 3 | Sat 18 Jul 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | OLIVER SYKES - ANDREW HIGGINSON | Sun 19 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Susanne1/susanne1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JIANG JUN - PANCHAYA CHANNOI | Sun 19 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Susanne1/susanne1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOUR DE FRANCE | Sun 19 Jul 13:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Susanne1/susanne1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOUR DE FRANCE | MULTIVIEW | Sun 19 Jul 13:20 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Susanne1/susanne1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | VM | MX2 | LØB 1 | Sun 19 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Susanne1/susanne1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | BSB | PRÆSENTATION | Sun 19 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Susanne1/susanne1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | GLOBAL CHAMPIONS TOUR | SPRING | Sun 19 Jul 14:52 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Susanne1/susanne1/987417.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Susanne1/susanne1/987418.m3u8
@@ -3618,75 +3476,75 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2125860.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125861.m3u8
 #EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 05: WRC History: Best of Rally Kenya
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125862.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 05 | Rally TV Live [18.07 11:45]: Top 10 Heartbreaking Moments
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 05 | Rally TV Live [19.07 01:08]: SS20 Full Stage Replay | Delfi Rally Estonia 2025
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125863.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 06 | Rally TV Live [18.07 11:55]: Preview Clip | Delfi Rally Estonia 2026
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 06 | Rally TV Live [19.07 02:38]: Preview Magazine | Delfi Rally Estonia 2026
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125864.m3u8
 #EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 07 | WRC 2026: WRC Secto Rally Finland 2026 (Jyväskylä, Finland) | 30 Jul - 02 Aug 2026 [Upcoming]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125865.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 08 | WRC 2026: WRC Rally Estonia 2026 - SS 12 Kambja 1 & Studio [LIVE]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 08 | WRC 2026: WRC Rally Estonia 2026 - SS 16 Tartu Vald & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125866.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 09 | WRC 2026: WRC Rally Estonia 2026 - SS 11 Mustvee 2 [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 09 | WRC 2026: WRC Rally Estonia 2026 - SS 15 Otepää 2 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125867.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 10 | WRC 2026: WRC Rally Estonia 2026 - SS 10 Peipsiääre 2 & Studio [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 10 | WRC 2026: WRC Rally Estonia 2026 - SS 14 Kambja 2 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125868.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 11 | WRC 2026: WRC Rally Estonia 2026 - SS 9 Mustvee 1 [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 11 | WRC 2026: WRC Rally Estonia 2026 - SS 13 Otepää 1 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125869.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 12 | WRC 2026: WRC Rally Estonia 2026 - SS 8 Peipsiääre 1 & Studio [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 12 | WRC 2026: WRC Rally Estonia 2026 - SS 12 Kambja 1 & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125870.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 13 | WRC 2026: WRC Rally Estonia 2026 - SS 7 Elva linn & Raadi Service Park [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 13 | WRC 2026: WRC Rally Estonia 2026 - SS 11 Mustvee 2 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125871.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 14 | WRC 2026: WRC Rally Estonia 2026 - SS 6 Kanepi 2 [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 14 | WRC 2026: WRC Rally Estonia 2026 - SS 10 Peipsiääre 2 & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125872.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 15 | WRC 2026: WRC Rally Estonia 2026 - SS 5 Karaski 2 & Studio [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 15 | WRC 2026: WRC Rally Estonia 2026 - SS 9 Mustvee 1 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125873.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 16 | WRC 2026: WRC Rally Estonia 2026 - SS 4 Raanitsa 2 & Studio/Report [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 16 | WRC 2026: WRC Rally Estonia 2026 - SS 8 Peipsiääre 1 & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125874.m3u8
-#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 17 | WRC 2026: WRC Rally Estonia 2026 - SS 3 Kanepi 1 [Replay available]
+#EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 17 | WRC 2026: WRC Rally Estonia 2026 - SS 7 Elva linn & Raadi Service Park [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125875.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 18 | WRC 2026: WRC Rally Estonia 2026 - SS 2 Karaski 1 & Studio [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 18 | WRC 2026: WRC Rally Estonia 2026 - SS 6 Kanepi 2 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125876.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 19 | WRC 2026: WRC Rally Estonia 2026 - SS 1 Raanitsa 1 & Studio [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 19 | WRC 2026: WRC Rally Estonia 2026 - SS 5 Karaski 2 & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125877.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 20 | WRC 2026: WRC Rally Estonia 2026 - Shakedown [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 20 | WRC 2026: WRC Rally Estonia 2026 - SS 4 Raanitsa 2 & Studio/Report [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125878.m3u8
-#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 21 | WRC 2026: WRC Rally Estonia 2026 - Opening Ceremony & Ceremonial Start from Tartu [Replay available]
+#EXTINF:-1 tvg-logo="https://daddyserver.com/resize.php?max=42&url=https://xplatinmedia.com/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MotoGP | Racing",RallyTV 21 | WRC 2026: WRC Rally Estonia 2026 - SS 3 Kanepi 1 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 22 | ERC: ERC Rally di Roma Capitale 2026 - Wrap Up Show [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 22 | WRC 2026: WRC Rally Estonia 2026 - SS 2 Karaski 1 & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 23 | ERC: ERC Rally di Roma Capitale 2026 - SS 11 Canterano - Gerano 2 (Power Stage) [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 23 | WRC 2026: WRC Rally Estonia 2026 - SS 1 Raanitsa 1 & Studio [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 24 | ERC: ERC Rally di Roma Capitale 2026 - SS 10 Monastero - Monte Livata 2 [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 24 | WRC 2026: WRC Rally Estonia 2026 - Shakedown [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 25 | ERC: ERC Rally di Roma Capitale 2026 - SS 9 Canterano - Gerano 1 [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 25 | WRC 2026: WRC Rally Estonia 2026 - Opening Ceremony & Ceremonial Start from Tartu [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 26 | ERC: ERC Rally di Roma Capitale 2026 - SS 8 Monastero - Monte Livata 1 [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 26 | ERC: ERC Rally di Roma Capitale 2026 - Wrap Up Show [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 27 | ERC: ERC Rally di Roma Capitale 2026 - SS 7 Colle di Tora - Poggio Moiano 2 [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 27 | ERC: ERC Rally di Roma Capitale 2026 - SS 11 Canterano - Gerano 2 (Power Stage) [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125885.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 28 | ERC: ERC Rally di Roma Capitale 2026 - SS 6 Piana di Rascino 2 & Catch Up [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 28 | ERC: ERC Rally di Roma Capitale 2026 - SS 10 Monastero - Monte Livata 2 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 29 | ERC: ERC Rally di Roma Capitale 2026 - SS 5 Vallecupola 2 & Catch Up [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 29 | ERC: ERC Rally di Roma Capitale 2026 - SS 9 Canterano - Gerano 1 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 30 | ERC: ERC Rally di Roma Capitale 2026 - SS 4 Colle di Tora - Poggio Moiano 1 [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 30 | ERC: ERC Rally di Roma Capitale 2026 - SS 8 Monastero - Monte Livata 1 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 31 | ERC: ERC Rally di Roma Capitale 2026 - SS 3 Piana di Rascino 1 & Catch Up [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 31 | ERC: ERC Rally di Roma Capitale 2026 - SS 7 Colle di Tora - Poggio Moiano 2 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 32 | ERC: ERC Rally di Roma Capitale 2026 - SS 2 Vallecupola 1 & Catch Up [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 32 | ERC: ERC Rally di Roma Capitale 2026 - SS 6 Piana di Rascino 2 & Catch Up [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 33 | ERC: ERC Rally di Roma Capitale 2026 - SS 1 Coloseo ACI Roma [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 33 | ERC: ERC Rally di Roma Capitale 2026 - SS 5 Vallecupola 2 & Catch Up [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 34 | ERC: ERC Rally di Roma Capitale 2026 - Welcome to ERC Rally di Roma Capitale [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 34 | ERC: ERC Rally di Roma Capitale 2026 - SS 4 Colle di Tora - Poggio Moiano 1 [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125892.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 35 | ERC: ERC Rally di Roma Capitale 2026 - Qualifying Stage [Replay available]
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 35 | ERC: ERC Rally di Roma Capitale 2026 - SS 3 Piana di Rascino 1 & Catch Up [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125893.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 36 | No Event
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 36 | ERC: ERC Rally di Roma Capitale 2026 - SS 2 Vallecupola 1 & Catch Up [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125894.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 37 | No Event
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 37 | ERC: ERC Rally di Roma Capitale 2026 - SS 1 Coloseo ACI Roma [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125895.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 38 | No Event
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 38 | ERC: ERC Rally di Roma Capitale 2026 - Welcome to ERC Rally di Roma Capitale [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 39 | No Event
+#EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 39 | ERC: ERC Rally di Roma Capitale 2026 - Qualifying Stage [Replay available]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MotoGP | Racing",RallyTV 40 | No Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125898.m3u8
@@ -6697,42 +6555,18 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2131473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",USA PPV59:
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131474.m3u8
 
-# --- Paramount+ Original US (18) ---
+# --- Paramount+ Original US (6) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/250px-Paramount_Plus.svg.png" group-title="Paramount+ Original US",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2380061.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/0fcc19de-12be-47fd-95c7-6dd0cfb1ad29/WRJWC_THMB_26_Georgia_Main_Fiji_Main_1kiy6.jpg?format=webp" group-title="Paramount+ Original US",9:50 AM EDT Georgia vs. Fiji World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485182.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/70ce8f8b-b44f-49ae-aec3-78bf589a486c/WRJWC_THMB_26_NewZealand_Main_England_Main_n0cxw.jpg?format=webp" group-title="Paramount+ Original US",9:50 AM EDT New Zealand vs. England World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485180.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/43e57bbe-8df2-47e3-8d3a-ed67c129de05/WRNC_THMB_26_Samoa_Main_Romania_Main_7cdqi.jpg?format=webp" group-title="Paramount+ Original US",10:20 AM EDT Samoa vs. Romania World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485178.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/eaab73b9-adf2-4f46-8746-194d3ebfea5a/SPFL_PSCUP_THMB_26_Aberdeen_FC_Main_QueensPark_FC_Main_nyxe9.jpg?format=webp" group-title="Paramount+ Original US",11:55 AM EDT Aberdeen vs. Queen's Park Scottish Professional Football League 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485176.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/f6c05a30-c57f-4c92-9b03-de3c6894dd3b/WRJWC_THMB_26_Italy_Main_Ireland_Main_a5khu.jpg?format=webp" group-title="Paramount+ Original US",12:20 PM EDT Italy vs. Ireland World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485174.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/d560da30-0e27-45fc-860c-54da0d4f4bbc/WRJWC_THMB_26_France_Main_SouthAfrica_Main_eyisk.jpg?format=webp" group-title="Paramount+ Original US",12:20 PM EDT France vs. South Africa World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485172.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/cc34e61b-cfa7-4622-a149-678cc77d829c/WRNC_THMB_26_Uruguay_Main_HongKongChina_Main_xc8e3.jpg?format=webp" group-title="Paramount+ Original US",12:50 PM EDT Uruguay vs. Hong Kong China World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485171.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/98a1927e-0757-4bbe-ae59-2b3bdebcf10f/WRNC_THMB_26_Chile_Main_Georgia_Alt_klebo.jpg?format=webp" group-title="Paramount+ Original US",12:50 PM EDT Chile vs. Georgia World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485170.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/a9e143ef-84ad-4e9c-80d3-8f2f2ed03821/ZUFFA-Generic-2026-THMB-US-Main_b74gt.jpg?format=webp" group-title="Paramount+ Original US",1:15 PM EDT Zuffa Boxing Media Day Zuffa Boxing 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485169.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/32785358-765c-4716-92b0-78f2873790e3/SPFL_PSCUP_THMB_26_DundeeUnited_FC_Main_Arbroath_FC_Main_s1ro3.jpg?format=webp" group-title="Paramount+ Original US",1:55 PM EDT Dundee United vs. Arbroath Scottish Professional Football League 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485168.m3u8
+#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/16ec6756-7f0a-4d16-886a-f09ec0f31fd7/UFC-FightNight-Generic-2026-THMB-Main-Esp_mtifs.jpg?format=webp" group-title="Paramount+ Original US",4:00 PM EDT UFC Fight Night en Español UFC 7/18
+http://45.139.122.199:8080/live/Susanne1/susanne1/2485165.m3u8
 #EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/9a47ea0a-9768-4e4e-826c-58e0e4518b37/UFC-FightNight-Generic-2026-THMB-Main_NOVERBIAGE_jy9rw.jpg?format=webp" group-title="Paramount+ Original US",4:00 PM EDT UFC Fight Night: English UFC 7/18
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485167.m3u8
 #EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/b442ce0e-9391-4550-befb-535c6a244edd/UFC-FightNight-Generic-2026-THMB-Main-Port_ts40p.jpg?format=webp" group-title="Paramount+ Original US",4:00 PM EDT UFC Fight Night em Português UFC 7/18
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485166.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/16ec6756-7f0a-4d16-886a-f09ec0f31fd7/UFC-FightNight-Generic-2026-THMB-Main-Esp_mtifs.jpg?format=webp" group-title="Paramount+ Original US",4:00 PM EDT UFC Fight Night en Español UFC 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485165.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/449fd2bf-c995-4daf-bea1-46d8f9b28922/WRNC_THMB_26_Tonga_Main_Portugal_Main_7t934.jpg?format=webp" group-title="Paramount+ Original US",4:35 PM EDT Tonga vs. Portugal World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485164.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/3f5a6160-bdac-4ace-b40e-d3ad21a798a5/WRNC_THMB_26_USA_Main_Spain_Alt_tocqj.jpg?format=webp" group-title="Paramount+ Original US",7:20 PM EDT USA Eagles vs. Spain World Rugby 7/18
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485163.m3u8
 #EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/782d8793-dc1c-414a-afe0-6648f1345f6c/UFC-FightNight-Generic-2026-THMB-Multi-Cam_95rfx.jpg?format=webp" group-title="Paramount+ Original US",8:00 PM EDT UFC Fight Night: Multiview UFC 7/19
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485162.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/455ba7e0-1fc2-4562-98b4-ba9893f5efdf/WRNC_THMB_26_Canada_Main_Zimbabwe_Main_2gew3.jpg?format=webp" group-title="Paramount+ Original US",8:50 PM EDT Canada vs. Zimbabwe World Rugby 7/19
+#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/2c207f44-397d-46c3-bf87-bbe7a77d08e6/WRNC_THMB_26_Canada_Main_Zimbabwe_Main_2gew3.jpg?format=webp" group-title="Paramount+ Original US",8:10 PM EDT Canada vs. Zimbabwe World Rugby 7/19
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485161.m3u8
 
 # --- Peacock / DAZN US (44) ---
@@ -6825,13 +6659,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160451.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  19
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160452.m3u8
 
-# --- Prime Sports DK (4) ---
+# --- Prime Sports DK (2) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6437063-3bf5-4fa8-b58d-e6e15c1d24a9/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",09:00 Jul 18 - PTT Skopje [Amazon Prime DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2484934.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.784eff1b-7c00-4da7-bf30-3925769893d8/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",15:00 Jul 18 - PTT Knoxville [Amazon Prime DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2484933.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eda63909-bafe-427b-8b5d-3c3470e41db1/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",23:30 Jul 18 - PTT Newport Beach [Amazon Prime DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2484932.m3u8
 
@@ -7289,35 +7119,13 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2251847.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/WDAY-TV_2021.svg/200px-WDAY-TV_2021.svg.png" group-title="Sports US",WDAY FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2251811.m3u8
 
-# --- TV2 Sport DK (14) ---
+# --- TV2 Sport DK (3) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/527426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/31ca3ca3-2a7d-39b9-af7f-b98425e68031.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 ATP: Gstaad  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485312.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/eb34942c-c183-338f-847c-62bc2a9ff881.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",12:30 Tour de France: 14. etape  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485311.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/50ce6bef-b17e-35c1-af23-d37ccfa641ec.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2159&w=1200" group-title="TV2 Sport DK",13:00 ATP: Vallejo-Darderi, semifinale, Båstad  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485310.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/e189b32f-e2ea-3b4f-b89e-876c379762fe.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",13:05 Tour de France: 14. etape - uden afbrydelser  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485692.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/dfa643b5-5bb3-3b85-9f67-80232946f842.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",15:00 Atletik: Diamond League, London  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485308.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/5a48134c-0afc-3ef8-9cd3-3be1b888133e.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2159&w=1200" group-title="TV2 Sport DK",15:00 ATP: Rublev-Tabilo, semifinale, Båstad  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485307.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/3aa53532-2405-3f52-8bea-2b354e45b35f.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",15:55 WTA: Semifinaler, Iasi  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485306.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/87bcb810-28bf-3c39-bf1f-c0d07391e039.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2159&w=1200" group-title="TV2 Sport DK",18:30 WTA: Sakkari-Korneeva, semifinale, Athen  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485305.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/c7a62bc2-b31b-3e97-b602-c32670ef9b08.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",18:55 ATP: Finale, Umag  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485304.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/923c56d3-d143-3502-8cb1-1c9ed32a2c6f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2159&w=1200" group-title="TV2 Sport DK",20:00 WTA: Tauson-Krejcikova, semifinale, Athen  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485303.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/0deaf204-b94b-308d-a16b-0a0a34a0a2e4.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",21:00 AftenTour  7/18 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485302.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/2ad134b0-de29-3a6d-95cc-fc64b199c07f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",03:45 Cykling: VM i BMX, finaler  7/19 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485300.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486122.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/eeb97bf9-c53e-3994-afdb-64267a6bbba3.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",04:00 Badminton: Finaler, Japan Open  7/19 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485301.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486147.m3u8
 
 # --- Tennis Channel Plus US (99) ---
 #EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 01) |  ATP: Collignon_ Raphael _ Cerundolo_ Juan Manuel (2026-07-18 09:00:00)
@@ -8215,63 +8023,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2121934.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="United States",YES Network US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2121935.m3u8
 
-# --- Viaplay Sport DK (31) ---
+# --- Viaplay Sport DK (4) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Viaplay Sport DK",11:00 The Open | Golf Major 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485424.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Viaplay Sport DK",11:15 Featured Groups 1 | Golf Major 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485422.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Viaplay Sport DK",11:30 Featured Groups 2 | Golf Major 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485420.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Viaplay Sport DK",11:45 Multiview | Golf Major 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485419.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/218/32/logo_Viaplay.png?width=320&height=320" group-title="Viaplay Sport DK",13:00 FishOMania | Fiske 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485411.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Viaplay Sport DK",13:20 Player Focus Feed (Rory McIlroy) | Golf Major 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485410.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/997/440/logo_F2.png?width=320&height=320" group-title="Viaplay Sport DK",14:10 Spa-Francorchamps | Formel 2 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485409.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/488/296/Logo_FerrariChallengeEurope.png?width=320&height=320" group-title="Viaplay Sport DK",14:30 Portimao | Ferrari Challenge Europe 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485408.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/394/964/logo_E1_Series.png?width=320&height=320" group-title="Viaplay Sport DK",14:55 E1 Monaco GP | E1 Series 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485407.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",15:30 Belgiens Grand Prix | Formel 1 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485406.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/488/296/Logo_FerrariChallengeEurope.png?width=320&height=320" group-title="Viaplay Sport DK",15:40 Portimao | Ferrari Challenge Europe 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485405.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 [4k] Belgien Grand Prix | Formel 1 UHD 2160p 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485404.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Borchetta Bourbon Music City Grand Prix | IndyCar 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485403.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Timing | Formel 1 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485402.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Onboard | Formel 1 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485401.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Track Positioning | Formel 1 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485400.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Pitlane | Formel 1 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485399.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/260/244/logo_F4.png?width=320&height=320" group-title="Viaplay Sport DK",16:20 Le Castellet | Formula 4 Italian Championship 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485398.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/311/692/logo_GTWorldChallenge.png?width=320&height=320" group-title="Viaplay Sport DK",17:20 GT4 Europe | GT World Challenge 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485397.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Viaplay Sport DK",17:30 Music City Grand Prix | Indy NXT 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485396.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 Cubs - Twins | Major League Baseball 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485395.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 World Matchplay | PDC Darts 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485394.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/311/692/logo_GTWorldChallenge.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 GT World Challenge Europe | GT World Challenge 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485393.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Viaplay Sport DK",21:00 Borchetta Bourbon Music City Grand Prix | IndyCar 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485392.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Viaplay Sport DK",22:30 Music City Grand Prix | Indy NXT 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485391.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Viaplay Sport DK",00:00 Borchetta Bourbon Music City Grand Prix | IndyCar 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485390.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Borchetta Bourbon Music City Grand Prix | IndyCar 7/18 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485389.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/577/592/logo_UFC__840941.png?width=320&height=320" group-title="Viaplay Sport DK",02:00 Du Plessis vs Usman | UFC 7/19 [Viaplay DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2485388.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",02:00 Mariners - Giants | Major League Baseball 7/19 [Viaplay DK]
@@ -8453,27 +8207,19 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351602.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",:WNBA  15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351603.m3u8
 
-# --- World Cup DK (2) ---
+# --- World Cup DK (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/2026_FIFA_World_Cup_emblem.png" group-title="World Cup DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2439314.m3u8
-#EXTINF:-1 tvg-logo="https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='611236'&Width=1920&Height=1080&ImageId='80108302'" group-title="World Cup DK",23:00 FIFA VM 2026: Frankrig - England, bronzekamp 7/18 [DR Sport]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485081.m3u8
 
-# --- World Cup EN (7) ---
+# --- World Cup EN (4) ---
 #EXTINF:-1 tvg-logo="" group-title="World Cup EN",World Cup 2 UHD/4K
 http://45.139.122.199:8080/live/Susanne1/susanne1/2439592.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Cup EN",World Cup 1 UHD/4K
 http://45.139.122.199:8080/live/Susanne1/susanne1/2439591.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/2026_FIFA_World_Cup_emblem.png" group-title="World Cup EN",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2433670.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1315837/7i7u68eriagbschc.jpg" group-title="World Cup EN",3:30 PM BST France vs Morocco 18/07 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485093.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1313882/422ujjvc7ogl2gpn.jpg" group-title="World Cup EN",7:00 PM BST Mexico vs England 18/07 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485092.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319004/v9wvf137fo98w283.jpg" group-title="World Cup EN",10:00 PM BST WC - France vs. England 18/07 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485091.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319004/v9wvf137fo98w283.jpg" group-title="World Cup EN",2:00 AM BST Bronze Final: France vs England 19/07 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2485090.m3u8
+http://45.139.122.199:8080/live/Susanne1/susanne1/2486045.m3u8
 
 # --- World Football Events (97) ---
 #EXTINF:-1 tvg-logo="" group-title="World Football Events",-= GMT LONDON TIMEZONE =-
@@ -8504,55 +8250,55 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835432.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835433.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="World Football Events",Bundesliga 10ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835434.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 01ⓧ: Friendly, Match | FC Groningen vs. AEK Athens | Saturday, 18 July 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 01ⓧ: Russia, FNL | FK KAMAZ Naberezhnye Chelny vs. FK Nizhny Novgorod | Sunday, 19 July 2026 14:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835436.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 02ⓧ: Norway, Eliteserien | HamKam vs. Tromso IL | Saturday, 18 July 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 02ⓧ: Romania, Liga I | Universitatea Cluj-Napoca vs. FC Farul Constanta | Sunday, 19 July 2026 15:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835437.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 03ⓧ: Sweden, Allsvenskan | AIK Stockholm vs. GAIS | Saturday, 18 July 2026 14:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 03ⓧ: Friendly, Match | MKS Cracovia Krakow vs. Sevilla FC | Sunday, 19 July 2026 15:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835438.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 04ⓧ: Friendly, Match | FC Basel 1893 vs. Juventus Turin | Saturday, 18 July 2026 14:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 04ⓧ: Sweden, Allsvenskan | IF Elfsborg vs. IK Sirius Fotboll | Sunday, 19 July 2026 15:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835439.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 05ⓧ: Friendly, Match | Ajax Amsterdam vs. Olympiakos Piraeus | Saturday, 18 July 2026 14:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 05ⓧ: Sweden, Allsvenskan | Halmstads BK vs. BK Hacken | Sunday, 19 July 2026 15:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835440.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 06ⓧ: Friendly, Match | Sportfreunde Lotte vs. Real Betis Seville | Saturday, 18 July 2026 14:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 06ⓧ: Sweden, Allsvenskan | Hammarby IF vs. Degerfors IF | Sunday, 19 July 2026 15:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835441.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 07ⓧ: Norway, Eliteserien | Lillestrom SK vs. KFUM Oslo | Saturday, 18 July 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 07ⓧ: Russia, FNL | Torpedo Moscow vs. FK Volga Ulyanovsk | Sunday, 19 July 2026 16:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835442.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 08ⓧ: Friendly, Match | Celtic Glasgow vs. Middlesbrough FC | Saturday, 18 July 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 08ⓧ: Slovenia, PrvaLiga | NK Aluminij Kidricevo vs. NK Maribor | Sunday, 19 July 2026 17:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835443.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 09ⓧ: Sweden, Superettan | Osters IF vs. IK Brage | Saturday, 18 July 2026 16:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 09ⓧ: Friendly, Match | NK Rudes Zagreb vs. FC Shakhtar Donetsk | Sunday, 19 July 2026 17:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835444.m3u8
 #EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 10ⓧ: Poland, Ekstraklasa | RKS Radomiak Radom vs. Wisla Plock | Monday, 27 October 2025 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835445.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 11ⓧ: Friendly, Match | SC Rot-Weiß Oberhausen 1904 vs. Borussia Dortmund | Saturday, 18 July 2026 16:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 11ⓧ: Bulgaria, First Professional League | POFC Botev Vratsa vs. PFC Cherno More Varna | Sunday, 19 July 2026 17:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835446.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 12ⓧ: Romania, Liga I | ASC Otelul Galati vs. SCS CFR 1907 Cluj | Saturday, 18 July 2026 16:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 12ⓧ: Serbia, Superliga | FK Vojvodina Novi Sad vs. OFK Belgrade | Sunday, 19 July 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835447.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 13ⓧ: Bulgaria, First Professional League | FK Septemvri Sofia vs. FC Arda Kardzhali | Saturday, 18 July 2026 17:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 13ⓧ: Serbia, Superliga | FK Radnik Surdulica vs. FK Mladost Lucani | Sunday, 19 July 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835448.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 14ⓧ: Scotland, League Cup, Group A | Aberdeen FC vs. Queen's Park FC | Saturday, 18 July 2026 17:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 14ⓧ: Serbia, Superliga | FK Cukaricki Belgrade vs. FK IMT Novi Belgrade | Sunday, 19 July 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835449.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 15ⓧ: Slovenia, PrvaLiga | NK Radomlje vs. NK Brinje Grosuplje | Saturday, 18 July 2026 17:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 15ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835450.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 16ⓧ: Friendly, Match | NK Osijek vs. Budapest Honved FC | Saturday, 18 July 2026 17:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 16ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835451.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 17ⓧ: Russia, Super Cup | FK Zenit Saint Petersburg vs. Spartak Moscow | Saturday, 18 July 2026 17:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 17ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835452.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 18ⓧ: Friendly, Match | SK Rapid Wien vs. Hamburger SV | Saturday, 18 July 2026 18:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 18ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835453.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 19ⓧ: Scotland, League Cup, Group B | Dundee United FC vs. Arbroath FC | Saturday, 18 July 2026 19:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 19ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835454.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 20ⓧ: Serbia, Superliga | FK Novi Pazar vs. FK Radnicki 1923 Kragujevac | Saturday, 18 July 2026 19:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 20ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835455.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 21ⓧ: Serbia, Superliga | FK Zemun vs. FK Partizan Belgrade | Saturday, 18 July 2026 19:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 21ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835456.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 22ⓧ: Romania, Liga I | CS Universitatea Craiova 1948 vs. FC UTA Arad | Saturday, 18 July 2026 19:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 22ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835457.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 23ⓧ: Bulgaria, First Professional League | PFC Ludogorets 1945 Razgrad vs. PFC Lokomotiv Plovdiv | Saturday, 18 July 2026 19:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 23ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835458.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 24ⓧ: Slovenia, PrvaLiga | Olimpija Ljubljana vs. Bravo Ljubljana | Saturday, 18 July 2026 19:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 24ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835459.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 25ⓧ: Friendly, Match | SC Braga vs. RC Celta de Vigo | Saturday, 18 July 2026 19:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 25ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835460.m3u8
 #EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 26ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835461.m3u8
@@ -8671,4 +8417,4 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835487.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="World Football Events",USA | MLS 14ⓧ: LA Galaxy vs New York City | Sun 22nd Feb 7:00PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835488.m3u8
 
-# Total: 4255
+# Total: 4128

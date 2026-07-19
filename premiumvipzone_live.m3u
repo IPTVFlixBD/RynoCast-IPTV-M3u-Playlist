@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-07-18 19:01:33
+# Generated: 2026-07-19 07:58:21
 # Expires: 2026-08-13
 # Family Safe Edition
 # ==============================================
@@ -4923,7 +4923,13 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/261961.m3u8
 #EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/Sky_Sport_Bundesliga_2022.png" group-title="Deutsch - SKY BUNDESLIGA",DE: Sky Sport Bundesliga RAW《 C 》
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/261990.m3u8
 
-# --- Deutsch - SPORT (211) ---
+# --- Deutsch - SPORT (214) ---
+#EXTINF:-1 tvg-logo="" group-title="Deutsch - SPORT",FUSSBALL TV 3 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/311370.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/vDOkhG0" group-title="Deutsch - SPORT",FUSSBALL TV 2 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/311369.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/FEPwo3a" group-title="Deutsch - SPORT",FUSSBALL TV 1 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/311368.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLmK1sVx/0108-B68-D-B0-D0-4-BC2-8-CFC-02-BAA32-D6-C4-D.png" group-title="Deutsch - SPORT",SportEurope CHL | Event 1
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/262578.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLmK1sVx/0108-B68-D-B0-D0-4-BC2-8-CFC-02-BAA32-D6-C4-D.png" group-title="Deutsch - SPORT",SportEurope CHL | Event 2
@@ -16427,4 +16433,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/178059.m3u8
 #EXTINF:-1 tvg-logo="https://mctapi.com/image.php?type=live&id=cb_bbc_bandit" group-title="Unknown",bbc_bandit
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177689.m3u8
 
-# Total: 8087
+# Total: 8090
