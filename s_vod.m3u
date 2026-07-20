@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-07-19 19:04:53
+# Generated: 2026-07-20 19:50:24
 # Expires: 2027-02-05
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Action (3944) ---
+# --- Movies | Action (3942) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYpqpA7BsDHeyAGs9AAEPhZmbck.jpg" group-title="Movies | Action",1: Nenokkadine (2014)
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/740315.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | Action",6 Underground (2019)
@@ -3864,8 +3864,6 @@ http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1153195.mp4
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1153213.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg" group-title="Movies | Action",Black Hawk Down (2001)
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1153214.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jbsxbn8m0UjrLzwUMtw9u72E9d.jpg" group-title="Movies | Action",Body Armour (2007)
-http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1153241.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg" group-title="Movies | Action",Brahmāstra Part One: Shiva (2022)
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1153263.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akweo95FGyDpucYVT81h0SbX8Ky.jpg" group-title="Movies | Action",Brothers (2024)
@@ -7586,8 +7584,6 @@ http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1435633.mkv
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1436497.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39daqfOgnLjz9alwcNkZAGEbUry.jpg" group-title="Movies | Action",Brawl in Cell Block 99 (2017)
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1437457.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jbsxbn8m0UjrLzwUMtw9u72E9d.jpg" group-title="Movies | Action",Body Armour (2007)
-http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/1437799.avi
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Blindspot (2015)
 http://s.rocketdns.info:8080/movie/Lowblowmusic/6322468/74.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Hawaii Five-0 (2010)
@@ -121297,4 +121293,4 @@ http://s.rocketdns.info:8080/series/Lowblowmusic/6322468/12094
 #EXTINF:-1 tvg-logo="" group-title="Series | LATIN SERIES",El Juego de las llaves (2019)
 http://s.rocketdns.info:8080/series/Lowblowmusic/6322468/12390
 
-# Total: 60599
+# Total: 60597

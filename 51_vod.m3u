@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-19 19:04:07
+# Generated: 2026-07-20 19:58:55
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4644) ---
+# --- Movies | DE | CINEMA VOD (4646) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1QRMN8Mgci1Z121zFp3PwcEIwW.jpg" group-title="Movies | DE | CINEMA VOD",Vaiana (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186425.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9spiPWSJytIjzXQSlgDtUMy1Ab.jpg" group-title="Movies | DE | CINEMA VOD",Sketch (2025) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186424.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nmmVSdTgQnJ5WuoPfXUpmep0cM.jpg" group-title="Movies | DE | CINEMA VOD",Anacondas - Der Fluch des Schlangengottes (2025) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186411.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKE2xPJs87V9DbDmoo8igAsDeH1.jpg" group-title="Movies | DE | CINEMA VOD",Captain Hook: The Cursed Tides (2025) DE
@@ -10877,7 +10881,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/167426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMa1w0AGkLdpoPsMh0bDAvS44ZO.jpg" group-title="Movies | DE | CINEMA VOD",The Wailing - Der Tod hat viele Gesichter (2024) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/167427.mkv
 
-# --- Movies | DE | KINDER CINEMA VOD (271) ---
+# --- Movies | DE | KINDER CINEMA VOD (272) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spJJCe4rntGxu9YXDEw2r5hz5oq.jpg" group-title="Movies | DE | KINDER CINEMA VOD",The Night Before Christmas in Wonderland (2024) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/170346.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QuuyFdtuAIes24WGWxldVtq4Ho.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Die Heinzels – Neue Mützen, neue Mission (2024) DE
@@ -11420,6 +11424,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/152563.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/109429.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42Hw0UiFkMIYFzLbxSUcylyfhDF.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Unten am Fluss (1978) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/113634.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jtBUoqgOSElz1v5QahkrWCYXm1.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Minions & Monster (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186423.mkv
 
 # --- Movies | DE | KLASSIKER FILME VOD (1716) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txZ2GumdS8bEtdW1cO8dmBLGsek.jpg" group-title="Movies | DE | KLASSIKER FILME VOD",Largo Winch - Tödliches Erbe (2008) DE
@@ -42101,4 +42107,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20980
+# Total: 20983

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-07-19 18:59:08
+# Generated: 2026-07-20 19:50:39
 # Expires: 2026-08-13
 # Family Safe Edition
 # ==============================================
@@ -869,7 +869,9 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/182754.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BovHGhGJSKwWRlm2bjShDBTzUX.jpg" group-title="Movies | Netflix Movies Multilanguage",Wish Dragon (2021) Multi
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/182603.mkv
 
-# --- Movies | Seriale Action & Adventure (399) ---
+# --- Movies | Seriale Action & Adventure (400) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Action & Adventure",On the Roam (2024)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4974.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Action & Adventure",Morpheus (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4938.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Action & Adventure",Spider-Noir (2026) (varianta color)
@@ -3579,7 +3581,11 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/1160.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Comedie",You're Nothing Special (2022)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/1605.mp4
 
-# --- Movies | Seriale Documentare (553) ---
+# --- Movies | Seriale Documentare (555) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Documentare",Ultimate Airport Dubai (2013)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4976.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Documentare",The Infinite Explorer with Hannah Fry (2025)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4975.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Documentare",Street Food: USA (2022)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4954.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Documentare",Bring Me the Beauties: A Model Cult (2026)
@@ -9029,9 +9035,11 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/473.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Romanesti",Vlad (2019)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/85.mp4
 
-# --- Movies | Seriale Sci-Fi & Fantasy (349) ---
+# --- Movies | Seriale Sci-Fi & Fantasy (350) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",Dominion (2014)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4517.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",Stranger Things: VHS Special Edition (2026)
+http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4973.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",The East Palace (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/4969.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Sci-Fi & Fantasy",Human Vapor (2026)
@@ -77295,7 +77303,7 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/230611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKzbB7zCF2jzseCUWyKvbVrue6V.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2025⚜️",Ordinary Girl in a Tiara (2025)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/277086.mkv
 
-# --- Movies | ⚜️VIP Films⚜️ 2026⚜️ (591) ---
+# --- Movies | ⚜️VIP Films⚜️ 2026⚜️ (590) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzFh9apPHlaEez7nM2EVZfISGnB.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2026⚜️",The Bay (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/311365.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2DWoeMo526sK1ienZu44ccl9O9.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2026⚜️",The Woman Before Me (2026)
@@ -77548,8 +77556,6 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/307673.mkv
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/307664.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2026⚜️",Husbands in Action (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/307663.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySc7DcmVWzdAOwCrIo3RdRdepLN.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2026⚜️",Deep Water (2026)
-http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/307635.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2026⚜️",Pressure (2026)
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/307634.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="Movies | ⚜️VIP Films⚜️ 2026⚜️",Your Fault London (2026)
@@ -108559,4 +108565,4 @@ http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/221948.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GQ3k3KmG0LI8Z4uCcGAsGQn6Ky.jpg" group-title="Movies | ⚡Films⚡Spain⚡",Últimas noticias en Yuba County (2021) ES
 http://premiumvipzone.com:8080/movie/Marian_joghiu/wkHQJ88Z8z/221949.mkv
 
-# Total: 54151
+# Total: 54154
