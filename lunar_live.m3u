@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-07-21 07:51:18
+# Generated: 2026-07-21 19:23:34
 # Expires: 2026-07-29
 # Family Safe Edition
 # ==============================================
@@ -9159,7 +9159,7 @@ http://lunar.pm:8080/live/Slim/Sexyslim/137825.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27907850051.png" group-title="Russia",RUS: MTV LIVE HD
 http://lunar.pm:8080/live/Slim/Sexyslim/137826.m3u8
 
-# --- Sky Sports+ (EVENTS ONLY) (21) ---
+# --- Sky Sports+ (EVENTS ONLY) (11) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/sky-sports-plus-guide.png" group-title="Sky Sports+ (EVENTS ONLY)",***Sky Sports+ Listings Guide***
 http://lunar.pm:8080/live/Slim/Sexyslim/138650.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 01
@@ -9182,26 +9182,6 @@ http://lunar.pm:8080/live/Slim/Sexyslim/138729.m3u8
 http://lunar.pm:8080/live/Slim/Sexyslim/138730.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 10
 http://lunar.pm:8080/live/Slim/Sexyslim/138731.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 11
-http://lunar.pm:8080/live/Slim/Sexyslim/138732.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 12
-http://lunar.pm:8080/live/Slim/Sexyslim/138733.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 13
-http://lunar.pm:8080/live/Slim/Sexyslim/138734.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 14
-http://lunar.pm:8080/live/Slim/Sexyslim/138735.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 15
-http://lunar.pm:8080/live/Slim/Sexyslim/138736.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 16
-http://lunar.pm:8080/live/Slim/Sexyslim/138737.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 17
-http://lunar.pm:8080/live/Slim/Sexyslim/138738.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 18
-http://lunar.pm:8080/live/Slim/Sexyslim/138739.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 19
-http://lunar.pm:8080/live/Slim/Sexyslim/138740.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/sky-sports-plus-events.png" group-title="Sky Sports+ (EVENTS ONLY)",Sky Sports+ 20
-http://lunar.pm:8080/live/Slim/Sexyslim/138741.m3u8
 
 # --- Spanish (234) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/33199693461.png" group-title="Spanish",24 Horas HD (ES)
@@ -10140,6 +10120,30 @@ http://lunar.pm:8080/live/Slim/Sexyslim/138827.m3u8
 http://lunar.pm:8080/live/Slim/Sexyslim/138828.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="UK Football- Hub Premier League (Events Only)",Hub Premier 2 UHD
 http://lunar.pm:8080/live/Slim/Sexyslim/138829.m3u8
+
+# --- UK Football- UEFA (Events Only) (11) ---
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/uefa-guide.png" group-title="UK Football- UEFA (Events Only)",*** UEFA CHANNELS LISTINGS ***
+http://lunar.pm:8080/live/Slim/Sexyslim/139112.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 01:
+http://lunar.pm:8080/live/Slim/Sexyslim/139113.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 02:
+http://lunar.pm:8080/live/Slim/Sexyslim/139114.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 03:
+http://lunar.pm:8080/live/Slim/Sexyslim/139115.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 04:
+http://lunar.pm:8080/live/Slim/Sexyslim/139116.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 05:
+http://lunar.pm:8080/live/Slim/Sexyslim/139117.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 06:
+http://lunar.pm:8080/live/Slim/Sexyslim/139118.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 07:
+http://lunar.pm:8080/live/Slim/Sexyslim/139119.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 08:
+http://lunar.pm:8080/live/Slim/Sexyslim/139120.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 09:
+http://lunar.pm:8080/live/Slim/Sexyslim/139121.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/Uefa-Logo.png" group-title="UK Football- UEFA (Events Only)",UEFA | 10:
+http://lunar.pm:8080/live/Slim/Sexyslim/139122.m3u8
 
 # --- UK Football-SPFL (EVENTS ONLY) (7) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/spfl-guide.png" group-title="UK Football-SPFL (EVENTS ONLY)",***SPFL Channels Guide***
@@ -11647,4 +11651,4 @@ http://lunar.pm:8080/live/Slim/Sexyslim/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Slim/Sexyslim/120491.m3u8
 
-# Total: 5742
+# Total: 5743

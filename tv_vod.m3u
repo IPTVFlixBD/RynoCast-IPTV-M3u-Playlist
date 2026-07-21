@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-07-21 08:01:49
+# Generated: 2026-07-21 19:23:18
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -26901,10 +26901,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/80334.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Xt37loPwHjipC1qaCbfLfDcFu4.jpg" group-title="Movies | ES - CINE",The Unfamiliar 2020 (ES)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/90341.mkv
 
-# --- Movies | FIFA WORLD CUP 2026 (1) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sFvpOMllrbeQAmdwfzWsiIqkRe.jpg" group-title="Movies | FIFA WORLD CUP 2026",Avustralya - Turkiye (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342787.mkv
-
 # --- Movies | FR - ACTION (22) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpT6lr6n6mnMXGzyPNb7MetW7er.jpg" group-title="Movies | FR - ACTION",La Bataille de l'Escaut (FR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/201359.mkv
@@ -35083,7 +35079,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/170145.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg" group-title="Movies | NL - BOLLYWOOD",Tiger 3 (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168386.mkv
 
-# --- Movies | NL - BRITBOX (10) ---
+# --- Movies | NL - BRITBOX (11) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Return to Paradise (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10158.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",The Dark (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10135.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",The Lost Women Spies (NL)
