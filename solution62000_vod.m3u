@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-19 19:00:24
+# Generated: 2026-07-21 07:57:29
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -51,7 +51,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2983.mp4
 #EXTINF:-1 tvg-logo="http://boxhd2.selfip.com/pic/q23.jpg" group-title="Movies | AL Quran Al Karim",alfurqan
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2984.mp4
 
-# --- Movies | Apple tv+ (100) ---
+# --- Movies | Apple tv+ (101) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoizilI4sXe6xycONzAwZnfhT2v.jpg" group-title="Movies | Apple tv+",Vol de nuit pour Los Angeles (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28214.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg" group-title="Movies | Apple tv+",Chantage (2026)
@@ -252,6 +252,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1231.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1235.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",Lucky
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1241.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",Suspicion
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1248.mp4
 
 # --- Movies | Cowboys (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjXKy5b2M3fDelAQItIswcDNvwm.jpg" group-title="Movies | Cowboys",Il était une fois dans l'Ouest (1968)
@@ -1205,7 +1207,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1667) ---
+# --- Movies | Films (1671) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Movies | Films",Valiant One (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29421.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Dk5KHdHNSt6po6qUVVm95kpqSa.jpg" group-title="Movies | Films",Perfect Match (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29420.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg" group-title="Movies | Films",Scary Movie (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29415.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TPo1gsNCswrgyxrqdGN44OmPuH.jpg" group-title="Movies | Films",Les rayons et les ombres (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29376.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zngPhsBOrE6gEDWmBvutzYsKZ1E.jpg" group-title="Movies | Films",Sans pitié (2026)
@@ -1506,6 +1514,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8uolIihwip3a0OtQ5gLhjSh8URA.jpg" group-title="Movies | Films",Box 234 (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29432.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z716KiQ1HAgyPq0CcS3bVhVNGob.jpg" group-title="Movies | Films",Les Justiciers de l'Ombre (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29235.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTSOwjX2pVynL06MGhxgAnvH4Z2.jpg" group-title="Movies | Films",The Prosecutor (2025)
@@ -8487,4 +8497,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Hawk
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1246
 
-# Total: 4210
+# Total: 4215

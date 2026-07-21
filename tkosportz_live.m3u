@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-07-20 20:00:19
+# Generated: 2026-07-21 07:57:30
 # Expires: 2026-08-26
 # Family Safe Edition
 # ==============================================
@@ -48,7 +48,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/206859.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218787.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",04. UFC NETWORK
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223036.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09. UFC Fight Night Du Plessis vs. Usman
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223037.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. 7PM SHOOTO BRAZIL 138
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223041.m3u8
@@ -531,7 +531,9 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/56262.m3u8
 #EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/10/MovieTime_logo.png" group-title="03. MOVIE CHANNELS",MovieTime
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/45944.m3u8
 
-# --- 04. KY-TN  LOCALS (27) ---
+# --- 04. KY-TN  LOCALS (31) ---
+#EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/wljc.png" group-title="04. KY-TN  LOCALS",07. WLJC BEATTYVILLE KY
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13132.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/The_CW.png" group-title="04. KY-TN  LOCALS",02. CW LEXINGTON
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13129.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Wlex_nbc18_lexington.png" group-title="04. KY-TN  LOCALS",02. NBC 18 WLEX LEX
@@ -586,6 +588,12 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224168.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224172.m3u8
 #EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",01. 2p Tennessee vs. Kentucky
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/222915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",Spectrum News 1 Kentucky HD
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246952.m3u8
+#EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/MyNetworkTV_Logo_2D.png" group-title="04. KY-TN  LOCALS",07. MY KY
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",06. WYMT 2 H&I
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246953.m3u8
 
 # --- 05. CARTOONS (11) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/boomerang2.png" group-title="05. CARTOONS",BOOMERANG
@@ -15849,4 +15857,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190959.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s18801_ll_h3_aa.png" group-title="35. CANADA",CA: SPORTSNET PACIFIC
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190961.m3u8
 
-# Total: 7892
+# Total: 7896
