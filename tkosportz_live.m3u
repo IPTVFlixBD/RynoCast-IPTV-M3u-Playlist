@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-07-24 08:05:52
+# Generated: 2026-07-24 19:25:40
 # Expires: 2026-08-26
 # Family Safe Edition
 # ==============================================
@@ -660,6 +660,10 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/187138.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/187137.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/c-span-1-logo-png-transparent.png" group-title="06. NEWS",C-SPAN 3
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/75429.m3u8
+
+# --- 08. 24-7 PRO (1) ---
+#EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",CHEERS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/248230.m3u8
 
 # --- 09. 24-7 #1 (139) ---
 #EXTINF:-1 tvg-logo="http://209.126.105.154:8080/logos/2477.png" group-title="09. 24-7 #1",24/7: 13 REASONS WHY
@@ -8793,4 +8797,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190959.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s18801_ll_h3_aa.png" group-title="35. CANADA",CA: SPORTSNET PACIFIC
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190961.m3u8
 
-# Total: 4366
+# Total: 4367

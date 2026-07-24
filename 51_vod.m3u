@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-23 19:31:32
+# Generated: 2026-07-24 19:29:30
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -24339,7 +24339,9 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/85378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L6qqU6Q3k4MmPojncNbT43FSTL.jpg" group-title="Movies | TR-VOD | COCUK/ANIMASYON FILMLER",Cesur (2012)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/41751.mkv
 
-# --- Movies | TR-VOD | EFSANE FILMLER (2149) ---
+# --- Movies | TR-VOD | EFSANE FILMLER (2150) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bljdh1CmiZL9AnhojhC4ci2BPw.jpg" group-title="Movies | TR-VOD | EFSANE FILMLER",Şahane Misafir (2012)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/158293.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="Movies | TR-VOD | EFSANE FILMLER",Elektra (2005)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/162076.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | EFSANE FILMLER",##### TURK EFSANE FILIMLER #####
@@ -32506,8 +32508,6 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/158290.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/158291.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6thuMbPKWiH3PSqiF9qgUMIWnwW.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Keloğlan Kara Prens'e Karşı (2006)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/158292.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bljdh1CmiZL9AnhojhC4ci2BPw.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Şahane Misafir (2012)
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/158293.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLaOGdXQAVuZo1kF7rG0x5gmF7S.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",New York'ta Beş Minare (2010)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/158294.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eqgQEoVkSXfZKlfpVPyEnlwwzV.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Topal Şükran'ın Maceraları (2019)
@@ -34396,6 +34396,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/73341.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185830.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7Rl6NrXhQIOyPiIatxNF3lmEal.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Tete ve Masal: Rüyalar Diyarı (2025)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186422.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42G0NOsQq4jyZSaA1yxi8MwTLji.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mutluyuz Mu? (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186634.mkv
 
 # --- Movies | TÜRK YABANCI INTERNET DIZILER (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TÜRK YABANCI INTERNET DIZILER",TR: Hausen
@@ -42117,4 +42119,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20988
+# Total: 20989

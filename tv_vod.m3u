@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-07-24 07:54:49
+# Generated: 2026-07-24 19:24:14
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -239,7 +239,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/74568.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/148AO5bZAiHtbSHZbYiCietAK6K.jpg" group-title="Movies | AR - FILM",من 30 سنة (AR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/74566.mkv
 
-# --- Movies | BE - VTM GO/NPO (29) ---
+# --- Movies | BE - VTM GO/NPO (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Miljoenenhuizen (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7068.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",82 Dagen in de hel (BE)
@@ -274,6 +274,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4554.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4555.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",40 jaar reilen en Heylen (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/4562.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",De grote boodschap (BE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10190.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Onzen Tour (BE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10130.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO/NPO",Goens Docu : Cel Vermiste Personen (BE)
@@ -42229,7 +42231,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185213.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",The Gorge (NL) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185142.mkv
 
-# --- Movies | NL - NETFLIX (896) ---
+# --- Movies | NL - NETFLIX (897) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",GIGN (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10189.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",Spooky in Love (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10159.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NETFLIX",The East Palace (NL)
@@ -46093,7 +46097,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9063.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO+/RTL",Thin Ice (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9431.mp4
 
-# --- Movies | NL - PARAMOUNT ORIGINALS (32) ---
+# --- Movies | NL - PARAMOUNT ORIGINALS (33) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",Le Bureau des Légendes (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",The Crow Girl (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10179.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - PARAMOUNT ORIGINALS",Joe Pickett (NL)
@@ -75607,4 +75613,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37569
+# Total: 37572

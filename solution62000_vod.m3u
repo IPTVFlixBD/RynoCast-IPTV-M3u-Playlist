@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-22 19:23:02
+# Generated: 2026-07-24 19:19:43
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -51,7 +51,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2983.mp4
 #EXTINF:-1 tvg-logo="http://boxhd2.selfip.com/pic/q23.jpg" group-title="Movies | AL Quran Al Karim",alfurqan
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2984.mp4
 
-# --- Movies | Apple tv+ (101) ---
+# --- Movies | Apple tv+ (102) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoizilI4sXe6xycONzAwZnfhT2v.jpg" group-title="Movies | Apple tv+",Vol de nuit pour Los Angeles (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28214.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg" group-title="Movies | Apple tv+",Chantage (2026)
@@ -254,6 +254,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1235.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1241.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",Suspicion
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1248.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",Home Before Dark
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1249.mp4
 
 # --- Movies | Cowboys (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjXKy5b2M3fDelAQItIswcDNvwm.jpg" group-title="Movies | Cowboys",Il était une fois dans l'Ouest (1968)
@@ -1207,7 +1209,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1672) ---
+# --- Movies | Films (1674) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg" group-title="Movies | Films",Nuremberg (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29476.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg" group-title="Movies | Films",The Mandalorian and Grogu (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29441.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Movies | Films",Valiant One (2026)
@@ -1516,6 +1520,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ue9vIO3Q8QbIOymRXM1t5QzLy1y.jpg" group-title="Movies | Films",In Vitro (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29451.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8uolIihwip3a0OtQ5gLhjSh8URA.jpg" group-title="Movies | Films",Box 234 (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29432.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z716KiQ1HAgyPq0CcS3bVhVNGob.jpg" group-title="Movies | Films",Les Justiciers de l'Ombre (2025)
@@ -5519,7 +5525,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (504) ---
+# --- Movies | NETFLIX (507) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg" group-title="Movies | NETFLIX",En Souffrance (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29471.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg" group-title="Movies | NETFLIX",Elize Surgie de l'Ombre (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29470.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg" group-title="Movies | NETFLIX",23 000 vies (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29378.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9FsSrhV4OM8dyyGR9dLF6auddW2.jpg" group-title="Movies | NETFLIX",Jusqu'au bout (2026)
@@ -6528,6 +6538,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1244.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1245.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Le Palais de l'Est
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1247.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",GIGN
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1250.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -6877,7 +6889,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (195) ---
+# --- Movies | prime video (196) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg" group-title="Movies | prime video",Les Maîtres de l'Univers (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29452.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tv1eO5lCZ8mIEqAuDmuHI4LkCzV.jpg" group-title="Movies | prime video",Marave (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29154.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg" group-title="Movies | prime video",Permis de Conduire (2026)
@@ -7631,7 +7645,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1226
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) تحت السن
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1238
 
-# --- Series | Series Documentaires (20) ---
+# --- Series | Series Documentaires (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/403
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",En guerre(s) pour l'Algérie
@@ -7672,6 +7686,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1188
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1197
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Várzea : Le berceau du football brésilien
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1221
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Pompéi : Tom Hiddleston remonte le temps
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1251
 
 # --- Series | Series Marocaines (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Marocaines",أولاد الدرب
@@ -8499,4 +8515,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Hawk
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1246
 
-# Total: 4216
+# Total: 4224
