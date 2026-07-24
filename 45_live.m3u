@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-07-23 19:27:38
+# Generated: 2026-07-24 07:53:03
 # Expires: 2027-07-21
 # Family Safe Edition
 # ==============================================
@@ -137,23 +137,9 @@ http://45.139.122.199:8080/live/Christian1/Christian1/109883.m3u8
 #EXTINF:-1 tvg-logo="https://futhead.cursecdn.com/static/img/17/items/badges/6000686.png" group-title="Allsvenskan & Superettan SE",Superettan Östersunds FK HD SE
 http://45.139.122.199:8080/live/Christian1/Christian1/52596.m3u8
 
-# --- DAZN SE (9) ---
+# --- DAZN SE (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/dazn-us.png" group-title="DAZN SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1304294.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3jn34lzuj7si1fq4qbziqc9a3_image-header_pRow_1783948990000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",10:00 EWC - Teamfight Tactics 2026 - Day 3 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492931.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ca3cx8vwcxv2ii7ldetg6jmo8_image-header_pRow_1784043677000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",11:00 Prague Open: Day 4 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492930.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5jnydebvg1r2tafoea86gcl7e_image-header_pRow_1784190076000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",11:00 Hamburg Open: Day 4 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492929.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/nfm96t453rjl18skfwygr0mb5_image-header_pRow_1783517194000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",11:00 EWC - ML:BB 2026 - Day 2 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492928.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1c3bput6h4ur21pkrvq2f7y2va_image-header_pRow_1783936677000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",13:00 EWC - PUBG Battlegrounds - Day 3 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492927.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cc8qi2b5qivu1ob56vk2vrew2_image-header_pRow_1783609505000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",17:00 EWC - EAFC 2026 - Day 2 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492926.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xnwz0oizwooj1uotopblulghy_image-header_pRow_1784541324000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",19:00 Joshua vs. Prenga: Press Conference 7/23 [DAZN SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492925.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lebix54k2se512erizfthw8uw_image-header_pRow_1784542499000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",04:00 Spence Jr. vs. Tszyu: Press Conference 7/24 [DAZN SE]
 http://45.139.122.199:8080/live/Christian1/Christian1/2492924.m3u8
 
@@ -701,23 +687,17 @@ http://45.139.122.199:8080/live/Christian1/Christian1/965283.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13821.png?ver=15875" group-title="DirekteSport Events NO",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: DIREKETSPORT PPV 50
 http://45.139.122.199:8080/live/Christian1/Christian1/965284.m3u8
 
-# --- Disney Plus DK (1) ---
+# --- Disney Plus DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1340808.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f0a10-5df3-7943-ac85-74e03efbee5d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",01:00 Party Animals vs. Indianapolis Clowns [Disney+ DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2493744.m3u8
 
-# --- Disney Plus SE (6) ---
+# --- Disney Plus SE (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/995342.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f5c6e-b79d-7b85-bee6-cf453d3046d1/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",18:00 Cranston, RI vs. Bristol, CT [Disney+ SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493060.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f425b-2e69-7796-8668-8b5256e5d6a0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",19:45 Boise, ID vs. Washington, DC [Disney+ SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493061.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/acbcc650-93e8-4a50-b6f4-0def4bf186ef/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",21:30 Massapequa, NY vs. Minersville, PA [Disney+ SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493062.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/9730f953-cc38-40a7-bfe4-070cfed30328/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",23:15 Las Vegas, NV vs. Live Oak, CA [Disney+ SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493063.m3u8
 #EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f0a10-5df3-7943-ac85-74e03efbee5d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",01:00 Party Animals vs. Indianapolis Clowns [Disney+ SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493064.m3u8
+http://45.139.122.199:8080/live/Christian1/Christian1/2493739.m3u8
 
 # --- Elitserien Live SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/elitserien-live.png" group-title="Elitserien Live SE",-= Reload your playlist =-
@@ -727,96 +707,54 @@ http://45.139.122.199:8080/live/Christian1/Christian1/403068.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Ettan-play.png" group-title="EttanPlay SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/Christian1/546623.m3u8
 
-# --- Formula 1 [F1] TV (2) ---
+# --- Formula 1 [F1] TV (1) ---
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-f1-the-official-formula-1-transparent-png-701751712229525ajvwddtfme.png" group-title="Formula 1 [F1] TV",-= Reload your playlist F1 =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2386382.m3u8
-#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010326-de62acca-b0a9-4b40-92d4-45d343451066/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",16:30 Weekend Warm-Up - Hungary 7/23
-http://45.139.122.199:8080/live/Christian1/Christian1/2493015.m3u8
 
-# --- HBO Max Sports DK (21) ---
+# --- HBO Max Sports DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8p4Es/_1BHEW3jO3qoPaY9w.png?f=webp&w=400" group-title="HBO Max Sports DK",12:30 Tour de France cykling FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492808.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="HBO Max Sports DK",12:50 Tour de France | Multiview cykling FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492807.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nqghN/Yhxl3QiSAvDsM9yVQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",13:45 Stream 1 | Main feed / Featured group  golf FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492806.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5feHG/eXrhAimh54ek-9H_g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 Gary Wilson - Ricky Walden snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492805.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/X8tHi/2WgPW0j6NpJnonN_g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 Michael Larkov - Artemijs Zizins snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492804.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CFPKU/JjDanC6rXmDGt5Y8A.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 Alfie Burden - Zhang Anda snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492803.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DaUDB/g8ua2WUoELOqAa0TA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:02 Fergal Quinn - Jackson Page snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492802.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pEG8v/JeBvAVcCzoP0oVm1Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:15 Stream 2 | Marquee group / Featured group golf FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492801.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/uFWAC/J48Mm3zC_AJ88jSRQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:15 Stream 3 | Featured groups / Featured hole  golf FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492800.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/57ggz/fMJsWTfe8CaCC4TDQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:15 Stream 4 | Featured holes / Featured hole golf FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492799.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XpqVz/5Trf0EXbZHjsj-JSg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Onyee Ng - Yao Pengcheng snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492798.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SdZpF/EMufjj-p5rllqFOCg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Leone Crowley - Long Zehuang snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492797.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cG93f/FdwkqpCyOKpIjf6kA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Marco Fu - Steven Hallworth snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492796.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7HBgX/d9iwPeuvJwcDjZ6pw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Mahmoud El Hareedy - Lan Yuhao snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492795.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports DK",21:00 Åbningsceremoni andet FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492794.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZ8Ai/z1sjBuXUDqxHfcAtw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Allan Taylor - Ishpreet Singh Chadha snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492793.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/d5pjT/SqdYV_jNM2mo5mfxw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Ryan Day - Chatchapong Nasa snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492792.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Fan Zhengyi - Ben Woollaston snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492791.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/4oXNw/lX8B74bGEpYqVea6Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Liam Pullen - Daniel Wells snooker FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492790.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lj8uW/oQzyH_UTvtvqiqN1Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 3M Open | Dag 1 golf FHD 7/23 [HBO Max DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492789.m3u8
 
 # --- HBO Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MARCO FU - STEVEN HALLWORTH | Thu 23 Jul 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | GLASGOW 2026 COMMONWEALTH GAMES | Fri 24 Jul 09:25 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MAHMOUD EL HAREEDY - LAN YUHAO | Thu 23 Jul 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MATTHEW SELT - JAK JONES | Fri 24 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ÅBNINGSCEREMONI | Thu 23 Jul 19:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MICHAL SZUBARCZYK - DAVID GRACE | Fri 24 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ONYEE NG - YAO PENGCHENG | Thu 23 Jul 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | OLIVER LINES - XU YICHEN | Fri 24 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | TOUR DE FRANCE | Thu 23 Jul 12:29 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | GONG CHENZHI - XU SI | Fri 24 Jul 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | TOUR DE FRANCE | MULTIVIEW | Thu 23 Jul 12:50 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | VM | FRI TRÆNING 1 | Fri 24 Jul 11:50 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 1 | MAIN FEED / FEATURED GROUP  | Thu 23 Jul 13:44 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOUR DE FRANCE | Fri 24 Jul 13:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | MICHAEL LARKOV - ARTEMIJS ZIZINS | Thu 23 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | STREAM 1 | MAIN FEED / FEATURED GROUP | Fri 24 Jul 13:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | ALFIE BURDEN - ZHANG ANDA | Thu 23 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | PAUL NORRIS - STAN MOODY | Fri 24 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GARY WILSON - RICKY WALDEN | Thu 23 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | PANCHAYA CHANNOI - AARON HILL | Fri 24 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | FERGAL QUINN - JACKSON PAGE | Thu 23 Jul 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 2 | MARQUEE GROUP / FEATURED GROUP | Thu 23 Jul 14:14 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/987419.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 3 | FEATURED GROUPS / FEATURED HOLE  | Thu 23 Jul 14:14 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/987420.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 4 | FEATURED HOLES / FEATURED HOLE | Thu 23 Jul 14:14 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/987421.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LEONE CROWLEY - LONG ZEHUANG | Thu 23 Jul 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/987422.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | RYAN DAY - CHATCHAPONG NASA | Thu 23 Jul 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/987423.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ALLAN TAYLOR - ISHPREET SINGH CHADHA | Thu 23 Jul 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 17
 http://45.139.122.199:8080/live/Christian1/Christian1/987424.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FAN ZHENGYI - BEN WOOLLASTON | Thu 23 Jul 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 18
 http://45.139.122.199:8080/live/Christian1/Christian1/987425.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LIAM PULLEN - DANIEL WELLS | Thu 23 Jul 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 19
 http://45.139.122.199:8080/live/Christian1/Christian1/987426.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | 3M OPEN | DAG 1 | Thu 23 Jul 22:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 20
 http://45.139.122.199:8080/live/Christian1/Christian1/987427.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 21
 http://45.139.122.199:8080/live/Christian1/Christian1/987428.m3u8
@@ -879,53 +817,9 @@ http://45.139.122.199:8080/live/Christian1/Christian1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 50
 http://45.139.122.199:8080/live/Christian1/Christian1/987457.m3u8
 
-# --- HBO Max Sports NO (23) ---
+# --- HBO Max Sports NO (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports NO",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1008680.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/12g31/l4Xrt7ZJ2rv5DuZbQ.png?f=webp&w=400" group-title="HBO Max Sports NO",12:30 Tour de France: 18. etappe sykkel FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492843.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/b4VMV/Z3N7KenR5EgdmvW_A.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",12:30 Tour de France | 18. etappe sykkel FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492841.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="HBO Max Sports NO",12:50 Tour de France | 18. etappe sykkel FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492839.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/W5jNy/OW52p-tz_Hy6b3Uxg.png?f=webp&w=400" group-title="HBO Max Sports NO",13:45 3M Open: Main Feed/Featured Group golf FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492837.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5feHG/eXrhAimh54ek-9H_g.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",14:00 Gary Wilson - Ricky Walden snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492835.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/X8tHi/2WgPW0j6NpJnonN_g.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",14:00 Michael Larkov - Artemijs Zizins snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492833.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CFPKU/JjDanC6rXmDGt5Y8A.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",14:00 Alfie Burden - Zhang Anda snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492831.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DaUDB/g8ua2WUoELOqAa0TA.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",14:02 Fergal Quinn - Jackson Page snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492829.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pkTHi/kMI8Rpml8gzSy-11w.png?f=webp&w=400" group-title="HBO Max Sports NO",14:15 3M Open: Marquee Group/Featured Group golf FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492828.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8aTDy/olCT-SRcsfomdkZ4g.png?f=webp&w=400" group-title="HBO Max Sports NO",14:15 3M Open: Featured Groups/Featured Hole golf FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492827.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pylg8/ZmWPx555UertaSjow.png?f=webp&w=400" group-title="HBO Max Sports NO",14:15 3M Open: Featured Holes/Featured Hole  golf FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492826.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XpqVz/5Trf0EXbZHjsj-JSg.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",17:00 Onyee Ng - Yao Pengcheng snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492825.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SdZpF/EMufjj-p5rllqFOCg.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",17:00 Leone Crowley - Long Zehuang snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492824.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cG93f/FdwkqpCyOKpIjf6kA.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",17:00 Marco Fu - Steven Hallworth snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492823.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",17:00 Mahmoud El Hareedy - Lan Yuhao snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492822.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports NO",21:00 Commonwealth Games øvrig FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492821.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZ8Ai/z1sjBuXUDqxHfcAtw.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",20:00 Allan Taylor - Ishpreet Singh Chadha snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492820.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/d5pjT/SqdYV_jNM2mo5mfxw.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",20:00 Ryan Day - Chatchapong Nasa snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492819.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1akV5/WivfqZMTSbvDUiwVA.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",20:00 Fan Zhengyi - Ben Woollaston snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492818.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OSKla/hh_vo2meJalT74utw.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",20:00 Liam Pullen - Daniel Wells snooker FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492817.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/y2CZr/2mJqR2kfRk7gm6aDQ.jpeg?f=webp&w=400" group-title="HBO Max Sports NO",22:00 3M Open | Dag 1 golf FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492816.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x64Oa/3kQ5P34IxmFJieoNA.png?f=webp&w=400" group-title="HBO Max Sports NO",22:00 3M Open: Hovedsending golf FHD 7/23 [HBO Max NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492815.m3u8
 
 # --- HBO Max Sports NO [B] (90) ---
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports NO [B]",Tennis: Martin De La Puente vs Ruben Spaargaren @ Jul 7 11:55 AM :MAX NO  01
@@ -1008,45 +902,45 @@ http://45.139.122.199:8080/live/Christian1/Christian1/2283333.m3u8
 http://45.139.122.199:8080/live/Christian1/Christian1/2283332.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports NO [B]",Tennis: P Berezina A Cvetkovic vs S Hettlerova Y Shao @ Jul 7 17:00 PM :MAX NO  40
 http://45.139.122.199:8080/live/Christian1/Christian1/2283331.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | MARCO FU - STEVEN HALLWORTH | Thu 23 Jul 17:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | COMMONWEALTH GAMES | Fri 24 Jul 09:25 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/1122768.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | MAHMOUD EL HAREEDY - LAN YUHAO | Thu 23 Jul 17:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | MATTHEW SELT - JAK JONES | Fri 24 Jul 11:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/1122769.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | COMMONWEALTH GAMES | Thu 23 Jul 19:30 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | MICHAL SZUBARCZYK - DAVID GRACE | Fri 24 Jul 11:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/1122770.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | ONYEE NG - YAO PENGCHENG | Thu 23 Jul 17:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | OLIVER LINES - XU YICHEN | Fri 24 Jul 11:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/1122771.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | TOUR DE FRANCE: 18. ETAPPE | Thu 23 Jul 12:29 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | GONG CHENZHI - XU SI | Fri 24 Jul 11:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/1122772.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | TOUR DE FRANCE | 18. ETAPPE | Thu 23 Jul 12:50 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | FRI TRENING 1 | Fri 24 Jul 11:50 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/1122773.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | 3M OPEN: MAIN FEED/FEATURED GROUP | Thu 23 Jul 13:44 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | TOUR DE FRANCE: 19. ETAPPE | Fri 24 Jul 13:45 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/1122774.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | MICHAEL LARKOV - ARTEMIJS ZIZINS | Thu 23 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | 3M OPEN: MAIN FEED/FEATURED GROUP | Fri 24 Jul 13:45 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/1122775.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | MAHMOUD EL HAREEDY - LAN YUHAO | Thu 23 Jul 17:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | MATTHEW SELT - JAK JONES | Fri 24 Jul 11:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/1122776.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | GARY WILSON - RICKY WALDEN | Thu 23 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | PANCHAYA CHANNOI - AARON HILL | Fri 24 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/1122777.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | FERGAL QUINN - JACKSON PAGE | Thu 23 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/1122778.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | FAN ZHENGYI - BEN WOOLLASTON | Thu 23 Jul 20:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/1122779.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | LIAM PULLEN - DANIEL WELLS | Thu 23 Jul 20:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/1122780.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | 3M OPEN: HOVEDSENDING | Thu 23 Jul 22:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/1122781.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | LEONE CROWLEY - LONG ZEHUANG | Thu 23 Jul 17:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/1122782.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | RYAN DAY - CHATCHAPONG NASA | Thu 23 Jul 20:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/1122783.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",NEXT | ALLAN TAYLOR - ISHPREET SINGH CHADHA | Thu 23 Jul 20:00 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 17
 http://45.139.122.199:8080/live/Christian1/Christian1/1122784.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | 3M OPEN: FEATURED GROUPS/FEATURED HOLE | Thu 23 Jul 14:14 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 18
 http://45.139.122.199:8080/live/Christian1/Christian1/1122785.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | 3M OPEN: FEATURED HOLES/FEATURED HOLE  | Thu 23 Jul 14:14 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 19
 http://45.139.122.199:8080/live/Christian1/Christian1/1122786.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",LIVE | 3M OPEN: MARQUEE GROUP/FEATURED GROUP | Thu 23 Jul 14:14 CEST (NO) | 8K EXCLUSIVE | NO: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: MAX PPV 20
 http://45.139.122.199:8080/live/Christian1/Christian1/1122787.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HBO Max Sports NO [B]",NO: MAX PPV 21 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/Christian1/1122788.m3u8
@@ -1109,89 +1003,9 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1122816.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HBO Max Sports NO [B]",NO: MAX PPV 50 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Christian1/Christian1/1122817.m3u8
 
-# --- HBO Max Sports SE (41) ---
+# --- HBO Max Sports SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2274285.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/12g31/l4Xrt7ZJ2rv5DuZbQ.png?f=webp&w=400" group-title="HBO Max Sports SE",12:30 Tour de France | Etapp 18 cykel FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492904.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/12g31/l4Xrt7ZJ2rv5DuZbQ.png?f=webp&w=400" group-title="HBO Max Sports SE",12:30 Tour de France | Etapp 18 cykel 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492903.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="HBO Max Sports SE",12:50 Tour de France | Multiview cykel FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492902.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="HBO Max Sports SE",12:50 Tour de France | Multiview cykel 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492901.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OWwQE/xm7lZL0YCsgxVwxdA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",13:45 Kombinerad Feed | 3M Open golf FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492900.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OWwQE/xm7lZL0YCsgxVwxdA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",13:45 Kombinerad Feed | 3M Open golf 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492899.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5feHG/eXrhAimh54ek-9H_g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Gary Wilson - Ricky Walden snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492898.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/X8tHi/2WgPW0j6NpJnonN_g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Michael Larkov - Artemijs Zizins snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492897.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CFPKU/JjDanC6rXmDGt5Y8A.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Alfie Burden - Zhang Anda snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492896.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DaUDB/g8ua2WUoELOqAa0TA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:02 Fergal Quinn - Jackson Page snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492895.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5feHG/eXrhAimh54ek-9H_g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Gary Wilson - Ricky Walden snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492894.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/X8tHi/2WgPW0j6NpJnonN_g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Michael Larkov - Artemijs Zizins snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492893.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CFPKU/JjDanC6rXmDGt5Y8A.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Alfie Burden - Zhang Anda snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492892.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DaUDB/g8ua2WUoELOqAa0TA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:02 Fergal Quinn - Jackson Page snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492891.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2fd9i/Yp0qIFOt6TwLjTTMA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:15 Marquee Group | 3M Open golf FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492890.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gw-Gb/Ugc6CcvU_sYIC96RQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:15 Featured Groups | 3M Open golf FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492889.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NVrcC/bZIX1sxk3g-M2zJcA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:15 Featured Holes | 3M Open golf FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492888.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2fd9i/Yp0qIFOt6TwLjTTMA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:15 Marquee Group | 3M Open golf 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492887.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gw-Gb/Ugc6CcvU_sYIC96RQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:15 Featured Groups | 3M Open golf 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492886.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NVrcC/bZIX1sxk3g-M2zJcA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:15 Featured Holes | 3M Open golf 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492885.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XpqVz/5Trf0EXbZHjsj-JSg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Onyee Ng - Yao Pengcheng snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492884.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SdZpF/EMufjj-p5rllqFOCg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Leone Crowley - Long Zehuang snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492883.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cG93f/FdwkqpCyOKpIjf6kA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Marco Fu - Steven Hallworth snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492882.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Mahmoud El Hareedy - Lan Yuhao snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492881.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XpqVz/5Trf0EXbZHjsj-JSg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Onyee Ng - Yao Pengcheng snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492880.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SdZpF/EMufjj-p5rllqFOCg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Leone Crowley - Long Zehuang snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492879.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cG93f/FdwkqpCyOKpIjf6kA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Marco Fu - Steven Hallworth snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492878.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:00 Mahmoud El Hareedy - Lan Yuhao snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492877.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports SE",21:00 Öppningsceremoni | Commonwealth Games alla sporter FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492876.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports SE",21:00 Öppningsceremoni | Commonwealth Games alla sporter 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492875.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZ8Ai/z1sjBuXUDqxHfcAtw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Allan Taylor - Ishpreet Singh Chadha snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492874.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/d5pjT/SqdYV_jNM2mo5mfxw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Ryan Day - Chatchapong Nasa snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492873.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Fan Zhengyi - Ben Woollaston snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492872.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z056e/k-5zHUA_9tdEDXTQA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Liam Pullen - Daniel Wells snooker FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492871.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZ8Ai/z1sjBuXUDqxHfcAtw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Allan Taylor - Ishpreet Singh Chadha snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492869.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/d5pjT/SqdYV_jNM2mo5mfxw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Ryan Day - Chatchapong Nasa snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492867.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QHFHz/uTtUusjn9zFDQTl2Q.png?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Fan Zhengyi - Ben Woollaston snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492865.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z056e/k-5zHUA_9tdEDXTQA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Liam Pullen - Daniel Wells snooker 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492863.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Vmdtl/W2Vpy9pfqhT4o_rZw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",22:00 Huvudsändning | 3M Open golf FHD 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492861.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Vmdtl/W2Vpy9pfqhT4o_rZw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",22:00 Huvudsändning | 3M Open golf 7/23 [HBO Max SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492859.m3u8
 
 # --- HBO Max Sports SE [B] (108) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 1 FHD SE
@@ -1210,37 +1024,37 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1299648.m3u8
 http://45.139.122.199:8080/live/Christian1/Christian1/1299649.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 8 FHD SE
 http://45.139.122.199:8080/live/Christian1/Christian1/1299650.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | FERGAL QUINN - JACKSON PAGE | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | GLASGOW 2026 COMMONWEALTH GAMES | Fri 24 Jul 09:25 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/1122820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MARCO FU - STEVEN HALLWORTH | Thu 23 Jul 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MATTHEW SELT - JAK JONES | Fri 24 Jul 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/1122821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MAHMOUD EL HAREEDY - LAN YUHAO | Thu 23 Jul 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MICHAL SZUBARCZYK - DAVID GRACE | Fri 24 Jul 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/1122822.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | OPENING CEREMONY | Thu 23 Jul 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | OLIVER LINES - XU YICHEN | Fri 24 Jul 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/1122823.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | TOUR DE FRANCE | Thu 23 Jul 12:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | GONG CHENZHI - XU SI | Fri 24 Jul 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/1122824.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | MULTIVIEW  | Thu 23 Jul 12:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | TOKYO | FREE PRACTICE 1 | Fri 24 Jul 11:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/1122825.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | 3M OPEN | DAY 1 | Thu 23 Jul 13:44 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | TOUR DE FRANCE | Fri 24 Jul 13:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/1122826.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | MICHAEL LARKOV - ARTEMIJS ZIZINS | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | 3M OPEN | DAY 2 | Fri 24 Jul 13:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/1122827.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | ALFIE BURDEN - ZHANG ANDA | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | PAUL NORRIS - STAN MOODY | Fri 24 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/1122828.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | GARY WILSON - RICKY WALDEN | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | PANCHAYA CHANNOI - AARON HILL | Fri 24 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/1122829.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ONYEE NG - YAO PENGCHENG | Thu 23 Jul 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/1122830.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | LEONE CROWLEY - LONG ZEHUANG | Thu 23 Jul 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/1122831.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | ALLAN TAYLOR - ISHPREET SINGH CHADHA | Thu 23 Jul 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/1122832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | RYAN DAY - CHATCHAPONG NASA | Thu 23 Jul 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/1122833.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | FAN ZHENGYI - BEN WOOLLASTON | Thu 23 Jul 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/1122834.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | LIAM PULLEN - DANIEL WELLS | Thu 23 Jul 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/1122835.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 17
 http://45.139.122.199:8080/live/Christian1/Christian1/1122836.m3u8
@@ -1423,11 +1237,9 @@ http://45.139.122.199:8080/live/Christian1/Christian1/403069.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Innebandy-play.png" group-title="Innebandy Play SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/Christian1/421998.m3u8
 
-# --- NRK Sport NO (2) ---
+# --- NRK Sport NO (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/NRK_Sport_logo_(2022).png" group-title="NRK Sport NO",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2435138.m3u8
-#EXTINF:-1 tvg-logo="https://gfx.nrk.no/RnHeb5Zd9QmrDevEtI32Qw9cY40LHnpYLVugQ94UzIlA" group-title="NRK Sport NO",19:40 NM i friidrett - Friidrett - NM 7/23 [NRK Sport]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492978.m3u8
 
 # --- Norlys Play PPV DK (30) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13954.png?ver=94515" group-title="Norlys Play PPV DK",DK: NORLYSPLAY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
@@ -2007,17 +1819,13 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1255497.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Norway",NO | NRK Sámi radio
 http://45.139.122.199:8080/live/Christian1/Christian1/1255494.m3u8
 
-# --- Prime Sports DK (7) ---
+# --- Prime Sports DK (5) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c4c8e91f-84ac-46bd-8ee0-359b018e39f7/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",09:00 Jul 23 - PTT Dusseldorf [Amazon Prime DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492937.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2e1755a-ef3f-4284-83e8-9e3c66f28422/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",16:30 Jul 23 - PTT Tallahassee [Amazon Prime DK]
 http://45.139.122.199:8080/live/Christian1/Christian1/2492936.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b025cc22-b18d-404d-ad33-735625934f12/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",18:00 Jul 22 - PTT Tallahassee [Amazon Prime DK]
 http://45.139.122.199:8080/live/Christian1/Christian1/2492935.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d969d1ff-10a7-4601-b967-b0c6d7e01934/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",18:00 Jul 23 - PTT Waco [Amazon Prime DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492934.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.32914d15-98fe-4d8c-a077-43d43168d3e7/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",02:00 Jul 23 - PTT Newport Beach [Amazon Prime DK]
 http://45.139.122.199:8080/live/Christian1/Christian1/2492933.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a735b882-ee4b-4229-a551-6ec8b3db22fc/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",05:30 Jul 24 - PTT Bengaluru [Amazon Prime DK]
@@ -2069,35 +1877,23 @@ http://45.139.122.199:8080/live/Christian1/Christian1/964914.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports SE [B]",SE: PRIME PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/Christian1/964915.m3u8
 
-# --- SVT Play SE (2) ---
+# --- SVT Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/SVT_Play_logotyp.png" group-title="SVT Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/2429212.m3u8
-#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="SVT Play SE",21:25 Sportnytt 7/23 [SVT Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492979.m3u8
 
 # --- Speedway - ESS Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/ess-logo.png" group-title="Speedway - ESS Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/573022.m3u8
 
-# --- SportExpressen/Aftonbladet SE (4) ---
+# --- SportExpressen/Aftonbladet SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/expressen-aftonbladet-play.png" group-title="SportExpressen/Aftonbladet SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/287676.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/ab_/images/bafae47b72ed4f4c075e654b02a005e2.jpg" group-title="SportExpressen/Aftonbladet SE",18:30 Hammarby – Anderlecht 7/23 [Aftonbladet]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492813.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/ab_/images/640397dc349fb188495f5df57a2a1fb4.jpg" group-title="SportExpressen/Aftonbladet SE",18:45 Gais – Nordsjælland 7/23 [Aftonbladet]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492814.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/6x9b55.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",09:50 Lycksele, Motorveckan 7/23 [S.Expressen]
-http://45.139.122.199:8080/live/Christian1/Christian1/2492938.m3u8
 
-# --- Svensk Hockey SE (5) ---
+# --- Svensk Hockey SE (3) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/swedish-hockey.png" group-title="Svensk Hockey SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/668954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",15:55 : SHTV Studio | Slutspelet i U19 Nationell  4/21 [SVENSKHOCKEY]
 http://45.139.122.199:8080/live/Christian1/Christian1/2483165.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 : Frölunda Sommarhockeyskola — Utespelare 2013–2014  7/23 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493109.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: Dalarna - Dalarna  7/23 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493108.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:55 U16P: Dalarna - Dalarna  7/24 [SVENSKHOCKEY]
 http://45.139.122.199:8080/live/Christian1/Christian1/2493107.m3u8
 
@@ -2867,38 +2663,30 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1233605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE | STAR 90s
 http://45.139.122.199:8080/live/Christian1/Christian1/1233604.m3u8
 
-# --- TV2 Play NO (5) ---
+# --- TV2 Play NO (1) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/Ig6HRbF.png" group-title="TV2 Play NO",====== Live During Events Only ======
 http://45.139.122.199:8080/live/Christian1/Christian1/63287.m3u8
-#EXTINF:-1 tvg-logo="https://images.play.tv2.no/v3/image-packs/pfimg_pack_2yp6ybhgbe8atavkab8887dcye" group-title="TV2 Play NO",12:00 18. etappe 7/23 [TV2 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493025.m3u8
-#EXTINF:-1 tvg-logo="https://images.play.tv2.no/v3/image-packs/pfimg_pack_33g1z286n98gkbf2z26fn2rf3k" group-title="TV2 Play NO",13:00 Dag 4 7/23 [TV2 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493024.m3u8
-#EXTINF:-1 tvg-logo="https://images.play.tv2.no/v3/image-packs/pfimg_pack_1w1121gg209468e60zxv7pr041" group-title="TV2 Play NO",14:20 Kvartfinale: T. Etcheverry vs I. Buse 7/23 [TV2 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493022.m3u8
-#EXTINF:-1 tvg-logo="https://images.play.tv2.no/v3/image-packs/pfimg_pack_2jj5h1xexe92qvvbk01857k18a" group-title="TV2 Play NO",16:30 Kvartfinale: A. Bublik vs A. Molcan 7/23 [TV2 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493021.m3u8
 
 # --- TV2 Play NO [B] (30) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",ENDED | KVARTFINALE: M. NAVONE VS Q. HALYS | Thu 23 Jul 11:00 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/864170.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",LIVE | 18. ETAPPE | Thu 23 Jul 12:00 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",ENDED | 18. ETAPPE | Thu 23 Jul 12:00 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/864566.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",LIVE | DAG 4 | Thu 23 Jul 13:00 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",ENDED | DAG 4 | Thu 23 Jul 13:00 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/864567.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",LIVE | KVARTFINALE: Y. HANFMANN VS. S. BAEZ | Thu 23 Jul 12:45 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",ENDED | KVARTFINALE: Y. HANFMANN VS. S. BAEZ | Thu 23 Jul 12:45 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/864568.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",LIVE | KVARTFINALE: T. ETCHEVERRY VS I. BUSE | Thu 23 Jul 14:20 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",ENDED | KVARTFINALE: T. ETCHEVERRY VS I. BUSE | Thu 23 Jul 14:20 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/864569.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",NEXT | KVARTFINALE: A. BUBLIK VS A. MOLCAN | Thu 23 Jul 16:30 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",ENDED | KVARTFINALE: A. BUBLIK VS A. MOLCAN | Thu 23 Jul 16:22 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/864570.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: TV2 PLAY PPV 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",NEXT | SEMIFINALE: Y. HANFMANN VS Q. HALYS | Fri 24 Jul 12:30 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/864571.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: TV2 PLAY PPV 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",NEXT | KVARTFINALER | Fri 24 Jul 13:00 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/864572.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: TV2 PLAY PPV 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",NEXT | 19. ETAPPE | Fri 24 Jul 13:30 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/864573.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: TV2 PLAY PPV 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",NEXT | SEMIFINALE: A. BUBLIK VS T. ETCHEVERRY | Fri 24 Jul 14:30 CEST (NO) | 8K EXCLUSIVE | NO: TV2 PLAY PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/864575.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: TV2 PLAY PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/1098921.m3u8
@@ -2941,98 +2729,78 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1098939.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TV_2_Play_Logo.png" group-title="TV2 Play NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: TV2 PLAY PPV 30
 http://45.139.122.199:8080/live/Christian1/Christian1/1098940.m3u8
 
-# --- TV2 Sport DK (11) ---
+# --- TV2 Sport DK (4) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/527426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/20e0aa2f-bd71-3ff5-847b-bbbf3ff4f970.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 WTA: Hamborg  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493041.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/c40d09d1-96b5-37ed-9118-fbad67962cca.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 ATP: Kvartfinaler, Kitzbühel  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493040.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/490d1e29-f3ad-3ae2-86cc-3bafae1d91ec.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 WTA: Prag  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493039.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/94ab12e7-20db-38a2-a341-fb84432e31ca.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",12:00 Tour de France: 18. etape  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493038.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/542f2b06-cdfd-3869-8d58-c38aaa95dc47.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",12:20 Tour de France: 18. etape - uden afbrydelser  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493037.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/14e38769-7794-3797-b302-e74382caca1f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",12:55 ATP: Estoril  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493036.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/0deaf204-b94b-308d-a16b-0a0a34a0a2e4.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",21:00 AftenTour  7/23 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493035.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/4f4a61ff-2314-38b8-a5d9-fdad6961c779.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",03:55 Badminton: China Open  7/24 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493034.m3u8
+http://45.139.122.199:8080/live/Christian1/Christian1/2493986.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/80aceec0-b0ce-382a-8ee9-fe3ad05b728f.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",03:55 Badminton: China Open  7/24 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493033.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/7cb54432-6ac0-3fc7-afcb-b32205e6eab1.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",04:00 Badminton: Kvartfinale, China Open  7/24 [TV2 DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493032.m3u8
+http://45.139.122.199:8080/live/Christian1/Christian1/2493985.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/7cb54432-6ac0-3fc7-afcb-b32205e6eab1.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",04:00 Badminton: Kvartfinaler, China Open  7/24 [TV2 DK]
+http://45.139.122.199:8080/live/Christian1/Christian1/2493988.m3u8
 
-# --- TV4 Play SE (4) ---
+# --- TV4 Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Tv4_play_2009_flat.png" group-title="TV4 Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/109998.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F5490b592-40f8-47d1-a735-378dfac0701d%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",11:00 Austrian Open (250): kvartsfinaler ATP Tour 7/23 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493018.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fe4b598aa-d055-40b7-af05-6b5f245aae4a%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",13:00 Estoril Open (250) ATP Tour 7/23 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493017.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fc09010c7-9a09-4b6f-afc2-adcf13b5d868%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",15:00 Bollklubben Bollklubben 7/23 [TV4 Play]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493016.m3u8
 
 # --- Telia Play Events SE (50) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | HANDA WOMEN'S SCOTTISH OPEN - DAY 1 | Thu 23 Jul 10:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/2303841.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | AUSTRIAN OPEN (250): KVARTSFINALER | Thu 23 Jul 11:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | AUSTRIAN OPEN (250): KVARTSFINALER | Thu 23 Jul 11:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/2303842.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | ATP TOUR: ESTORIL OPEN 250 | Thu 23 Jul 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | ATP TOUR: ESTORIL OPEN 250 | Thu 23 Jul 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/2303843.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | UNITED KINGDOM - DAG 1 | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | UNITED KINGDOM - DAG 1 | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/2303844.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | UNITED KINGDOM - DAY 1 | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | UNITED KINGDOM - DAY 1 | Thu 23 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/2303845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | BOLLKLUBBEN | Thu 23 Jul 15:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | BOLLKLUBBEN | Thu 23 Jul 15:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/2303846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | CRANSTON, RI VS. BRISTOL, CT | Thu 23 Jul 17:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | CRANSTON, RI VS. BRISTOL, CT | Thu 23 Jul 17:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/2303847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ISPS HANDA SENIOR OPEN - DAY 1 | Thu 23 Jul 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | ISPS HANDA SENIOR OPEN - DAY 1 | Thu 23 Jul 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
 http://45.139.122.199:8080/live/Christian1/Christian1/2303848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | BOISE, ID VS. WASHINGTON, DC | Thu 23 Jul 19:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | BOISE, ID VS. WASHINGTON, DC | Thu 23 Jul 19:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/2303849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | KVARTSFINALER | Thu 23 Jul 20:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | KVARTSFINALER | Thu 23 Jul 20:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/2303850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | MASSAPEQUA, NY VS. MINERSVILLE, PA | Thu 23 Jul 21:25 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 11
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | MASSAPEQUA, NY VS. MINERSVILLE, PA | Thu 23 Jul 21:25 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/2303851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | LAS VEGAS, NV VS. LIVE OAK, CA | Thu 23 Jul 23:10 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 12
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | LAS VEGAS, NV VS. LIVE OAK, CA | Thu 23 Jul 23:10 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/2303852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 13
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | PARTY ANIMALS VS. INDIANAPOLIS CLOWNS | Fri 24 Jul 00:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/2303853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 14
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | HANDA WOMEN'S SCOTTISH OPEN - DAY 2 | Fri 24 Jul 10:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/2303854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 15
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNGERN GP - TRÄNING | Fri 24 Jul 11:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/2303855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 16
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | AUSTRIAN OPEN (250): SEMIFINALER | Fri 24 Jul 12:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/2303856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 17
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ATP TOUR: ESTORIL OPEN 250 | Fri 24 Jul 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17
 http://45.139.122.199:8080/live/Christian1/Christian1/2303857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 18
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNGERN GP - TRÄNING 1 | Fri 24 Jul 13:25 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 18
 http://45.139.122.199:8080/live/Christian1/Christian1/2303858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 19
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNITED KINGDOM - DAG 2 | Fri 24 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 19
 http://45.139.122.199:8080/live/Christian1/Christian1/2303859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 20
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNITED KINGDOM - DAY 2 | Fri 24 Jul 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 20
 http://45.139.122.199:8080/live/Christian1/Christian1/2303860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 21
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNGERN GP - KVAL | Fri 24 Jul 15:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21
 http://45.139.122.199:8080/live/Christian1/Christian1/2303861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 22
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNGERN GP - TRÄNING 2 | Fri 24 Jul 16:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22
 http://45.139.122.199:8080/live/Christian1/Christian1/2303862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 23
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTTS-SM | Fri 24 Jul 17:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 23
 http://45.139.122.199:8080/live/Christian1/Christian1/2303863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 24
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTTS-SM DEL 2 | Fri 24 Jul 17:59 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 24
 http://45.139.122.199:8080/live/Christian1/Christian1/2303864.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 25
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ALLSVENSKAN: VÄSTERÅS - ÖRGRYTE | Fri 24 Jul 18:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 25
 http://45.139.122.199:8080/live/Christian1/Christian1/2303865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 26
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ISPS HANDA SENIOR OPEN - DAY 2 | Fri 24 Jul 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 26
 http://45.139.122.199:8080/live/Christian1/Christian1/2303866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 27
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | KVARTSFINALER | Fri 24 Jul 20:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 27
 http://45.139.122.199:8080/live/Christian1/Christian1/2303867.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 28
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTTS-SM DEL 3 | Fri 24 Jul 20:58 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 28
 http://45.139.122.199:8080/live/Christian1/Christian1/2303868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 29
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RALLY-EM: POLEN | Fri 24 Jul 21:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 29
 http://45.139.122.199:8080/live/Christian1/Christian1/2303869.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 30
 http://45.139.122.199:8080/live/Christian1/Christian1/2303870.m3u8
@@ -3077,17 +2845,9 @@ http://45.139.122.199:8080/live/Christian1/Christian1/2303889.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 50
 http://45.139.122.199:8080/live/Christian1/Christian1/2303890.m3u8
 
-# --- VGTV+  NO (5) ---
+# --- VGTV+  NO (1) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/mIL6wDB.png" group-title="VGTV+  NO",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Christian1/Christian1/644117.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/vgtv/images/1cf6ea667b0b23bdd12a9445f65c40c3.jpg?t[]=338x190q80" group-title="VGTV+  NO",18:45 Tromsø IL - FC Hradec Králové 7/23 [VGTV]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493070.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/vgtv/images/ab339c5ccddfcfd3fa5d74a45ac754e6.jpg?t[]=338x190q80" group-title="VGTV+  NO",18:50 Universitatea Cluj - Brann (BT)  7/23 [VGTV]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493069.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/vgtv/images/6cbaaa9801fe8b36a3455ea6dd9e90a8.jpg?t[]=338x190q80" group-title="VGTV+  NO",18:30 Universitatea Cluj - Brann  7/23 [VGTV]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493068.m3u8
-#EXTINF:-1 tvg-logo="https://images.stream.schibsted.media/users/vgtv/images/24558a668c795255382b745a544d8847.jpg?t[]=338x190q80" group-title="VGTV+  NO",19:50 St. Gallen - Benfica 7/23 [VGTV]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493067.m3u8
 
 # --- VGTV+ NO [B] (10) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/vg-tv-no.png" group-title="VGTV+ NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VGTV PPV 1
@@ -3111,21 +2871,11 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1098949.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/vg-tv-no.png" group-title="VGTV+ NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VGTV PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/1098950.m3u8
 
-# --- Viaplay Sport DK (7) ---
+# --- Viaplay Sport DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/709/564/logo_LivGolf.png?width=320&height=320" group-title="Viaplay Sport DK",14:00 LIV Golf United Kingdom | LIV Golf 7/23 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493058.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/925/496/logo_golf-senior-majors-live.png?width=320&height=320" group-title="Viaplay Sport DK",14:30 The Senior Open | Senior Majors 7/23 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493057.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Transferstatus i Brøndby | Viaplay Sport News 7/23 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493056.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",18:00 Braves - Padres | Major League Baseball 7/23 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493055.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",20:30 World Matchplay | PDC Darts 7/23 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493054.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",00:30 Tigers - Royals | Major League Baseball 7/23 [Viaplay DK]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493053.m3u8
+http://45.139.122.199:8080/live/Christian1/Christian1/2493987.m3u8
 
 # --- Viaplay Sport DK [B] (70) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Championship League Snooker @ Jul 7 5:30 PM :Viaplay DK  01
@@ -3269,64 +3019,54 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1132454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  71
 http://45.139.122.199:8080/live/Christian1/Christian1/1132455.m3u8
 
-# --- Viaplay Sport NO (6) ---
+# --- Viaplay Sport NO (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport NO",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/332561.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/709/564/logo_LivGolf.png?width=320&height=320" group-title="Viaplay Sport NO",14:00 LIV Golf United Kingdom | LIV Golf 7/23 [Viaplay NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493086.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/925/496/logo_golf-senior-majors-live.png?width=320&height=320" group-title="Viaplay Sport NO",14:30 The Senior Open | Senior Majors 7/23 [Viaplay NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493085.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport NO",18:00 Braves - Padres | Major League Baseball 7/23 [Viaplay NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493084.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport NO",20:30 World Matchplay | PDC Darts 7/23 [Viaplay NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493083.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport NO",00:30 Tigers - Royals | Major League Baseball 7/23 [Viaplay NO]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493082.m3u8
 
 # --- Viaplay Sport NO [B] (50) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",ENDED | LADIES EUROPEAN TOUR ISPS HANDA WOMEN’S SCOTTISH OPEN | Thu 23 Jul 10:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 1
 http://45.139.122.199:8080/live/Christian1/Christian1/1130786.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",LIVE | LIV GOLF LIV GOLF UNITED KINGDOM | Thu 23 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",ENDED | LIV GOLF LIV GOLF UNITED KINGDOM | Thu 23 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 2
 http://45.139.122.199:8080/live/Christian1/Christian1/1130787.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",LIVE | SENIOR MAJORS THE SENIOR OPEN | Thu 23 Jul 14:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",ENDED | SENIOR MAJORS THE SENIOR OPEN | Thu 23 Jul 14:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 3
 http://45.139.122.199:8080/live/Christian1/Christian1/1130788.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | MAJOR LEAGUE BASEBALL BRAVES - PADRES | Thu 23 Jul 18:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",ENDED | MAJOR LEAGUE BASEBALL BRAVES - PADRES | Thu 23 Jul 18:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 4
 http://45.139.122.199:8080/live/Christian1/Christian1/1130789.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | PDC DARTS WORLD MATCHPLAY | Thu 23 Jul 20:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",ENDED | PDC DARTS WORLD MATCHPLAY | Thu 23 Jul 20:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 5
 http://45.139.122.199:8080/live/Christian1/Christian1/1130790.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | MAJOR LEAGUE BASEBALL TIGERS - ROYALS | Fri 24 Jul 00:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",ENDED | MAJOR LEAGUE BASEBALL TIGERS - ROYALS | Fri 24 Jul 00:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
 http://45.139.122.199:8080/live/Christian1/Christian1/1130791.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | LADIES EUROPEAN TOUR ISPS HANDA WOMEN’S SCOTTISH OPEN | Fri 24 Jul 10:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 7
 http://45.139.122.199:8080/live/Christian1/Christian1/1130792.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NO: VIAPLAY PPV 8 - PREMIER LEAGUE MAN CITY - BOURNEMOUTH | Tue 20 May 18:50 | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Christian1/Christian1/1130793.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | FORMEL 1 UNGARN GRAND PRIX | Fri 24 Jul 13:25 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 9
 http://45.139.122.199:8080/live/Christian1/Christian1/1130794.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | FORMEL 1 TIMING | Fri 24 Jul 13:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 10
 http://45.139.122.199:8080/live/Christian1/Christian1/1130795.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | FORMEL 1 ONBOARD | Fri 24 Jul 13:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 11
 http://45.139.122.199:8080/live/Christian1/Christian1/1130796.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | FORMEL 1 TRACK POSITIONING | Fri 24 Jul 13:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 12
 http://45.139.122.199:8080/live/Christian1/Christian1/1130797.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | FORMEL 1 PITLANE | Fri 24 Jul 13:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 13
 http://45.139.122.199:8080/live/Christian1/Christian1/1130798.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | LIV GOLF LIV GOLF UNITED KINGDOM | Fri 24 Jul 14:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 14
 http://45.139.122.199:8080/live/Christian1/Christian1/1130799.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | SENIOR MAJORS THE SENIOR OPEN | Fri 24 Jul 14:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 15
 http://45.139.122.199:8080/live/Christian1/Christian1/1130800.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | FORMEL 3 BUDAPEST | Fri 24 Jul 14:55 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 16
 http://45.139.122.199:8080/live/Christian1/Christian1/1130801.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | BETINIA LIGA VEJLE BOLDKLUB - AB GLADSAXE | Fri 24 Jul 17:55 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 17
 http://45.139.122.199:8080/live/Christian1/Christian1/1130802.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | BETINIA LIGA AAB - HILLERØD FODBOLD | Fri 24 Jul 18:55 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 18
 http://45.139.122.199:8080/live/Christian1/Christian1/1130803.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 19
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | SUPERLIGA VIBORG FF - OB | Fri 24 Jul 18:55 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 19
 http://45.139.122.199:8080/live/Christian1/Christian1/1130804.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | PDC DARTS WORLD MATCHPLAY | Fri 24 Jul 20:30 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 20
 http://45.139.122.199:8080/live/Christian1/Christian1/1130805.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 21
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | MAJOR LEAGUE BASEBALL BREWERS - ROCKIES | Fri 24 Jul 22:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 21
 http://45.139.122.199:8080/live/Christian1/Christian1/1130806.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 22
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",NEXT | MAJOR LEAGUE BASEBALL GIANTS - ANGELS | Sat 25 Jul 04:00 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 22
 http://45.139.122.199:8080/live/Christian1/Christian1/1130807.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 23
 http://45.139.122.199:8080/live/Christian1/Christian1/1130808.m3u8
@@ -3385,21 +3125,9 @@ http://45.139.122.199:8080/live/Christian1/Christian1/1130834.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13796.png?ver=76798" group-title="Viaplay Sport NO [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | NO: VIAPLAY PPV 50
 http://45.139.122.199:8080/live/Christian1/Christian1/1130835.m3u8
 
-# --- Viaplay Sport SE (7) ---
+# --- Viaplay Sport SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/55760.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/709/564/logo_LivGolf.png?width=320&height=320" group-title="Viaplay Sport SE",14:00 LIV Golf United Kingdom | LIV Golf 7/23 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493051.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/925/496/logo_golf-senior-majors-live.png?width=320&height=320" group-title="Viaplay Sport SE",14:30 The Senior Open | Seniorernas Majortävlingar 7/23 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493050.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",18:00 Braves - Padres | Major League Baseball 7/23 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493049.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport SE",19:00 Studio: Parc Fermé | Formel 1 7/23 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493048.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport SE",20:30 World Matchplay | PDC Dart 7/23 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493047.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",00:30 Tigers - Royals | Major League Baseball 7/23 [Viaplay SE]
-http://45.139.122.199:8080/live/Christian1/Christian1/2493046.m3u8
 
 # --- Viaplay Sport SE [B] (77) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Spanien vs Sverige @ Jul 7 3:50 PM :Viaplay SE  01
@@ -3569,4 +3297,4 @@ http://45.139.122.199:8080/live/Christian1/Christian1/2433668.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TrxqEC8.png" group-title="World Padel Tour TV",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Christian1/Christian1/395508.m3u8
 
-# Total: 1733
+# Total: 1597

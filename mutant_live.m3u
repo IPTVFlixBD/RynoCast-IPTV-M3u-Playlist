@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-07-23 19:37:52
+# Generated: 2026-07-24 07:55:42
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -44764,6 +44764,8 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/615379.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/615378.m3u8
 
 # --- TR | SPOR (41) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | HT Spor
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/770624.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/flags/turkey.png" group-title="TR | SPOR",TR | ✦●✦●      SP⚽RT      ✦●✦●
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/181533.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | TRT SPOR HD
@@ -44780,8 +44782,6 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1022825.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/267260.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | TRT SPOR YILDIZ HD+
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/267259.m3u8
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | HT spor
-http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/770624.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | SPORSMART HD
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/220009.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | SPORSMART 2 HD

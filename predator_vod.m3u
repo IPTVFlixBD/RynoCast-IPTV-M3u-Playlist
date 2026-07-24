@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-07-23 19:31:51
+# Generated: 2026-07-24 07:55:44
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -341,9 +341,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1143) ---
+# --- Movies | Filma me titra Shqip (1144) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg" group-title="Movies | Filma me titra Shqip",Descendants: Wicked Wonderland (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85950.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="Movies | Filma me titra Shqip",Man of War (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85927.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="Movies | Filma me titra Shqip",Enola Holmes 3 (2026)
@@ -9141,4 +9143,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4558
+# Total: 4559

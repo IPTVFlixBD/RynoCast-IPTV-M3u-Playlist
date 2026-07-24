@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nplay.tel:2095
-# Generated: 2026-07-23 19:34:51
+# Generated: 2026-07-24 08:01:02
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
@@ -8265,7 +8265,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/91160.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3J8XDd1MmwfWlUFktdw313otVbR.jpg" group-title="Movies | Astrid Lindgren",Alla vi barn i Bullerbyn [SE] [Multi-Sub] [1986]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/91086.mkv
 
-# --- Movies | Barn (528) ---
+# --- Movies | Barn (529) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",The Snoopy Show
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/1186.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",The Wonderful World of Mickey Mouse
@@ -8276,6 +8276,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/5017.mp4
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/6830.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",The Thundermans: Undercover
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/7633.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Barn",Dragon Striker
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22913.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",Lucas the Spider
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22811.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barn",Unicorn Academy: Secrets Revealed
@@ -12778,6 +12780,22 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2400556.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480293.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26oSPnq0ct59l07QOXZKyzsiRtN.jpg" group-title="Movies | Crtani Filmovi [Ex-yu]",The Bad Guys 2 - 2025
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480294.mkv
+
+# --- Movies | Czech and Slovakia (7) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b2oSyp4dKr09kstvadbPjiUaZG.jpg" group-title="Movies | Czech and Slovakia",Neporazitelný (2002)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493802.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dprXvycJtj8OGxPWDXDTIl0y5LK.jpg" group-title="Movies | Czech and Slovakia",Ruslan (2009)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493803.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AZZnvDakfZoMO0cUdrZeaaU0kS.jpg" group-title="Movies | Czech and Slovakia",Dědictví aneb Kurvahošigutntag (1992)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493804.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXXWBhwa8kTPVWAac8YMhPzVuBC.jpg" group-title="Movies | Czech and Slovakia",Lví srdce (1990)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493805.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKrnaTWW63y4Q1XLrdZQyQmcRWd.jpg" group-title="Movies | Czech and Slovakia",Romeo musí zemřít (2000)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493806.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suKSCm8gVUIIOh4MgtWAtzkMe4.jpg" group-title="Movies | Czech and Slovakia",Práskač (2013)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493807.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k334z7zxOJlJvOsOwyRF6HClCvi.jpg" group-title="Movies | Czech and Slovakia",The Furious (2026)
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493837.mkv
 
 # --- Movies | Danske - Norska - Suomalainen Film (594) ---
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/yVGFU6vGrbSoKrchWTWUoru3zLG.jpg" group-title="Movies | Danske - Norska - Suomalainen Film",Margrete Den Foerste - Margrete Queen of the North [DK] [Multi-Sub] [2021]
@@ -21543,7 +21561,11 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Arabic-Sub]",Peaky Blinders [AR]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2855.mp4
 
-# --- Movies | English [Multi-Sub] (4430) ---
+# --- Movies | English [Multi-Sub] (4433) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Pompeii: Out of Time with Tom Hiddleston
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22917.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Elite Force
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22914.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Secrets of the Bees
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22851.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Scrublands
@@ -30398,6 +30420,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22536.mp4
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22676.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Spooky in Love 2026
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22679.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Spooky in Love
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22912.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Bureau - Falsk Identitet
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/3975.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Unforgotten
@@ -30405,7 +30429,9 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/3959.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The 100
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/746.mp4
 
-# --- Movies | English [Multi-Sub] [4K] [Only On 4K Devices] (118) ---
+# --- Movies | English [Multi-Sub] [4K] [Only On 4K Devices] (119) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Pompeii: Out of Time with Tom Hiddleston [4K]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22916.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Secrets of the Bees [4K]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22852.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",The Hawk [4K]
@@ -40437,7 +40463,117 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399797.mkv
 
-# --- Movies | N1 Sports Events Replays (362) ---
+# --- Movies | N1 Sports Events Replays (380) ---
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/9730f953-cc38-40a7-bfe4-070cfed30328/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",23.15 Las Vegas, NV vs. Live Oak, CA  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493970.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",22.00 Huvudsändning  3M Open golf FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493969.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",22.00 Huvudsändning  3M Open golf 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493968.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.30 World Matchplay  PDC Dart 7.23  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493967.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2fd9i/Yp0qIFOt6TwLjTTMA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.15 Marquee Group  3M Open golf FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493966.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NVrcC/bZIX1sxk3g-M2zJcA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.15 Featured Holes  3M Open golf FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493965.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/acbcc650-93e8-4a50-b6f4-0def4bf186ef/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.30 Massapequa, NY vs. Minersville, PA  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493956.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2fd9i/Yp0qIFOt6TwLjTTMA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.15 Marquee Group  3M Open golf 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493955.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NVrcC/bZIX1sxk3g-M2zJcA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.15 Featured Holes  3M Open golf 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493954.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gw-Gb/Ugc6CcvU_sYIC96RQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.15 Featured Groups  3M Open golf FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493953.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gw-Gb/Ugc6CcvU_sYIC96RQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.15 Featured Groups  3M Open golf 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493952.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OWwQE/xm7lZL0YCsgxVwxdA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",13.45 Kombinerad Feed  3M Open golf FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493951.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.00 Öppningsceremoni  Commonwealth Games alla sporter FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493929.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.00 Öppningsceremoni  Commonwealth Games alla sporter 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493928.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/d5pjT/SqdYV_jNM2mo5mfxw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Ryan Day . Chatchapong Nasa snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493927.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/d5pjT/SqdYV_jNM2mo5mfxw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Ryan Day . Chatchapong Nasa snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493926.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OSKla/hh_vo2meJalT74utw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Liam Pullen . Daniel Wells snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493925.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OSKla/hh_vo2meJalT74utw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Liam Pullen . Daniel Wells snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493924.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZ8Ai/z1sjBuXUDqxHfcAtw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Allan Taylor . Ishpreet Singh Chadha snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493923.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZ8Ai/z1sjBuXUDqxHfcAtw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Allan Taylor . Ishpreet Singh Chadha snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493922.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OWwQE/xm7lZL0YCsgxVwxdA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",13.45 Kombinerad Feed  3M Open golf 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493921.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f425b-2e69-7796-8668-8b5256e5d6a0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",19.45 Boise, ID vs. Washington, DC  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493888.mkv
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="Movies | N1 Sports Events Replays",21.25 Sportnytt 7.23  SVT Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493842.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1akV5/WivfqZMTSbvDUiwVA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Fan Zhengyi . Ben Woollaston snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493841.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1akV5/WivfqZMTSbvDUiwVA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Fan Zhengyi . Ben Woollaston snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493840.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.00 Braves . Padres  Major League Baseball 7.23  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493839.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fe4b598aa-d055-40b7-af05-6b5f245aae4a%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",13.00 Estoril Open (250) ATP Tour 7.23  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493838.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f5c6e-b79d-7b85-bee6-cf453d3046d1/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",18.00 Cranston, RI vs. Bristol, CT  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493801.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.30 The Senior Open  Seniorernas Majortävlingar 7.23  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493800.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.00 Studio. Parc Fermé  Formel 1 7.23  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493799.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XpqVz/5Trf0EXbZHjsj-JSg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Onyee Ng . Yao Pengcheng snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493798.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XpqVz/5Trf0EXbZHjsj-JSg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Onyee Ng . Yao Pengcheng snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493797.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cG93f/FdwkqpCyOKpIjf6kA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Marco Fu . Steven Hallworth snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493796.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cG93f/FdwkqpCyOKpIjf6kA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Marco Fu . Steven Hallworth snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493795.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SdZpF/EMufjj-p5rllqFOCg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Leone Crowley . Long Zehuang snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493794.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SdZpF/EMufjj-p5rllqFOCg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Leone Crowley . Long Zehuang snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493793.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/709/564/logo_LivGolf.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",14.00 LIV Golf United Kingdom  LIV Golf 7.23  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493792.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Mahmoud El Hareedy . Lan Yuhao snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493790.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Mahmoud El Hareedy . Lan Yuhao snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493789.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/12g31/l4Xrt7ZJ2rv5DuZbQ.png?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",12.30 Tour de France  Etapp 18 cykel FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493788.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/12g31/l4Xrt7ZJ2rv5DuZbQ.png?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",12.30 Tour de France  Etapp 18 cykel 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493787.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",12.50 Tour de France  Multiview cykel FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493764.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZBHoN/eGV0akDmvrqFWp5Ig.png?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",12.50 Tour de France  Multiview cykel 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493763.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F5490b592-40f8-47d1-a735-378dfac0701d%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",11.00 Austrian Open (250). kvartsfinaler ATP Tour 7.23  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493762.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fc09010c7-9a09-4b6f-afc2-adcf13b5d868%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",15.00 Bollklubben Bollklubben 7.23  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493760.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CFPKU/JjDanC6rXmDGt5Y8A.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Alfie Burden . Zhang Anda snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493759.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CFPKU/JjDanC6rXmDGt5Y8A.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Alfie Burden . Zhang Anda snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493758.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DaUDB/g8ua2WUoELOqAa0TA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.02 Fergal Quinn . Jackson Page snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493757.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DaUDB/g8ua2WUoELOqAa0TA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.02 Fergal Quinn . Jackson Page snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493756.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/X8tHi/2WgPW0j6NpJnonN_g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Michael Larkov . Artemijs Zizins snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493755.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/X8tHi/2WgPW0j6NpJnonN_g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Michael Larkov . Artemijs Zizins snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493754.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5feHG/eXrhAimh54ek-9H_g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Gary Wilson . Ricky Walden snooker FHD 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493753.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5feHG/eXrhAimh54ek-9H_g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Gary Wilson . Ricky Walden snooker 7.23  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493752.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/6x9b55.jpg?width=320" group-title="Movies | N1 Sports Events Replays",09.50 Lycksele, Motorveckan 7.23  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493751.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",10.30 ISPS Handa Women’s Scottish Open  Ladies European Tour 7.23  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493749.mkv
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/s-FhM/YQtkqyQtID0z51Urg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",11.00 Thepchaiya Un.Nooh . Jamie Clarke snooker FHD 7.23  HBO Max SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493735.mkv
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/s-FhM/YQtkqyQtID0z51Urg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",11.00 Thepchaiya Un.Nooh . Jamie Clarke snooker 7.23  HBO Max SE
@@ -40980,80 +41116,6 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2485314.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2485313.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.00 Braves . Rangers  Major League Baseball 7.17  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484870.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F3b469126-0c67-40b4-8ba6-f1122f76dea1%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",18.30 Croatia Open (250). semifinaler ATP Tour 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484825.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",19.30 Red Sox . Rays  Major League Baseball 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484814.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.30 Huvudsändning  Corales Championship golf FHD 7.17  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484813.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.30 Huvudsändning  Corales Championship golf 7.17  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484812.mkv
-#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="Movies | N1 Sports Events Replays",21.25 Sportnytt 7.17  SVT Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484777.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.45 Mjällby AIF . Västerås SK Allsvenskan 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484776.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.45 IFK Göteborg . IF Brommapojkarna Allsvenskan 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484775.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.55 The Open. Player Focus Feed  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484774.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F82943e10-321f-4f9a-a49b-030b265fa644%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",15.15 Rally.VM. Estland Rally.VM 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484773.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.30 The Open. Huvudsändning  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484772.mkv
-#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/35690297/1686133168" group-title="Movies | N1 Sports Events Replays",15.55 Friidrott. U18.EM . Idag 15.55 7.17  SVT Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484757.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.15 The Open. Nordic Feed (R. Højgaard & Hovland)  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484756.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Ffe83cb98-dbb5-4707-9a6c-4546632dec05%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",10.30 Swiss Open (250). kvartsfinaler ATP Tour 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484755.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Feac7599b-40f5-42c2-9295-d43e46daa573%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",18.30 Rally.VM. Estland Rally.VM 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484737.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.00 Track Positioning  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484712.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.00 Timing  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484711.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.00 Pitlane  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484710.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.00 Onboard  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484709.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",16.50 Belgiens Grand Prix  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484708.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fcb05b994-f889-40f9-98fb-54d0589a4a3a%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",15.10 Internationell hoppning 1,45 Global Champions Tour 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484663.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.30 The Open. Live at the Range  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484662.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F14fd748b-ddb5-432d-828d-a0f8e4288ae0%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",11.30 Rally.VM. Estland Rally.VM 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484661.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/997/440/logo_F2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Spa.Francorchamps  Formel 2 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484651.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F3dc59ec4-32eb-48be-93d6-fa1eb8c9f988%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",11.00 Nordea Open (250). kvartsfinaler ATP Tour 7.17  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484650.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/1003/296/logo_F3.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.00 Spa.Francorchamps  Formel 3 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484640.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.30 Track Positioning  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484639.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.30 Timing  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484638.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.30 Pitlane  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484637.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.30 Onboard  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484636.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.20 Belgiens Grand Prix  Formel 1 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484635.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/997/440/logo_F2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.05 Spa.Francorchamps  Formel 2 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484584.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.10 The Open. Featured Groups 2  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484557.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.45 The Open. Multiview  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484556.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.45 The Open. Featured Groups 1  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484555.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/261/616/logo_TheOpen.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",08.30 The Open. Live at the Range  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484554.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",07.30 The Open. Huvudsändning  Golf Major 7.17  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484553.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.00 Phillies . Mets  Major League Baseball 7.16  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2483899.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/735/984/logo_IRONMANProSeries.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",07.30 IRONMAN 70.3 Swansea  IRONMAN Pro Series 7.12  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480820.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",11.55 Denis Shapovalov . Pablo Carreño Busta tennis FHD 6.29  HBO Max SE
@@ -41163,7 +41225,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2309912.mkv
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e2720206-3698-436a-a739-9c5374903c2e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202602261355" group-title="Movies | N1 Sports Events Replays",13.15 Cognizant Classic in The Palm Beaches. Main Feed (Third Round) 2.28
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2309905.mkv
 
-# --- Movies | Nordic (1260) ---
+# --- Movies | Nordic (1262) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Helikopterrånet
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Alex
@@ -43508,6 +43570,10 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/20999.mp4
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21022.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Den gode stemning - Secrets
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22113.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Svärtan
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22915.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",L/over – ikuisesti minun
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22911.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Hautalehto
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22734.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Jocke & Jonna lovar och svär
@@ -43685,7 +43751,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Ørnen: En Krimi Odyssè / Örnen
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21097.mp4
 
-# --- Movies | Old Popular Movies [Multi-Sub] (7699) ---
+# --- Movies | Old Popular Movies [Multi-Sub] (7700) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivo09vYN76w3epqAv9jS9BEXi5N.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",How to Build a Better Boy [PRE] [Multi-AUDIO] [2014]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/617857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Bad Hair Day [PRE] [Multi-AUDIO] [2015]
@@ -59084,6 +59150,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2487009.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2487010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGQZGujjw8S6NKs5C8nugsMtol.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Smiley Face [PRE] [2007]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2487014.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZzW0wUcyLXBLMSGasdvtLefwsL.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Jester [PRE] [2023]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493791.mkv
 
 # --- Movies | Polska (1299) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="Movies | Polska",65 [PL] [LEKTOR] [2023]
@@ -61685,7 +61753,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480912.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="Movies | Polska",The Punisher: One Last Kill [PL] [LEKTOR] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480913.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5964) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5977) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -61696,6 +61764,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/146146.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/384488.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfae1vtjzlE73DPJGlHq88sZKX3.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Slumberland [PRE] [MULTI-AUDIO] [2022]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/450456.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig9iyMBptoX8HxUpAS0kZog2KeF.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Sins of the Parents: The Crumbley Trials [PRE] [2024]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493930.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Death of Robin Hood [PRE] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2491155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Heartstopper Forever [PRE] [2026]
@@ -73614,6 +73684,30 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484679.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2484680.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXv1sy3Jw5lJXog06MC7f57ERu5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mechamato Movie [PRE] [2022]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2488969.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKrqQGLlIM8qjCjWhHTg6AhrlsY.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",A Toxic Love Story [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493932.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Disclosure Day [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493933.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4sJvdel0pWlm8CP0DbEKu0Nu4I.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Fatal Watch [PRE] [2025]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uK8HLze1WHwi5hnQcs38YD7fNR.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Me and Mr. Right [PRE] [2023]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493935.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yElApxPBE2AY1a2yJfBlv5F62rI.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Hearts Around the Table: Josh's Third Serving [PRE] [2025]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493936.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxvn90eyEunObxqkMn0k882Dfzk.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Last Hit [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493937.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIBCo9NCFTXe1v49DTUHlYXcQx4.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Let's Love [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493938.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oacwf8O9w7lX9j5ghUyiXfU8YD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",My Grandfather Charles Manson [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493939.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Debt Collector [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493940.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Odyssey: The Making of an Epic [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493941.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",They Fight [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493942.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfU7vCs67D2edlJpNwuWyRjR0lD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",This Is Joan Collins [PRE] [2022]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493943.mkv
 
 # --- Movies | Ramadan 2026 (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ramadan 2026",رامز ليفل الوحش
@@ -73679,7 +73773,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/503168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",10 Hours of Relaxing Music Calm Piano Guitar, Sleep Music, Study Music 0003
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/503169.mp4
 
-# --- Movies | Svenska (831) ---
+# --- Movies | Svenska (838) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7K0PGTnDeOBd03R0Xi3oFyaPHw.jpg" group-title="Movies | Svenska",Tjenare Kungen [SE] [Multi-Sub] [2005]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2474534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihJuuIxDYlxIjo9iu8Ms90yLZBn.jpg" group-title="Movies | Svenska",Glasblåsarns barn [SE] [Multi-Sub] [1998]
@@ -75292,6 +75386,20 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2431637.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2473521.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmGWsfcJYXBLeNwqDTkDytl3yy6.jpg" group-title="Movies | Svenska",Thanos Fotas - Live på Cirkus [SE] [Multi-Sub] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2488874.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaQ0fNgcEpmKAMIw4PVkeGTrA8G.jpg" group-title="Movies | Svenska",Alla mår bra [SE] [Multi-Sub] [2006]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493944.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFLkxNekw7cIY5mfTd8CF9cC1vr.jpg" group-title="Movies | Svenska",Barnen från Jordbro [SE] [Multi-Sub] [1982]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493945.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctLJ9YeBvTXGzKPfKJysWM7xNbG.jpg" group-title="Movies | Svenska",Det var en gång en liten flicka [SE] [Multi-Sub] [1992]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493946.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odGOjjgbGihpottqufALhkqyZ8U.jpg" group-title="Movies | Svenska",En pizza i Jordbro [SE] [Multi-Sub] [1994]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493947.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5BlN3U2DUVRzFzDQdpYEJFC5rh.jpg" group-title="Movies | Svenska",Leva i Jordbro [SE] [Multi-Sub] [1996]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493948.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcJSDje0OA2F1YGm8eH3eiQ7rOo.jpg" group-title="Movies | Svenska",Långt från Jordbro [SE] [Multi-Sub] [2014]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493949.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXB4RyglujVm30NPpotkrn5TOui.jpg" group-title="Movies | Svenska",Tillbaka till Jordbro [SE] [Multi-Sub] [1996]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493950.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZcK8blLUXjMv2u0Kh7GDl9kT2I.jpg" group-title="Movies | Svenska",Apan [SE] [2009]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/284868.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79nUxKn6kPagIOHcOMsev3UxT38.jpg" group-title="Movies | Svenska",Populärmusik från Vittula [se] [2004]
@@ -79001,4 +79109,4 @@ http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/497
 #EXTINF:-1 tvg-logo="" group-title="Series | Turkish Series [ مسلسلات تركية مترجمة ]",İçerde
 http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/556
 
-# Total: 39439
+# Total: 39492

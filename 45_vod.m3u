@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-07-23 19:27:38
+# Generated: 2026-07-24 07:53:03
 # Expires: 2027-07-21
 # Family Safe Edition
 # ==============================================
@@ -5767,7 +5767,11 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/22481.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DramaBite [ English ]",Love Story in a Flower Village
 http://45.139.122.199:8080/movie/Christian1/Christian1/22482.mp4
 
-# --- Movies | English [Multi-Sub] (4430) ---
+# --- Movies | English [Multi-Sub] (4433) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Pompeii: Out of Time with Tom Hiddleston
+http://45.139.122.199:8080/movie/Christian1/Christian1/22917.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Elite Force
+http://45.139.122.199:8080/movie/Christian1/Christian1/22914.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Secrets of the Bees
 http://45.139.122.199:8080/movie/Christian1/Christian1/22851.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Scrublands
@@ -14622,6 +14626,8 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/22536.mp4
 http://45.139.122.199:8080/movie/Christian1/Christian1/22676.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Spooky in Love 2026
 http://45.139.122.199:8080/movie/Christian1/Christian1/22679.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Spooky in Love
+http://45.139.122.199:8080/movie/Christian1/Christian1/22912.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Bureau - Falsk Identitet
 http://45.139.122.199:8080/movie/Christian1/Christian1/3975.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Unforgotten
@@ -14629,7 +14635,9 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/3959.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The 100
 http://45.139.122.199:8080/movie/Christian1/Christian1/746.mp4
 
-# --- Movies | English [Multi-Sub] [4K] [Only On 4K Devices] (118) ---
+# --- Movies | English [Multi-Sub] [4K] [Only On 4K Devices] (119) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Pompeii: Out of Time with Tom Hiddleston [4K]
+http://45.139.122.199:8080/movie/Christian1/Christian1/22916.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Secrets of the Bees [4K]
 http://45.139.122.199:8080/movie/Christian1/Christian1/22852.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",The Hawk [4K]
@@ -21417,7 +21425,7 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://45.139.122.199:8080/movie/Christian1/Christian1/2399797.mkv
 
-# --- Movies | Nordic (1260) ---
+# --- Movies | Nordic (1262) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Helikopterrånet
 http://45.139.122.199:8080/movie/Christian1/Christian1/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Alex
@@ -23762,6 +23770,10 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/20999.mp4
 http://45.139.122.199:8080/movie/Christian1/Christian1/21022.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Den gode stemning - Secrets
 http://45.139.122.199:8080/movie/Christian1/Christian1/22113.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Svärtan
+http://45.139.122.199:8080/movie/Christian1/Christian1/22915.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",L/over – ikuisesti minun
+http://45.139.122.199:8080/movie/Christian1/Christian1/22911.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Hautalehto
 http://45.139.122.199:8080/movie/Christian1/Christian1/22734.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Jocke & Jonna lovar och svär
@@ -23939,7 +23951,7 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/21099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Ørnen: En Krimi Odyssè / Örnen
 http://45.139.122.199:8080/movie/Christian1/Christian1/21097.mp4
 
-# --- Movies | Old Popular Movies [Multi-Sub] (7699) ---
+# --- Movies | Old Popular Movies [Multi-Sub] (7700) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivo09vYN76w3epqAv9jS9BEXi5N.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",How to Build a Better Boy [PRE] [Multi-AUDIO] [2014]
 http://45.139.122.199:8080/movie/Christian1/Christian1/617857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Bad Hair Day [PRE] [Multi-AUDIO] [2015]
@@ -39338,8 +39350,10 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2487009.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2487010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGQZGujjw8S6NKs5C8nugsMtol.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Smiley Face [PRE] [2007]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2487014.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZzW0wUcyLXBLMSGasdvtLefwsL.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Jester [PRE] [2023]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493791.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5964) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5977) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Christian1/Christian1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -39350,6 +39364,8 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/146146.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/384488.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfae1vtjzlE73DPJGlHq88sZKX3.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Slumberland [PRE] [MULTI-AUDIO] [2022]
 http://45.139.122.199:8080/movie/Christian1/Christian1/450456.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig9iyMBptoX8HxUpAS0kZog2KeF.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Sins of the Parents: The Crumbley Trials [PRE] [2024]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493930.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Death of Robin Hood [PRE] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2491155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Heartstopper Forever [PRE] [2026]
@@ -51268,6 +51284,30 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2484679.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2484680.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXv1sy3Jw5lJXog06MC7f57ERu5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mechamato Movie [PRE] [2022]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2488969.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKrqQGLlIM8qjCjWhHTg6AhrlsY.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",A Toxic Love Story [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493932.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Disclosure Day [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493933.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4sJvdel0pWlm8CP0DbEKu0Nu4I.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Fatal Watch [PRE] [2025]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uK8HLze1WHwi5hnQcs38YD7fNR.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Me and Mr. Right [PRE] [2023]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493935.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yElApxPBE2AY1a2yJfBlv5F62rI.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Hearts Around the Table: Josh's Third Serving [PRE] [2025]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493936.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxvn90eyEunObxqkMn0k882Dfzk.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Last Hit [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493937.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIBCo9NCFTXe1v49DTUHlYXcQx4.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Let's Love [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493938.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oacwf8O9w7lX9j5ghUyiXfU8YD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",My Grandfather Charles Manson [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493939.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Debt Collector [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493940.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Odyssey: The Making of an Epic [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493941.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",They Fight [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493942.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfU7vCs67D2edlJpNwuWyRjR0lD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",This Is Joan Collins [PRE] [2022]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493943.mkv
 
 # --- Movies | Recent releases [English subtitles] (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Recent releases [English subtitles]",The Tonight Show Starring Jimmy Fallon
@@ -51299,7 +51339,7 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/503168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",10 Hours of Relaxing Music Calm Piano Guitar, Sleep Music, Study Music 0003
 http://45.139.122.199:8080/movie/Christian1/Christian1/503169.mp4
 
-# --- Movies | Svenska (831) ---
+# --- Movies | Svenska (838) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7K0PGTnDeOBd03R0Xi3oFyaPHw.jpg" group-title="Movies | Svenska",Tjenare Kungen [SE] [Multi-Sub] [2005]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2474534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihJuuIxDYlxIjo9iu8Ms90yLZBn.jpg" group-title="Movies | Svenska",Glasblåsarns barn [SE] [Multi-Sub] [1998]
@@ -52912,6 +52952,20 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2431637.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2473521.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmGWsfcJYXBLeNwqDTkDytl3yy6.jpg" group-title="Movies | Svenska",Thanos Fotas - Live på Cirkus [SE] [Multi-Sub] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2488874.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaQ0fNgcEpmKAMIw4PVkeGTrA8G.jpg" group-title="Movies | Svenska",Alla mår bra [SE] [Multi-Sub] [2006]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493944.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFLkxNekw7cIY5mfTd8CF9cC1vr.jpg" group-title="Movies | Svenska",Barnen från Jordbro [SE] [Multi-Sub] [1982]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493945.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctLJ9YeBvTXGzKPfKJysWM7xNbG.jpg" group-title="Movies | Svenska",Det var en gång en liten flicka [SE] [Multi-Sub] [1992]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493946.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odGOjjgbGihpottqufALhkqyZ8U.jpg" group-title="Movies | Svenska",En pizza i Jordbro [SE] [Multi-Sub] [1994]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493947.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5BlN3U2DUVRzFzDQdpYEJFC5rh.jpg" group-title="Movies | Svenska",Leva i Jordbro [SE] [Multi-Sub] [1996]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493948.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcJSDje0OA2F1YGm8eH3eiQ7rOo.jpg" group-title="Movies | Svenska",Långt från Jordbro [SE] [Multi-Sub] [2014]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493949.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXB4RyglujVm30NPpotkrn5TOui.jpg" group-title="Movies | Svenska",Tillbaka till Jordbro [SE] [Multi-Sub] [1996]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2493950.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZcK8blLUXjMv2u0Kh7GDl9kT2I.jpg" group-title="Movies | Svenska",Apan [SE] [2009]
 http://45.139.122.199:8080/movie/Christian1/Christian1/284868.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79nUxKn6kPagIOHcOMsev3UxT38.jpg" group-title="Movies | Svenska",Populärmusik från Vittula [se] [2004]
@@ -53155,4 +53209,4 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2173473.mkv
 
-# Total: 26541
+# Total: 26568
