@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-24 19:22:25
+# Generated: 2026-07-25 07:53:39
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13775,7 +13775,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3819) ---
+# --- Movies | SRS - NEW ADDED [EN] (3821) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Baghdad Central (2020) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33933.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Insatiable (2018) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33932.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Ms. X (2026) (NZ)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33923.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Ransom Canyon (2025) (US)
@@ -113241,4 +113245,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56507
+# Total: 56509
