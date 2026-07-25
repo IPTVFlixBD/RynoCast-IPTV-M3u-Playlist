@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-07-25 07:55:12
+# Generated: 2026-07-25 19:08:01
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -8609,9 +8609,11 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (154) ---
+# --- World Sports (155) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",Boxing Live  Joshua vs Prenga
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85952.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 2 FHD
@@ -8919,4 +8921,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4429
+# Total: 4430

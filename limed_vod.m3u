@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: limed.cc:80
-# Generated: 2026-07-25 07:58:22
+# Generated: 2026-07-25 19:17:40
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -6588,6 +6588,8 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/9838.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9811.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Testemunha Ocular
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9714.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Spider-Noir
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/9684.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Bob Zoom
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9668.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",The Grand-ioso Tour
@@ -7046,8 +7048,6 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/7435.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/258.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Mundo Bita
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/1549.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Murder Drones
-http://limed.cc:80/movie/ZWsDKE/XZu7nP/7436.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Negociador
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/2781.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Newtopia
@@ -20753,7 +20753,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/8094.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentário",Pílula de Farinha: O Escândalo que Gerou Vidas
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/8160.mp4
 
-# --- Movies | Dorama (512) ---
+# --- Movies | Dorama (513) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",Do reparo ao par [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9979.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",Rainha da Escuridão [L]
@@ -20782,6 +20782,8 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/9938.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9937.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",A Chave para o Coração da Fênix [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9924.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",가족관계증명서 [L]
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/9921.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",Flores do Poder [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9918.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",Os Refens do Professor Hiiragi [L]
@@ -29065,7 +29067,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/4046.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",X-Men: Evolution
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/3199.mp4
 
-# --- Movies | Lançamento (1303) ---
+# --- Movies | Lançamento (1300) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg" group-title="Movies | Lançamento",Elize: Sombras de uma Mulher [4K] (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/549377.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBKdfIV8YeReAYyzebW7R14vWhe.jpg" group-title="Movies | Lançamento",O Cobrador de Dívidas [L] (2026)
@@ -29728,11 +29730,11 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/540915.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/540914.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or8efRgDO5SRNCcpi3DYESF0D0K.jpg" group-title="Movies | Lançamento",Rastro do Ouro (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/540894.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pIgFNoX07z7alHt73TSsKRtYye.jpg" group-title="Movies | Lançamento",Devoradores de Estrelas (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg" group-title="Movies | Lançamento",Devoradores de Estrelas (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/540760.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg" group-title="Movies | Lançamento",O Drama [L] (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/540752.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pIgFNoX07z7alHt73TSsKRtYye.jpg" group-title="Movies | Lançamento",Devoradores de Estrelas [L] (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg" group-title="Movies | Lançamento",Devoradores de Estrelas [L] (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/540749.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMJaRPY4xx4lScIaIWd67yWJuqc.jpg" group-title="Movies | Lançamento",Criaturas Extraordinariamente Brilhantes [4K] (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/540616.mp4
@@ -31152,8 +31154,6 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/9926.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9925.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",The Apartment Job
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9923.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",가족관계증명서 [L]
-http://limed.cc:80/movie/ZWsDKE/XZu7nP/9921.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",ウルトラマンテオ [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9920.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Mebius Dust [L]
@@ -31372,8 +31372,6 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/9696.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9695.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Calabasas Confidential [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9693.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Spider-Noir Black and White Edition
-http://limed.cc:80/movie/ZWsDKE/XZu7nP/9692.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Rafa
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9690.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Não Tem Dinheiro que Pague
@@ -31386,8 +31384,6 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/9687.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9686.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",A Pousada do Jae-seok
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9685.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Spider-Noir
-http://limed.cc:80/movie/ZWsDKE/XZu7nP/9684.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Cinquentões de Elite [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9679.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",E.T. - Edu e Tatá
@@ -31584,6 +31580,8 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/7706.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/2210.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",MasterChef
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/253.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Murder Drones
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/7436.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Na Fazenda com Jeremy Clarkson
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/1539.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Mentes Criminosas
@@ -31606,8 +31604,6 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/1581.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/2554.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Origem
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/2421.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Margarita: Faça Sua História Valer a Pena
-http://limed.cc:80/movie/ZWsDKE/XZu7nP/6284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",For All Mankind
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/462.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",Histórico Criminal
@@ -68943,7 +68939,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/4605.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | News",Retrospectiva 2022: Edição Globoplay
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/4226.mp4
 
-# --- Movies | Novela (277) ---
+# --- Movies | Novela (278) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Malhação (1996)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9577.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Bebê a Bordo
@@ -69282,6 +69278,8 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/1689.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/3051.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Mar do Sertão
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/2075.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Margarita: Faça Sua História Valer a Pena
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/6284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Maria do Bairro
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/770.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Marimar
@@ -71081,7 +71079,9 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/133714.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oobFuclvzMPDZVndx5yvgkTBzZs.jpg" group-title="Movies | Romance",O Souvenir: Parte II (2021)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/137014.mp4
 
-# --- Movies | Sci-Fi & Fantasia (96) ---
+# --- Movies | Sci-Fi & Fantasia (97) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasia",Spider-Noir Black and White Edition
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/9692.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasia",O Iluminado
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/9615.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasia",Teacup - O Impostor

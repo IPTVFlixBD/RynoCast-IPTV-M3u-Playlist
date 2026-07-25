@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-25 07:53:39
+# Generated: 2026-07-25 19:07:39
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -37662,6 +37662,32 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022326.mkv
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQvB82yWE6xT07j9Iy0dX4SX31C.jpg" group-title="Movies | VOD - FANTASIE-FILMS [NL]",NL - 검객 (2020)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022521.mkv
+
+# --- Movies | VOD - FILM 1940/1980 [IT] (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Il furore della Cina colpisce ancora (1971)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404538.mkv
+
+# --- Movies | VOD - FILM 1990/2024 [IT] (4) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smM6z0XclP8z30DhTMckAYvfqZk.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Dragon: La storia di Bruce Lee (1993)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404542.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QGBZO3YfPdkcNzlJBnCvJvTH3g.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Confessions (2010)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404540.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Finché dura siamo a galla (1992)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404535.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mMxQuW2b5zL6TlhvufdU1poH9n.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Bus 47 (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404534.mp4
+
+# --- Movies | VOD - FILM 2025/2026 [IT] (5) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Eleanor the Great (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404543.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyJeSZsQ6oHjDs1npDrax0rhL3L.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Domani interrogo (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404541.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Cleaner (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWyediDd8Sl8KijrJRsnO9L80s2.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Champagne: Peppino di Capri (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404537.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B67EVZLtLttFGGujVzTWxudCK2.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - C'era una volta mia madre (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404536.mp4
 
 # --- Movies | VOD - FILMOGRAPHIE LOUIS DE FUNES [FR] (58) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbS1C9Zc1RbQIUs2tzVhyPwQNUl.jpg" group-title="Movies | VOD - FILMOGRAPHIE LOUIS DE FUNES [FR]",FR - Les Bons Vivants (1965)
@@ -112677,7 +112703,11 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/22725
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/16970
 
-# --- Series | SRS - SERIES 2026 [FR] (195) ---
+# --- Series | SRS - SERIES 2026 [FR] (197) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Le Pere de ma Fille (2026) (MX)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33935
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - GIGN (2026) (FR)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/33934
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - La Carte des Désirs (2026) (ES)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/33893
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Les Enfants de plomb (2026) (PL)
@@ -113245,4 +113275,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56509
+# Total: 56521
