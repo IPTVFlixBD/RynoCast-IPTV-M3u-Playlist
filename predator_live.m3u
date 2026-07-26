@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-07-25 19:08:01
+# Generated: 2026-07-26 19:10:03
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1701,7 +1701,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: FightBox HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77987.m3u8
 
-# --- Ex-Yu (299) ---
+# --- Ex-Yu (304) ---
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",========Ex-Yu========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12486.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hrttv1.png" group-title="Ex-Yu",HR: HRT 1 HD
@@ -2258,6 +2258,16 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63384.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/19086.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: MNet SPORT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/19092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: Arena Sport 1 Premium ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: Arena Sport 2 Premium ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85956.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: Arena Sport 3 Premium ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: Arena Sport 4 Premium ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: Arena Sport 5 Premium ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85953.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",CG: RTCG 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/15434.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",CG: RTCG 2
@@ -8921,4 +8931,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4430
+# Total: 4435

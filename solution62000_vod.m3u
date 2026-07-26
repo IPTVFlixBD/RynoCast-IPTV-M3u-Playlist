@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-07-25 19:07:18
+# Generated: 2026-07-26 19:08:14
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -51,7 +51,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2983.mp4
 #EXTINF:-1 tvg-logo="http://boxhd2.selfip.com/pic/q23.jpg" group-title="Movies | AL Quran Al Karim",alfurqan
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2984.mp4
 
-# --- Movies | Apple tv+ (102) ---
+# --- Movies | Apple tv+ (103) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg" group-title="Movies | Apple tv+",Les Fous du pickleball (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29486.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoizilI4sXe6xycONzAwZnfhT2v.jpg" group-title="Movies | Apple tv+",Vol de nuit pour Los Angeles (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28214.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg" group-title="Movies | Apple tv+",Chantage (2026)
@@ -5525,7 +5527,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (507) ---
+# --- Movies | NETFLIX (509) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg" group-title="Movies | NETFLIX",72 heures (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29487.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4lbvwb2OGsfv3SNjLSDPZP4hNMY.jpg" group-title="Movies | NETFLIX",Leur vérité (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29485.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg" group-title="Movies | NETFLIX",En Souffrance (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29471.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg" group-title="Movies | NETFLIX",Elize Surgie de l'Ombre (2026)
@@ -7863,7 +7869,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (325) ---
+# --- Series | Series divers (326) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8514,5 +8520,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1234
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Hawk
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1246
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Stuart Fails to Save the Universe
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1252
 
-# Total: 4224
+# Total: 4228

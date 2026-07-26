@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-25 19:07:39
+# Generated: 2026-07-26 19:03:50
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13775,7 +13775,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3821) ---
+# --- Movies | SRS - NEW ADDED [EN] (3823) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - In the City (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33950.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Stuart Fails to Save the Universe (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33949.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Baghdad Central (2020) (GB)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33933.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Insatiable (2018) (US)
@@ -27045,6 +27049,10 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029425.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGeCXy65Dw58Y1UBmSURedCjTVw.jpg" group-title="Movies | VOD - AMAZON PRIME [NL]",NL - Saltburn (2023)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1030056.mp4
 
+# --- Movies | VOD - ANIMAZIONE [IT] (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLmhtfxcrnARA1GYVpDdqFe8fJ5.jpg" group-title="Movies | VOD - ANIMAZIONE [IT]",IT - Alice nel paese delle meraviglie (1951)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403576.mp4
+
 # --- Movies | VOD - ANIME [FR] (209) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg" group-title="Movies | VOD - ANIME [FR]",FR - Sword Art Online the Movie - Progressive - Aria of a Starless Night (2021)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1400585.mkv
@@ -37663,21 +37671,37 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQvB82yWE6xT07j9Iy0dX4SX31C.jpg" group-title="Movies | VOD - FANTASIE-FILMS [NL]",NL - 검객 (2020)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022521.mkv
 
-# --- Movies | VOD - FILM 1940/1980 [IT] (1) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Il furore della Cina colpisce ancora (1971)
+# --- Movies | VOD - FILM 1940/1980 [IT] (7) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U1B957jzOZjdzHSJnpZgn0Ebq2.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Il furore della Cina colpisce ancora (1971)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404538.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzgVN307jyqb2dsrpsBniF2Yclr.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - L'ultimo combattimento di Chen (1978)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403581.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inv7ANheKCNgmbDwRMCGVLfiHp6.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - L'urlo di Chen terrorizza anche l'occidente (1972)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403580.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nispSFIxZm6CtsctZXobf3elxl.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Dalla Cina con furore (1972)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403579.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0Zpaps6oLf3AQqfs0gbNQdaDUz.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Per qualche dollaro in più (1965)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/626047.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apOafcj1w3g1BROkRKyLqRy73bv.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Europe '51  (1952)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/626046.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanO8MVtUwywgsiRpfA0WcbHvM3.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Cannibal Holocaust  (1980)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/626045.mp4
 
-# --- Movies | VOD - FILM 1990/2024 [IT] (4) ---
+# --- Movies | VOD - FILM 1990/2024 [IT] (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smM6z0XclP8z30DhTMckAYvfqZk.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Dragon: La storia di Bruce Lee (1993)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QGBZO3YfPdkcNzlJBnCvJvTH3g.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Confessions (2010)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404540.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Finché dura siamo a galla (1992)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K26TkQAAAe35Uw8PNcSySDZwBk.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Finché dura siamo a galla (1992)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404535.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mMxQuW2b5zL6TlhvufdU1poH9n.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Bus 47 (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404534.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4RTAiU6Llm3k925wFgTadDvg1i.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Bruce Lee: La grande sfida (2017)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403582.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqgjFoJp4uWmOFMIv8WFm3A15Ib.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - BFF: Best Friends Forever (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403578.mp4
 
-# --- Movies | VOD - FILM 2025/2026 [IT] (5) ---
+# --- Movies | VOD - FILM 2025/2026 [IT] (7) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Eleanor the Great (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404543.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyJeSZsQ6oHjDs1npDrax0rhL3L.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Domani interrogo (2026)
@@ -37688,6 +37712,10 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404539.mkv
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404537.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B67EVZLtLttFGGujVzTWxudCK2.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - C'era una volta mia madre (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404536.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV181Nhxyef8ZXPNFc0gLtaA4PS.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - The Punisher: One Last Kill (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403575.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Una famiglia di bastardi (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403574.mkv
 
 # --- Movies | VOD - FILMOGRAPHIE LOUIS DE FUNES [FR] (58) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbS1C9Zc1RbQIUs2tzVhyPwQNUl.jpg" group-title="Movies | VOD - FILMOGRAPHIE LOUIS DE FUNES [FR]",FR - Les Bons Vivants (1965)
@@ -39621,23 +39649,7 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403584.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV181Nhxyef8ZXPNFc0gLtaA4PS.jpg" group-title="Movies | VOD - ITALY 4K [IT]",IT-[4K] - The Punisher: One Last Kill (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403583.mkv
 
-# --- Movies | VOD - ITALY [IT] (128) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4RTAiU6Llm3k925wFgTadDvg1i.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Bruce Lee: La grande sfida (2017)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403582.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzgVN307jyqb2dsrpsBniF2Yclr.jpg" group-title="Movies | VOD - ITALY [IT]",IT - L'ultimo combattimento di Chen (1978)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403581.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inv7ANheKCNgmbDwRMCGVLfiHp6.jpg" group-title="Movies | VOD - ITALY [IT]",IT - L'urlo di Chen terrorizza anche l'occidente (1972)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403580.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nispSFIxZm6CtsctZXobf3elxl.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Dalla Cina con furore (1972)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403579.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqgjFoJp4uWmOFMIv8WFm3A15Ib.jpg" group-title="Movies | VOD - ITALY [IT]",IT - BFF: Best Friends Forever (2024)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403578.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLmhtfxcrnARA1GYVpDdqFe8fJ5.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Alice nel paese delle meraviglie (1951)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403576.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV181Nhxyef8ZXPNFc0gLtaA4PS.jpg" group-title="Movies | VOD - ITALY [IT]",IT - The Punisher: One Last Kill (2026)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403575.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Una famiglia di bastardi (2026)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403574.mkv
+# --- Movies | VOD - ITALY [IT] (117) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnXY9zDQcwbPHZzhhOZHbHYhBmE.jpg" group-title="Movies | VOD - ITALY [IT]",IT - A Capodanno tutti da me (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403573.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvMfDhU863kf8IRJbiKKHlpNtEg.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Tommaso  (2020)
@@ -39808,12 +39820,6 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/626050.mp4
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/626049.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79FQkYyA1EKGYyRWjGvtitF9kZY.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Hitch Hike to Hell  (1977)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/626048.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVUIAVsh2lMzweyrbdsOgiZoQuy.jpg" group-title="Movies | VOD - ITALY [IT]",IT - For a Few Dollars More  (1965)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/626047.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apOafcj1w3g1BROkRKyLqRy73bv.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Europe '51  (1952)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/626046.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8TR9TEePfYCFNvOo85Pwcd5pO5.jpg" group-title="Movies | VOD - ITALY [IT]",IT - Cannibal Holocaust  (1980)
-http://portott.com/movie/c4c24c0217/c4b2e86278c6/626045.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtIIDF58zo2MOtS5cId6RMaFz5K.jpg" group-title="Movies | VOD - ITALY [IT]",Il racconto dei racconti - Tale of Tales  (2015)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/628734.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnDV3LuZh5BBaA3OjR1NyxviiU0.jpg" group-title="Movies | VOD - ITALY [IT]",IT - A Ciambra  (2017)
@@ -113275,4 +113281,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56521
+# Total: 56523

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-07-25 19:13:32
+# Generated: 2026-07-26 19:00:58
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -123,7 +123,9 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/856144.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaI0PIyM3wy25HDlFYmh3d0jzos.jpg" group-title="Movies | |MOVIE| OSN",Soap Opera (2014)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/856147.mkv
 
-# --- Movies | |MULTI| APPLE TV + (39) ---
+# --- Movies | |MULTI| APPLE TV + (40) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg" group-title="Movies | |MULTI| APPLE TV +",|MULTI| The Dink (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2627654.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg" group-title="Movies | |MULTI| APPLE TV +",|MULTI| Outcome (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2393735.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AsqALJWqGRgnKEo3gt1TCOF4nCM.jpg" group-title="Movies | |MULTI| APPLE TV +",|MULTI| Echo Valley (2025)
@@ -1465,7 +1467,17 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156677.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| Bad Boys (1995)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156678.mkv
 
-# --- Movies | |MULTI| NETFLIX (630) ---
+# --- Movies | |MULTI| NETFLIX (635) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Elize: Shadows of a Woman (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2627680.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| A Toxic Love Story (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2627658.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Truthers (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2627655.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Debt Collector (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2627653.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| 72 HOURS (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2627636.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| 23 000 Lives (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2624236.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Ikka (2026)
@@ -3083,4 +3095,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317543.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2J9QEqdJWjL2etOf6Kf7n33PUK4.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Hang 'em High (1968)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2318452.mkv
 
-# Total: 1528
+# Total: 1534

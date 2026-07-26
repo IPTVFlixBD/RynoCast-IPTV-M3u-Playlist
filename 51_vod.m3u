@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-25 19:13:05
+# Generated: 2026-07-26 19:01:14
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4647) ---
+# --- Movies | DE | CINEMA VOD (4649) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FjPePQeeaLmV6AXTpfHzckiuYt.jpg" group-title="Movies | DE | CINEMA VOD",The Dink (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186636.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49kxcMZhZrh4FV2OhlTgEBUJRFu.jpg" group-title="Movies | DE | CINEMA VOD",Die Bilderkriegerin - Anja Niedringhaus (2022) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186635.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1QRMN8Mgci1Z121zFp3PwcEIwW.jpg" group-title="Movies | DE | CINEMA VOD",Vaiana (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186425.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzHDNvKTyI1TjyXrX8LozvJYiak.jpg" group-title="Movies | DE | CINEMA VOD",Paris Murder Mystery (2025) DE
@@ -10892,6 +10896,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/159231.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/144893.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | KINDER CINEMA VOD",##### GERMANY VOD KINDERFILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36243.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jtBUoqgOSElz1v5QahkrWCYXm1.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Minions & Monster (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186423.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geypzdXdx8LooxB691r3bhlrybB.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Toy Story 5 (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185454.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3oMYwggLjnv5v1oQSmUso6yTd.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Hoppers (2026) DE
@@ -11426,8 +11432,6 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/152563.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/109429.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42Hw0UiFkMIYFzLbxSUcylyfhDF.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Unten am Fluss (1978) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/113634.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jtBUoqgOSElz1v5QahkrWCYXm1.jpg" group-title="Movies | DE | KINDER CINEMA VOD",Minions & Monster (2026)
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186423.mkv
 
 # --- Movies | DE | KLASSIKER FILME VOD (1716) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txZ2GumdS8bEtdW1cO8dmBLGsek.jpg" group-title="Movies | DE | KLASSIKER FILME VOD",Largo Winch - Tödliches Erbe (2008) DE
@@ -21829,9 +21833,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/8468.mkv
 #EXTINF:-1 tvg-logo="http://www.hepfullfilmizle1.com/wp-content/uploads/2016/09/labirent-olumcul-kacis.jpg" group-title="Movies | TR-VOD | 4K TURKCE FILMLER",4K Labirent: OlumculKacis
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/8456.mkv
 
-# --- Movies | TR-VOD | Aksiyon/Gerilim/Suc (798) ---
+# --- Movies | TR-VOD | Aksiyon/Gerilim/Suc (800) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | Aksiyon/Gerilim/Suc",##### TURKCE DUBLAJ VOD #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/38743.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg" group-title="Movies | TR-VOD | Aksiyon/Gerilim/Suc",Alacaklı (2026) TR
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186637.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmytAEE5zg17Y1J3ygbjbsa5t6q.jpg" group-title="Movies | TR-VOD | Aksiyon/Gerilim/Suc",Mortal Kombat II (2026) TR
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186640.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QcHi4NdJi6FoXeU8DDmJAT71K0.jpg" group-title="Movies | TR-VOD | Aksiyon/Gerilim/Suc",宗师叶问2 (2026) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185831.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tXKquUdUqGgrUMPkWw3OWU6mPf.jpg" group-title="Movies | TR-VOD | Aksiyon/Gerilim/Suc",The Protector (2025) TR
@@ -29077,7 +29085,9 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/8466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5tSkhc8aDnW3g5Yj8wkNAthehc.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Çocuk ve Balıkçıl (2023) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/183071.mkv
 
-# --- Movies | TR-VOD | Komedi/Dram/Romantik (948) ---
+# --- Movies | TR-VOD | Komedi/Dram/Romantik (949) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enIDhMFB9Bs8UNZBI9Muo2XGDmL.jpg" group-title="Movies | TR-VOD | Komedi/Dram/Romantik",İki Dünya Arasında (2025) TR
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186639.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg" group-title="Movies | TR-VOD | Komedi/Dram/Romantik",Is God Is (2026) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186431.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mia27aPqVkvPtFbHZphG0tXpXY.jpg" group-title="Movies | TR-VOD | Komedi/Dram/Romantik",Korkunç Bir Film (2026) TR
@@ -32269,11 +32279,19 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1064) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1065) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36235.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7EY5y7ZFPijbobbH0aFYinRbdL.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Fırtına Kız (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186638.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42G0NOsQq4jyZSaA1yxi8MwTLji.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mutluyuz Mu? (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186634.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Sarı Zarflar (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185524.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYn3N0LULkbJjWzHuxP3xTYJI.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Aşk mı Para mı? (2025)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185830.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7Rl6NrXhQIOyPiIatxNF3lmEal.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Tete ve Masal: Rüyalar Diyarı (2025)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186422.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJZzjVci9RjWDFw4Zb9IpsTHFi7.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Şişman (2025)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185828.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6IxIez5m9wIQdmWUZf3JJVOufL.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Bak Postacı Geliyor (2025)
@@ -34392,12 +34410,6 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148849.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mavzer (2020)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/73341.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYn3N0LULkbJjWzHuxP3xTYJI.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Aşk mı Para mı? (2025)
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/185830.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7Rl6NrXhQIOyPiIatxNF3lmEal.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Tete ve Masal: Rüyalar Diyarı (2025)
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186422.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42G0NOsQq4jyZSaA1yxi8MwTLji.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mutluyuz Mu? (2026)
-http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186634.mkv
 
 # --- Movies | TÜRK YABANCI INTERNET DIZILER (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TÜRK YABANCI INTERNET DIZILER",TR: Hausen
@@ -38341,7 +38353,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3864
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY CARTOON ANIME SERIES",Sonic Underground
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3865
 
-# --- Series | GERMANY SERIES (278) ---
+# --- Series | GERMANY SERIES (277) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: A Discovery of Witches
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/88
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Gomorrha
@@ -38410,8 +38422,6 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/812
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/1026
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Girls5eva
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/1044
-#EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Interview with the Vampire
-http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/1064
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: La Brea
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/1066
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Section Zéro
@@ -39989,7 +39999,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4143
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX DOCU REALITY SERIES",Worst Neighbor Ever - Tödliche Nachbarschaft
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4162
 
-# --- Series | NETFLIX SERIES (890) ---
+# --- Series | NETFLIX SERIES (888) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Breaking Bad
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",DE: Tote Mädchen lügen nicht
@@ -41386,8 +41396,6 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3441
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3471
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Projekt UFO
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3473
-#EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Ransom Canyon
-http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3474
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",News Anchor
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3485
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Heavenly Ever After
@@ -41748,8 +41756,6 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4105
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4109
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",The Boroughs
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4122
-#EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Nur für dein Leben
-http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4141
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Urteilsverlust
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4142
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX SERIES",Teach You a Lesson
@@ -42119,4 +42125,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 20989
+# Total: 20992
