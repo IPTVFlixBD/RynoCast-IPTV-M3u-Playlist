@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-26 19:03:50
+# Generated: 2026-07-27 20:15:31
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -27049,7 +27049,15 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029425.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGeCXy65Dw58Y1UBmSURedCjTVw.jpg" group-title="Movies | VOD - AMAZON PRIME [NL]",NL - Saltburn (2023)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1030056.mp4
 
-# --- Movies | VOD - ANIMAZIONE [IT] (1) ---
+# --- Movies | VOD - ANIMAZIONE [IT] (5) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPmAyxf3WlVwpDb0U39pfpfDCxl.jpg" group-title="Movies | VOD - ANIMAZIONE [IT]",IT - Il ritorno di Jafar (1994)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404957.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSJGSX7oVlGvXpjsNTAgE0P93ub.jpg" group-title="Movies | VOD - ANIMAZIONE [IT]",IT - I tre porcellini (1933)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404956.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt8l8Iz3pWdlmC0HWNND9EkmInU.jpg" group-title="Movies | VOD - ANIMAZIONE [IT]",IT - Pinocchio di Guillermo del Toro (2022)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404953.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEsxBUSGR2HvIzjA2OS84GmoYVO.jpg" group-title="Movies | VOD - ANIMAZIONE [IT]",IT - Encanto (2021)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404949.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLmhtfxcrnARA1GYVpDdqFe8fJ5.jpg" group-title="Movies | VOD - ANIMAZIONE [IT]",IT - Alice nel paese delle meraviglie (1951)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403576.mp4
 
@@ -37671,7 +37679,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQvB82yWE6xT07j9Iy0dX4SX31C.jpg" group-title="Movies | VOD - FANTASIE-FILMS [NL]",NL - 검객 (2020)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1022521.mkv
 
-# --- Movies | VOD - FILM 1940/1980 [IT] (7) ---
+# --- Movies | VOD - FILM 1940/1980 [IT] (8) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7to7G1ZLKmlTeDsbU1WJKLlz3rC.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - La grande promessa (1988)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404951.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U1B957jzOZjdzHSJnpZgn0Ebq2.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Il furore della Cina colpisce ancora (1971)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404538.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzgVN307jyqb2dsrpsBniF2Yclr.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - L'ultimo combattimento di Chen (1978)
@@ -37687,7 +37697,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/626046.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanO8MVtUwywgsiRpfA0WcbHvM3.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Cannibal Holocaust  (1980)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/626045.mp4
 
-# --- Movies | VOD - FILM 1990/2024 [IT] (6) ---
+# --- Movies | VOD - FILM 1990/2024 [IT] (8) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PCQ5uCfu6SeoqTPbTbg5HxBP9y.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - I dannati (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404955.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A366lfd82RYcZm5oFaAhW3GnppH.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - He Got Game (1998)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404954.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smM6z0XclP8z30DhTMckAYvfqZk.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Dragon: La storia di Bruce Lee (1993)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QGBZO3YfPdkcNzlJBnCvJvTH3g.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - Confessions (2010)
@@ -37701,7 +37715,17 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403582.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqgjFoJp4uWmOFMIv8WFm3A15Ib.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - BFF: Best Friends Forever (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403578.mp4
 
-# --- Movies | VOD - FILM 2025/2026 [IT] (7) ---
+# --- Movies | VOD - FILM 2025/2026 [IT] (12) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUMekW0Zs12SniJuo1L1V9OypUd.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Il Bene Comune (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404958.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Greenland 2: Migration (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404952.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elPU6bjZvsDhpzpwctjHykNozg1.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Father Mother Sister Brother (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404950.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41Q4IqWoyEzEv6BVHN3F9XgfoWE.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Elisa (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404948.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/I1ZCIqesLcTkFgwTGvsb6MVC0F.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Elena del Ghetto (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404947.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Eleanor the Great (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404543.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyJeSZsQ6oHjDs1npDrax0rhL3L.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Domani interrogo (2026)
@@ -60877,7 +60901,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8745) ---
+# --- Movies | VOD - NEW ADDED [EN] (8746) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Disclosure Day (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404892.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Odyssey (TELESYNC) (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404028.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmAGgAuI6KKsHrggSg5CyGeP4qL.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - WallDale (2026)
@@ -80161,7 +80187,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1053364.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg" group-title="Movies | VOD - NUEVO 2024/2025 [ES]",ES - La gran noche del pop (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1053356.mkv
 
-# --- Movies | VOD - OTHERS [EN] (3426) ---
+# --- Movies | VOD - OTHERS [EN] (3427) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bysZeUvSPZPJnku4qkHF34CdgMG.jpg" group-title="Movies | VOD - OTHERS [EN]",EN - Any Given Sunday (1999)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404891.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88Q0smOjVprA0UojCbN3JM7PuI5.jpg" group-title="Movies | VOD - OTHERS [EN]",Stealing Pulp Fiction (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1402654.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg" group-title="Movies | VOD - OTHERS [EN]",Pulp Fiction (1994)
@@ -109653,7 +109681,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/818911.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" group-title="Movies | VOD - SPAIN [ES]",ES - Underworld - (2003)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/818283.mkv
 
-# --- Movies | VOD - SPORT [EN] (411) ---
+# --- Movies | VOD - SPORT [EN] (413) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQtvEKzBx4n3e9DfNVpF0Vf46t9.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 282: Ankalaev vs. Guskov (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404872.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tqeu3ME1l7oueulQdX4aa2Wla7.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Anthony Joshua vs. Kristian Prenga (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404871.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFpG4Rphr63REISvt8IBcDg4KwEjZhB2ev1udlmpkGYzJsdYG48Kml3I&s=10" group-title="Movies | VOD - SPORT [EN]",EN - Kieran Molloy vs. Sean Noakes (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403408.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mCmJnmGxR8TlA9NIZJSEroAN7q.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Harlem Eubank vs. David Papot (2026)
@@ -113281,4 +113313,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56523
+# Total: 56539
