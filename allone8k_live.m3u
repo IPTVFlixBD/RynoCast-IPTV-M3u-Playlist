@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-07-27 20:26:12
+# Generated: 2026-07-28 07:49:41
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -4897,7 +4897,11 @@ http://allone8k.info:8080/live/hany/hany1234/476609.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tv5-monde-fr.png" group-title="AR | MOROCCO 4K | المغرب",TV5 MONDE MAGHREB ORIENT
 http://allone8k.info:8080/live/hany/hany1234/476607.m3u8
 
-# --- AR | MUSIC  | موسيقى (58) ---
+# --- AR | MUSIC  | موسيقى (60) ---
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/195170/screenshots/4057749/blu-music-logo-4_800x600.gif" group-title="AR | MUSIC  | موسيقى",MUS: تامر عشور: مراية الحب
+http://allone8k.info:8080/live/hany/hany1234/661431.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/195170/screenshots/4057749/blu-music-logo-4_800x600.gif" group-title="AR | MUSIC  | موسيقى",MUS: عمرو دياب: حبيتك
+http://allone8k.info:8080/live/hany/hany1234/661430.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/195170/screenshots/4057749/blu-music-logo-4_800x600.gif" group-title="AR | MUSIC  | موسيقى",MUS: Videoclip HD
 http://allone8k.info:8080/live/hany/hany1234/248099.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/195170/screenshots/4057749/blu-music-logo-4_800x600.gif" group-title="AR | MUSIC  | موسيقى",MUS: Videoclip 2 HD
@@ -18321,4 +18325,4 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# Total: 8951
+# Total: 8953
