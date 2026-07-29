@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-07-28 19:48:02
+# Generated: 2026-07-29 19:52:17
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -4307,7 +4307,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/18631.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - HULU [FR]",FR - Cristóbal Balenciaga (2024) (ES)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22657.mp4
 
-# --- Movies | SRS - ITALY 4K [IT] (6) ---
+# --- Movies | SRS - ITALY 4K [IT] (7) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY 4K [IT]",IT-[4K] - Criminal Record (2024) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33964.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY 4K [IT]",IT-[4K] - Ovunque tu sia (2026) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33916.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY 4K [IT]",IT-[4K] - Mrs. America (2020) (US)
@@ -4321,7 +4323,13 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/33898.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY 4K [IT]",IT-[4K] - Silo (2023) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33897.mp4
 
-# --- Movies | SRS - ITALY [IT] (78) ---
+# --- Movies | SRS - ITALY [IT] (81) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY [IT]",IT - Young Sherlock (2026) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33963.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY [IT]",IT - Alex Cross (2024) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33962.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY [IT]",IT - 56 giorni (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/33961.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY [IT]",IT - Euphoria (2019) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33917.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - ITALY [IT]",IT - Bates Motel (2013) (US)
@@ -37717,7 +37725,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/626046.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanO8MVtUwywgsiRpfA0WcbHvM3.jpg" group-title="Movies | VOD - FILM 1940/1980 [IT]",IT - Cannibal Holocaust  (1980)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/626045.mp4
 
-# --- Movies | VOD - FILM 1990/2024 [IT] (8) ---
+# --- Movies | VOD - FILM 1990/2024 [IT] (10) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW8chiZJaWdAIbSPbSjdCk7efDU.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - The Zero Theorem: Tutto è vanità (2013)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405139.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUyVUMVaZyEauIjjdkcEx4AU9p2.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - The Curse of Sleeping Beauty (2016)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405138.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PCQ5uCfu6SeoqTPbTbg5HxBP9y.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - I dannati (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404955.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A366lfd82RYcZm5oFaAhW3GnppH.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - He Got Game (1998)
@@ -37735,7 +37747,23 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403582.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqgjFoJp4uWmOFMIv8WFm3A15Ib.jpg" group-title="Movies | VOD - FILM 1990/2024 [IT]",IT - BFF: Best Friends Forever (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403578.mp4
 
-# --- Movies | VOD - FILM 2025/2026 [IT] (12) ---
+# --- Movies | VOD - FILM 2025/2026 [IT] (20) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - The Debt Collector (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405137.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v442cNP1nOhjjmf2l4Id2oWeR.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Star Wars: The Mandalorian and Grogu (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405136.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Scary Movie (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405135.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEEDkPSeSYJWQyXjjFzG81obzM2.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Masters of the Universe (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405134.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Los Creyentes: Oltre la verità (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405133.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/984sugm7oz9SiZ12CJvYCZEVFzG.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Elize: Le ombre di una donna (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405132.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Disclosure Day (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405131.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - 72 HOURS (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405130.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUMekW0Zs12SniJuo1L1V9OypUd.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Il Bene Comune (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1404958.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg" group-title="Movies | VOD - FILM 2025/2026 [IT]",IT - Greenland 2: Migration (2026)
@@ -60922,7 +60950,7 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
 # --- Movies | VOD - NEW ADDED [EN] (8760) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - NEW ADDED [EN]",EN - Paul Smith: Pablo Live (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3IE4q4aSDCscMt9RMVLAHi08K3.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Paul Smith: Pablo Live (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405070.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIWgTZIoExUfnEZOsCsNXs9y5Aw.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Water Park Shark (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405048.mp4
@@ -92089,7 +92117,75 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/809155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BwYQGBrMcEvP9C7CLcwaOEWGnb.jpg" group-title="Movies | VOD - PELICULAS 2020/2023 [ES]",ES - Muerte en el Nilo  (2022)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/706341.mp4
 
-# --- Movies | VOD - PORTUGAL [PT] (970) ---
+# --- Movies | VOD - PORTUGAL [PT] (1004) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bo30pUJGUpvNP8XS75T3Al8V1R.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Zero (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405112.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRBOoQGyB9eRjaX9c8pWJhLgANl.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Menudas piezas (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405111.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLcWbUITOQAAMtWhPq7tIpwQtSM.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Lucky Lu (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405110.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zg6wDx2EFeWYp5vW5tRkZoeXqK.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Scary Movie: What's Up? (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405109.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qPeWzPxCa7qZ7s5zb7GKDrMlVC.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - O Último Ronin (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405102.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUuuaN3bI57P403DWyY3XO7TkNF.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Le Théorème de Marguerite (2023)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405101.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oGvvHeToT0cexqG1WoqvmcVBkY.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - O Delator (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405100.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBKdfIV8YeReAYyzebW7R14vWhe.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - O Cobrador de Dívidas (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405099.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qILFLftThKcjhtVVdUqrbvMxQI.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - O Brasil Evangélico (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405098.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfawOwTzIEDoBIVgNxpXtrvngus.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Nada entre los dos (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405097.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n65YDWlWUoNFOYGdFIAs3TlyWo3.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Mogul Mowgli (2020)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405096.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4Tu3IWW01eJBEax5b5elvZAd37.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Masters of the Universe (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405095.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Hq5B2wXsbv7G8mA3MIWbjDpQh.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Max Payne (2008)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405094.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Made in Korea (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405093.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Oi9EC2l3l6XXOe5vuvLaTVRjh.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Heartstopper Forever (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405091.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yArmnHoYcisqa7ysyPNzmP4Hj1Q.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Fora de Controle (2023)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405090.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPBNvSdC874oviTgl1DR4VisFwF.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - I Used to Be Funny (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405089.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Elize: Sombras de uma Mulher (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405088.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbb7QDpGZHiFIokqZV7hU1jxUk3.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - O Dia da Revelação (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405087.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iToFU4GaJz4OlLMx34v3VWV7JE.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Deseo (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405086.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhhbZ8RwNQXvFF6MEbA5eS4Z5Qr.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Os Descendentes: Viagem ao Mundo Sombrio (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405085.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TY2aQtC0tOQGiMvVJpBoocko1S.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Christmas Eve in Miller's Point (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405084.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78yOGiWFvYrWeddXACR7bJjSQiC.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Chopin, Chopin! (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405083.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rkLG0iuhvY0gevbH7kFDYIDV6q.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Captain Hook: The Cursed Tides (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405081.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jb1MUmZ7pRiAjaKOktJeeBiTrVa.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Barba Ensopada de Sangue (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405080.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNvMecoJPrzfQo8yngbB2zLb6ZV.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Apenas Coisas Boas (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405079.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xufFKDpVSxATQh0i7gsA4SjSl1.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Love in Slow Motion (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405078.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acd3fBHhUDs3av8fkQPB8OhaTiG.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Kika (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405077.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - A Toxic Love Story (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405076.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UznGxA1mp2nc7BPsb4vUxxg2X.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - A Sacada (2016)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405075.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - A Revolucao dos Bichos (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405074.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Hungry (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405073.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z96gChcr9lu1wIeXTu1IG0VOHaE.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - A 3000 Milhas de Graceland (2001)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405072.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNYTQKXvlSI62WacK35SfL22xs2.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - 23 000 Lives (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1405071.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - William Tell (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1403303.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg" group-title="Movies | VOD - PORTUGAL [PT]",PT - Top Secret! (1984)
@@ -113383,4 +113479,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56574
+# Total: 56622

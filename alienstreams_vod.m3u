@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-07-28 19:42:43
+# Generated: 2026-07-29 19:51:25
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -15834,8 +15834,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/471402
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/471097
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Quantico
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/444328
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",CSI: Crime Scene Investigation
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404567
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Liaison
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404568
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Subteran
@@ -16092,6 +16090,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404540
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404541
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Lucifer
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404562
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",CSI: Crime Scene Investigation
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404567
 
 # --- Series | Danish [Series] (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Sommerdahl
@@ -16809,7 +16809,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404554
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",America the Beautiful
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404556
 
-# --- Series | Drama [Series] (678) ---
+# --- Series | Drama [Series] (679) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Servant
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/503917
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Furious
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/503892
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doc
@@ -20513,4 +20515,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 10197
+# Total: 10198
