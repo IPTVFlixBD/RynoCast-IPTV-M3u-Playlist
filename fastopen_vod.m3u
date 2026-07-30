@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-07-30 07:53:33
+# Generated: 2026-07-30 19:35:09
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -114477,7 +114477,7 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/449
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Germany",The Rookie
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/450
 
-# --- Series | VOD Series - Multisubs (96) ---
+# --- Series | VOD Series - Multisubs (99) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Vikings
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/13
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",The Putin Interviews
@@ -114670,6 +114670,12 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/407
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/413
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Friends
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/459
+#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Rick and Morty
+http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/470
+#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",The Big Bang Theory
+http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/471
+#EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Multisubs",Gossip Girl
+http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/472
 
 # --- Series | VOD Series - Turkey (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | VOD Series - Turkey",Gassal
@@ -114783,4 +114789,4 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14596
 #EXTINF:-1 tvg-logo="None" group-title="Series | VOD Turkey Series - Söz",Söz - S02 E50 [TR]
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14601
 
-# Total: 57351
+# Total: 57354
