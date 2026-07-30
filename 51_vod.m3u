@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-07-29 19:54:17
+# Generated: 2026-07-30 07:43:30
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,12 +1587,14 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4653) ---
+# --- Movies | DE | CINEMA VOD (4654) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg" group-title="Movies | DE | CINEMA VOD",The Devil's Mouth - Der Teufelsschlund (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/187161.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjSiZPBscl0IIxwjCBx4PoX14mj.jpg" group-title="Movies | DE | CINEMA VOD",Amsterdamned II - Verfluchtes Amsterdam (2025) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/187153.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QcHi4NdJi6FoXeU8DDmJAT71K0.jpg" group-title="Movies | DE | CINEMA VOD",宗师叶问2 (2026) DE
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSwskb61RkFTQHnVDxrTAvTQWUv.jpg" group-title="Movies | DE | CINEMA VOD",Ip Man Kung Fu Legend (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/187155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrs8S64jrbdefgDyhB0GYMiz1js.jpg" group-title="Movies | DE | CINEMA VOD",Avatar Aang: Der Herr der Elemente (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/187018.mkv
@@ -32311,9 +32313,11 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1065) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1066) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36235.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJjxWRBwgJ1rVYM8m4iK4tVoJvi.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Oflu Hoca 5: Evliluk (2025)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/187160.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7EY5y7ZFPijbobbH0aFYinRbdL.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Fırtına Kız (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/186638.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42G0NOsQq4jyZSaA1yxi8MwTLji.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mutluyuz Mu? (2026)
@@ -42181,4 +42185,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21020
+# Total: 21022

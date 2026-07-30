@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-07-29 19:55:03
+# Generated: 2026-07-30 07:52:22
 # Expires: 2027-08-02
 # Family Safe Edition
 # ==============================================
@@ -43415,6 +43415,18 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/268743.m3u8
 #EXTINF:-1 tvg-logo="http://focustv.xyz/files/ch/TR/hrt_akdeniz.png" group-title="TR | DINI / YEREL",HRT AKDENIZ TV
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/268744.m3u8
 
+# --- TR | ENJOYTV DIZILER (5) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV 8. Gün 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1059548.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Aşk Mantık İntikam 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1059547.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Bay Yanlış 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1059546.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Eşref Rüya 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1059545.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Ezel 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1059544.m3u8
+
 # --- TR | EXXEN SPORT (24) ---
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/flags/turkey.png" group-title="TR | EXXEN SPORT",TR | ✦●✦●      EXXEN SP⚽RT      ✦●✦●
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/214750.m3u8
@@ -56527,4 +56539,4 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301591.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="✦●✦● INFORMATION ✦●✦●",✦●✦● BOXING ✦●✦●
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301588.m3u8
 
-# Total: 27802
+# Total: 27807
