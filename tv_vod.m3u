@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-07-30 19:34:15
+# Generated: 2026-07-31 19:55:29
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -36391,7 +36391,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/801.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - DOCUMENTAIRE",De kracht van de kringloopwinkel (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/770.mp4
 
-# --- Movies | NL - DRAMA (167) ---
+# --- Movies | NL - DRAMA (168) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7CbxY3TMwFKX6awlBxhb7Es6tS.jpg" group-title="Movies | NL - DRAMA",Imagine Me & You (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375509.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3YpU3sjwmXbIR6FxlvVgbsQiQJ.jpg" group-title="Movies | NL - DRAMA",L'engloutie (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374302.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77Z4Yd4N4tYP65xm02WDGhvLGqd.jpg" group-title="Movies | NL - DRAMA",After All (NL)
@@ -38307,9 +38309,11 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/189596.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epGF8vv3caKLm6X8PKbD5xirFLa.jpg" group-title="Movies | NL - HISTORISCH & OORLOG",The Alto Knights (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/189412.mkv
 
-# --- Movies | NL - HORROR & THRILLER (637) ---
+# --- Movies | NL - HORROR & THRILLER (638) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M4G8mRPCFE3kkNhDyUd5KpKiAs.jpg" group-title="Movies | NL - HORROR & THRILLER",Cinderella's Curse (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/173730.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0bEDWO2w4a43K2xTNSF284qOsc.jpg" group-title="Movies | NL - HORROR & THRILLER",Silent Hill (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375512.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64CTtOavjQz90sKvjy6pIN5C9pB.jpg" group-title="Movies | NL - HORROR & THRILLER",Goon of the Lagoon (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/G3ebAfrNyd2vGMMSgaXjYymEQr.jpg" group-title="Movies | NL - HORROR & THRILLER",Black Box (NL)
@@ -40013,7 +40017,19 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5177.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - KIJK/ZIET",De Oranjezondag (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5174.mp4
 
-# --- Movies | NL - KLASSIEK (380) ---
+# --- Movies | NL - KLASSIEK (386) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebYw9tR0iqBzDGA6HVBhtd2xJM3.jpg" group-title="Movies | NL - KLASSIEK",Jaws: The Revenge (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375511.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk1KSFLOzY6VAt5SRCHUAoqBA5h.jpg" group-title="Movies | NL - KLASSIEK",Greenfingers (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375508.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg" group-title="Movies | NL - KLASSIEK",Gone in 60 Seconds (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YZhJGoIbJtrjDYbENGhR6f6SZE.jpg" group-title="Movies | NL - KLASSIEK",Goal! (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375506.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucrvSJIoxw1D2SZ2p6J9EIHzFPg.jpg" group-title="Movies | NL - KLASSIEK",Dracula 3000 (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375505.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49s4KMmF2YBJhHYTqwdvikpTztt.jpg" group-title="Movies | NL - KLASSIEK",Beowulf & Grendel (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375504.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZdIfYkM5kV5BaUDYzwzgmpUxno.jpg" group-title="Movies | NL - KLASSIEK",Domino (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374920.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whuJ4BY2Fq2EuhKkSrtjJxNFYsc.jpg" group-title="Movies | NL - KLASSIEK",The Cars That Ate Paris (NL)
@@ -41791,9 +41807,17 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/117480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94VXltTIbuqMNnGypx1biysL7Nc.jpg" group-title="Movies | NL - MISDAAD & WESTERN",Schemers (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/109010.mkv
 
-# --- Movies | NL - MOVIES 2026 (206) ---
+# --- Movies | NL - MOVIES 2026 (210) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMutDMODnbCZf46w0dK4wncQmDB.jpg" group-title="Movies | NL - MOVIES 2026",The Gentleman Thief (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375519.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="Movies | NL - MOVIES 2026",The Devil's Mouth (NL)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375487.mkv
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375518.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg" group-title="Movies | NL - MOVIES 2026",Leviticus (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375516.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg" group-title="Movies | NL - MOVIES 2026",Elize: Shadows of a Woman (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375514.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrckam4GGGnlMWXCjiYxD7XzHaO.jpg" group-title="Movies | NL - MOVIES 2026",Capps Crossing: Wrong Side of Dead (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375513.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg" group-title="Movies | NL - MOVIES 2026",The Odysseyy (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374933.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg" group-title="Movies | NL - MOVIES 2026",The Dink (NL)
@@ -42205,7 +42229,11 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/339572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmnNRxISngb1KSvfSNa4uid74XA.jpg" group-title="Movies | NL - MOVIES 2026",The Making of De Jeugd van Tegenwoordig (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/339573.mkv
 
-# --- Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ (98) ---
+# --- Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ (100) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJSkGHoLWeZsp8Lt8AGmSholvLd.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",Supergirl (NL) 4K ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375521.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",72 HOURS (NL) 4K ᵘˡᵗʳᵃ
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375520.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDYS6MkQVBemZWuydYZ2BBTR3Ep.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",The Dink (NL) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qd18QHsNurNAil2QCeIePXAd0W.jpg" group-title="Movies | NL - MOVIES 4K ᵘˡᵗʳᵃ",The Devil Wears Prada 2 (NL) 4K ᵘˡᵗʳᵃ
@@ -49887,7 +49915,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5228.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - 4K ᵘˡᵗʳᵃ SERILER",Kaosun Anatomisi (TR) 4K ᵘˡᵗʳᵃ
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/5220.mp4
 
-# --- Movies | TR - AKSIYON (585) ---
+# --- Movies | TR - AKSIYON (584) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tXKquUdUqGgrUMPkWw3OWU6mPf.jpg" group-title="Movies | TR - AKSIYON",Son Koruyucu (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375109.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbVP3p7aMKzn29M3jpohRfJ4QaN.jpg" group-title="Movies | TR - AKSIYON",Vur Kaç (TR)
@@ -50210,8 +50238,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/182258.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/181590.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hwzl9hP58DQcgju1MbqhADLo4Z.jpg" group-title="Movies | TR - AKSIYON",Godzilla x Kong The New Empire   (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/179935.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3BuUXYjvGcKwZYKZsYjMDFQr1D.jpg" group-title="Movies | TR - AKSIYON",Deadpool & Wolverine  (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/179755.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99I1yjoy9uJOo0daJHce230JGoi.jpg" group-title="Movies | TR - AKSIYON",Freedom (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/179195.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktlDbB2nBdf4zhzmWgN7PGOWcik.jpg" group-title="Movies | TR - AKSIYON",Bad Boys Ride Or Die (TR)
@@ -51059,7 +51085,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342882.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h76KOmXlp6DgFwv6xDQphkuQExv.jpg" group-title="Movies | TR - AKSIYON",Yıldırım Harekatı (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342885.mkv
 
-# --- Movies | TR - ALTYAZI (995) ---
+# --- Movies | TR - ALTYAZI (994) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ou50fth8FzSezuEUISNFnRXg4F.jpg" group-title="Movies | TR - ALTYAZI",Roza of Smyrna (TR) SUB
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70PQCYF3ExuKHqyieJhYV0GJg9H.jpg" group-title="Movies | TR - ALTYAZI",Yes (TR) SUB
@@ -51382,8 +51408,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177571.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177569.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuzw7lXL9NJZpSL1B9ckwT8Z2ss.jpg" group-title="Movies | TR - ALTYAZI",Hold Your Breath (TR) Alt
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177319.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3BuUXYjvGcKwZYKZsYjMDFQr1D.jpg" group-title="Movies | TR - ALTYAZI",Deadpool & Wolverine (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177168.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxx3YItVn0JOXnh7tQw8WPB0T62.jpg" group-title="Movies | TR - ALTYAZI",Wolfs (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/176162.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2M7rv3Cvp39GkWzErCUo2k6xKni.jpg" group-title="Movies | TR - ALTYAZI",Afraid (TR Alt)
@@ -55149,7 +55173,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9741.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - ANİME",Ölüm Defteri (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9742.mp4
 
-# --- Movies | TR - APPLE ORIGINAL (19) ---
+# --- Movies | TR - APPLE ORIGINAL (20) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - APPLE ORIGINAL",Sugar (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10244.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - APPLE ORIGINAL",Stüdyo (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10238.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - APPLE ORIGINAL",Oyuna Devam (TR)
@@ -56285,7 +56311,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62560.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg" group-title="Movies | TR - BOLLYWOOD",Sultan (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61198.mkv
 
-# --- Movies | TR - DISNEY+ (116) ---
+# --- Movies | TR - DISNEY+ (115) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Xe2jbhZvaRbukAQEJJqWGDNj9h.jpg" group-title="Movies | TR - DISNEY+",Zombiler 4: Vampirlerin Şafağı (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/327247.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vELzNe965c2YMhNBOVvftXifLHK.jpg" group-title="Movies | TR - DISNEY+",Lilo & Stiç (TR)
@@ -56492,8 +56518,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/77821.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/69762.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nC4mYvTqdaC8W3927nLCQEwN1WD.jpg" group-title="Movies | TR - DISNEY+",The Darkest Minds (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/69842.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pV2OwKjfBnsCGNXVOz6nAqHm4pw.jpg" group-title="Movies | TR - DISNEY+",Deadpool 2 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/69777.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jXRLT0QfKRxhRT0hzNmgo3ybrN.jpg" group-title="Movies | TR - DISNEY+",Coco (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/68109.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azQLnrTMToqkAzIFtDgMB9jgKOI.jpg" group-title="Movies | TR - DISNEY+",The Good Dinosaur (TR)
@@ -58343,7 +58367,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/169732.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg" group-title="Movies | TR - DUBLAJ",Sing Sing (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/186828.mkv
 
-# --- Movies | TR - DUBLAJ VIP (765) ---
+# --- Movies | TR - DUBLAJ VIP (764) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCxyN7HmJ7zWp8jtJeMRHABnutF.jpg" group-title="Movies | TR - DUBLAJ VIP",Aamir Khan - Yalan Çemberi (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/186738.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62AUrFs4V9sak2157gojknRnKWI.jpg" group-title="Movies | TR - DUBLAJ VIP",Aamir Khan - Laal Singh Chaddha (TR)
@@ -58498,8 +58522,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/107511.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/107510.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSagG262ulN6CKWhpvckzhCTXR5.jpg" group-title="Movies | TR - DUBLAJ VIP",Ben Kingsley -Diktatör (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/107509.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpW7k3TYS3WG89vPiRQr4peEcFO.jpg" group-title="Movies | TR - DUBLAJ VIP",Ben Kingsley - Iron Man 3 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/107508.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fF4hw9VOYa0iAHftjUtwXOAMx3.jpg" group-title="Movies | TR - DUBLAJ VIP",Ben Kingsley -Şifreciler (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/107468.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsDaNoHKn9Dh39RvdNEEzbaBIys.jpg" group-title="Movies | TR - DUBLAJ VIP",Ben Kingsley -Şanslı Slevin (TR)
@@ -60978,6 +61000,10 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/797.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1935.mp4
 
 # --- Movies | TR - GÜNLÜK DİZİLER (27) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Muhtemel Aşk (Bolum 7)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375630.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Doğanın Kanunu (Bolum 8)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375503.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30fXRXsx1tF0tiuXEy8Hvx2bupR.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Altı Üstü İstanbul (Bolum 7)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375164.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erd75Gon5bXL38kngnH6DCrOUj2.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Daha 17 (Bolum 9)
@@ -60998,10 +61024,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/372052.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/371194.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erd75Gon5bXL38kngnH6DCrOUj2.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Daha 17 (Bolum 7)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/370910.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Muhtemel Aşk (Bolum 4)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/366092.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Doğanın Kanunu (Bolum 5)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/365100.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Güller ve Günahlar (SEZON FİNALİ)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342751.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Halef (SEZON FİNALİ)
@@ -63095,89 +63117,163 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342835.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncuGG0hIlA03dQBJmdoT2LWgodG.jpg" group-title="Movies | TR - MACERA",A Perfect Getaway (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342839.mkv
 
-# --- Movies | TR - MARVEL SINEMA (41) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k12QJ5pnFu3e4Z237pf2Wii5Ab3.jpg" group-title="Movies | TR - MARVEL SINEMA",Avcı Kraven (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375462.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXuJod6c9NyPwHJiT3HxsZDquLZ.jpg" group-title="Movies | TR - MARVEL SINEMA",Venom: Son Dans (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375461.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEKKqwNpYK50reH83PBPKRmR7Qs.jpg" group-title="Movies | TR - MARVEL SINEMA",Madame Web (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375460.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oyVnJLplWD22jRwD8ZYkFoJWhn.jpg" group-title="Movies | TR - MARVEL SINEMA",Morbius (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375459.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owp86mH42Un19egdeeZPImufBxN.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Eve Dönüş Yok (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375458.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ia0Q1KKvSWwYbywWcm49uXIZCZ3.jpg" group-title="Movies | TR - MARVEL SINEMA",Venom: Zehirli Öfke 2 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375457.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQK5C2mL7DJUpQSahoT2CYMtvkX.jpg" group-title="Movies | TR - MARVEL SINEMA",Venom: Zehirli Öfke (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375456.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tRdNexuqCCVAlHdVyegWdDNZs2.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Evden Uzakta (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375455.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Örümcek-Evrenine Geçiş (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375454.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii2MsmBmTL5kQuvBRCtKokUAF8v.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam: Örümcek Evreninde (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375453.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg" group-title="Movies | TR - MARVEL SINEMA",Avengers: Son Oyun (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375452.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg" group-title="Movies | TR - MARVEL SINEMA",Avengers: Sonsuzluk Savaşı (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375451.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Eve Dönüş (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375450.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td9wjb1v4sBE0T5UsZx50QnsZ3j.jpg" group-title="Movies | TR - MARVEL SINEMA",Kaptan Amerika: İç Savaş (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375449.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bZ816lXLqAVPp0wsvE5S2SuGu.jpg" group-title="Movies | TR - MARVEL SINEMA",İnanılmaz Örümcek-Adam 2 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375448.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YoNuu4xeGIBTLAPse6RdWgV51t.jpg" group-title="Movies | TR - MARVEL SINEMA",İnanılmaz Örümcek-Adam (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375447.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxAWGyDADSazvz9pfPWPjryIVoE.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam 3 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375446.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up4mcu95N91I7SnylVCIIMTWZYq.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam 2 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375445.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FyIHcUTLFNSk4D5rfsGRTkSwie.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375444.mkv
+# --- Movies | TR - MARVEL SINEMA (78) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjubchd3QdoDOZ6zrghHjNB1Rqh.jpg" group-title="Movies | TR - MARVEL SINEMA",Thunderbolts* (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375614.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDRk4CHForp28shN9V0DgB0BnW8.jpg" group-title="Movies | TR - MARVEL SINEMA",Kaptan Amerika: Cesur Yeni Dünya (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/326053.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vobieeFFffYbXjv0rQnQ7uyPQBQ.jpg" group-title="Movies | TR - MARVEL SINEMA",Captain America- Brave New World (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/187967.mkv
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375613.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k12QJ5pnFu3e4Z237pf2Wii5Ab3.jpg" group-title="Movies | TR - MARVEL SINEMA",Avcı Kraven (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375612.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXuJod6c9NyPwHJiT3HxsZDquLZ.jpg" group-title="Movies | TR - MARVEL SINEMA",Venom: Son Dans (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375611.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVr2X3jnoeLuZ2v0L1O8MOdOiSz.jpg" group-title="Movies | TR - MARVEL SINEMA",Deadpool & Wolverine (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375610.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEKKqwNpYK50reH83PBPKRmR7Qs.jpg" group-title="Movies | TR - MARVEL SINEMA",Madame Web (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375609.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laGm5l1tF2xhjbZipoZUc4yyl7d.jpg" group-title="Movies | TR - MARVEL SINEMA",The Marvels (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375608.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Örümcek-Evrenine Geçiş (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375607.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbK6py6t9ikhWbsz3tIeXgiBCCn.jpg" group-title="Movies | TR - MARVEL SINEMA",Galaksinin Koruyucuları 3 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375606.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiifrFJTGkU6zI7e7YH9q5neH8O.jpg" group-title="Movies | TR - MARVEL SINEMA",Ant-Man ve Wasp: Quantumania (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/152713.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9s9a1RbxnCVpEUdUOA931SHdkro.jpg" group-title="Movies | TR - MARVEL SINEMA",Black Panther: Yaşasın Wakanda (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/145662.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJrupbmMan1SStJ18IVXiHMactU.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor: Aşk ve Gök Gürültüsü  (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/135653.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg" group-title="Movies | TR - MARVEL SINEMA",Yeşil Dev - Hulk (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/134067.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3t1t4FlQpDdtpoVsXC6IzeMjUH.jpg" group-title="Movies | TR - MARVEL SINEMA",Avengers: Age of Ultron (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/92671.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sCJVLAqKGgKIZpKGXURjpKBwgu.jpg" group-title="Movies | TR - MARVEL SINEMA",The Avengers (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/92673.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpW7k3TYS3WG89vPiRQr4peEcFO.jpg" group-title="Movies | TR - MARVEL SINEMA",Iron Man 3 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/69784.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzsdbpqOImEg8njfvK5kLLpUgsW.jpg" group-title="Movies | TR - MARVEL SINEMA",Iron Man 2 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/69783.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3o2TSP446Scw0d0m6qXlR8MYFO9.jpg" group-title="Movies | TR - MARVEL SINEMA",Iron Man (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/69782.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eelHkOvjjBhDlcQBgRwB79j8CoO.jpg" group-title="Movies | TR - MARVEL SINEMA",Ant-Man and the Wasp (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61127.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg" group-title="Movies | TR - MARVEL SINEMA",Avengers: Infinity War (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61124.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" group-title="Movies | TR - MARVEL SINEMA",Captain Marvel (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61121.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9NAhhkM3nSstFRVHWgnnDdavv5.jpg" group-title="Movies | TR - MARVEL SINEMA",Guardians of the Galaxy (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61128.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDQXXrL6aBqIQ38GivPVWgjZXv7.jpg" group-title="Movies | TR - MARVEL SINEMA",Guardians of the Galaxy Vol. 2 (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61129.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liSKTEK5B9ARmfsho6teomLLBA4.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61115.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3YRuXDxDa8XWGjbdOrwfeouxg6.jpg" group-title="Movies | TR - MARVEL SINEMA",Anthony Hopkins - Thor: The Dark World (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61116.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nifqM5VkblSttwwqGXoDXmXwrHA.jpg" group-title="Movies | TR - MARVEL SINEMA",Doctor Strange (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61132.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg" group-title="Movies | TR - MARVEL SINEMA",The Incredible Hulk (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/61101.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAyzsAo1v94uJ4kDUE8ucOT5FUk.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor: Karanlık Dünya (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342872.mkv
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375605.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfM2WEiOGc3S6Ay6XdstFMw3y6q.jpg" group-title="Movies | TR - MARVEL SINEMA",Black Panther: Yaşasın Wakanda (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375604.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJrupbmMan1SStJ18IVXiHMactU.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor: Aşk ve Gök Gürültüsü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375603.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kNtKwps884KDg92N9HapnBi7T8.jpg" group-title="Movies | TR - MARVEL SINEMA",Doctor Strange Çoklu Evren Çılgınlığında (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375602.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oyVnJLplWD22jRwD8ZYkFoJWhn.jpg" group-title="Movies | TR - MARVEL SINEMA",Morbius (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375601.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owp86mH42Un19egdeeZPImufBxN.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Eve Dönüş Yok (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375600.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFByFSLV5WDJEv3KabbdAF959F2.jpg" group-title="Movies | TR - MARVEL SINEMA",Eternals (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375599.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ia0Q1KKvSWwYbywWcm49uXIZCZ3.jpg" group-title="Movies | TR - MARVEL SINEMA",Venom: Zehirli Öfke 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375598.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuFRut0rHI7L2NqC3RyYu6Tj8Od.jpg" group-title="Movies | TR - MARVEL SINEMA",Shang-Chi ve On Halka Efsanesi (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375597.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMEOdAaAm0ITMfH7nubY6ZQJC76.jpg" group-title="Movies | TR - MARVEL SINEMA",Black Widow (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375596.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm2N8CkU6Or9knK0EcUeQlfu587.jpg" group-title="Movies | TR - MARVEL SINEMA",Yeni Mutantlar (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375595.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tRdNexuqCCVAlHdVyegWdDNZs2.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Evden Uzakta (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375594.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ew3c5MTo3Tb903Cps0k1qAcbUD.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men: Dark Phoenix (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375593.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg" group-title="Movies | TR - MARVEL SINEMA",Avengers: Son Oyun (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375592.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyC1EAp01xzcd61SwQ7rweOOhTW.jpg" group-title="Movies | TR - MARVEL SINEMA",Kaptan Marvel (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375591.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii2MsmBmTL5kQuvBRCtKokUAF8v.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam: Örümcek Evreninde (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375590.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQK5C2mL7DJUpQSahoT2CYMtvkX.jpg" group-title="Movies | TR - MARVEL SINEMA",Venom: Zehirli Öfke (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375589.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgJ4YlHDZVTmOYAkSXOZiJjgPqp.jpg" group-title="Movies | TR - MARVEL SINEMA",Ant-Man ve Wasp (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375588.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTUIcMwOgAeA0Z7PIMKeNqutqmQ.jpg" group-title="Movies | TR - MARVEL SINEMA",Deadpool 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375587.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg" group-title="Movies | TR - MARVEL SINEMA",Avengers: Sonsuzluk Savaşı (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375586.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i86opH1OBRjBvNmjbGhHjbJ0ybU.jpg" group-title="Movies | TR - MARVEL SINEMA",Black Panther (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375585.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vznEpyt2LNr3P14s7n70sR2iWgA.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor: Ragnarok (TR)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342873.mkv
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375584.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek-Adam: Eve Dönüş (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375583.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDQXXrL6aBqIQ38GivPVWgjZXv7.jpg" group-title="Movies | TR - MARVEL SINEMA",Galaksinin Koruyucuları 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375582.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U06IOlGpzIX1b6RsqXqqjv9EpU.jpg" group-title="Movies | TR - MARVEL SINEMA",Logan: Wolverine (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375581.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nifqM5VkblSttwwqGXoDXmXwrHA.jpg" group-title="Movies | TR - MARVEL SINEMA",Doktor Strange (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375580.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81YsQLXwnPG1rpjGUJhCl0acXx3.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men: Apocalypse (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375579.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td9wjb1v4sBE0T5UsZx50QnsZ3j.jpg" group-title="Movies | TR - MARVEL SINEMA",Kaptan Amerika: İç Savaş (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375578.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99p0n6EhX6PebGIScQ0uRZ8aUv8.jpg" group-title="Movies | TR - MARVEL SINEMA",Deadpool (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375577.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDGgIWDNSypqDIwZpt2Vn0BCLK1.jpg" group-title="Movies | TR - MARVEL SINEMA",Fantastik Dörtlü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375576.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vURbKrz7fD7vVWm3CtkKafxezqh.jpg" group-title="Movies | TR - MARVEL SINEMA",Ant-Man (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375575.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3t1t4FlQpDdtpoVsXC6IzeMjUH.jpg" group-title="Movies | TR - MARVEL SINEMA",Yenilmezler: Ultron Çağı (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375574.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9NAhhkM3nSstFRVHWgnnDdavv5.jpg" group-title="Movies | TR - MARVEL SINEMA",Galaksinin Koruyucuları (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375573.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN7h408RGxMXaEMVtbuYhKuCEnc.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men: Geçmiş Günler Gelecek (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375572.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bZ816lXLqAVPp0wsvE5S2SuGu.jpg" group-title="Movies | TR - MARVEL SINEMA",İnanılmaz Örümcek-Adam 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375571.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgqEHkpBLa1JhN1QtdIyrqFmDWE.jpg" group-title="Movies | TR - MARVEL SINEMA",Kaptan Amerika: Kış Askeri (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375570.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAyzsAo1v94uJ4kDUE8ucOT5FUk.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor: Karanlık Dünya (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375569.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg" group-title="Movies | TR - MARVEL SINEMA",The Wolverine (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375568.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJTxwTsWeqxEz1wjOMlAKf13dRD.jpg" group-title="Movies | TR - MARVEL SINEMA",Demir Adam 3 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375567.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YoNuu4xeGIBTLAPse6RdWgV51t.jpg" group-title="Movies | TR - MARVEL SINEMA",İnanılmaz Örümcek-Adam (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375566.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sCJVLAqKGgKIZpKGXURjpKBwgu.jpg" group-title="Movies | TR - MARVEL SINEMA",Yenilmezler (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375565.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq29YyxcoZQEBZz3chpHmEmgSC3.jpg" group-title="Movies | TR - MARVEL SINEMA",Hayalet Sürücü 2: İntikam Ateşi (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375564.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN9CTWJjL1j1F0OokhnyiRGYFu4.jpg" group-title="Movies | TR - MARVEL SINEMA",İlk Yenilmez: Kaptan Amerika (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375563.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ3j3Ya3oUZVhzg0MaZlqMuVX3U.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men: Birinci Sınıf (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375562.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3dAijbMu2JutrAjxMRGTXILyY.jpg" group-title="Movies | TR - MARVEL SINEMA",Thor (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375561.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMh5gOIwiYQic4H66ep88RnHovi.jpg" group-title="Movies | TR - MARVEL SINEMA",Demir Adam 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375560.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oztsCfR0IyaH7M4ZMMG9vpqd059.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men Başlangıç: Wolverine (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375559.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnwYd1drF1C0ShKjEyrZ4I9L3TU.jpg" group-title="Movies | TR - MARVEL SINEMA",Cezalandırıcı: Savaş Hattı (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375558.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg" group-title="Movies | TR - MARVEL SINEMA",The Incredible Hulk (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375557.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qjZeIZ52CWgmZuEuVuBPaypChy.jpg" group-title="Movies | TR - MARVEL SINEMA",Demir Adam (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375556.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b704jZVgUWzxrtxd5UA7d6lGMLe.jpg" group-title="Movies | TR - MARVEL SINEMA",Fantastik Dörtlü: Gümüş Sörfçü'nün Yükselişi (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375555.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxAWGyDADSazvz9pfPWPjryIVoE.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam 3 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375554.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUJxqFhCrwg7rKFQq0sfvmzI0eJ.jpg" group-title="Movies | TR - MARVEL SINEMA",Hayalet Sürücü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375553.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tltloMUJ3KZ7IByFwJrR4lvHZeK.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men: Son Direniş (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375552.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zG07ExIrWtZoxWlMOyhBszWAwf.jpg" group-title="Movies | TR - MARVEL SINEMA",Fantastik Dörtlü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375551.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC6s6NKHneSrOKyQZnUMb443RKU.jpg" group-title="Movies | TR - MARVEL SINEMA",Elektra (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375550.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg" group-title="Movies | TR - MARVEL SINEMA",Blade: Trinity (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375549.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up4mcu95N91I7SnylVCIIMTWZYq.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375548.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbF8aKWo9ESIVTvOoDoRKFzxAG8.jpg" group-title="Movies | TR - MARVEL SINEMA",İnfazcı (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375547.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UllIft2jLSBaay3zQyMV4GNdfy.jpg" group-title="Movies | TR - MARVEL SINEMA",Hulk (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375546.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bst4alFUXCxISwdRUKSMhhkrX1M.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men 2 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375545.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mi8u0EsYIizr6bJBrQUinV5xAz.jpg" group-title="Movies | TR - MARVEL SINEMA",Korkusuz (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375544.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FyIHcUTLFNSk4D5rfsGRTkSwie.jpg" group-title="Movies | TR - MARVEL SINEMA",Örümcek Adam (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375543.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkW8rjmi7bpWja3BNDfaxdNOn3r.jpg" group-title="Movies | TR - MARVEL SINEMA",Blade II (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375542.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDAc4GogyS9ci3ow7UnInOcriN.jpg" group-title="Movies | TR - MARVEL SINEMA",X-Men (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375541.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsKoFFD9uaF1zibQPeINP925iXm.jpg" group-title="Movies | TR - MARVEL SINEMA",Bıçağın İki Yüzü (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375540.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13zmgqQA3ngxKum6vd1YEB4HHhu.jpg" group-title="Movies | TR - MARVEL SINEMA",Kaptan Amerika (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA0O0hYyHX7Hl2Fl8VEtGtfBtjI.jpg" group-title="Movies | TR - MARVEL SINEMA",İnfazcı (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375538.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg" group-title="Movies | TR - MARVEL SINEMA",Ördek Howard (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375537.mkv
 
 # --- Movies | TR - PARAMOUNT ORIGINAL (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - PARAMOUNT ORIGINAL",Kayıp Sembol (TR)
@@ -64807,7 +64903,7 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342881.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/530RZ2HsxAgKVO4joNFjAgucbri.jpg" group-title="Movies | TR - YABANCI KOMEDI",Yıldırım Emri (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342884.mkv
 
-# --- Movies | TR - YABANCI NETFLIX (974) ---
+# --- Movies | TR - YABANCI NETFLIX (975) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="Movies | TR - YABANCI NETFLIX",Kocalar İş Başında (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/348343.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHK4R14rjhoDIBwmk9uwTNpopFz.jpg" group-title="Movies | TR - YABANCI NETFLIX",Gel Yüzelim (TR)
@@ -65504,6 +65600,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/59448.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/59434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOLnV1lM3NuMsgYwIhz454fQRgt.jpg" group-title="Movies | TR - YABANCI NETFLIX",Öfke Çemberi 2 (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/197400.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",The Bombing of Pan Am 103 (TR)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10243.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",Wrath (TR)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10242.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - YABANCI NETFLIX",Idaho Üniversitesi Cinayetleri (TR)
@@ -75865,4 +75963,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37697
+# Total: 37746

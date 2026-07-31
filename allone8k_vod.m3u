@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-07-30 19:34:56
+# Generated: 2026-07-31 19:44:26
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -1199,7 +1199,7 @@ http://allone8k.info:8080/movie/hany/hany1234/9112.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | 2026: رمضان تونسي جزائري ليبي",ديربي - 2026
 http://allone8k.info:8080/movie/hany/hany1234/9044.mp4
 
-# --- Movies | AR | 2026: رمضان سوري لبناني (25) ---
+# --- Movies | AR | 2026: رمضان سوري لبناني (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | 2026: رمضان سوري لبناني",اليتيمة - 2026
 http://allone8k.info:8080/movie/hany/hany1234/11251.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | 2026: رمضان سوري لبناني",عرض و طلب - 2026
@@ -1250,6 +1250,8 @@ http://allone8k.info:8080/movie/hany/hany1234/10822.mp4
 http://allone8k.info:8080/movie/hany/hany1234/10821.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | 2026: رمضان سوري لبناني",ما اختلفنا - 2024
 http://allone8k.info:8080/movie/hany/hany1234/9102.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AR | 2026: رمضان سوري لبناني",اليتيم - 2026
+http://allone8k.info:8080/movie/hany/hany1234/11482.mp4
 
 # --- Movies | AR | 2026: رمضان عراقي خليجي (98) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AR | 2026: رمضان عراقي خليجي",أم 44 - 2025
@@ -30193,9 +30195,11 @@ http://allone8k.info:8080/movie/hany/hany1234/5168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | HBO MAX ORIGINALS",Raised by Wolves - 2020
 http://allone8k.info:8080/movie/hany/hany1234/3030.mp4
 
-# --- Movies | EN | HORROR MOVIES | رعب (1423) ---
+# --- Movies | EN | HORROR MOVIES | رعب (1424) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sflthhBjaxZRP5YJvyaSfP08BI5.jpg" group-title="Movies | EN | HORROR MOVIES | رعب",NF: Devil′s Horns - 2024
 http://allone8k.info:8080/movie/hany/hany1234/461747.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="Movies | EN | HORROR MOVIES | رعب",EN: The Devil′s Mouth - 2026
+http://allone8k.info:8080/movie/hany/hany1234/661499.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg" group-title="Movies | EN | HORROR MOVIES | رعب",EN: Leviticus - 2026
 http://allone8k.info:8080/movie/hany/hany1234/661453.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiFacg75KVjy0AM3S4QmbPas8zL.jpg" group-title="Movies | EN | HORROR MOVIES | رعب",EN: Her Private Hell - 2026
@@ -43623,7 +43627,9 @@ http://allone8k.info:8080/movie/hany/hany1234/416351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" group-title="Movies | EN | MOVIES 23-24",EN: Arthur the King - 2024
 http://allone8k.info:8080/movie/hany/hany1234/402826.mp4
 
-# --- Movies | EN | MOVIES 25-26 (814) ---
+# --- Movies | EN | MOVIES 25-26 (815) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMutDMODnbCZf46w0dK4wncQmDB.jpg" group-title="Movies | EN | MOVIES 25-26",EN: The Gentleman Thief - 2026
+http://allone8k.info:8080/movie/hany/hany1234/661500.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v05PSRSJtcGHGmI5Egte76sav7g.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Cruel Hands - 2026
 http://allone8k.info:8080/movie/hany/hany1234/661418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1HgK2pyhKfWCALvJTN9Gq9gBu4.jpg" group-title="Movies | EN | MOVIES 25-26",EN: Hen - 2026
@@ -80581,4 +80587,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 40073
+# Total: 40076
