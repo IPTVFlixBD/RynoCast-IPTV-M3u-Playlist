@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-07-31 19:55:29
+# Generated: 2026-08-01 07:59:21
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -11537,7 +11537,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/182256.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - DARK CINEMA ⁷-²⁴",(NL) ⁷-²⁴ Harry Potter
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/182169.m3u8
 
-# --- NL - DAZN EVENTS (8) ---
+# --- NL - DAZN EVENTS (9) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 1 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203883.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 2 FHD
@@ -11554,6 +11554,8 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203878.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203877.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevents.png" group-title="NL - DAZN EVENTS",(NL) DAZN Event 8 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203876.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - DAZN EVENTS",(NL) ViaPlay Event 45 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375645.m3u8
 
 # --- NL - DOCUMENTARY (20) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/discoverychannel.png" group-title="NL - DOCUMENTARY",(NL) Discovery Channel 4K+
@@ -11719,9 +11721,21 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/182613.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - KİDS",(NL) ⁷-²⁴ Thomas de Stoomlocomotief
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/182617.m3u8
 
-# --- NL - MOTO GP (1) ---
-#EXTINF:-1 tvg-logo="" group-title="NL - MOTO GP",(NL) MotoGP 4K+
+# --- NL - MOTO GP (7) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Race 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/313458.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Vrije Traning 1 4K+ (HERHALING)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375651.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Vrije Traning 4K+ (HERHALING)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375652.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Vrije Traning 2 4K+ (HERHALING)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375653.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Kwalificatie Q1 4K+ (HERHALING)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375654.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Kwalificatie Q2 4K+ (HERHALING)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375655.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/motogp.png" group-title="NL - MOTO GP",(NL) MotoGP Sprint-Race 4K+ (HERHALING)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375657.m3u8
 
 # --- NL - MUZIEK (16) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/slamtv.png" group-title="NL - MUZIEK",(NL) Slam! TV
@@ -11951,25 +11965,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329807.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 10 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329808.m3u8
 
-# --- NL - VIAPLAY EVENTS (44) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 40 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375640.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 38 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375639.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 37 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375638.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 36 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375637.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 35 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375636.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 34 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375635.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 33 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375634.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 32 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375633.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 31 FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375632.m3u8
+# --- NL - VIAPLAY EVENTS (53) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay TV+ 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/305682.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay PDC Darts 4K+
@@ -12040,6 +12036,42 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203860.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203859.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 30 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203858.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 31 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375632.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 32 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375633.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 33 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375634.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 34 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375635.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 35 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375636.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 36 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375637.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 37 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375638.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 38 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375639.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 40 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375640.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 41 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375641.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 42 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375642.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 43 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375643.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 44 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375644.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 46 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375646.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 47 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375647.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 48 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375648.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 49 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375649.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) ViaPlay Event 50 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/375650.m3u8
 
 # --- NL - VIAPLAY FORMULE F1 (22) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay Formula 1 4K+
@@ -18447,4 +18479,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353620.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Arablar/1828080.png" group-title="İR : PERSİAN",(IR) Velayat TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353619.m3u8
 
-# Total: 9024
+# Total: 9040
