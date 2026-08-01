@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-08-01 08:07:16
+# Generated: 2026-08-01 19:05:27
 # Expires: 2027-08-02
 # Family Safe Edition
 # ==============================================
@@ -43415,7 +43415,17 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/268743.m3u8
 #EXTINF:-1 tvg-logo="http://focustv.xyz/files/ch/TR/hrt_akdeniz.png" group-title="TR | DINI / YEREL",HRT AKDENIZ TV
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/268744.m3u8
 
-# --- TR | ENJOYTV DIZILER (25) ---
+# --- TR | ENJOYTV DIZILER (30) ---
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Bana Sevmeyi Anlat 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060387.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Söz 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060384.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Kendi Düşen Ağlamaz 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060383.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Tozluyaka 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060382.m3u8
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Güneşin Kızları 24/7
+http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060381.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Duy Beni 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060345.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV DIZILER",TR | EnjoyTV Afili Aşk 24/7
@@ -43498,7 +43508,7 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060157.m3u8
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060156.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV RELIGION",TR | EnjoyTV The Life of Prophet Muhammad (PBUH) 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060063.m3u8
-#EXTINF:-1 tvg-logo="/home/premiumvod/video/CREATED CHANNELS/TR/TR | EnjoyTV Religion/TR | EnjoyTV Kudüs Biyografisi" group-title="TR | ENJOYTV RELIGION",TR | EnjoyTV Kudüs Biyografisi 24/7
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV RELIGION",TR | EnjoyTV Kudüs Biyografisi 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060062.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | ENJOYTV RELIGION",TR | EnjoyTV Ahlak Atlası 24/7
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/1060061.m3u8
@@ -56641,4 +56651,4 @@ http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301591.m3u8
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="✦●✦● INFORMATION ✦●✦●",✦●✦● BOXING ✦●✦●
 http://mutant.arrox.top:80/live/nFYdEsmj/fak5Da8/301588.m3u8
 
-# Total: 27857
+# Total: 27862

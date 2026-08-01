@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-08-01 07:59:21
+# Generated: 2026-08-01 19:04:35
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -46897,7 +46897,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/3556.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",Chicago Med (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1015.mp4
 
-# --- Movies | NL - STARZPLAY (2) ---
+# --- Movies | NL - STARZPLAY (3) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - STARZPLAY",Fightland (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10246.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - STARZPLAY",Shining Vale (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - STARZPLAY",Power Book III: Raising Kanan (NL)
@@ -75907,4 +75909,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37718
+# Total: 37719
