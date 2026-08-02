@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nplay.tel:2095
-# Generated: 2026-08-02 07:57:23
+# Generated: 2026-08-02 19:09:21
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
@@ -21689,7 +21689,9 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Arabic-Sub]",Peaky Blinders [AR]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2855.mp4
 
-# --- Movies | English [Multi-Sub] (4443) ---
+# --- Movies | English [Multi-Sub] (4444) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Teach You a Lesson
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23077.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Wrath
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23074.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Bombing of Pan Am 103 [2025]
@@ -30577,7 +30579,9 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/3959.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The 100
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/746.mp4
 
-# --- Movies | English [Multi-Sub] [4K] [Only On 4K Devices] (119) ---
+# --- Movies | English [Multi-Sub] [4K] [Only On 4K Devices] (120) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Ransom Canyon [4K]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23076.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Pompeii: Out of Time with Tom Hiddleston [4K]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22916.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",Secrets of the Bees [4K]
@@ -40651,7 +40655,25 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399797.mkv
 
-# --- Movies | N1 Sports Events Replays (354) ---
+# --- Movies | N1 Sports Events Replays (363) ---
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/893/388/logo_GTWorldChallenge_(1).png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.40 Magny.Cours  GT World Challenge Europe 8.2  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508768.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qMjk9/cxDFEHJVn8Sbt23TA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",08.00 Kyren Wilson . Judd Trump snooker FHD 8.2  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508767.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qMjk9/cxDFEHJVn8Sbt23TA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",08.00 Kyren Wilson . Judd Trump snooker 8.2  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508766.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8dda21dc-180c-4d5f-97f9-65a485a25b07%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",09.30 Rally.VM. Finland Rally.VM 8.2  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508715.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b0f8c80-c898-4282-a43c-687d5f61ab5c/8/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Movies | N1 Sports Events Replays",07.00 MLS Wrap.Up  Amazon Prime SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508662.mkv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7416b3f4-a630-4a32-90a9-8e809896d44a/3/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Movies | N1 Sports Events Replays",07.00 MLS El Resumen  Amazon Prime SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508661.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Ffbba30a8-3775-4cd2-9a0c-1e5f76021a7d%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",05.00 Los Cabos Open (250). final ATP Tour 8.2  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508473.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F527647dc-d83c-44b3-8d58-28952812bd5e%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",00.30 Washington Open (500). semifinaler ATP Tour 8.1  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508232.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.00 Cubs . Yankees  Major League Baseball 8.1  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508226.mkv
 #EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fba8b-6ede-7069-961f-f268c9c01340/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",01.30 Laredo, TX vs. Easley, SC  Disney+ SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2508221.mkv
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2026/03/10/eb314248-6d77-4574-8d48-305a2699b4a1.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.00 Utah Championship golf FHD 8.1  HBO Max SE
@@ -79285,4 +79307,4 @@ http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/497
 #EXTINF:-1 tvg-logo="" group-title="Series | Turkish Series [ مسلسلات تركية مترجمة ]",İçerde
 http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/556
 
-# Total: 39581
+# Total: 39592

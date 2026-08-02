@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-08-02 07:56:02
+# Generated: 2026-08-02 19:07:10
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -4674,8 +4674,6 @@ http://allone8k.info:8080/live/hany/hany1234/237263.m3u8
 http://allone8k.info:8080/live/hany/hany1234/237264.m3u8
 
 # --- AR | MBC Extra 4K (22) ---
-#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
-http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC MIX 4K
 http://allone8k.info:8080/live/hany/hany1234/451357.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC EXTRA 4K
@@ -4704,6 +4702,8 @@ http://allone8k.info:8080/live/hany/hany1234/324919.m3u8
 http://allone8k.info:8080/live/hany/hany1234/324920.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC Comedy 4K
 http://allone8k.info:8080/live/hany/hany1234/324921.m3u8
+#EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC KIDS 4K
+http://allone8k.info:8080/live/hany/hany1234/424883.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC CLASS 4K
 http://allone8k.info:8080/live/hany/hany1234/324922.m3u8
 #EXTINF:-1 tvg-logo="http://138.201.56.110/ActiveCode-Panel/Photo/Groups/Channels-Groups/MBC-Entertainment-2.png" group-title="AR | MBC Extra 4K",AR |MBC PLUS 4K
@@ -8584,6 +8584,8 @@ http://allone8k.info:8080/live/hany/hany1234/254079.m3u8
 http://allone8k.info:8080/live/hany/hany1234/254388.m3u8
 
 # --- DE | APPLE TV (33) ---
+#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
+http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 01
 http://allone8k.info:8080/live/hany/hany1234/233039.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 02
@@ -8610,8 +8612,6 @@ http://allone8k.info:8080/live/hany/hany1234/233049.m3u8
 http://allone8k.info:8080/live/hany/hany1234/233050.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Apple TV DE 13
 http://allone8k.info:8080/live/hany/hany1234/233051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | APPLE TV",DE: John Wick 4K
-http://allone8k.info:8080/live/hany/hany1234/308100.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Fast & Furious
 http://allone8k.info:8080/live/hany/hany1234/233038.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Channels-Groups/Live-Apple-TV-Plus-DE.png" group-title="DE | APPLE TV",Friends DE S01
@@ -9895,901 +9895,637 @@ http://allone8k.info:8080/live/hany/hany1234/304396.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png" group-title="ES | TDT",ES: Divinity ES
 http://allone8k.info:8080/live/hany/hany1234/304398.m3u8
 
-# --- ES | Todos - ALL (447) ---
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ES | Todos - ALL",ES: M+ MUSICA FHD ES
-http://allone8k.info:8080/live/hany/hany1234/304335.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png" group-title="ES | Todos - ALL",ES: MTV ES
-http://allone8k.info:8080/live/hany/hany1234/304338.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VH1.png" group-title="ES | Todos - ALL",ES: MTV 00s ES
-http://allone8k.info:8080/live/hany/hany1234/304340.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZOHD.png" group-title="ES | Todos - ALL",ES: Mezzo Live FHD ES
-http://allone8k.info:8080/live/hany/hany1234/304341.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSI.png" group-title="ES | Todos - ALL",ES: Classica ES
-http://allone8k.info:8080/live/hany/hany1234/304342.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",[ES] Real Madrid TV
-http://allone8k.info:8080/live/hany/hany1234/464972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",[ES] Sevilla FC
-http://allone8k.info:8080/live/hany/hany1234/464975.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Yaf_0AVrSx4Te4QlXVR78oERUoJ9SKg6NR3Ljo4PyMA.png" group-title="ES | Todos - ALL",ES: #0 FHD
-http://allone8k.info:8080/live/hany/hany1234/464741.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMccy_I8sxLdiypCUrH4p5d2Okb2ZIJFsCuEOE-VuMsA.png" group-title="ES | Todos - ALL",ES: #0 HD
-http://allone8k.info:8080/live/hany/hany1234/464742.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Yaf_0AVrSx4Te4QlXVR78oERUoJ9SKg6NR3Ljo4PyMA.png" group-title="ES | Todos - ALL",ES: #0 SD
-http://allone8k.info:8080/live/hany/hany1234/464743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: #Vamos
-http://allone8k.info:8080/live/hany/hany1234/464948.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="ES | Todos - ALL",ES: #VAMOS FHD
-http://allone8k.info:8080/live/hany/hany1234/464744.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="ES | Todos - ALL",ES: #VAMOS HD
-http://allone8k.info:8080/live/hany/hany1234/464745.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="ES | Todos - ALL",ES: #VAMOS HEVC
-http://allone8k.info:8080/live/hany/hany1234/464746.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="ES | Todos - ALL",ES: #VAMOS SD
-http://allone8k.info:8080/live/hany/hany1234/464747.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: 091 Alerta Policia HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465178.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: 24/7 La Casa de Papel (ES)
-http://allone8k.info:8080/live/hany/hany1234/465170.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: 24/7 Los Simpsons
-http://allone8k.info:8080/live/hany/hany1234/464748.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/24h-en-directo-online.png" group-title="ES | Todos - ALL",ES: 24h HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465313.m3u8
-#EXTINF:-1 tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="ES | Todos - ALL",ES: 3/24 CAT FHD
-http://allone8k.info:8080/live/hany/hany1234/465211.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/220px-7TVRM.svg.png" group-title="ES | Todos - ALL",ES: 7 TV Murcia HD
-http://allone8k.info:8080/live/hany/hany1234/465311.m3u8
-#EXTINF:-1 tvg-logo="https://8madrid.tv/wp-content/uploads/2021/09/cropped-8madrid-nuestro-cine.jpg" group-title="ES | Todos - ALL",ES: 8 Madrid
-http://allone8k.info:8080/live/hany/hany1234/465111.m3u8
-#EXTINF:-1 tvg-logo="https://www.8tv.cat/uploads/logos/20220914103438_logo_13_logo[1].png" group-title="ES | Todos - ALL",ES: 8TV.cat HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465327.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPdmwwtUNVL5AnvjebARyLnatZhuss_Vb5Ey7IrxVeY5qi-UX5n690QRFVd6qiMfJ4.png" group-title="ES | Todos - ALL",ES: A PUNT
-http://allone8k.info:8080/live/hany/hany1234/464749.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/wsxted1sa89XGntix0LoNPMFeMPbL2DY1g-8APX3wVVDqfS-Hk7hgPNHRb5UCiramROhm2x2oGZwrf0pCLFdoO2WCkLGTnA2zEKczGJashc.png" group-title="ES | Todos - ALL",ES: A3 SERIES
-http://allone8k.info:8080/live/hany/hany1234/464750.m3u8
-#EXTINF:-1 tvg-logo="http://www.alcarria.tv/web/wp-content/uploads/2016/09/cropped-cropped-logonegroalcarriatv.png" group-title="ES | Todos - ALL",ES: Alcarria TV
-http://allone8k.info:8080/live/hany/hany1234/465290.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: ALGECIRAS TV
-http://allone8k.info:8080/live/hany/hany1234/464751.m3u8
-#EXTINF:-1 tvg-logo="https://allflamenco.net/static/images/logo/all-flamenco-logo-red-bg.png" group-title="ES | Todos - ALL",ES: All Flamenco HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465059.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawMSgYxvJcNI0_umj30tF431w.png" group-title="ES | Todos - ALL",ES: ALQUILER 1 FHD
-http://allone8k.info:8080/live/hany/hany1234/464752.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Amazonas Clandestino HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465168.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ES | Todos - ALL",ES: AMC Break FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465227.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ES | Todos - ALL",ES: AMC Break HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465232.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ES | Todos - ALL",ES: AMC Break SD
-http://allone8k.info:8080/live/hany/hany1234/465108.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crimen_investigacion.png" group-title="ES | Todos - ALL",ES: AMC Crime
-http://allone8k.info:8080/live/hany/hany1234/465231.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crimen_investigacion.png" group-title="ES | Todos - ALL",ES: AMC Crime HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465045.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="ES | Todos - ALL",ES: AMC FHD
-http://allone8k.info:8080/live/hany/hany1234/464753.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/amc_us.png" group-title="ES | Todos - ALL",ES: AMC FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465256.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/amc_us.png" group-title="ES | Todos - ALL",ES: AMC HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465255.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="ES | Todos - ALL",ES: AMC SD
-http://allone8k.info:8080/live/hany/hany1234/464754.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwskWoIcv54GjfumzQdGpt1CYzGVvVDT3eXdALTJxwwG0w.png" group-title="ES | Todos - ALL",ES: ANTENA 3 FHD
-http://allone8k.info:8080/live/hany/hany1234/464755.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena3.png" group-title="ES | Todos - ALL",ES: Antena 3 FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465335.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsRPfVyVbQIuM9ODYTe6nZCckr0fF1G95Xp9UdaQfZI5Q.png" group-title="ES | Todos - ALL",ES: ANTENA 3 HD
-http://allone8k.info:8080/live/hany/hany1234/464756.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena3.png" group-title="ES | Todos - ALL",ES: Antena 3 Internacional
-http://allone8k.info:8080/live/hany/hany1234/465334.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwskWoIcv54GjfumzQdGpt1CYzGVvVDT3eXdALTJxwwG0w.png" group-title="ES | Todos - ALL",ES: ANTENA 3 SD
-http://allone8k.info:8080/live/hany/hany1234/464757.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXxTPa-a0bNrjLd7vlM0szordmNxBPRSoVvfLn15Mn05g.png" group-title="ES | Todos - ALL",ES: ARAGON TV
-http://allone8k.info:8080/live/hany/hany1234/464758.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvQ_YXrV44TvI4exKYLQ7XH.png" group-title="ES | Todos - ALL",ES: ATRESERIES FHD
-http://allone8k.info:8080/live/hany/hany1234/464759.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvQ_YXrV44TvI4exKYLQ7XH.png" group-title="ES | Todos - ALL",ES: ATRESERIES HD
-http://allone8k.info:8080/live/hany/hany1234/464760.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvQ_YXrV44TvI4exKYLQ7XH.png" group-title="ES | Todos - ALL",ES: ATRESERIES SD
-http://allone8k.info:8080/live/hany/hany1234/464761.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ij9PDIlcWX-EyvqYfo1luUb.png" group-title="ES | Todos - ALL",ES: AXN FHD
-http://allone8k.info:8080/live/hany/hany1234/464762.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png" group-title="ES | Todos - ALL",ES: AXN FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465251.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ij-G4mRYNXV8RUe8fz9k3rd84iV-hG-K2hJeXrnib2U1A.png" group-title="ES | Todos - ALL",ES: AXN HD
-http://allone8k.info:8080/live/hany/hany1234/464763.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_es.png" group-title="ES | Todos - ALL",ES: AXN Movies FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465250.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_es.png" group-title="ES | Todos - ALL",ES: AXN Movies HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465249.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_es.png" group-title="ES | Todos - ALL",ES: AXN Movies SD
-http://allone8k.info:8080/live/hany/hany1234/465248.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ij9PDIlcWX-EyvqYfo1luUb.png" group-title="ES | Todos - ALL",ES: AXN SD
-http://allone8k.info:8080/live/hany/hany1234/464764.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsUIiak5gOoZb3iaTV7BWstGsqTYPJYPKaQ6jrlvDYotQ.png" group-title="ES | Todos - ALL",ES: AXN WHITE HD
-http://allone8k.info:8080/live/hany/hany1234/464765.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMAgWgxzonr9QH9V3Gx7InUXGi4g_kwBUgmTetFnE4Dg.png" group-title="ES | Todos - ALL",ES: AXN WHITE SD
-http://allone8k.info:8080/live/hany/hany1234/464766.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/bb/baby_tv_eu.png" group-title="ES | Todos - ALL",ES: Baby TV
-http://allone8k.info:8080/live/hany/hany1234/465216.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c148kjrLTrcDBxJX0NSxdl_hlTVaEAJZOsp6I1VoTpsVEw.png" group-title="ES | Todos - ALL",ES: BABY TV SD
-http://allone8k.info:8080/live/hany/hany1234/464767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: Barca TV
-http://allone8k.info:8080/live/hany/hany1234/464973.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwswtzgArhty9Zt1eU67Fg4kcvmD7RlYy7WOcaL7ETdGkA.png" group-title="ES | Todos - ALL",ES: BE MAD FHD
-http://allone8k.info:8080/live/hany/hany1234/464768.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyk32vDE6lDlEW8HgYAMwehUKxUc8-rNT3JtLV78gG4Vg.png" group-title="ES | Todos - ALL",ES: BE MAD HD
-http://allone8k.info:8080/live/hany/hany1234/464769.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwswtzgArhty9Zt1eU67Fg4kcvmD7RlYy7WOcaL7ETdGkA.png" group-title="ES | Todos - ALL",ES: BE MAD SD
-http://allone8k.info:8080/live/hany/hany1234/464770.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/Be_Mad_TV.svg-0.png" group-title="ES | Todos - ALL",ES: BeMad TV
-http://allone8k.info:8080/live/hany/hany1234/465322.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/bb/beteve.jpg" group-title="ES | Todos - ALL",ES: Betevé CAT
-http://allone8k.info:8080/live/hany/hany1234/465212.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-betis-tv-872.png" group-title="ES | Todos - ALL",ES: Betis TV HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465387.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-betis-tv-872.png" group-title="ES | Todos - ALL",ES: Betis TV SD
-http://allone8k.info:8080/live/hany/hany1234/465292.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UwWGVFPKZ8S4u-ul8MrAdf1jxUKqX8dq0rEtKJbf-eO4w.png" group-title="ES | Todos - ALL",ES: BLAZE HD
-http://allone8k.info:8080/live/hany/hany1234/464771.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUVWL-R6v7aOb5E8OrhnqhnyGXQTtDkTFgzAsyeuFaV1w.png" group-title="ES | Todos - ALL",ES: BOING FHD
-http://allone8k.info:8080/live/hany/hany1234/464772.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUVWL-R6v7aOb5E8OrhnqhnyGXQTtDkTFgzAsyeuFaV1w.png" group-title="ES | Todos - ALL",ES: BOING HD
-http://allone8k.info:8080/live/hany/hany1234/464773.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/bb/boing_es.png" group-title="ES | Todos - ALL",ES: Boing SD
-http://allone8k.info:8080/live/hany/hany1234/465319.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPhnkrbEWzcNaLMhvragSzj2kPaX-F5a6w4ubbr4JbEQeTW_ArDNyXYJuHY4Bq-9EI.png" group-title="ES | Todos - ALL",ES: BOM CINE
-http://allone8k.info:8080/live/hany/hany1234/464774.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="ES | Todos - ALL",ES: Bon Dia TV
-http://allone8k.info:8080/live/hany/hany1234/465289.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BUENV.png" group-title="ES | Todos - ALL",ES: Buen Viaje TV HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465046.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Caballeros del Zodiaco Asgard HD (74-99) 24/7
-http://allone8k.info:8080/live/hany/hany1234/465141.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Caballeros del Zodiaco Hades HD (115-145) 24/7
-http://allone8k.info:8080/live/hany/hany1234/465139.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Caballeros del Zodiaco Poseidon HD (100-114) 24/7
-http://allone8k.info:8080/live/hany/hany1234/465140.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Caballeros del Zodiaco Santuario HD (41-73) 24/7
-http://allone8k.info:8080/live/hany/hany1234/465142.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24/7
-http://allone8k.info:8080/live/hany/hany1234/465143.m3u8
-#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="ES | Todos - ALL",ES: Cadena Elite
-http://allone8k.info:8080/live/hany/hany1234/465193.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt3C3603Yt5TS334VLRuaFSgJMV3mRjybomSHa2i71ZCA.png" group-title="ES | Todos - ALL",ES: CALLE 13 FHD
-http://allone8k.info:8080/live/hany/hany1234/464775.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/calle13_universal.png" group-title="ES | Todos - ALL",ES: Calle 13 FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465259.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt3C3603Yt5TS334VLRuaFSgJMV3mRjybomSHa2i71ZCA.png" group-title="ES | Todos - ALL",ES: CALLE 13 HD
-http://allone8k.info:8080/live/hany/hany1234/464776.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt3C3603Yt5TS334VLRuaFSgJMV3mRjybomSHa2i71ZCA.png" group-title="ES | Todos - ALL",ES: CALLE 13 SD
-http://allone8k.info:8080/live/hany/hany1234/464777.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Callejeros 24/7
-http://allone8k.info:8080/live/hany/hany1234/465167.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVkow78rbALLGOT7RQDvG7Z8qAjH3aith6X3SoodZPc9Q.png" group-title="ES | Todos - ALL",ES: CAZA Y PESCA FHD
-http://allone8k.info:8080/live/hany/hany1234/464787.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="ES | Todos - ALL",ES: Caza y Pesca FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465190.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uw1zPNGbAQZ8rH8zXAtUp_SttgZEeu7EyG0lQqQS1WmRw.png" group-title="ES | Todos - ALL",ES: CAZA Y PESCA HD
-http://allone8k.info:8080/live/hany/hany1234/464788.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVkow78rbALLGOT7RQDvG7Z8qAjH3aith6X3SoodZPc9Q.png" group-title="ES | Todos - ALL",ES: CAZA Y PESCA SD
-http://allone8k.info:8080/live/hany/hany1234/464789.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ES | Todos - ALL",ES: Cazavisión
-http://allone8k.info:8080/live/hany/hany1234/465265.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtu5euspZxmaTFNIHw4EmurSguHe_ROcLOAejA038AQDQ.png" group-title="ES | Todos - ALL",ES: CAZAVISION FHD
-http://allone8k.info:8080/live/hany/hany1234/464790.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ES | Todos - ALL",ES: Cazavisión HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465234.m3u8
-#EXTINF:-1 tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/clantv.png" group-title="ES | Todos - ALL",ES: Clan
-http://allone8k.info:8080/live/hany/hany1234/465323.m3u8
-#EXTINF:-1 tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/clantv.png" group-title="ES | Todos - ALL",ES: Clan FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465082.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxIz4z_ymryi73mozdmRM1o.png" group-title="ES | Todos - ALL",ES: CLAN HD
-http://allone8k.info:8080/live/hany/hany1234/464791.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxIz4z_ymryi73mozdmRM1o.png" group-title="ES | Todos - ALL",ES: CLAN SD
-http://allone8k.info:8080/live/hany/hany1234/464792.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/classica_de.png" group-title="ES | Todos - ALL",ES: Classica
-http://allone8k.info:8080/live/hany/hany1234/465191.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C_GFM6an32rRC39ttq0QhHr.png" group-title="ES | Todos - ALL",ES: CLASSICA FHD
-http://allone8k.info:8080/live/hany/hany1234/464793.m3u8
-#EXTINF:-1 tvg-logo="http://www.cmmedia.es/radio/wp-content/uploads/2015/02/CMMRadioDirecto.png" group-title="ES | Todos - ALL",ES: CMM
-http://allone8k.info:8080/live/hany/hany1234/465200.m3u8
-#EXTINF:-1 tvg-logo="http://www.cmmedia.es/radio/wp-content/uploads/2015/02/CMMRadioDirecto.png" group-title="ES | Todos - ALL",ES: CMM HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465065.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17GAw_vxOCiNv8_Kh_kO0VHP2ImVfJH5s8xx6uySOZoog.png" group-title="ES | Todos - ALL",ES: COMEDY CENTRAL FHD
-http://allone8k.info:8080/live/hany/hany1234/464794.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/comedy_central_us.png" group-title="ES | Todos - ALL",ES: Comedy Central FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465244.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxUgKFx7TCezR34c09ozy5u0cJjQnOijexti_sRz8eSNw.png" group-title="ES | Todos - ALL",ES: COMEDY CENTRAL HD
-http://allone8k.info:8080/live/hany/hany1234/464795.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxUgKFx7TCezR34c09ozy5u0cJjQnOijexti_sRz8eSNw.png" group-title="ES | Todos - ALL",ES: COMEDY CENTRAL SD
-http://allone8k.info:8080/live/hany/hany1234/464796.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C88nOpIsyhf9K9J2Bcjhfyf.png" group-title="ES | Todos - ALL",ES: COSMO FHD
-http://allone8k.info:8080/live/hany/hany1234/464797.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C88nOpIsyhf9K9J2Bcjhfyf.png" group-title="ES | Todos - ALL",ES: COSMO HD
-http://allone8k.info:8080/live/hany/hany1234/464798.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C88nOpIsyhf9K9J2Bcjhfyf.png" group-title="ES | Todos - ALL",ES: COSMO SD
-http://allone8k.info:8080/live/hany/hany1234/464799.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cosmopolitan_tv_es.png" group-title="ES | Todos - ALL",ES: Cosmo TV FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465258.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cosmopolitan_tv_es.png" group-title="ES | Todos - ALL",ES: Cosmo TV HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465257.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DX6rBMUBtb0ST5t8hCEOdty9Fq4O2IQogUXxxD6P0FEBg.png" group-title="ES | Todos - ALL",ES: CRIMEN & INVESTIGACION FHD
-http://allone8k.info:8080/live/hany/hany1234/464800.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1dPQWP6QV-eHqSAmO-IRECw3umVkGJuLI3Om-BYHTP_XQ.png" group-title="ES | Todos - ALL",ES: CUATRO FHD
-http://allone8k.info:8080/live/hany/hany1234/464801.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cuatro_es.png" group-title="ES | Todos - ALL",ES: Cuatro FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465333.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuct3Jf0hrwCCUtf1SAGvJI0yDQ6XT9kjOJUV1TUcaxgQ.png" group-title="ES | Todos - ALL",ES: CUATRO HD
-http://allone8k.info:8080/live/hany/hany1234/464802.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1dPQWP6QV-eHqSAmO-IRECw3umVkGJuLI3Om-BYHTP_XQ.png" group-title="ES | Todos - ALL",ES: CUATRO SD
-http://allone8k.info:8080/live/hany/hany1234/464803.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: Dark HD
-http://allone8k.info:8080/live/hany/hany1234/465267.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/-Ju_udIuZvgBurAY19C5LUycmjbP_McYWqt26TDDTYymbDu65SSSrj30gKNKueGKRUu5L7qg3GP2F7MljrZtauQVHDdMC4ww44ai_Yb-ceI.png" group-title="ES | Todos - ALL",ES: DARK RED FHD
-http://allone8k.info:8080/live/hany/hany1234/464804.m3u8
-#EXTINF:-1 tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" group-title="ES | Todos - ALL",ES: DBIKE HD (1080p)
-http://allone8k.info:8080/live/hany/hany1234/465060.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="ES | Todos - ALL",ES: Decasa
-http://allone8k.info:8080/live/hany/hany1234/465229.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="ES | Todos - ALL",ES: Decasa 4K
-http://allone8k.info:8080/live/hany/hany1234/465080.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="ES | Todos - ALL",ES: Decasa HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465112.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXlRhkhcVE7D6oWWDa4kQm7.png" group-title="ES | Todos - ALL",ES: DECASA TV FHD
-http://allone8k.info:8080/live/hany/hany1234/464805.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXlRhkhcVE7D6oWWDa4kQm7.png" group-title="ES | Todos - ALL",ES: DECASA TV SD
-http://allone8k.info:8080/live/hany/hany1234/464806.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="ES | Todos - ALL",ES: Discovery Channel FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465064.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="ES | Todos - ALL",ES: Discovery Channel SD
-http://allone8k.info:8080/live/hany/hany1234/465237.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzeQALXgCd9ktbroCEJV4Qy0SOHmap6P2y9l0-jVklXcA.png" group-title="ES | Todos - ALL",ES: DISCOVERY CHANNELS HD
-http://allone8k.info:8080/live/hany/hany1234/464807.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzeQALXgCd9ktbroCEJV4Qy0SOHmap6P2y9l0-jVklXcA.png" group-title="ES | Todos - ALL",ES: DISCOVERY CHANNELS SD
-http://allone8k.info:8080/live/hany/hany1234/464808.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7PsYfGZdBLlp1dSgnt3FEBpiE4aoZ9HHAAKZeOH6cvNRa_lkPDCWXWDeaAuXasLDw.png" group-title="ES | Todos - ALL",ES: DISNEY CHANNEL FHD
-http://allone8k.info:8080/live/hany/hany1234/464809.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png" group-title="ES | Todos - ALL",ES: Disney Channel FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465220.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUJcml5AX8AhZdQQ08rfI3qW9ytcF9nflR0Cn1ym7E_-Q.png" group-title="ES | Todos - ALL",ES: DISNEY CHANNEL HD
-http://allone8k.info:8080/live/hany/hany1234/464810.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7PsYfGZdBLlp1dSgnt3FEBpiE4aoZ9HHAAKZeOH6cvNRa_lkPDCWXWDeaAuXasLDw.png" group-title="ES | Todos - ALL",ES: DISNEY CHANNEL SD
-http://allone8k.info:8080/live/hany/hany1234/464811.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png" group-title="ES | Todos - ALL",ES: Disney Junior
-http://allone8k.info:8080/live/hany/hany1234/465084.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png" group-title="ES | Todos - ALL",ES: Disney Junior HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465221.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DW3tXwehSsawGgLSSTLgHnihA902zVPhE38NbbNvLML7Q.png" group-title="ES | Todos - ALL",ES: DISNEY JUNIOR SD
-http://allone8k.info:8080/live/hany/hany1234/464812.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/2004860103163343/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: DISTRITO TV
-http://allone8k.info:8080/live/hany/hany1234/464813.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/divinity_tv_es.png" group-title="ES | Todos - ALL",ES: Divinity
-http://allone8k.info:8080/live/hany/hany1234/465326.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVcs_RdqVKWv5kw8acK1eorIyngg-MgX64GOjUOb14t_A.png" group-title="ES | Todos - ALL",ES: DIVINITY FHD
-http://allone8k.info:8080/live/hany/hany1234/464814.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVcs_RdqVKWv5kw8acK1eorIyngg-MgX64GOjUOb14t_A.png" group-title="ES | Todos - ALL",ES: DIVINITY HD
-http://allone8k.info:8080/live/hany/hany1234/464815.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVcs_RdqVKWv5kw8acK1eorIyngg-MgX64GOjUOb14t_A.png" group-title="ES | Todos - ALL",ES: DIVINITY SD
-http://allone8k.info:8080/live/hany/hany1234/464816.m3u8
-#EXTINF:-1 tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/04/logo-DKISS.jpg" group-title="ES | Todos - ALL",ES: Dkiss
-http://allone8k.info:8080/live/hany/hany1234/465228.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt2vTE4rQe2TJP4EunBP1DavsaZr58xMXkkqwVqhXiApA.png" group-title="ES | Todos - ALL",ES: DKISS HD
-http://allone8k.info:8080/live/hany/hany1234/464817.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuYmCspXuZSfjCf9-6W5E4eTjV2NG6_XEv7nKFW7o7PFg.png" group-title="ES | Todos - ALL",ES: DMAX FHD
-http://allone8k.info:8080/live/hany/hany1234/464818.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/220px-DMAX_HD.svg.png" group-title="ES | Todos - ALL",ES: Dmax HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465314.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/220px-DMAX_HD.svg.png" group-title="ES | Todos - ALL",ES: Dmax SD
-http://allone8k.info:8080/live/hany/hany1234/465041.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_DreamWorks_Channel.png" group-title="ES | Todos - ALL",ES: DreamWorks HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465219.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_DreamWorks_Channel.png" group-title="ES | Todos - ALL",ES: DreamWorks SD
-http://allone8k.info:8080/live/hany/hany1234/465218.m3u8
-#EXTINF:-1 tvg-logo="https://wottatv.com/wp-content/uploads/2022/09/DVIAJE_SINRELLENO-1.png" group-title="ES | Todos - ALL",ES: Dviaje TV FHD
-http://allone8k.info:8080/live/hany/hany1234/464991.m3u8
-#EXTINF:-1 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="ES | Todos - ALL",ES: DW en Español
-http://allone8k.info:8080/live/hany/hany1234/465205.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: El Bebé Jefazo (Vuelta al curro) 24/7
-http://allone8k.info:8080/live/hany/hany1234/465147.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: El Encantador de Perros HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465174.m3u8
-#EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2019/01/favicon-transparente.png" group-title="ES | Todos - ALL",ES: El Toro TV
-http://allone8k.info:8080/live/hany/hany1234/465315.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Empeños a lo Bestia HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465176.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVzLKJYa4GjRPXsVyKiDDnyZIHZ7ltKxCsTK3Lni4L2VA.png" group-title="ES | Todos - ALL",ES: ENERGY HD
-http://allone8k.info:8080/live/hany/hany1234/464819.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVzLKJYa4GjRPXsVyKiDDnyZIHZ7ltKxCsTK3Lni4L2VA.png" group-title="ES | Todos - ALL",ES: ENERGY SD
-http://allone8k.info:8080/live/hany/hany1234/464820.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES | Todos - ALL",ES: Enfamilia
-http://allone8k.info:8080/live/hany/hany1234/465083.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES | Todos - ALL",ES: Enfamilia FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465063.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES | Todos - ALL",ES: Enfamilia HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465217.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ES | Todos - ALL",ES: Escapa TV HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465061.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Españoles En El Mundo HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465173.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="ES | Todos - ALL",ES: Esport 3 CAT
-http://allone8k.info:8080/live/hany/hany1234/465386.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMxxja-gcp8obT6xf-XJgoL981AVv9yPoLNb4wp3GmKmyB0yIZYdbxhgzNndi_06-I.png" group-title="ES | Todos - ALL",ES: ETB 1
-http://allone8k.info:8080/live/hany/hany1234/464822.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMOx-MXbeG8dskzT8Xxk_Fc3FP_kcO_zn2xOzsrnXMuy33RVUGszdSt2f5Ed_SAjjU.png" group-title="ES | Todos - ALL",ES: ETB 2
-http://allone8k.info:8080/live/hany/hany1234/464823.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/t/b/xetb4.jpg.pagespeed.ic.053usAEdJ1.jpg" group-title="ES | Todos - ALL",ES: ETB 4
-http://allone8k.info:8080/live/hany/hany1234/465286.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="ES | Todos - ALL",ES: ETB Basque
-http://allone8k.info:8080/live/hany/hany1234/465204.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: Eurosport 1 FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465345.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: Eurosport 2 FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465343.m3u8
-#EXTINF:-1 tvg-logo="https://img.over-blog-kiwi.com/0/87/49/59/20190516/ob_6e82ee_eurosport4k.jpg" group-title="ES | Todos - ALL",ES: Eurosport 4K
-http://allone8k.info:8080/live/hany/hany1234/465285.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Expedientes X Temp 1 24/7
-http://allone8k.info:8080/live/hany/hany1234/465160.m3u8
-#EXTINF:-1 tvg-logo="http://huribroadcast.com/wp-content/uploads/2015/03/CANAL-EXTREMADURA.png" group-title="ES | Todos - ALL",ES: Extremadura TV
-http://allone8k.info:8080/live/hany/hany1234/465201.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Fabulas de Disney 24/7
-http://allone8k.info:8080/live/hany/hany1234/465151.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C_jKYbQS7C2LLTkjXqiSioH.png" group-title="ES | Todos - ALL",ES: FDF HD
-http://allone8k.info:8080/live/hany/hany1234/464830.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C_jKYbQS7C2LLTkjXqiSioH.png" group-title="ES | Todos - ALL",ES: FDF SD
-http://allone8k.info:8080/live/hany/hany1234/464831.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Forjado a Fuego HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465175.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: Formula 1 HD
-http://allone8k.info:8080/live/hany/hany1234/464960.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWQ_GKIa-vD7FLFAvyBDv87A7CZWomGm-T52au9qS3efQ.png" group-title="ES | Todos - ALL",ES: FOX FHD
-http://allone8k.info:8080/live/hany/hany1234/464832.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWQ_GKIa-vD7FLFAvyBDv87A7CZWomGm-T52au9qS3efQ.png" group-title="ES | Todos - ALL",ES: FOX HD
-http://allone8k.info:8080/live/hany/hany1234/464833.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxzJM9IjVXQNUlg0qvIlLf3JkpI_gHQWHOvCG8Tk6tilA.png" group-title="ES | Todos - ALL",ES: FOX LIFE
-http://allone8k.info:8080/live/hany/hany1234/464834.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWQ_GKIa-vD7FLFAvyBDv87A7CZWomGm-T52au9qS3efQ.png" group-title="ES | Todos - ALL",ES: FOX SD
-http://allone8k.info:8080/live/hany/hany1234/464835.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Futurama HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465154.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/gg/galicia_tv_eu.png" group-title="ES | Todos - ALL",ES: Galicia TV
-http://allone8k.info:8080/live/hany/hany1234/465202.m3u8
-#EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="ES | Todos - ALL",ES: Gol
-http://allone8k.info:8080/live/hany/hany1234/465320.m3u8
-#EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="ES | Todos - ALL",ES: Gol FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465093.m3u8
-#EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="ES | Todos - ALL",ES: Gol HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: Gol TV
-http://allone8k.info:8080/live/hany/hany1234/464974.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4nhgKX6KwPRivVrNBT3H-EG0ozZu9TBcC9wRwKcP5Uf9tSRQrc57F995Tdd_83gwA.png" group-title="ES | Todos - ALL",ES: GOL TV FHD
-http://allone8k.info:8080/live/hany/hany1234/464836.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c14r9nKhWKG5so9aAuYhwnf1qYEot0TSH-UzViRJgwf7gA.png" group-title="ES | Todos - ALL",ES: GOL TV HD
-http://allone8k.info:8080/live/hany/hany1234/464837.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4nhgKX6KwPRivVrNBT3H-EG0ozZu9TBcC9wRwKcP5Uf9tSRQrc57F995Tdd_83gwA.png" group-title="ES | Todos - ALL",ES: GOL TV SD
-http://allone8k.info:8080/live/hany/hany1234/464838.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Heroes Mitologicos 24/7
-http://allone8k.info:8080/live/hany/hany1234/465138.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/hh/historia_es.png" group-title="ES | Todos - ALL",ES: Historia HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465235.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/eZ1cwmJFUj3u5Y2qCEROZXO3Eedov-3z5Jnvwcq9f2yLpiJ7S04YJz0v6Oqw0ck3uXNrKITbUHuxsowUDmYxVmJjfJCCsDNSOgeqFMWCi0w.png" group-title="ES | Todos - ALL",ES: HOLLYWOOD FHD
-http://allone8k.info:8080/live/hany/hany1234/464839.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/eZ1cwmJFUj3u5Y2qCEROZXO3Eedov-3z5Jnvwcq9f2yLpiJ7S04YJz0v6Oqw0ck3uXNrKITbUHuxsowUDmYxVmJjfJCCsDNSOgeqFMWCi0w.png" group-title="ES | Todos - ALL",ES: HOLLYWOOD HD
-http://allone8k.info:8080/live/hany/hany1234/464840.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/r2gVeXI-_L9jZJUAQOKIJch0IKkj6Xs_uIMYlTvlVX1GC3pjHBdkybYj2Qk4vzkEILzNcNJr9azPYaH_20SfWH6SfkMgXIli6O-QplfD0ZI.png" group-title="ES | Todos - ALL",ES: HOLLYWOOD SD
-http://allone8k.info:8080/live/hany/hany1234/464841.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="ES | Todos - ALL",ES: Iberalia 100% Caza HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465090.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="ES | Todos - ALL",ES: Iberalia 100% Caza SD
-http://allone8k.info:8080/live/hany/hany1234/465284.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzws-WksM_sCnHM-XcvDByO4e.png" group-title="ES | Todos - ALL",ES: IBERALIA FHD
-http://allone8k.info:8080/live/hany/hany1234/464842.m3u8
-#EXTINF:-1 tvg-logo="http://documentalesnaturaleza.com/wp-content/uploads/iberalia.jpg" group-title="ES | Todos - ALL",ES: Iberalia HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465188.m3u8
-#EXTINF:-1 tvg-logo="http://imastv.es/wp-content/uploads/2017/10/LOGO-CABEZERA-WEB-1-400PX.png" group-title="ES | Todos - ALL",ES: Imás TV HD
-http://allone8k.info:8080/live/hany/hany1234/465288.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Kim Possible HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465145.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="ES | Todos - ALL",ES: LA 1  FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465339.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt_YSX3THZXb2b2RmKphDI7AQACnCYNaWA8-7jyHgFKrQ.png" group-title="ES | Todos - ALL",ES: LA 1 HD
-http://allone8k.info:8080/live/hany/hany1234/464843.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="ES | Todos - ALL",ES: LA 1 HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465338.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVDdvRztFLShE6q-XuxDCyASmroTz3jaWE7iuTzu4bnxA.png" group-title="ES | Todos - ALL",ES: LA 1 SD
-http://allone8k.info:8080/live/hany/hany1234/464844.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVYXBANQoGY4LmuxPCWlGRODpzwpjU9jCIfZzHoW5ozgg.png" group-title="ES | Todos - ALL",ES: LA 2 FHD
-http://allone8k.info:8080/live/hany/hany1234/464845.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve2.png" group-title="ES | Todos - ALL",ES: LA 2 FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465088.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve2.png" group-title="ES | Todos - ALL",ES: LA 2 HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465337.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVYXBANQoGY4LmuxPCWlGRODpzwpjU9jCIfZzHoW5ozgg.png" group-title="ES | Todos - ALL",ES: LA 2 SD
-http://allone8k.info:8080/live/hany/hany1234/464846.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/la7-es.png?raw=true" group-title="ES | Todos - ALL",ES: LA 7
-http://allone8k.info:8080/live/hany/hany1234/464847.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_400x400.jpg" group-title="ES | Todos - ALL",ES: La Otra
-http://allone8k.info:8080/live/hany/hany1234/465199.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_400x400.jpg" group-title="ES | Todos - ALL",ES: La Otra HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465109.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: La Que se Avecina 24/7
-http://allone8k.info:8080/live/hany/hany1234/465164.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="ES | Todos - ALL",ES: La Resistencia HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465116.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="ES | Todos - ALL",ES: La Resistencia SD
-http://allone8k.info:8080/live/hany/hany1234/465115.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: LEVANTE TV
-http://allone8k.info:8080/live/hany/hany1234/464852.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Lilo y Stitch HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465144.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Los cazadores de mitos HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465171.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Los Simpsons HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465158.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Los Simpsons La casa-árbol del terror HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465156.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="ES | Todos - ALL",ES: M. Accion FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465282.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="ES | Todos - ALL",ES: M. Accion HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465281.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="ES | Todos - ALL",ES: M. Accion SD
-http://allone8k.info:8080/live/hany/hany1234/465280.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ES | Todos - ALL",ES: M. Cine Espanol FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465296.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ES | Todos - ALL",ES: M. Cine Espanol HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465271.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ES | Todos - ALL",ES: M. Cine Espanol SD
-http://allone8k.info:8080/live/hany/hany1234/465270.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="ES | Todos - ALL",ES: M. Cine FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465031.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="ES | Todos - ALL",ES: M. Cine HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465132.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="ES | Todos - ALL",ES: M. Cine SD
-http://allone8k.info:8080/live/hany/hany1234/465128.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/640px-Movistar_Cl%C3%A1sicos.svg.png" group-title="ES | Todos - ALL",ES: M. Cláscios FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465129.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/640px-Movistar_Cl%C3%A1sicos.svg.png" group-title="ES | Todos - ALL",ES: M. Cláscios HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465130.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/640px-Movistar_Cl%C3%A1sicos.svg.png" group-title="ES | Todos - ALL",ES: M. Cláscios SD
-http://allone8k.info:8080/live/hany/hany1234/465131.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_comedia.png" group-title="ES | Todos - ALL",ES: M. Comedia FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465279.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_comedia.png" group-title="ES | Todos - ALL",ES: M. Comedia HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465278.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ES | Todos - ALL",ES: M. Documentales FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465034.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ES | Todos - ALL",ES: M. Documentales HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465033.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ES | Todos - ALL",ES: M. Documentales SD
-http://allone8k.info:8080/live/hany/hany1234/465032.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar+drama.png" group-title="ES | Todos - ALL",ES: M. Drama FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465274.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar+drama.png" group-title="ES | Todos - ALL",ES: M. Drama HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465273.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar+drama.png" group-title="ES | Todos - ALL",ES: M. Drama SD
-http://allone8k.info:8080/live/hany/hany1234/465272.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ES | Todos - ALL",ES: M. Ellas #V FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465072.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ES | Todos - ALL",ES: M. Ellas #V HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465107.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ES | Todos - ALL",ES: M. Ellas #V SD
-http://allone8k.info:8080/live/hany/hany1234/465106.m3u8
-#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="ES | Todos - ALL",ES: M. Formula 1 FHD
-http://allone8k.info:8080/live/hany/hany1234/464959.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES | Todos - ALL",ES: M. Golf 2 FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/464988.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES | Todos - ALL",ES: M. Golf 2 HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465070.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES | Todos - ALL",ES: M. Golf 2 SD
-http://allone8k.info:8080/live/hany/hany1234/465069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: M. Golf FHD
-http://allone8k.info:8080/live/hany/hany1234/464957.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="ES | Todos - ALL",ES: M. Golf FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: M. Golf HD
-http://allone8k.info:8080/live/hany/hany1234/464958.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="ES | Todos - ALL",ES: M. Golf HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465368.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="ES | Todos - ALL",ES: M. Indie FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465336.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="ES | Todos - ALL",ES: M. Indie SD
-http://allone8k.info:8080/live/hany/hany1234/465275.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ES | Todos - ALL",ES: M. Musica FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465117.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ES | Todos - ALL",ES: M. Musica HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465197.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ES | Todos - ALL",ES: M. Musica SD
-http://allone8k.info:8080/live/hany/hany1234/465196.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="ES | Todos - ALL",ES: M. Originales FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465127.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="ES | Todos - ALL",ES: M. Originales HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465262.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="ES | Todos - ALL",ES: M. Originales SD
-http://allone8k.info:8080/live/hany/hany1234/465029.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png" group-title="ES | Todos - ALL",ES: M. Oscar HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465287.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png" group-title="ES | Todos - ALL",ES: M. Oscar SD
-http://allone8k.info:8080/live/hany/hany1234/465308.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ES | Todos - ALL",ES: M. Plus 2 HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465019.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ES | Todos - ALL",ES: M. Plus 2 SD
-http://allone8k.info:8080/live/hany/hany1234/465018.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_0.png" group-title="ES | Todos - ALL",ES: M. Plus FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465261.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_0.png" group-title="ES | Todos - ALL",ES: M. Plus HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465260.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_series.png" group-title="ES | Todos - ALL",ES: M. Series FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465133.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_series.png" group-title="ES | Todos - ALL",ES: M. Series HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465264.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_series.png" group-title="ES | Todos - ALL",ES: M. Series SD
-http://allone8k.info:8080/live/hany/hany1234/465263.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES | Todos - ALL",ES: M. SkyShowtime 1 HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465421.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES | Todos - ALL",ES: M. SkyShowtime 1 SD
-http://allone8k.info:8080/live/hany/hany1234/465126.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MSUSP.png" group-title="ES | Todos - ALL",ES: M. Suspense FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465277.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MSUSP.png" group-title="ES | Todos - ALL",ES: M. Suspense HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465276.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uwc6aqLjGOZkva4NqKtf3S2lIGtG5mGSYZjg-h7RZEDOw.png" group-title="ES | Todos - ALL",ES: MEGA FHD
-http://allone8k.info:8080/live/hany/hany1234/464864.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uwc6aqLjGOZkva4NqKtf3S2lIGtG5mGSYZjg-h7RZEDOw.png" group-title="ES | Todos - ALL",ES: MEGA HD
-http://allone8k.info:8080/live/hany/hany1234/464865.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uwc6aqLjGOZkva4NqKtf3S2lIGtG5mGSYZjg-h7RZEDOw.png" group-title="ES | Todos - ALL",ES: MEGA SD
-http://allone8k.info:8080/live/hany/hany1234/464866.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mezzo_live_hd.png" group-title="ES | Todos - ALL",ES: Mezzo HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465192.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEZZO" group-title="ES | Todos - ALL",ES: MEZZO LIVE FHD
-http://allone8k.info:8080/live/hany/hany1234/464867.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mezzo_live_hd.png" group-title="ES | Todos - ALL",ES: Mezzo Live HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465114.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mezzo_live_hd.png" group-title="ES | Todos - ALL",ES: Mezzo Live SD
-http://allone8k.info:8080/live/hany/hany1234/464998.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mezzo_live_hd.png" group-title="ES | Todos - ALL",ES: Mezzo SD
-http://allone8k.info:8080/live/hany/hany1234/464999.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fcmn3-2.fna.fbcdn.net/v/t39.30808-1/300473172_2116970035131528_3671140579611952732_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=mSKl8sr51sgAX91ObAB&_nc_oc=AQlb_Lucr1IOD5inbfcciBhJ-nddzDIQ5GVPWnxbNNBhXlaxduKPHDRhiDBMS5ABpzU&_nc_ht=scontent.fcmn3-2.fna&oh=00_AfB-2uZQXg1Q30XMaB_-ebBP0pRWkHrK7DNVh6ZUpRUmKA&oe=643DA451" group-title="ES | Todos - ALL",ES: Moto ADV HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465195.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUbygNR_ssYGduGj2c0br6-CRCHdIDNp1vE2u9ekRP0vA.png" group-title="ES | Todos - ALL",ES: MOVISTAR ACCION FHD
-http://allone8k.info:8080/live/hany/hany1234/464868.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt655Q7xILDh2vBjfsEMD3C01lvVSO0dq4sBGaZao306w.png" group-title="ES | Todos - ALL",ES: MOVISTAR ACCION HD
-http://allone8k.info:8080/live/hany/hany1234/464869.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 10
-http://allone8k.info:8080/live/hany/hany1234/465182.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 11
-http://allone8k.info:8080/live/hany/hany1234/465181.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 12
-http://allone8k.info:8080/live/hany/hany1234/465180.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 2
-http://allone8k.info:8080/live/hany/hany1234/465187.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 4
-http://allone8k.info:8080/live/hany/hany1234/465186.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 5
-http://allone8k.info:8080/live/hany/hany1234/465185.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 6
-http://allone8k.info:8080/live/hany/hany1234/465184.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="ES | Todos - ALL",ES: Movistar Alquiler 7
-http://allone8k.info:8080/live/hany/hany1234/465183.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMTGH_EJ0ux9UhwQZ4EcgW8PHTtLzlEX18mpe3NjhcmQ.png" group-title="ES | Todos - ALL",ES: MOVISTAR COMEDIA FHD
-http://allone8k.info:8080/live/hany/hany1234/464870.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWga-fQFMhfB3LMk6fH9D0NhJwTHGtLhl1YAHbg5iY1TA.png" group-title="ES | Todos - ALL",ES: MOVISTAR DRAMA FHD
-http://allone8k.info:8080/live/hany/hany1234/464872.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMBsmi9s2s7b4LECxNMFeWqQkwLtX_SvOLVPcNutGFIA.png" group-title="ES | Todos - ALL",ES: MOVISTAR DRAMA HD
-http://allone8k.info:8080/live/hany/hany1234/464873.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWga-fQFMhfB3LMk6fH9D0NhJwTHGtLhl1YAHbg5iY1TA.png" group-title="ES | Todos - ALL",ES: MOVISTAR DRAMA SD
-http://allone8k.info:8080/live/hany/hany1234/464874.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvYtoQ5Ado9G4-PcWhnNavEE-nIGsLKyX89hNrm2xn_2w.png" group-title="ES | Todos - ALL",ES: MOVISTAR ESTRENOS FHD
-http://allone8k.info:8080/live/hany/hany1234/464875.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxXIIUN2Nk1hm8L4r9hHIho1Amp_9teeM4_EFgXhQ8xeA.png" group-title="ES | Todos - ALL",ES: MOVISTAR ESTRENOS HD
-http://allone8k.info:8080/live/hany/hany1234/464876.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvYtoQ5Ado9G4-PcWhnNavEE-nIGsLKyX89hNrm2xn_2w.png" group-title="ES | Todos - ALL",ES: MOVISTAR ESTRENOS SD
-http://allone8k.info:8080/live/hany/hany1234/464877.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsH54NMfQVos-SO6uGSeoC8EXpNGyNI9pFBv7RlL1B4iA.png" group-title="ES | Todos - ALL",ES: MOVISTAR FORMULA 1 FHD
-http://allone8k.info:8080/live/hany/hany1234/464878.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzQRi6zuipn53vNCxclwccjwoHoMI9S5WSCjQrdiDdCfA.png" group-title="ES | Todos - ALL",ES: MOVISTAR FORMULA 1 HD
-http://allone8k.info:8080/live/hany/hany1234/464879.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsH54NMfQVos-SO6uGSeoC8EXpNGyNI9pFBv7RlL1B4iA.png" group-title="ES | Todos - ALL",ES: MOVISTAR FORMULA 1 SD
-http://allone8k.info:8080/live/hany/hany1234/464880.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsP3UBPcjHjW9DRVyhn2U5SUcwHQ_HQEGXXl3LXC_Vr1Q.png" group-title="ES | Todos - ALL",ES: MOVISTAR GOLF FHD
-http://allone8k.info:8080/live/hany/hany1234/464881.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtKbXjrn0jt_gVlLUzfLS5yW-jjovuiV7NmERq7zbOJvg.png" group-title="ES | Todos - ALL",ES: MOVISTAR GOLF HD
-http://allone8k.info:8080/live/hany/hany1234/464882.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsP3UBPcjHjW9DRVyhn2U5SUcwHQ_HQEGXXl3LXC_Vr1Q.png" group-title="ES | Todos - ALL",ES: MOVISTAR GOLF SD
-http://allone8k.info:8080/live/hany/hany1234/464883.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsQtmhim-mCidsSq4YcoV-Twcwo61AZsj8YsJRyeyY3eg.png" group-title="ES | Todos - ALL",ES: MOVISTAR SERIES FHD
-http://allone8k.info:8080/live/hany/hany1234/464892.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsYDX79VkEunBZnMursGF3WZPHdLzoFWRqKKinLCjwrdg.png" group-title="ES | Todos - ALL",ES: MOVISTAR SERIES HD
-http://allone8k.info:8080/live/hany/hany1234/464893.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsQtmhim-mCidsSq4YcoV-Twcwo61AZsj8YsJRyeyY3eg.png" group-title="ES | Todos - ALL",ES: MOVISTAR SERIES SD
-http://allone8k.info:8080/live/hany/hany1234/464894.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VH1.png" group-title="ES | Todos - ALL",ES: MTV 00s
-http://allone8k.info:8080/live/hany/hany1234/465233.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMJ36ACmEV7S8dZVd98olrjisf1jTTKEfR-Hye1UDoGJz4bastqgwUolZWcLKHdJWk.png" group-title="ES | Todos - ALL",ES: MTV CLASSIC
-http://allone8k.info:8080/live/hany/hany1234/464895.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png" group-title="ES | Todos - ALL",ES: MTV Espana
-http://allone8k.info:8080/live/hany/hany1234/465243.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png" group-title="ES | Todos - ALL",ES: MTV Espana HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465086.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: Multideporte
-http://allone8k.info:8080/live/hany/hany1234/464971.m3u8
-#EXTINF:-1 tvg-logo="https://static.worldpadeltourtv.com/wpt-resources/pro/web/icons/landing/logo-WPT.png" group-title="ES | Todos - ALL",ES: My Padel TV
-http://allone8k.info:8080/live/hany/hany1234/465040.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ES | Todos - ALL",ES: MyTime movie network FHD
-http://allone8k.info:8080/live/hany/hany1234/465137.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="ES | Todos - ALL",ES: Nat Geo Wild FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465240.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="ES | Todos - ALL",ES: Nat Geo Wild HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465239.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="ES | Todos - ALL",ES: Nat Geo Wild SD
-http://allone8k.info:8080/live/hany/hany1234/465238.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="ES | Todos - ALL",ES: National Geoghraphic FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465242.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="ES | Todos - ALL",ES: National Geoghraphic SD
-http://allone8k.info:8080/live/hany/hany1234/465241.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4HQbepHBofGs6wGtsrdqEjBLd80r0KzW_-4WSxW0x4H1Bzggg7KtJsN2kacevXjgQ.png" group-title="ES | Todos - ALL",ES: NATIONAL GEOGRAPHIC FHD
-http://allone8k.info:8080/live/hany/hany1234/464898.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4HQbepHBofGs6wGtsrdqEjBLd80r0KzW_-4WSxW0x4H1Bzggg7KtJsN2kacevXjgQ.png" group-title="ES | Todos - ALL",ES: NATIONAL GEOGRAPHIC HD
-http://allone8k.info:8080/live/hany/hany1234/464899.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1d6mJlFpqWOPORoYM_dtTYLO18j7SSOZ1CSV1EIAY6XXg.png" group-title="ES | Todos - ALL",ES: NATIONAL GEOGRAPHIC WILD FHD
-http://allone8k.info:8080/live/hany/hany1234/464900.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1d6mJlFpqWOPORoYM_dtTYLO18j7SSOZ1CSV1EIAY6XXg.png" group-title="ES | Todos - ALL",ES: NATIONAL GEOGRAPHIC WILD HD
-http://allone8k.info:8080/live/hany/hany1234/464901.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1d6mJlFpqWOPORoYM_dtTYLO18j7SSOZ1CSV1EIAY6XXg.png" group-title="ES | Todos - ALL",ES: NATIONAL GEOGRAPHIC WILD SD
-http://allone8k.info:8080/live/hany/hany1234/464902.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="ES | Todos - ALL",ES: Nature Time FHD
-http://allone8k.info:8080/live/hany/hany1234/465048.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/neJc4hRJR5dTnsJsW3LpfRMpMUoid-7mfLVtXO8UYV27hExMm2-LzdzcWrNmk_n66tIB" group-title="ES | Todos - ALL",ES: Negocios TV HD
-http://allone8k.info:8080/live/hany/hany1234/465390.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="ES | Todos - ALL",ES: Neox
-http://allone8k.info:8080/live/hany/hany1234/465328.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Iin_sdt3ytkhFKf5TAR8TqTWG_q8nWZi9JEVHNNTz-ikg.png" group-title="ES | Todos - ALL",ES: NEOX FHD
-http://allone8k.info:8080/live/hany/hany1234/464903.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uxvn6sA9JAB2F3rYp3vM8W1Umz5DvnTpUsJbSqFOIlTqw.png" group-title="ES | Todos - ALL",ES: NEOX HD
-http://allone8k.info:8080/live/hany/hany1234/464904.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Iin_sdt3ytkhFKf5TAR8TqTWG_q8nWZi9JEVHNNTz-ikg.png" group-title="ES | Todos - ALL",ES: NEOX SD
-http://allone8k.info:8080/live/hany/hany1234/464905.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_jr_us.png" group-title="ES | Todos - ALL",ES: Nick JR
-http://allone8k.info:8080/live/hany/hany1234/465222.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_jr_us.png" group-title="ES | Todos - ALL",ES: Nick JR HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465223.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1cnMnK17NToWYjK_SkTe3TWSncgOFdvV83NtdR5qi09xA.png" group-title="ES | Todos - ALL",ES: NICK JUNIOR SD
-http://allone8k.info:8080/live/hany/hany1234/464906.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DX4zs8degjTxRk-brmNUR3pOVP1WBziFUrdR6iCjU-njg.png" group-title="ES | Todos - ALL",ES: NICKELODEON FHD
-http://allone8k.info:8080/live/hany/hany1234/464907.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png" group-title="ES | Todos - ALL",ES: Nickelodeon FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465226.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png" group-title="ES | Todos - ALL",ES: Nickelodeon HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465225.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png" group-title="ES | Todos - ALL",ES: Nickelodeon SD
-http://allone8k.info:8080/live/hany/hany1234/465224.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NORTEvision.png" group-title="ES | Todos - ALL",ES: NORTEvisión
-http://allone8k.info:8080/live/hany/hany1234/465198.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena_nova.png" group-title="ES | Todos - ALL",ES: Nova
-http://allone8k.info:8080/live/hany/hany1234/465329.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena_nova.png" group-title="ES | Todos - ALL",ES: Nova (720P)
-http://allone8k.info:8080/live/hany/hany1234/465330.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWKyhIlA624l6iXhUfwepneipblbP9gYlTsiQbSrg1fjw.png" group-title="ES | Todos - ALL",ES: NOVA FHD
-http://allone8k.info:8080/live/hany/hany1234/464908.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UyJiW9QTEb5FBmQyKE0fQpmaQthD1133p97BE0Cmwtf4Q.png" group-title="ES | Todos - ALL",ES: NOVA HD
-http://allone8k.info:8080/live/hany/hany1234/464909.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWKyhIlA624l6iXhUfwepneipblbP9gYlTsiQbSrg1fjw.png" group-title="ES | Todos - ALL",ES: NOVA SD
-http://allone8k.info:8080/live/hany/hany1234/464910.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/oo/odisea_es.png" group-title="ES | Todos - ALL",ES: Odisea 4K
-http://allone8k.info:8080/live/hany/hany1234/465236.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c14IXpHUNcZxqNVbqTfva2tfMD9H5w7wEYUei6X-a2TBTQ.png" group-title="ES | Todos - ALL",ES: ODISEA FHD
-http://allone8k.info:8080/live/hany/hany1234/464911.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtSTSS8JZG_jtA0nx8U6CNO.png" group-title="ES | Todos - ALL",ES: ODISEA HD
-http://allone8k.info:8080/live/hany/hany1234/464912.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c14IXpHUNcZxqNVbqTfva2tfMD9H5w7wEYUei6X-a2TBTQ.png" group-title="ES | Todos - ALL",ES: ODISEA SD
-http://allone8k.info:8080/live/hany/hany1234/464913.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="ES | Todos - ALL",ES: Onetoro
-http://allone8k.info:8080/live/hany/hany1234/465189.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Patrulla Canina 24/7
-http://allone8k.info:8080/live/hany/hany1234/465150.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/pequeradio.png" group-title="ES | Todos - ALL",ES: Pequeradio TV
-http://allone8k.info:8080/live/hany/hany1234/465215.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Policías en Acción HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465177.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="ES | Todos - ALL",ES: PTV Granada
-http://allone8k.info:8080/live/hany/hany1234/465293.m3u8
-#EXTINF:-1 tvg-logo="http://www.ptvmalaga.com/logomalaga.png" group-title="ES | Todos - ALL",ES: PTV Málaga
-http://allone8k.info:8080/live/hany/hany1234/465294.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="ES | Todos - ALL",ES: PTV Sevilla
-http://allone8k.info:8080/live/hany/hany1234/465295.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Quien vive ahi HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465172.m3u8
-#EXTINF:-1 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="ES | Todos - ALL",ES: Rakuten 1
-http://allone8k.info:8080/live/hany/hany1234/465136.m3u8
-#EXTINF:-1 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="ES | Todos - ALL",ES: Rakuten 2
-http://allone8k.info:8080/live/hany/hany1234/465135.m3u8
-#EXTINF:-1 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="ES | Todos - ALL",ES: Rakuten 3
-http://allone8k.info:8080/live/hany/hany1234/465134.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/rr/real_madrid_tv_es.png" group-title="ES | Todos - ALL",ES: Real Madrid SD
-http://allone8k.info:8080/live/hany/hany1234/465388.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxDnecYSmpgvhTHKFvVW2K8.png" group-title="ES | Todos - ALL",ES: REAL MADRID TV HD
-http://allone8k.info:8080/live/hany/hany1234/464916.m3u8
-#EXTINF:-1 tvg-logo="https://www.rektv.es/wp-content/uploads/2022/03/rektv-black.png" group-title="ES | Todos - ALL",ES: REKTV HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465062.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Accion HD
-http://allone8k.info:8080/live/hany/hany1234/465054.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Cine Y Series HD
-http://allone8k.info:8080/live/hany/hany1234/465055.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Clasicos HD
-http://allone8k.info:8080/live/hany/hany1234/465049.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Comedia HD
-http://allone8k.info:8080/live/hany/hany1234/465053.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Crimen HD
-http://allone8k.info:8080/live/hany/hany1234/465051.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Romance HD
-http://allone8k.info:8080/live/hany/hany1234/465050.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Series HD
-http://allone8k.info:8080/live/hany/hany1234/465056.m3u8
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ES | Todos - ALL",ES: Runtime Thriller & Terror HD
-http://allone8k.info:8080/live/hany/hany1234/465052.m3u8
-#EXTINF:-1 tvg-logo="https://advanced-television.com/wp-content/uploads/2021/01/Logo_SELEKT_Black.jpg" group-title="ES | Todos - ALL",ES: SELEKT HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465044.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.lebuteur.com/data/images/flash/thumbs/large-95450fc-seville-un-international-marocain-dans-le-viseur-ed133.jpg" group-title="ES | Todos - ALL",ES: Sevilla FC
-http://allone8k.info:8080/live/hany/hany1234/465203.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.lebuteur.com/data/images/flash/thumbs/large-95450fc-seville-un-international-marocain-dans-le-viseur-ed133.jpg" group-title="ES | Todos - ALL",ES: Sevilla FC HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465067.m3u8
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/solmusica_tv.png" group-title="ES | Todos - ALL",ES: Sol Music
-http://allone8k.info:8080/live/hany/hany1234/465179.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Somos.png" group-title="ES | Todos - ALL",ES: Somos
-http://allone8k.info:8080/live/hany/hany1234/465318.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwv7q6BggDubBn7DMJ39PIQKNNwhawMQMtdslv2yHKerbg.png" group-title="ES | Todos - ALL",ES: SOMOS FHD
-http://allone8k.info:8080/live/hany/hany1234/464917.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Somos.png" group-title="ES | Todos - ALL",ES: Somos HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465066.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="ES | Todos - ALL",ES: Star Channel FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465254.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="ES | Todos - ALL",ES: Star Channel HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465253.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="ES | Todos - ALL",ES: Star Channel SD
-http://allone8k.info:8080/live/hany/hany1234/465252.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES | Todos - ALL",ES: Star TVE
-http://allone8k.info:8080/live/hany/hany1234/465324.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES | Todos - ALL",ES: Star TVE HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465325.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c174Na1Rjx0PKPuaB0zW6oX8HV2iK3-Oi1gjKQVil1ogNw.png" group-title="ES | Todos - ALL",ES: SUNDANCE FHD
-http://allone8k.info:8080/live/hany/hany1234/464918.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c174Na1Rjx0PKPuaB0zW6oX8HV2iK3-Oi1gjKQVil1ogNw.png" group-title="ES | Todos - ALL",ES: SUNDANCE HD
-http://allone8k.info:8080/live/hany/hany1234/464919.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c174Na1Rjx0PKPuaB0zW6oX8HV2iK3-Oi1gjKQVil1ogNw.png" group-title="ES | Todos - ALL",ES: SUNDANCE SD
-http://allone8k.info:8080/live/hany/hany1234/464920.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sundance_channel_global.png" group-title="ES | Todos - ALL",ES: Sundance TV
-http://allone8k.info:8080/live/hany/hany1234/465268.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sundance_channel_global.png" group-title="ES | Todos - ALL",ES: Sundance TV FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465340.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Super Wings 24/7
-http://allone8k.info:8080/live/hany/hany1234/465148.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZCMD_3XXcuJMfSU64zuX0GboUWK1knYFqQvWM02wEyP_qhLO-OJGOW-wvtu627iHvfc&usqp=CAU" group-title="ES | Todos - ALL",ES: Surf Channel HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465058.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Eb6zCMpJ1dAkygYA9CCh9OxmRz4Zc9YzaHk_8wy2w2A.png" group-title="ES | Todos - ALL",ES: SYFY FHD
-http://allone8k.info:8080/live/hany/hany1234/464921.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/syfy_us_global.png" group-title="ES | Todos - ALL",ES: SyFy FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465245.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Eb6zCMpJ1dAkygYA9CCh9OxmRz4Zc9YzaHk_8wy2w2A.png" group-title="ES | Todos - ALL",ES: SYFY HD
-http://allone8k.info:8080/live/hany/hany1234/464922.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Eb6zCMpJ1dAkygYA9CCh9OxmRz4Zc9YzaHk_8wy2w2A.png" group-title="ES | Todos - ALL",ES: SYFY SD
-http://allone8k.info:8080/live/hany/hany1234/464923.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzSONetYQVa59C5cjtdV9d83wrwfhC0Dr8NyBaC-ibSHQ.png" group-title="ES | Todos - ALL",ES: TCM FHD
-http://allone8k.info:8080/live/hany/hany1234/464924.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tcm_global.png" group-title="ES | Todos - ALL",ES: TCM FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465269.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzSONetYQVa59C5cjtdV9d83wrwfhC0Dr8NyBaC-ibSHQ.png" group-title="ES | Todos - ALL",ES: TCM HD
-http://allone8k.info:8080/live/hany/hany1234/464925.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzSONetYQVa59C5cjtdV9d83wrwfhC0Dr8NyBaC-ibSHQ.png" group-title="ES | Todos - ALL",ES: TCM SD
-http://allone8k.info:8080/live/hany/hany1234/464926.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/305213734_747032436494840_8091889848924026118_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=c6021c&_nc_ohc=QU8EMzr8oqQAX8O25I4&_nc_ht=scontent.fcmn3-1.fna&oh=00_AfAQHumdEoYh_tICkij3JwIVJyjDgRZVi2eWbKiKrie9FQ&oe=643E9623" group-title="ES | Todos - ALL",ES: Tele Elda HD (1080P)
-http://allone8k.info:8080/live/hany/hany1234/465057.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/312994995454199/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TeleBilbao
-http://allone8k.info:8080/live/hany/hany1234/465306.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/telecinco.png" group-title="ES | Todos - ALL",ES: Telecinco FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465332.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtsBRld14gz2HqabgQIcHN8T__cK3eiAO3lxS1qlexOtQ.png" group-title="ES | Todos - ALL",ES: TELECINCO HD
-http://allone8k.info:8080/live/hany/hany1234/464927.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c1457343mb3pefgovbb8ryr_F6aByDApr-N9xcJlLTCgbw.png" group-title="ES | Todos - ALL",ES: TELECINCO SD
-http://allone8k.info:8080/live/hany/hany1234/464928.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: Teledeporte
-http://allone8k.info:8080/live/hany/hany1234/464970.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzMA0oWhnN37HXcoiuGaJvBFZYUtcw1J_wqCijju8x8ew.png" group-title="ES | Todos - ALL",ES: TELEDEPORTE FHD
-http://allone8k.info:8080/live/hany/hany1234/464929.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve_teledeporte.png" group-title="ES | Todos - ALL",ES: Teledeporte FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465291.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsghvYQveHN7KOxJka0I0s5bpBbO_at0krsA3AZrHe-Ng.png" group-title="ES | Todos - ALL",ES: TELEDEPORTE HD
-http://allone8k.info:8080/live/hany/hany1234/464930.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzMA0oWhnN37HXcoiuGaJvBFZYUtcw1J_wqCijju8x8ew.png" group-title="ES | Todos - ALL",ES: TELEDEPORTE SD
-http://allone8k.info:8080/live/hany/hany1234/464931.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91226_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: TeleMadrid HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465206.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qN2cm8kYrdZ2vjdS74ivYQuJkc5XycAVriqwRgWQwXBcK9afKh3CJ5sKxR2EX3CMuY.png" group-title="ES | Todos - ALL",ES: TELEONUBA
-http://allone8k.info:8080/live/hany/hany1234/464932.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/telesur_ve.png" group-title="ES | Todos - ALL",ES: Telesur HD
-http://allone8k.info:8080/live/hany/hany1234/465312.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="ES | Todos - ALL",ES: Televisa HD
-http://allone8k.info:8080/live/hany/hany1234/465316.m3u8
-#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN" group-title="ES | Todos - ALL",ES: TEN
-http://allone8k.info:8080/live/hany/hany1234/465317.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image89171426092.jpg" group-title="ES | Todos - ALL",ES: teve.cat HD
-http://allone8k.info:8080/live/hany/hany1234/465210.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IhjPsrD59Nl5yNw9cs8jW-cAp8tIyCtdbOUXdb0HxMxVg.png" group-title="ES | Todos - ALL",ES: TNT FHD
-http://allone8k.info:8080/live/hany/hany1234/464933.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IhjPsrD59Nl5yNw9cs8jW-cAp8tIyCtdbOUXdb0HxMxVg.png" group-title="ES | Todos - ALL",ES: TNT HD
-http://allone8k.info:8080/live/hany/hany1234/464934.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IhjPsrD59Nl5yNw9cs8jW-cAp8tIyCtdbOUXdb0HxMxVg.png" group-title="ES | Todos - ALL",ES: TNT SD
-http://allone8k.info:8080/live/hany/hany1234/464935.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ" group-title="ES | Todos - ALL",ES: Torole FHD
-http://allone8k.info:8080/live/hany/hany1234/464990.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsvay95qpTtbGEL1Mrah2l3NYZt9L-y7KlWb2nPOCQ9mQ.png" group-title="ES | Todos - ALL",ES: TOROS FHD
-http://allone8k.info:8080/live/hany/hany1234/464936.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsPbLUxKem9pnVjjTB67woM-Vr37dFb1cxBLQrjfbEylw.png" group-title="ES | Todos - ALL",ES: TOROS HD
-http://allone8k.info:8080/live/hany/hany1234/464937.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsvay95qpTtbGEL1Mrah2l3NYZt9L-y7KlWb2nPOCQ9mQ.png" group-title="ES | Todos - ALL",ES: TOROS SD
-http://allone8k.info:8080/live/hany/hany1234/464938.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWAXVXjgnsQGYhEJh8fdQDmYMMsl-AkGkeO4UQUYOW12g.png" group-title="ES | Todos - ALL",ES: TRECE
-http://allone8k.info:8080/live/hany/hany1234/464939.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXzLw5Zx3t43OSqYNTyZlsI1o2w1r67wzm2NVd4YesCkA.png" group-title="ES | Todos - ALL",ES: TV3
-http://allone8k.info:8080/live/hany/hany1234/464940.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tv3.png" group-title="ES | Todos - ALL",ES: TV3 SD
-http://allone8k.info:8080/live/hany/hany1234/465068.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="ES | Todos - ALL",ES: TV3. CAT
-http://allone8k.info:8080/live/hany/hany1234/465214.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="ES | Todos - ALL",ES: TV3. CAT HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465213.m3u8
-#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/sViDqpFKOkKzmuIwJmZIrve2jfvXP5DHP3EAoR1Yv5RFcJf_FHS9E4hB0p0-24eCBuuVrMAz2e4h4CLNj949-NM32NAuGR20xdsy6tYAR-c3a5zpNSv2mVcMbDlUgmRt.jpeg" group-title="ES | Todos - ALL",ES: TVG 2
-http://allone8k.info:8080/live/hany/hany1234/464941.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="ES | Todos - ALL",ES: TVG 2 HD
-http://allone8k.info:8080/live/hany/hany1234/465304.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG América HD
-http://allone8k.info:8080/live/hany/hany1234/465300.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG CULTURA
-http://allone8k.info:8080/live/hany/hany1234/464942.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG EVENTO 2
-http://allone8k.info:8080/live/hany/hany1234/464943.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG Eventos 1 HD
-http://allone8k.info:8080/live/hany/hany1234/465299.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG Eventos 2 HD
-http://allone8k.info:8080/live/hany/hany1234/465298.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG Eventos 3 HD
-http://allone8k.info:8080/live/hany/hany1234/465297.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG HD
-http://allone8k.info:8080/live/hany/hany1234/465305.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/oxabarinclub/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG Infantil HD
-http://allone8k.info:8080/live/hany/hany1234/465303.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG Momentos G HD
-http://allone8k.info:8080/live/hany/hany1234/465301.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG MUSIGAL
-http://allone8k.info:8080/live/hany/hany1234/464944.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="ES | Todos - ALL",ES: TVG Musigal HD
-http://allone8k.info:8080/live/hany/hany1234/465302.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2019/10/ubeat-esports.jpg" group-title="ES | Todos - ALL",ES: U-Beat
-http://allone8k.info:8080/live/hany/hany1234/465085.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2019/10/ubeat-esports.jpg" group-title="ES | Todos - ALL",ES: U-BEAT HD
-http://allone8k.info:8080/live/hany/hany1234/464945.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Vaca y Pollito 24/7
-http://allone8k.info:8080/live/hany/hany1234/465149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",ES: Vamos Bar
-http://allone8k.info:8080/live/hany/hany1234/464949.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ijl_b2LkJr1DDgLOlakv2oamz1WlnZw3guQtEx4r_rMiQ.png" group-title="ES | Todos - ALL",ES: VH1
-http://allone8k.info:8080/live/hany/hany1234/464946.m3u8
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/vv/vh1_classic_europe.png" group-title="ES | Todos - ALL",ES: VH1 Classic
-http://allone8k.info:8080/live/hany/hany1234/465194.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Wabbit 24/7
-http://allone8k.info:8080/live/hany/hany1234/465146.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="ES | Todos - ALL",ES: Warner Channel FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465247.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="ES | Todos - ALL",ES: Warner Channel HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465246.m3u8
-#EXTINF:-1 tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="ES | Todos - ALL",ES: Wild Frank HD 24/7
-http://allone8k.info:8080/live/hany/hany1234/465169.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91182_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: XTRM
-http://allone8k.info:8080/live/hany/hany1234/465266.m3u8
-#EXTINF:-1 tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWrfErKfCWT_2Y8NC4w3zbJkRIfM02sqCIvjOhvP8lOvQ.png" group-title="ES | Todos - ALL",ES: XTRM FHD
-http://allone8k.info:8080/live/hany/hany1234/464947.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91182_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: XTRM FHD (Fibra)
-http://allone8k.info:8080/live/hany/hany1234/465283.m3u8
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91182_ll_h3_aa.png" group-title="ES | Todos - ALL",ES: XTRM HD (720P)
-http://allone8k.info:8080/live/hany/hany1234/465087.m3u8
+# --- ES | Todos - ALL (315) ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="ES | Todos - ALL",3Cat Càmeres del temps (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661942.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiqdIjd.png" group-title="ES | Todos - ALL",3Cat El búnquer (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661943.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="ES | Todos - ALL",3Cat Exclusiu 1 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/661944.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="ES | Todos - ALL",3Cat Exclusiu 2 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/661945.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="ES | Todos - ALL",3Cat Exclusiu 3 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/661946.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49ZENis.png" group-title="ES | Todos - ALL",3Cat Plats bruts (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661947.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="ES | Todos - ALL",3CatInfo (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661948.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="ES | Todos - ALL",7 TeleValencia (576p)
+http://allone8k.info:8080/live/hany/hany1234/661949.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="ES | Todos - ALL",8 La Marina TV (576p)
+http://allone8k.info:8080/live/hany/hany1234/661950.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WQP3el2.png" group-title="ES | Todos - ALL",9 la Loma TV (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/661951.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="ES | Todos - ALL",12TV Alicante (720p)
+http://allone8k.info:8080/live/hany/hany1234/661952.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="ES | Todos - ALL",24 Horas (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661953.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="ES | Todos - ALL",101tv Axarquia (480p)
+http://allone8k.info:8080/live/hany/hany1234/661955.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="ES | Todos - ALL",101tv Cádiz (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661956.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="ES | Todos - ALL",101tv Malaga
+http://allone8k.info:8080/live/hany/hany1234/661957.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="ES | Todos - ALL",101tv Sevilla
+http://allone8k.info:8080/live/hany/hany1234/661958.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="ES | Todos - ALL",A Punt (720p)
+http://allone8k.info:8080/live/hany/hany1234/661959.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="ES | Todos - ALL",Activa TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/661960.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YeTu0n.png" group-title="ES | Todos - ALL",Actualidad 360 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/661961.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="ES | Todos - ALL",Alacantí TV (576p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/661962.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="ES | Todos - ALL",Alcarria TV (576p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/661963.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png" group-title="ES | Todos - ALL",America’s Next Top Model
+http://allone8k.info:8080/live/hany/hany1234/661964.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="ES | Todos - ALL",Ana y los 7
+http://allone8k.info:8080/live/hany/hany1234/661965.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="ES | Todos - ALL",Andromeda
+http://allone8k.info:8080/live/hany/hany1234/661966.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ES | Todos - ALL",Angel TV Spanish (720p)
+http://allone8k.info:8080/live/hany/hany1234/661967.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="ES | Todos - ALL",Anime Vision (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="ES | Todos - ALL",Anime Vision Classics (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661969.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="ES | Todos - ALL",Anime Zone TV (480p)
+http://allone8k.info:8080/live/hany/hany1234/661970.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="ES | Todos - ALL",Antena 3 Internacional
+http://allone8k.info:8080/live/hany/hany1234/661971.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lfco9ht.png" group-title="ES | Todos - ALL",Aqui No Hay Quien Viva [_Geo-blocked_]
+http://allone8k.info:8080/live/hany/hany1234/661972.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="ES | Todos - ALL",Arabí TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661973.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="ES | Todos - ALL",Archivos Forenses
+http://allone8k.info:8080/live/hany/hany1234/661974.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="ES | Todos - ALL",AXN White [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/661975.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="ES | Todos - ALL",Bailén TV (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/661976.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="ES | Todos - ALL",Barca TV
+http://allone8k.info:8080/live/hany/hany1234/661977.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ES | Todos - ALL",BBC Drama (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661978.m3u8
+#EXTINF:-1 tvg-logo="https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png" group-title="ES | Todos - ALL",BCN Gospel TV HD (720p)
+http://allone8k.info:8080/live/hany/hany1234/661979.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktasO33.png" group-title="ES | Todos - ALL",BDNCOM (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661980.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khytcgd.png" group-title="ES | Todos - ALL",Biosfera TV (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/661981.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="ES | Todos - ALL",Bob Esponja (720p)
+http://allone8k.info:8080/live/hany/hany1234/661982.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="ES | Todos - ALL",Bon Dia TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/661983.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="ES | Todos - ALL",Cadena Elite (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/661984.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbboALa.png" group-title="ES | Todos - ALL",Cancionero TV (360p)
+http://allone8k.info:8080/live/hany/hany1234/662016.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hy6FJLe.png" group-title="ES | Todos - ALL",Cazador de Homicidas
+http://allone8k.info:8080/live/hany/hany1234/662017.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="ES | Todos - ALL",Cetelmón TV (404p)
+http://allone8k.info:8080/live/hany/hany1234/662018.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="ES | Todos - ALL",Ciudades Del Ocio TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662019.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="ES | Todos - ALL",Clan (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662020.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="ES | Todos - ALL",CMM TV HD (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662021.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="ES | Todos - ALL",Comedia a lo bestia de Pluto TV
+http://allone8k.info:8080/live/hany/hany1234/662022.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlrazec.png" group-title="ES | Todos - ALL",Condavisión (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662023.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Qxpe72.png" group-title="ES | Todos - ALL",Congreso de los Diputados 1 (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662024.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffN2LE3.png" group-title="ES | Todos - ALL",Congreso de los Diputados 2 (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662025.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="ES | Todos - ALL",Congreso de los Diputados 3 (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662026.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="ES | Todos - ALL",Congreso de los Diputados 5 (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662028.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qVe0hET.png" group-title="ES | Todos - ALL",Córdoba TV [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662029.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVkRBg5.png" group-title="ES | Todos - ALL",Corts Valencianes (480p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662030.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="ES | Todos - ALL",Costa Noroeste TV (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662031.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="ES | Todos - ALL",Crimen & Historia (720p)
+http://allone8k.info:8080/live/hany/hany1234/662032.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FpkNIIG.jpg" group-title="ES | Todos - ALL",Cristiana TV (576p)
+http://allone8k.info:8080/live/hany/hany1234/662033.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0WQC25N.png" group-title="ES | Todos - ALL",Cugat TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662034.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3biTY5.png" group-title="ES | Todos - ALL",Curro Jiménez
+http://allone8k.info:8080/live/hany/hany1234/662035.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="ES | Todos - ALL",Diez TV Las Villas (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662036.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2a7s4W.png" group-title="ES | Todos - ALL",Diez TV Úbeda (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662037.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="ES | Todos - ALL",Disney Junior (576p)
+http://allone8k.info:8080/live/hany/hany1234/662038.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="ES | Todos - ALL",Distrito TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662039.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="ES | Todos - ALL",Durangaldeko Telebista (576p)
+http://allone8k.info:8080/live/hany/hany1234/662040.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyW5VyW.png" group-title="ES | Todos - ALL",El 9 TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662041.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="ES | Todos - ALL",El 33 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662042.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="ES | Todos - ALL",El 33 Originals (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662043.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYt8utn.png" group-title="ES | Todos - ALL",El Comisario
+http://allone8k.info:8080/live/hany/hany1234/662044.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hYqjQ1n.png" group-title="ES | Todos - ALL",El encantador de perros
+http://allone8k.info:8080/live/hany/hany1234/662045.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" group-title="ES | Todos - ALL",El Mueble (720p)
+http://allone8k.info:8080/live/hany/hany1234/662046.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ES | Todos - ALL",El Toro TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662047.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjI0dLx.png" group-title="ES | Todos - ALL",Elche 7 TV (576p)
+http://allone8k.info:8080/live/hany/hany1234/662048.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOttSdW.png" group-title="ES | Todos - ALL",Empeños a lo bestia
+http://allone8k.info:8080/live/hany/hany1234/662049.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="ES | Todos - ALL",Empordà TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662050.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9grXd9.png" group-title="ES | Todos - ALL",En el punto de mira
+http://allone8k.info:8080/live/hany/hany1234/662051.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="ES | Todos - ALL",Esport3 (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662052.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="ES | Todos - ALL",Esport3 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662053.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMAB720.png" group-title="ES | Todos - ALL",Estepona Televisión (720p)
+http://allone8k.info:8080/live/hany/hany1234/662055.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="ES | Todos - ALL",EsTuTele (720p)
+http://allone8k.info:8080/live/hany/hany1234/662056.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png" group-title="ES | Todos - ALL",ETB 1 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662057.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="ES | Todos - ALL",ETB1 On (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662058.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/960px-ETB2_2022_logo.svg.png" group-title="ES | Todos - ALL",ETB 2 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662059.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg" group-title="ES | Todos - ALL",ETB2 On (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662060.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVUEmx9.png" group-title="ES | Todos - ALL",ETB Events 1 (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662061.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Waf1SOq.png" group-title="ES | Todos - ALL",ETV Terramar (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662062.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="ES | Todos - ALL",EWTN Espana
+http://allone8k.info:8080/live/hany/hany1234/662063.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="ES | Todos - ALL",EWTN Spain & Latin America (720p)
+http://allone8k.info:8080/live/hany/hany1234/662064.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="ES | Todos - ALL",Fibwi (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662065.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="ES | Todos - ALL",FIFA+ Spain (720p)
+http://allone8k.info:8080/live/hany/hany1234/662066.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lAoTq3.png" group-title="ES | Todos - ALL",Fitel TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662067.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="ES | Todos - ALL",France 24 Español (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662068.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="ES | Todos - ALL",Fuerteventura TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662069.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="ES | Todos - ALL",Galicia TV Europa (720p)
+http://allone8k.info:8080/live/hany/hany1234/662070.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaLIJzK.png" group-title="ES | Todos - ALL",Goiena Eus (720p)
+http://allone8k.info:8080/live/hany/hany1234/662071.m3u8
+#EXTINF:-1 tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="ES | Todos - ALL",Gol Classics (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="ES | Todos - ALL",Guada TV (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662073.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="ES | Todos - ALL",Hamaika Telebista (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662074.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="ES | Todos - ALL",Historia (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662075.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="ES | Todos - ALL",Historia HD (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662076.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56ZtCA1.png" group-title="ES | Todos - ALL",Historia y Vida (720p)
+http://allone8k.info:8080/live/hany/hany1234/662077.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="ES | Todos - ALL",HOLA! Play (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662078.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hEnpvKj.png" group-title="ES | Todos - ALL",Huelva TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662079.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="ES | Todos - ALL",IberoAmerica TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662080.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" group-title="ES | Todos - ALL",iCarly
+http://allone8k.info:8080/live/hany/hany1234/662081.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="ES | Todos - ALL",Imás TV (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662082.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="ES | Todos - ALL",Interalmeria TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662083.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="ES | Todos - ALL",Intercomarcal TV (576p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662084.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6SWpsX.png" group-title="ES | Todos - ALL",KinoKazka (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662085.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="ES | Todos - ALL",KTO (504p)
+http://allone8k.info:8080/live/hany/hany1234/662086.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="ES | Todos - ALL",La 1 (720p)
+http://allone8k.info:8080/live/hany/hany1234/662087.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="ES | Todos - ALL",La 1 Canarias (720p)
+http://allone8k.info:8080/live/hany/hany1234/662088.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="ES | Todos - ALL",La 1 Catalunya (720p)
+http://allone8k.info:8080/live/hany/hany1234/662089.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="ES | Todos - ALL",La 2
+http://allone8k.info:8080/live/hany/hany1234/662090.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="ES | Todos - ALL",La 2 Canarias (720p)
+http://allone8k.info:8080/live/hany/hany1234/662091.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png" group-title="ES | Todos - ALL",La 2 Catalunya (720p)
+http://allone8k.info:8080/live/hany/hany1234/662092.m3u8
+#EXTINF:-1 tvg-logo="https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png" group-title="ES | Todos - ALL",La 8 Mediterraneo (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662093.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hythjEn.png" group-title="ES | Todos - ALL",La Urban TV (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662094.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="ES | Todos - ALL",Lancelot TV (404p)
+http://allone8k.info:8080/live/hany/hany1234/662095.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="ES | Todos - ALL",Las Tortugas Ninja (720p)
+http://allone8k.info:8080/live/hany/hany1234/662096.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="ES | Todos - ALL",LiraTV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662097.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWY2568.png" group-title="ES | Todos - ALL",Lleida Televisió (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662098.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="ES | Todos - ALL",Logos TV (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662099.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="ES | Todos - ALL",Logos TV Estudio (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662100.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="ES | Todos - ALL",Logos TV Kids (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662101.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="ES | Todos - ALL",Logos TV Salud (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662102.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDCdJO2.png" group-title="ES | Todos - ALL",Los archivos del FBI
+http://allone8k.info:8080/live/hany/hany1234/662103.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JIbupT1.png" group-title="ES | Todos - ALL",Los Asesinatos de Midsomer
+http://allone8k.info:8080/live/hany/hany1234/662104.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="ES | Todos - ALL",Love The Planet ES (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662105.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="ES | Todos - ALL",M95 Televisión Marbella (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662106.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gOS1ts.png" group-title="ES | Todos - ALL",Maestrat TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662107.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQkkavo.png" group-title="ES | Todos - ALL",Mar TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662108.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTGbu8A.png" group-title="ES | Todos - ALL",Mataró Televisió (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662109.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="ES | Todos - ALL",Medium
+http://allone8k.info:8080/live/hany/hany1234/662110.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hXDj0fV.png" group-title="ES | Todos - ALL",Melrose Place
+http://allone8k.info:8080/live/hany/hany1234/662111.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VtxO6KI.png" group-title="ES | Todos - ALL",Mi Extraña Obsesión
+http://allone8k.info:8080/live/hany/hany1234/662112.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="ES | Todos - ALL",Mijas 3.40TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662113.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="ES | Todos - ALL",Mírame TV (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662114.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="ES | Todos - ALL",Molahits TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662115.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="ES | Todos - ALL",Mr. Bean Anime Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662116.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="ES | Todos - ALL",MTV Catfish TV Show (720p)
+http://allone8k.info:8080/live/hany/hany1234/662117.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Dating (720p)
+http://allone8k.info:8080/live/hany/hany1234/662118.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Embarazada a los 16
+http://allone8k.info:8080/live/hany/hany1234/662119.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Geordies
+http://allone8k.info:8080/live/hany/hany1234/662120.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Jerseys
+http://allone8k.info:8080/live/hany/hany1234/662121.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Originals
+http://allone8k.info:8080/live/hany/hany1234/662122.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1780303948285.png" group-title="ES | Todos - ALL",MTV Reality (720p)
+http://allone8k.info:8080/live/hany/hany1234/662123.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Tattoo a dos
+http://allone8k.info:8080/live/hany/hany1234/662124.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="ES | Todos - ALL",MTV Vergüenza ajena (720p)
+http://allone8k.info:8080/live/hany/hany1234/662126.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Swd9NP7n/music-tv-granada.png" group-title="ES | Todos - ALL",Music TV Granada (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662127.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="ES | Todos - ALL",MyTime movie network Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="ES | Todos - ALL",NatureTime (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662129.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="ES | Todos - ALL",NatureTime Finland (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662130.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="ES | Todos - ALL",Negocios TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662131.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="ES | Todos - ALL",NORTEvisión (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662132.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="ES | Todos - ALL",Nova (720p)
+http://allone8k.info:8080/live/hany/hany1234/662133.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8wO4Lf.png" group-title="ES | Todos - ALL",Olot TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662134.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPQVVtj.png" group-title="ES | Todos - ALL",Olympics Channel (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662135.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="ES | Todos - ALL",Onda 15 TV (224p)
+http://allone8k.info:8080/live/hany/hany1234/662136.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="ES | Todos - ALL",Onda Algeciras TV (576p)
+http://allone8k.info:8080/live/hany/hany1234/662137.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="ES | Todos - ALL",Onda Cádiz 24h (720p)
+http://allone8k.info:8080/live/hany/hany1234/662138.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="ES | Todos - ALL",Onda Valencia (720p)
+http://allone8k.info:8080/live/hany/hany1234/662139.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" group-title="ES | Todos - ALL",Paramount Network de Pluto TV
+http://allone8k.info:8080/live/hany/hany1234/662140.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6h5IQS.png" group-title="ES | Todos - ALL",Parlamento de Andalucía (576p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662141.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="ES | Todos - ALL",Parlamento de Navarra (368p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662142.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNuv3OL.png" group-title="ES | Todos - ALL",Penedès Televisió (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662143.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="ES | Todos - ALL",Pequeradio (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662144.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4BzwqR.png" group-title="ES | Todos - ALL",Piera TV (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662145.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8b5znGY.png" group-title="ES | Todos - ALL",Pirineus TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662146.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="ES | Todos - ALL",Platzi TV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662147.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Animales
+http://allone8k.info:8080/live/hany/hany1234/662148.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png" group-title="ES | Todos - ALL",Pluto TV Anime
+http://allone8k.info:8080/live/hany/hany1234/662149.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Catástrofes
+http://allone8k.info:8080/live/hany/hany1234/662150.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" group-title="ES | Todos - ALL",Pluto TV Cine Acción
+http://allone8k.info:8080/live/hany/hany1234/662151.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Cine Clásico
+http://allone8k.info:8080/live/hany/hany1234/662152.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="ES | Todos - ALL",Pluto TV Cine Comedia
+http://allone8k.info:8080/live/hany/hany1234/662153.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Cine de autor
+http://allone8k.info:8080/live/hany/hany1234/662154.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Cine Drama
+http://allone8k.info:8080/live/hany/hany1234/662155.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Cine Estelar
+http://allone8k.info:8080/live/hany/hany1234/662156.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" group-title="ES | Todos - ALL",Pluto TV Cine Romántico
+http://allone8k.info:8080/live/hany/hany1234/662157.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Cocina
+http://allone8k.info:8080/live/hany/hany1234/662158.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Comedia made in Spain
+http://allone8k.info:8080/live/hany/hany1234/662159.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="ES | Todos - ALL",Pluto TV Comedias Románticas
+http://allone8k.info:8080/live/hany/hany1234/662160.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Diseño
+http://allone8k.info:8080/live/hany/hany1234/662161.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png" group-title="ES | Todos - ALL",Pluto TV Forever Kids
+http://allone8k.info:8080/live/hany/hany1234/662162.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png" group-title="ES | Todos - ALL",Pluto TV Gasolina
+http://allone8k.info:8080/live/hany/hany1234/662163.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Gore & Slasher
+http://allone8k.info:8080/live/hany/hany1234/662164.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Historia (720p)
+http://allone8k.info:8080/live/hany/hany1234/662165.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Horror
+http://allone8k.info:8080/live/hany/hany1234/662166.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png" group-title="ES | Todos - ALL",Pluto TV Impacto
+http://allone8k.info:8080/live/hany/hany1234/662167.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Invasión Alien
+http://allone8k.info:8080/live/hany/hany1234/662168.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="ES | Todos - ALL",Pluto TV Junior (720p)
+http://allone8k.info:8080/live/hany/hany1234/662169.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV K-Drama
+http://allone8k.info:8080/live/hany/hany1234/662170.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="ES | Todos - ALL",Pluto TV Kids Classics (720p)
+http://allone8k.info:8080/live/hany/hany1234/662171.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="ES | Todos - ALL",Pluto TV Kids Spain (720p)
+http://allone8k.info:8080/live/hany/hany1234/662172.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Motor
+http://allone8k.info:8080/live/hany/hany1234/662173.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png" group-title="ES | Todos - ALL",Pluto TV Orgullo
+http://allone8k.info:8080/live/hany/hany1234/662174.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Paranormal
+http://allone8k.info:8080/live/hany/hany1234/662175.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Psycho
+http://allone8k.info:8080/live/hany/hany1234/662176.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Sci-Fi
+http://allone8k.info:8080/live/hany/hany1234/662177.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Series
+http://allone8k.info:8080/live/hany/hany1234/662178.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Series criminales
+http://allone8k.info:8080/live/hany/hany1234/662179.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Series Sci-Fi
+http://allone8k.info:8080/live/hany/hany1234/662180.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="ES | Todos - ALL",Pluto TV Snooker 900 (720p)
+http://allone8k.info:8080/live/hany/hany1234/662181.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png" group-title="ES | Todos - ALL",Pluto TV Telenovelas
+http://allone8k.info:8080/live/hany/hany1234/662183.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Telenovelas Clásicas
+http://allone8k.info:8080/live/hany/hany1234/662184.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Thrillers
+http://allone8k.info:8080/live/hany/hany1234/662185.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="ES | Todos - ALL",Pluto TV Toons
+http://allone8k.info:8080/live/hany/hany1234/662186.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV True Crime
+http://allone8k.info:8080/live/hany/hany1234/662187.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" group-title="ES | Todos - ALL",Pluto TV Western
+http://allone8k.info:8080/live/hany/hany1234/662188.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="ES | Todos - ALL",Pluto TV Zombies
+http://allone8k.info:8080/live/hany/hany1234/662189.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="ES | Todos - ALL",POP World TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662190.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="ES | Todos - ALL",Popular TV Melilla (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662191.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jFg9dGO.png" group-title="ES | Todos - ALL",Popular TV Murcia (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662192.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3eIdVf.png" group-title="ES | Todos - ALL",PTV Córdoba (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662193.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eOcAakM.png" group-title="ES | Todos - ALL",PTV Granada (720p)
+http://allone8k.info:8080/live/hany/hany1234/662194.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqChsLQ.png" group-title="ES | Todos - ALL",PTV Linares (720p)
+http://allone8k.info:8080/live/hany/hany1234/662195.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eZYIX1.png" group-title="ES | Todos - ALL",PTV Málaga (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662196.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcinFGu.png" group-title="ES | Todos - ALL",PTV Sevilla (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662197.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="ES | Todos - ALL",Punt 3 Vall Uixó (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662198.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png" group-title="ES | Todos - ALL",Radio 3 (720p)
+http://allone8k.info:8080/live/hany/hany1234/662199.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="ES | Todos - ALL",Ràdio Bocairent TV (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="ES | Todos - ALL",Radio Carnaval TV (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662201.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ES | Todos - ALL",Rakuten TV Action Movies Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662202.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ES | Todos - ALL",Rakuten TV Comedy Movies Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662203.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ES | Todos - ALL",Rakuten TV Drama Movies Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662204.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ES | Todos - ALL",Rakuten TV Family Movies Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662205.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ES | Todos - ALL",Rakuten TV Top Movies Spain (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662206.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="ES | Todos - ALL",Rakuten Viki (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662207.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="ES | Todos - ALL",Real Madrid TV (726p)
+http://allone8k.info:8080/live/hany/hany1234/662208.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="ES | Todos - ALL",Real Madrid TV English
+http://allone8k.info:8080/live/hany/hany1234/662209.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="ES | Todos - ALL",Red Bull TV ES (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662210.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="ES | Todos - ALL",Ribera TV (576p)
+http://allone8k.info:8080/live/hany/hany1234/662211.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" group-title="ES | Todos - ALL",Rioja Televisión (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662212.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png" group-title="ES | Todos - ALL",RNE para todos (720p)
+http://allone8k.info:8080/live/hany/hany1234/662213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="ES | Todos - ALL",ROTV Valencia (720p)
+http://allone8k.info:8080/live/hany/hany1234/662214.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="ES | Todos - ALL",RT en Espanol (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662215.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9CgczD.png" group-title="ES | Todos - ALL",RTV El Vendrell (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662216.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKgrnXx.png" group-title="ES | Todos - ALL",RTV Manilva (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662217.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="ES | Todos - ALL",RTV Marbella (720p)
+http://allone8k.info:8080/live/hany/hany1234/662218.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="ES | Todos - ALL",RTV Vida (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662219.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrCJyza.png" group-title="ES | Todos - ALL",RTVC Cardedeu (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662220.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="ES | Todos - ALL",Rugrats
+http://allone8k.info:8080/live/hany/hany1234/662221.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="ES | Todos - ALL",SensaCine TV x Pluto
+http://allone8k.info:8080/live/hany/hany1234/662222.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="ES | Todos - ALL",Sevilla FC TV (360p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662223.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="ES | Todos - ALL",Sin Tetas No Hay Paraíso
+http://allone8k.info:8080/live/hany/hany1234/662224.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="ES | Todos - ALL",Sol Música (720p)
+http://allone8k.info:8080/live/hany/hany1234/662225.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="ES | Todos - ALL",Solidaria TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662226.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="ES | Todos - ALL",South Park
+http://allone8k.info:8080/live/hany/hany1234/662227.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="ES | Todos - ALL",South Park Versión Original
+http://allone8k.info:8080/live/hany/hany1234/662228.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="ES | Todos - ALL",SpektraTV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662229.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="ES | Todos - ALL",Star Trek: The Next Generation
+http://allone8k.info:8080/live/hany/hany1234/662230.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="ES | Todos - ALL",Star Trek: Voyager
+http://allone8k.info:8080/live/hany/hany1234/662231.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="ES | Todos - ALL",STZ Telebista (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662232.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png" group-title="ES | Todos - ALL",SX3 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ES | Todos - ALL",Tarotéame (576p)
+http://allone8k.info:8080/live/hany/hany1234/662234.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="ES | Todos - ALL",TBN España (576p)
+http://allone8k.info:8080/live/hany/hany1234/662235.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="ES | Todos - ALL",Tele 7 (720p)
+http://allone8k.info:8080/live/hany/hany1234/662236.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="ES | Todos - ALL",Tele Elx (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662237.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="ES | Todos - ALL",Tele Safor (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662238.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x2HmBq1.png" group-title="ES | Todos - ALL",TeleBilbao (384p)
+http://allone8k.info:8080/live/hany/hany1234/662239.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="ES | Todos - ALL",Teledeporte (720p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662240.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="ES | Todos - ALL",Teleganés (720p)
+http://allone8k.info:8080/live/hany/hany1234/662241.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png" group-title="ES | Todos - ALL",Telemadrid HD (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662242.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nspLHb.png" group-title="ES | Todos - ALL",Telemotril (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662243.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="ES | Todos - ALL",Teleonuba (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662244.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="ES | Todos - ALL",TeleRibera (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662245.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="ES | Todos - ALL",TeleVigo (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662246.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="ES | Todos - ALL",Televisión Aranda (720p)
+http://allone8k.info:8080/live/hany/hany1234/662247.m3u8
+#EXTINF:-1 tvg-logo="https://rtvc.es/archivos/2020/03/logo-mobilretina.png" group-title="ES | Todos - ALL",Television Canaria (576p)
+http://allone8k.info:8080/live/hany/hany1234/662248.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QVHKPw.png" group-title="ES | Todos - ALL",Televisión Consciente (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662249.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="ES | Todos - ALL",The Pet Collective
+http://allone8k.info:8080/live/hany/hany1234/662250.m3u8
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Titotv.png" group-title="ES | Todos - ALL",Tito TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662251.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="ES | Todos - ALL",Trece TV (576p)
+http://allone8k.info:8080/live/hany/hany1234/662252.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/960px-TV3.svg.png" group-title="ES | Todos - ALL",TV3 (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662253.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="ES | Todos - ALL",TV3CAT (1080p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662254.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="ES | Todos - ALL",TV3CAT Originals (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662255.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/syeJXGh.png" group-title="ES | Todos - ALL",TV Almassora (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662256.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="ES | Todos - ALL",TV Artequatre (576p)
+http://allone8k.info:8080/live/hany/hany1234/662257.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OVi3L.png" group-title="ES | Todos - ALL",TV Berguedà (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662258.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="ES | Todos - ALL",TV BRICS Spanish (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662259.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i6EnVZa.png" group-title="ES | Todos - ALL",TV Costa Brava (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662260.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfiK1Vp.png" group-title="ES | Todos - ALL",TV Girona (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662261.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png" group-title="ES | Todos - ALL",TV L’Hospitalet (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662262.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5KB9DS.png" group-title="ES | Todos - ALL",TV Ripollès (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662263.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSTsGbG.png" group-title="ES | Todos - ALL",TV Sabadell-Vallès (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662264.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLnrf0d.png" group-title="ES | Todos - ALL",TV San Vicente (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662265.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQAzYOD.png" group-title="ES | Todos - ALL",TVCentro Andalucía (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662266.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="ES | Todos - ALL",TVE Internacional Europe (576p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662267.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="ES | Todos - ALL",TVE Internacional Europe-Asia HD (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662268.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="ES | Todos - ALL",TVE Star (576p)
+http://allone8k.info:8080/live/hany/hany1234/662269.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="ES | Todos - ALL",TVE Star HD (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662270.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="ES | Todos - ALL",TVG2 (720p) [Geo-blocked]
+http://allone8k.info:8080/live/hany/hany1234/662271.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jN5k8Ob.png" group-title="ES | Todos - ALL",TVM Córdoba (1080p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662272.m3u8
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="ES | Todos - ALL",TVO Jesus (720p)
+http://allone8k.info:8080/live/hany/hany1234/662273.m3u8
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="ES | Todos - ALL",TVOMIX (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662274.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="ES | Todos - ALL",TVReus (720p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662275.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="ES | Todos - ALL",Une Vinalopó (576p) [Not 24/7]
+http://allone8k.info:8080/live/hany/hany1234/662276.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tc3zenG.png" group-title="ES | Todos - ALL",Unidad de investigación
+http://allone8k.info:8080/live/hany/hany1234/662277.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="ES | Todos - ALL",Univers TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662278.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V23bltn.png" group-title="ES | Todos - ALL",Urola Telebista (416p)
+http://allone8k.info:8080/live/hany/hany1234/662279.m3u8
+#EXTINF:-1 tvg-logo="https://www.vallesvisio.cat/wp-content/uploads/cropped-Logo-Valles-Visio-1.png" group-title="ES | Todos - ALL",Vallès Visió (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662280.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bCLNUG.png" group-title="ES | Todos - ALL",Vaya semanita
+http://allone8k.info:8080/live/hany/hany1234/662281.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6sUkVOd.png" group-title="ES | Todos - ALL",Ventdelnord TV (404p)
+http://allone8k.info:8080/live/hany/hany1234/662282.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="ES | Todos - ALL",Vision 6 TV (720p)
+http://allone8k.info:8080/live/hany/hany1234/662283.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="ES | Todos - ALL",Vivamóvil (720p)
+http://allone8k.info:8080/live/hany/hany1234/662284.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2Z64L.png" group-title="ES | Todos - ALL",VOTV (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662285.m3u8
+#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="ES | Todos - ALL",WaterBear (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662286.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="ES | Todos - ALL",XPTV1 (720p)
+http://allone8k.info:8080/live/hany/hany1234/662287.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="ES | Todos - ALL",XPTV2 (720p)
+http://allone8k.info:8080/live/hany/hany1234/662288.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="ES | Todos - ALL",XPTV US (720p)
+http://allone8k.info:8080/live/hany/hany1234/662289.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="ES | Todos - ALL",Zylo Cine Friki (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662290.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="ES | Todos - ALL",Zylo Cine Western (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662291.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="ES | Todos - ALL",Zylo Todo Novelas (1080p)
+http://allone8k.info:8080/live/hany/hany1234/662292.m3u8
 
 # --- EX-YU || SERBIA (343) ---
 #EXTINF:-1 tvg-logo="http://logo.smart-iptvpro.info/114.ba.png" group-title="EX-YU || SERBIA",EXYU :BIH | AL JAZZERA BALKANS HD
@@ -13934,6 +13670,8 @@ http://allone8k.info:8080/live/hany/hany1234/468945.m3u8
 http://allone8k.info:8080/live/hany/hany1234/468946.m3u8
 
 # --- KU | Kurd VIP (61) ---
+#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
+http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] KHAK HD
 http://allone8k.info:8080/live/hany/hany1234/473970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] ZED HD
@@ -14054,8 +13792,6 @@ http://allone8k.info:8080/live/hany/hany1234/473547.m3u8
 http://allone8k.info:8080/live/hany/hany1234/473548.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/aa14593c6bd0c7b542e5f355c5916bb8.png" group-title="KU | Kurd VIP",VIP_KU | Neu TV
 http://allone8k.info:8080/live/hany/hany1234/473549.m3u8
-#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
-http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 
 # --- KU | Kurd documentary دیکومینتاری (7) ---
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd documentary دیکومینتاری",KU | NEWROZ DOC HD
@@ -18327,4 +18063,4 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# Total: 8954
+# Total: 8822
