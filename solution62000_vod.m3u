@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-02 07:59:16
+# Generated: 2026-08-03 08:00:01
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -6929,7 +6929,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (198) ---
+# --- Movies | prime video (199) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | prime video",Wildcat (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29658.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg" group-title="Movies | prime video",La Bouche du Diable (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29595.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tJxeLnt5K3LHfJdaAZY6bttM0Sv.jpg" group-title="Movies | prime video",Les Maîtres de l'Univers (2026)
@@ -7907,7 +7909,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (330) ---
+# --- Series | Series divers (331) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8030,7 +8032,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/240
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/242
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Ghosts of Beirut
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/245
-#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Opérations Spéciales : Lioness
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Lioness
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Justified: City Primeval
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/251
@@ -8568,5 +8570,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1254
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1258
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Iris Affair
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1259
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Spooky in Love
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1260
 
-# Total: 4251
+# Total: 4253

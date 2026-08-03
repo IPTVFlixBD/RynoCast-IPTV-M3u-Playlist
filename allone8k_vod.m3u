@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-08-02 19:07:10
+# Generated: 2026-08-03 08:12:19
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -25659,7 +25659,7 @@ http://allone8k.info:8080/movie/hany/hany1234/337570.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3TyqdywjVQPUBEXiAjXDqMa7OY.jpg" group-title="Movies | DE | WESTERN",Any Bullet Will Do
 http://allone8k.info:8080/movie/hany/hany1234/337569.mp4
 
-# --- Movies | EN | (يعرض الأن - اجنبي) (221) ---
+# --- Movies | EN | (يعرض الأن - اجنبي) (222) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | (يعرض الأن - اجنبي)",Cape Fear - 2026
 http://allone8k.info:8080/movie/hany/hany1234/11343.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | (يعرض الأن - اجنبي)",Star City - 2026
@@ -26102,6 +26102,8 @@ http://allone8k.info:8080/movie/hany/hany1234/11448.mp4
 http://allone8k.info:8080/movie/hany/hany1234/11469.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | (يعرض الأن - اجنبي)",Furious - 2026
 http://allone8k.info:8080/movie/hany/hany1234/11478.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | EN | (يعرض الأن - اجنبي)",Fightland - 2026
+http://allone8k.info:8080/movie/hany/hany1234/11484.mp4
 
 # --- Movies | EN | (يعرض الأن - انمي) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | EN | (يعرض الأن - انمي)",Yomi no Tsugai - 2026
@@ -78963,7 +78965,7 @@ http://allone8k.info:8080/series/hany/hany1234/6980
 #EXTINF:-1 tvg-logo="" group-title="Series | AL | ALBANIA SERIES",13 Reasons Why
 http://allone8k.info:8080/series/hany/hany1234/6979
 
-# --- Series | EN | SERIES (245) ---
+# --- Series | EN | SERIES (246) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | EN | SERIES",ER - 1994
 http://allone8k.info:8080/series/hany/hany1234/11337
 #EXTINF:-1 tvg-logo="" group-title="Series | EN | SERIES",Childhoods End - 2015
@@ -79454,6 +79456,8 @@ http://allone8k.info:8080/series/hany/hany1234/11460
 http://allone8k.info:8080/series/hany/hany1234/11463
 #EXTINF:-1 tvg-logo="" group-title="Series | EN | SERIES",The Big C - 2010
 http://allone8k.info:8080/series/hany/hany1234/11476
+#EXTINF:-1 tvg-logo="" group-title="Series | EN | SERIES",Sullivans Crossing - 2023
+http://allone8k.info:8080/series/hany/hany1234/11491
 
 # --- Series | FR | AMAZON SERIES (105) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | FR | AMAZON SERIES",The Devils Hour - 2022 - FR
@@ -80601,4 +80605,4 @@ http://allone8k.info:8080/series/hany/hany1234/6921
 #EXTINF:-1 tvg-logo="" group-title="Series | IT | ITALY SERIES",Total Recall 2070
 http://allone8k.info:8080/series/hany/hany1234/6938
 
-# Total: 40083
+# Total: 40085

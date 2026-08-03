@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-02 08:00:14
+# Generated: 2026-08-03 08:06:08
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1142,21 +1142,21 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186188.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186189.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: 3PLUSHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: SRF-INFO
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: SRF-INFO SPORT HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: ARDHD
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: TOP FILME HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: ZDFHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: RTLCHHD
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: 4 MORE HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: PRO7CHHD
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: BBC CEBESIS HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: SAT1CHHD
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: CNNBC HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: TV24
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: CNN HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: TV25
+#EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: TV25 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: RTL2CHHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186199.m3u8
@@ -3843,7 +3843,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/152627.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD: Roma TV
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/152628.m3u8
 
-# --- NL: NETHERLANDS (57) ---
+# --- NL: NETHERLANDS (58) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/Netherlands.png" group-title="NL: NETHERLANDS",##### NETHERLANDS #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36637.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: ESPN 1 HD
@@ -3958,6 +3958,8 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186974.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: XITE HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186991.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Paramount Network HDHD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186994.m3u8
 
 # --- NO : NORWAY (15) ---
 #EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",##### NORWAY #####
@@ -5793,7 +5795,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165256.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssportplus10.png" group-title="TR | S SPORT",TR: S Sport Plus 10 HD (only Match Time)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165257.m3u8
 
-# --- TR | SINEMA (52) ---
+# --- TR | SINEMA (53) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | SINEMA",##### TURK SINEMA PAKETI #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36221.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aco3wim.png" group-title="TR | SINEMA",TR: NextBox Turk
@@ -5898,6 +5900,8 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157828.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: LiONBOX YERLi SiNEMA 7
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",24/7 TR: Parfüm
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187171.m3u8
 
 # --- TR | SPOR (20) ---
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2021/07/30/12/07/flag-6509494__340.png" group-title="TR | SPOR",##### TURK SPOR PAKETI #####
@@ -6711,4 +6715,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3294
+# Total: 3296
