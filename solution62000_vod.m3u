@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-03 20:26:49
+# Generated: 2026-08-04 19:57:10
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -102,7 +102,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5332.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5814.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcKzWg7jnxkcMsqmlkZRiM8BlfP.jpg" group-title="Movies | Apple tv+",The Greatest Beer Run Ever - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5816.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VzVBcklUx4WiXFtutlOJZrBwY0.jpg" group-title="Movies | Apple tv+",Emancipation - 2022
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/47Ui47ZX0myRy05F4pm7HCFoDRJ.jpg" group-title="Movies | Apple tv+",Emancipation (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4789.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg" group-title="Movies | Apple tv+",Cha Cha Real Smooth - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1766.mkv
@@ -1219,7 +1219,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1685) ---
+# --- Movies | Films (1686) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sF1EGQWrUghvtD3VpqgsBACHr9u.jpg" group-title="Movies | Films",Les Spécialistes (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29679.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGrRA1eV5hBDO5flXvNFFAPfUVE.jpg" group-title="Movies | Films",Terreur en haute mer (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29641.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wRPxSccJw6wckkBUOzM5CHd871w.jpg" group-title="Movies | Films",Mauvaise Pioche (2026)
@@ -8573,4 +8575,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1259
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Spooky in Love
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1260
 
-# Total: 4253
+# Total: 4254
