@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-03 08:11:01
+# Generated: 2026-08-05 07:55:23
 # Expires: 2026-08-24
 # Family Safe Edition
 # ==============================================
@@ -10974,6 +10974,10 @@ http://tvmate.icu:8080/movie/VM121628/56784321/182844.mp4
 http://tvmate.icu:8080/movie/VM121628/56784321/182845.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuHuvxnfcPXZauX1Pm7qwmc9k5L.jpg" group-title="Movies | Battlestar Galactica Movie Collection 1, 2, 3, 4",Battlestar Galactica: Blood & Chrome (2012)
 http://tvmate.icu:8080/movie/VM121628/56784321/182846.mp4
+
+# --- Movies | Cartoon (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Cartoon",Batman: Caped Crusader
+http://tvmate.icu:8080/movie/VM121628/56784321/2392.mp4
 
 # --- Movies | Cartoon Movies (497) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32vLDKSzcCMh55zqqaSqqUA8naz.jpg" group-title="Movies | Cartoon Movies",22 vs. Earth (2021)
@@ -60473,4 +60477,4 @@ http://tvmate.icu:8080/series/VM121628/56784321/2379
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Real Housewives of Atlanta
 http://tvmate.icu:8080/series/VM121628/56784321/2380
 
-# Total: 30153
+# Total: 30154
