@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-08-05 07:48:21
+# Generated: 2026-08-06 07:47:42
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -3914,6 +3914,10 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7867.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL 8 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Lounge HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Telekids HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Z
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/20181.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NET 5 HD
@@ -3924,8 +3928,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7866.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: VERONICA DISNEY XD & Nickelodeon
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Viaplay TV+ HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49972.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Filmbox NL HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Film1 Action
@@ -3940,13 +3942,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/13574.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187005.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Family7 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Star Chanel HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Eurosport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/19825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTV-7 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/19826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: STAR Channel HD
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: AT 5 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/145355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: 24 Kitchen HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/19827.m3u8
@@ -3956,18 +3954,16 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/8498.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/8496.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Disney Channel HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/28816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: MTV HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7886.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: National Geographic FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7862.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL : National Geographic WILD HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: ID  HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49977.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: History HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL : Discovery Channel
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186895.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: BBC Two HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL:  E! HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: TLC  HD
@@ -3978,24 +3974,28 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49966.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49967.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: een HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Lounge HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL : National Geographic WILD HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: CNN HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: 100%  TV HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186923.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Comedy Central HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NPO 2 EXTRA HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186974.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Telekids HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: XITE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186991.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Paramount Network HDHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Viaplay TV+ HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: MTV HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL:  Djazz tv HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: 192 TV  HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: 100% NL TV HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49969.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Eurosport 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/19825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NPO 2 EXTRA HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186974.m3u8
 
 # --- NO : NORWAY (15) ---
 #EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",##### NORWAY #####
@@ -5831,7 +5831,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165256.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssportplus10.png" group-title="TR | S SPORT",TR: S Sport Plus 10 HD (only Match Time)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165257.m3u8
 
-# --- TR | SINEMA (53) ---
+# --- TR | SINEMA (52) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | SINEMA",##### TURK SINEMA PAKETI #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36221.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aco3wim.png" group-title="TR | SINEMA",TR: NextBox Turk
@@ -5936,8 +5936,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157828.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: LiONBOX YERLi SiNEMA 7
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",24/7 TR: Parfüm
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187171.m3u8
 
 # --- TR | SPOR (20) ---
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2021/07/30/12/07/flag-6509494__340.png" group-title="TR | SPOR",##### TURK SPOR PAKETI #####
@@ -6751,4 +6749,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3314
+# Total: 3313

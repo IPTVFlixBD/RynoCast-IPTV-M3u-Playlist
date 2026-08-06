@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-04 19:57:10
+# Generated: 2026-08-06 07:58:24
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -953,7 +953,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",The Dropout
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1233.mp4
 
-# --- Movies | Documentaires (64) ---
+# --- Movies | Documentaires (65) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lEYCejQLBdEcMZ76OcWzmX8B8ZM.jpg" group-title="Movies | Documentaires",Ligne Rouge - Zidane, la fabrique d'une légende (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29705.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqC7bXiLC7USV64TfPUjl1s5plC.jpg" group-title="Movies | Documentaires",L'affaire epstein : la piste française (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28471.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4r0bULEbJgxNbt7UoLYvHCIHuxl.jpg" group-title="Movies | Documentaires",Sacrée soirée ! (2026)
@@ -1083,7 +1085,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSQgDf8rhz6HxnKUXwMvc4lgqw.jpg" group-title="Movies | Documentaires",C'Est Pas Moi (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13491.mkv
 
-# --- Movies | Enfants (62) ---
+# --- Movies | Enfants (63) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Eden
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/77.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Invincible
@@ -1208,6 +1210,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1200.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1202.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",President Curtis
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1255.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Star Wars Visions Présente : Le Neuvième Jedi
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1262.mp4
 
 # --- Movies | FILMS TURK (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | FILMS TURK",Sampiyonlar (2025)
@@ -1219,7 +1223,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1686) ---
+# --- Movies | Films (1689) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rEDOg3YkUpzyQclJycL9yrPsSF.jpg" group-title="Movies | Films",Sauvage (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29686.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg" group-title="Movies | Films",On l'appelait Robin des Bois (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29682.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/twkjKuOf4hVAmXxOwpyRy682VZR.jpg" group-title="Movies | Films",Evil Dead Burn (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29681.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sF1EGQWrUghvtD3VpqgsBACHr9u.jpg" group-title="Movies | Films",Les Spécialistes (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29679.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGrRA1eV5hBDO5flXvNFFAPfUVE.jpg" group-title="Movies | Films",Terreur en haute mer (2026)
@@ -7911,7 +7921,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (331) ---
+# --- Series | Series divers (332) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8574,5 +8584,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1258
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1259
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Spooky in Love
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1260
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Les Derniers Jours de Ptolemy Grey
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1261
 
-# Total: 4254
+# Total: 4260
