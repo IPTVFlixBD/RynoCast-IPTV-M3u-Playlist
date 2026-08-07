@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-06 19:45:51
+# Generated: 2026-08-07 08:19:10
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1223,7 +1223,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1689) ---
+# --- Movies | Films (1692) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/PODwO3sxLAMU9NyffIdYOzxYVW.jpg" group-title="Movies | Films",L’Enfant du Désert (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29870.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jauPb3CWMwqX8pMtLoUeT5XVFDA.jpg" group-title="Movies | Films",Plus forts que le diable (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29708.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg" group-title="Movies | Films",Cocorico 2 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29707.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rEDOg3YkUpzyQclJycL9yrPsSF.jpg" group-title="Movies | Films",Sauvage (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29686.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg" group-title="Movies | Films",On l'appelait Robin des Bois (2026)
@@ -7921,7 +7927,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (332) ---
+# --- Series | Series divers (333) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8586,5 +8592,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1259
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1260
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Les Derniers Jours de Ptolemy Grey
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1261
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Diarra from Detroit
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1263
 
-# Total: 4260
+# Total: 4264

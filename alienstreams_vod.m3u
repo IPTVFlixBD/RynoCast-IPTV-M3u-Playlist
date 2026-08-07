@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-08-06 19:51:21
+# Generated: 2026-08-07 08:17:04
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -15834,6 +15834,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404535
 http://alienstreams.fi:8080/series/hellhell/hellhell/404578
 
 # --- Series | Crime [Series] (208) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",The Rookie
+http://alienstreams.fi:8080/series/hellhell/hellhell/493111
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",American Nightmare
 http://alienstreams.fi:8080/series/hellhell/hellhell/503880
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Criminal Minds
@@ -15902,8 +15904,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/489295
 http://alienstreams.fi:8080/series/hellhell/hellhell/493331
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Who Hired the Hitman?
 http://alienstreams.fi:8080/series/hellhell/hellhell/493295
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",The Rookie
-http://alienstreams.fi:8080/series/hellhell/hellhell/493111
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Mayans M.C.
 http://alienstreams.fi:8080/series/hellhell/hellhell/490759
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Law & Order: Special Victims Unit
@@ -19058,6 +19058,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404613
 http://alienstreams.fi:8080/series/hellhell/hellhell/404085
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Linnis univers
 http://alienstreams.fi:8080/series/hellhell/hellhell/403811
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Jens og Isak på tynn is
+http://alienstreams.fi:8080/series/hellhell/hellhell/404581
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Familien Lykke
 http://alienstreams.fi:8080/series/hellhell/hellhell/404582
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Samurai Sikkerhet
@@ -19360,10 +19362,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404558
 http://alienstreams.fi:8080/series/hellhell/hellhell/404560
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",I lomma på Silje
 http://alienstreams.fi:8080/series/hellhell/hellhell/404569
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Jens og Isak på tynn is
-http://alienstreams.fi:8080/series/hellhell/hellhell/404581
 
-# --- Series | Reality [Series] (169) ---
+# --- Series | Reality [Series] (168) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Deadliest Catch
 http://alienstreams.fi:8080/series/hellhell/hellhell/404628
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Jocke & Jonna lovar och svär
@@ -19410,8 +19410,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/497992
 http://alienstreams.fi:8080/series/hellhell/hellhell/492084
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Baylen Out Loud
 http://alienstreams.fi:8080/series/hellhell/hellhell/489006
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Deadliest Catch
-http://alienstreams.fi:8080/series/hellhell/hellhell/471724
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Down.for.Love
 http://alienstreams.fi:8080/series/hellhell/hellhell/492018
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Members Only: Palm Beach
@@ -20683,4 +20681,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 10282
+# Total: 10281
