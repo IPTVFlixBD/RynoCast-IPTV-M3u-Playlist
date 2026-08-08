@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 178.162.193.239:80
-# Generated: 2026-08-07 08:13:27
+# Generated: 2026-08-08 06:58:11
 # Expires: 2033-03-07
 # Family Safe Edition
 # ==============================================
@@ -2122,8 +2122,6 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/71054.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/71927.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg" group-title="Movies | ANIMAÇÃO",O Gigante de Ferro (1999)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/72536.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg" group-title="Movies | ANIMAÇÃO",Sonic 2: O Filme (2022)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/72600.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Hnhf1FqVGnh20hKlHbiRvHhB5b.jpg" group-title="Movies | ANIMAÇÃO",Jovens Titãs em Ação e DC Super Hero Girls: Desordem no Multiverso (2022)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/73259.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8sTpoYcjvFut9DtemQcppAQr9s.jpg" group-title="Movies | ANIMAÇÃO",Os Jovens Titãs em Ação Nos Cinemas (2018)
@@ -2778,6 +2776,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207448.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207464.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftEgCKA6Um5V3r7UqbeeK41Npzv.jpg" group-title="Movies | ANIMAÇÃO",Boonie Bears – Uma Aventura no Passado (2019)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207728.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8NHDPjSdWfgugm638C8HlMt5Po.jpg" group-title="Movies | ANIMAÇÃO",Boonie Bears: E o Mundo Selvagem (2021)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207729.mp4
 
 # --- Movies | ANIMES (612) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNBXskBHOwPSW21o7iT3N8QVg9L.jpg" group-title="Movies | ANIMES",A Viagem de Chihiro (2001)
@@ -8351,7 +8351,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3773.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CLASSICAS",O Corvo: Uma Escada para o Céu
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4207.mp4
 
-# --- Movies | COMÉDIA (1693) ---
+# --- Movies | COMÉDIA (1696) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIWQUKDs6l80WVxQY43hmk2XIW.jpg" group-title="Movies | COMÉDIA",Keanu: Cadê Meu Gato?! (2016)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/190735.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX8IMDXbVWJ7fq0AX0efog1SMX5.jpg" group-title="Movies | COMÉDIA",10 Regras Para Um Relacionamento Aberto (2013)
@@ -11692,6 +11692,12 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207681.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207703.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Vq2sUuAa2Emgv6HTLeJvZCdDMz.jpg" group-title="Movies | COMÉDIA",Natal no Salão de Beleza (2024)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207726.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y02lpf5VauETdEPhD7vC7bO0nxS.jpg" group-title="Movies | COMÉDIA",O Comitê de Natal (2024)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207732.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YrrA4GSMRYAK7SiwAWWKcB5faP.jpg" group-title="Movies | COMÉDIA",Nosso Mural de Natal (2023)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207733.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN2CAy3CGf6uMd6uxNjpQjIPlCR.jpg" group-title="Movies | COMÉDIA",Penalidade Máxima 2 (2024) LEG
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207734.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMÉDIA",O Auto da Compadecida
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMÉDIA",Os Roni
@@ -13761,7 +13767,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5129.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",A Guarda do Leão
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5457.mp4
 
-# --- Movies | DOCUMENTÁRIOS (991) ---
+# --- Movies | DOCUMENTÁRIOS (993) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6O51vrYJLt1042lDrkQmGiFjq5.jpg" group-title="Movies | DOCUMENTÁRIOS",A Sombra do Comandante (2024)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/196760.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMEbjQCLiquhAd2MeVyDr3rHKvM.jpg" group-title="Movies | DOCUMENTÁRIOS",A Bailarina (2020)
@@ -14904,6 +14910,10 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207428.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207630.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJ7k5pR5hKc6nII53I318l3ZnBJ.jpg" group-title="Movies | DOCUMENTÁRIOS",Complexo de Deus: Os Bebês do Dr. Quincy Fortier (2020)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207727.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TNdDozjgPGeENte4yfMmnzYqak.jpg" group-title="Movies | DOCUMENTÁRIOS",Os Sonhos de Pepe (2024) LEG
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207735.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHBvfjY1Ye2xW90pjmuDTUG4uYG.jpg" group-title="Movies | DOCUMENTÁRIOS",Quando Vira a Esquina (2024)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207736.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTÁRIOS",Marte
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/47.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTÁRIOS",Narcos na Vida Real
@@ -20415,23 +20425,17 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207516.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WCjbXI5MwZve6D0eGX41sV169z.jpg" group-title="Movies | DRAMA",Meu Filho e Eu (2016) LEG
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208281.mp4
 
-# --- Movies | EM BREVE (38) ---
+# --- Movies | EM BREVE (32) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmeGpWrYy679EzRJvu04Sn91j6w.jpg" group-title="Movies | EM BREVE",Herança de Narcisa (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207179.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SMGQ6ctznPEXGBYyTxenjW2Oo0.jpg" group-title="Movies | EM BREVE",A Última Casa (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207740.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65q7J1JyulMD7L1UaBhYVJrXCeb.jpg" group-title="Movies | EM BREVE",As Dez Vantagens de Morrer Depois de Você (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207741.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg" group-title="Movies | EM BREVE",As Garotas Erradas (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsa8cLHVMPcKiSV5blNOqHTpQil.jpg" group-title="Movies | EM BREVE",Coração Partido (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207745.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQCrVMZZX9EsGxxoR6CXDtTO8rm.jpg" group-title="Movies | EM BREVE",Corrida dos Bichos (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207746.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CrVBxAHshkknqSeeiKJPBALcsM.jpg" group-title="Movies | EM BREVE",Coyote vs. ACME (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207747.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlZTkzY2ItYzgwMy00MjI2LWJmYWItMGQyZDE5YzVlMjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | EM BREVE",Gatos de Rua (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207749.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Y3WPOxcCLjswNRy7GOFIXexF1YG9hdChYAQjUIxFWY6BedGLjYyP_8fr&s=10" group-title="Movies | EM BREVE",Lanternas (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207751.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obaRAVPfiYQD3WfHH51mtE6yS7Q.jpg" group-title="Movies | EM BREVE",Minha Filha é um Zumbi (EM BREVE)
@@ -20446,12 +20450,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207756.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207757.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" group-title="Movies | EM BREVE",Sobrenatural: Agora Entre Nós (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207758.mp4
-#EXTINF:-1 tvg-logo="https://cdn.ome.lt/WZXKvxo2c4oFlz4AEa4djWZJGX4=/fit-in/837x500/smart/filters:format(webp)/uploads/conteudo/fotos/pt-br_BR_LVSTCK_Teaser_KA_Vertical_RGB_Predate.jpg" group-title="Movies | EM BREVE",Um Grude de Amor (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207761.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg" group-title="Movies | EM BREVE",A Heroína da Fita (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208646.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/alangeek.com.br/wp-content/uploads/2026/07/otu55FVt6l2X6271fp34EnXT4ld.jpg?resize=500%2C750&ssl=1" group-title="Movies | EM BREVE",Monstros De Deus (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208649.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wrwd0kTF2ktt9SABTajipn84iH.jpg" group-title="Movies | EM BREVE",Muito Prazer (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208650.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg" group-title="Movies | EM BREVE",Nando Entre Dois Mundos: Um Filme Sintonia (EM BREVE)
@@ -20460,8 +20460,6 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208651.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208652.mp4
 #EXTINF:-1 tvg-logo="https://entretetizei.com.br/wp-content/uploads/2026/07/pt-br_BR_FHTS_Teaser_KA_Vertical_4x5_RGB_Predate.jpg" group-title="Movies | EM BREVE",Quatro Mãos, Duas Sonatas (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208653.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IxNjY3NDgtM2JkNi00N2I0LWFhODYtNDBjNTAyNGEyNTBjXkEyXkFqcGc@._V1_.jpg" group-title="Movies | EM BREVE",Rio Shore - Temporada 4 (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208654.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOiEzr5_W0VlW1tLhkaX62ztzrbGKb5tIWzMtMDccAbHvgfWe4IigOfPG&s=10" group-title="Movies | EM BREVE",Matéria Escura - Temporada 2 (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208891.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2o0HUI28XO_KzGJnYwQy6Jalm3okVxMtlAhcLsGzrag9Y9q_o7MNwxgwb&s=10" group-title="Movies | EM BREVE",Mulheres de Azul - Temporada 2 (EM BREVE)
@@ -21513,7 +21511,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/193374.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jz0CIF5VTFbT9tLDnU8AEWdyoV.jpg" group-title="Movies | FAMILIA",Rags: O Poder da Música (2012)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/197815.mp4
 
-# --- Movies | FAMÍLIA (629) ---
+# --- Movies | FAMÍLIA (630) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBNL4NUEIFRSDvHYgH3OHrhKyUk.jpg" group-title="Movies | FAMÍLIA",Sabrina Vai Para a Austrália (1999)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/48420.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CwzaIz7MvzPs5fA4NddlFD27M5.jpg" group-title="Movies | FAMÍLIA",A Boneca que Virou Gente 2 (2018)
@@ -21876,6 +21874,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/71009.mkv
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/71134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Movies | FAMÍLIA",A Família Perfeita (2021)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/71602.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg" group-title="Movies | FAMÍLIA",Sonic 2: O Filme (2022)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/72600.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n7H1kdapk9GHysKxkPGPe7ITKU.jpg" group-title="Movies | FAMÍLIA",Flicka (2006)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/72787.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arHrxRFzIx06eYhijR5SmrRU6gG.jpg" group-title="Movies | FAMÍLIA",Flicka 2 (2010)
@@ -28737,7 +28737,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5437.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | INFANTIL",O Espetacular Homem-Aranha
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5458.mp4
 
-# --- Movies | LANÇAMENTOS 2026 (723) ---
+# --- Movies | LANÇAMENTOS 2026 (734) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQAl4G271ZRB8IJdvPvEZL6lKen.jpg" group-title="Movies | LANÇAMENTOS 2026",Outro Amor Fora do Tempo (2026)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/194865.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nC1F6LrhyvRn0YWpQiispac6mI.jpg" group-title="Movies | LANÇAMENTOS 2026",Chitas de Perto com Bertie Gregory (2026) LEG
@@ -29480,6 +29480,18 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209507.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209641.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ86EVv7eshFXktC5DFSKuT6K5v.jpg" group-title="Movies | LANÇAMENTOS 2026",Não Identificada (2026)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209645.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfT3d4TLZBJsouNzh3b5jFWs76t.jpg" group-title="Movies | LANÇAMENTOS 2026",A Última Casa (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209726.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrULF6tc5ky5K5aLlNkxph8DVcB.jpg" group-title="Movies | LANÇAMENTOS 2026",Apreensão (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209727.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="Movies | LANÇAMENTOS 2026",Corrida dos Bichos (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209728.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="Movies | LANÇAMENTOS 2026",Hungria: A Escolha de um Sonho (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209730.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNYahOVMvcMaRmiYoxRlUJIDx76.jpg" group-title="Movies | LANÇAMENTOS 2026",O Poder do Rosário (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209731.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg" group-title="Movies | LANÇAMENTOS 2026",Blades of the Guardians (2026) LEG
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209764.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Amor no Escritório
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5273.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Custe o que Custar
@@ -30184,6 +30196,16 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5811.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5812.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Estilhaços
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5813.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Gatos de Rua, de Ricky Gervais
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5814.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Operação Safed Sagar
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5815.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Voepass 2283: A Queda
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5816.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Monstros de Deus LEG
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5817.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Um Grude de Amor
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5818.mp4
 
 # --- Movies | LANÇAMENTOS AR 2025 (113) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcHVILDb5ZAGrLJq2ZDFsT6RhgP.jpg" group-title="Movies | LANÇAMENTOS AR 2025",سنة أولى خطف (2025)
@@ -38094,18 +38116,6 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5765.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5785.mp4
 
 # --- Movies | NOVIDADES (101) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8NHDPjSdWfgugm638C8HlMt5Po.jpg" group-title="Movies | NOVIDADES",Boonie Bears: E o Mundo Selvagem (2021)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207729.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y02lpf5VauETdEPhD7vC7bO0nxS.jpg" group-title="Movies | NOVIDADES",O Comitê de Natal (2024)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207732.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YrrA4GSMRYAK7SiwAWWKcB5faP.jpg" group-title="Movies | NOVIDADES",Nosso Mural de Natal (2023)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207733.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN2CAy3CGf6uMd6uxNjpQjIPlCR.jpg" group-title="Movies | NOVIDADES",Penalidade Máxima 2 (2024) LEG
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207734.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TNdDozjgPGeENte4yfMmnzYqak.jpg" group-title="Movies | NOVIDADES",Os Sonhos de Pepe (2024) LEG
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207735.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHBvfjY1Ye2xW90pjmuDTUG4uYG.jpg" group-title="Movies | NOVIDADES",Quando Vira a Esquina (2024)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207736.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSmZM2Ac5pvO6H5iieZmaTSWCJr.jpg" group-title="Movies | NOVIDADES",Resgatando o Espírito de Natal (2023)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207737.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txFQFgjVQmQYFYvEFCbUlTJMYcs.jpg" group-title="Movies | NOVIDADES",Uma Grande Amizade (2019)
@@ -38296,6 +38306,18 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209646.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209707.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg9bWfGGlxM9Hh3fwYRGHe0TYek.jpg" group-title="Movies | NOVIDADES",É Pra Mudar, Muleke - Uma Vida no DEGASE (2025)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209708.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dDP4qtfs6Uvc3wyvZRuPtpGlci.jpg" group-title="Movies | NOVIDADES",Operação Raqqa (2024)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209732.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMObSFdPA5Y9gDysis7X2JVxIA5.jpg" group-title="Movies | NOVIDADES",Vida Privada (2025)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209733.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ODThjE0gZsk7RuJJip2spEYCGe.jpg" group-title="Movies | NOVIDADES",Samurai Detective Onihei: Two Righteous Swords (2025) LEG
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209765.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1cQn3n7aPGsWbuoBlBfCxI772Z.jpg" group-title="Movies | NOVIDADES",Lapua 1976 (2023)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209771.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfaJBol8rORJ7xS6CmzlD0mD8.jpg" group-title="Movies | NOVIDADES",Duas Irmãs (2003)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209772.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHq7kCQdwEEjUJ7aS9ZR2K3aIUo.jpg" group-title="Movies | NOVIDADES",A Nona Sessão (2001) LEG
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209773.mp4
 
 # --- Movies | ORGULHO LGBTQIA+ (161) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryLcuVJmSTVSfKsyDBLTVpD71cZ.jpg" group-title="Movies | ORGULHO LGBTQIA+",A Garota Dinamarquesa (2015)
@@ -45017,4 +45039,4 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/594.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",ROBLOX LIVE
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/595.mp4
 
-# Total: 22438
+# Total: 22449
