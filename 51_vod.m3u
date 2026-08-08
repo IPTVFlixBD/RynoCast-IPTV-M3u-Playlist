@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-08 07:06:54
+# Generated: 2026-08-08 18:40:48
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,19 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4659) ---
+# --- Movies | DE | CINEMA VOD (4664) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="Movies | DE | CINEMA VOD",Beast Race (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188470.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTcwx0v5HjqhlYOXJ39s9zXKykM.jpg" group-title="Movies | DE | CINEMA VOD",Das Geheimnis des Goldschmieds (2025)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188471.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ULPnySakn7zdFOexq7kJ5HNihq.jpg" group-title="Movies | DE | CINEMA VOD",Dead Man's Wire (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188472.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgDIFeru8nRnQ8c6duspbWGLE6t.jpg" group-title="Movies | DE | CINEMA VOD",Die Legende des Wüstenkindes (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188473.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyjCStYlX3FNPEz2Dz0Mz1OqPWE.jpg" group-title="Movies | DE | CINEMA VOD",Welcome Home Baby (2025) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188476.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFD3aitQ9rVM6u01xWDL2vYCKLE.jpg" group-title="Movies | DE | CINEMA VOD",Spider-Man: Brand New Day (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/187287.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57TRtrbIUspdxvMx0HhZE6ogfrd.jpg" group-title="Movies | DE | CINEMA VOD",Saýara (2024) DE
@@ -42213,4 +42223,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21036
+# Total: 21041
