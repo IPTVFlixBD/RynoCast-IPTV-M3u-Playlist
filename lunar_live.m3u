@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-08-09 07:09:04
+# Generated: 2026-08-09 18:31:42
 # Expires: 2026-08-15
 # Family Safe Edition
 # ==============================================
@@ -2315,46 +2315,6 @@ http://lunar.pm:8080/live/Altonesherman/Power22/135540.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TYC Sports HD
 http://lunar.pm:8080/live/Altonesherman/Power22/135541.m3u8
 
-# --- Astro SS / SuperSport (19) ---
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Astro SS / SuperSport",SuperSport Action
-http://lunar.pm:8080/live/Altonesherman/Power22/70938.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="Astro SS / SuperSport",SuperSport Blitz
-http://lunar.pm:8080/live/Altonesherman/Power22/70932.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Astro SS / SuperSport",SuperSport Cricket
-http://lunar.pm:8080/live/Altonesherman/Power22/102200.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="Astro SS / SuperSport",SuperSport Football
-http://lunar.pm:8080/live/Altonesherman/Power22/70936.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="Astro SS / SuperSport",SuperSport Golf
-http://lunar.pm:8080/live/Altonesherman/Power22/70939.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="Astro SS / SuperSport",SuperSport GrandStand
-http://lunar.pm:8080/live/Altonesherman/Power22/102201.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="Astro SS / SuperSport",SuperSport La Liga
-http://lunar.pm:8080/live/Altonesherman/Power22/70937.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="Astro SS / SuperSport",SuperSport Motorsport
-http://lunar.pm:8080/live/Altonesherman/Power22/102202.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="Astro SS / SuperSport",SuperSport PSL
-http://lunar.pm:8080/live/Altonesherman/Power22/70933.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="Astro SS / SuperSport",SuperSport Rugby
-http://lunar.pm:8080/live/Altonesherman/Power22/102199.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="Astro SS / SuperSport",SuperSport Tennis
-http://lunar.pm:8080/live/Altonesherman/Power22/70935.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="Astro SS / SuperSport",SuperSport Variety 1
-http://lunar.pm:8080/live/Altonesherman/Power22/70928.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="Astro SS / SuperSport",SuperSport Variety 2
-http://lunar.pm:8080/live/Altonesherman/Power22/70929.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="Astro SS / SuperSport",SuperSport Variety 3
-http://lunar.pm:8080/live/Altonesherman/Power22/70930.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="Astro SS / SuperSport",ASTRO Premier League
-http://lunar.pm:8080/live/Altonesherman/Power22/103623.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="Astro SS / SuperSport",ASTRO Premier League 2
-http://lunar.pm:8080/live/Altonesherman/Power22/103624.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="Astro SS / SuperSport",ASTRO Granstand
-http://lunar.pm:8080/live/Altonesherman/Power22/103625.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="Astro SS / SuperSport",ASTRO Football
-http://lunar.pm:8080/live/Altonesherman/Power22/103626.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="Astro SS / SuperSport",ASTRO Sports Plus
-http://lunar.pm:8080/live/Altonesherman/Power22/110275.m3u8
-
 # --- Australia (55) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80330474661.png" group-title="Australia",AUS: 7 FLIX HD
 http://lunar.pm:8080/live/Altonesherman/Power22/135542.m3u8
@@ -2467,71 +2427,67 @@ http://lunar.pm:8080/live/Altonesherman/Power22/135595.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ff51cfe9f0dfe66a221f5607116b4203.png" group-title="Australia",AUS: TEN HD
 http://lunar.pm:8080/live/Altonesherman/Power22/135596.m3u8
 
-# --- Bein Sports (32) ---
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 1
-http://lunar.pm:8080/live/Altonesherman/Power22/108591.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 2
-http://lunar.pm:8080/live/Altonesherman/Power22/108592.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 3
-http://lunar.pm:8080/live/Altonesherman/Power22/108593.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 4
-http://lunar.pm:8080/live/Altonesherman/Power22/108594.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS5_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 5
-http://lunar.pm:8080/live/Altonesherman/Power22/108595.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS6_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 6
-http://lunar.pm:8080/live/Altonesherman/Power22/108596.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS7_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 7
-http://lunar.pm:8080/live/Altonesherman/Power22/108597.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Bein Sports",beIN Sports 1 Premium
-http://lunar.pm:8080/live/Altonesherman/Power22/108598.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Bein Sports",beIN Sports 2 Premium
-http://lunar.pm:8080/live/Altonesherman/Power22/108599.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Bein Sports",beIN Sports Premium 3
-http://lunar.pm:8080/live/Altonesherman/Power22/108600.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Bein Sports",beIN-SPORTS 1 English
-http://lunar.pm:8080/live/Altonesherman/Power22/108601.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="Bein Sports",beIN-SPORTS 2 English
-http://lunar.pm:8080/live/Altonesherman/Power22/108602.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Bein Sports",beIN-SPORTS 3 English
-http://lunar.pm:8080/live/Altonesherman/Power22/108603.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-xtra-int.png" group-title="Bein Sports",beIN SPORTS XTRA
-http://lunar.pm:8080/live/Altonesherman/Power22/108604.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-int.png" group-title="Bein Sports",(US) beIN SPORTS
-http://lunar.pm:8080/live/Altonesherman/Power22/108605.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-espanol-int.png" group-title="Bein Sports",(US) beIN SPORTS en Espanol
-http://lunar.pm:8080/live/Altonesherman/Power22/108606.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-laliga-int.png" group-title="Bein Sports",(US) beIN SPORTS La Liga
-http://lunar.pm:8080/live/Altonesherman/Power22/108607.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-4-int.png" group-title="Bein Sports",(US) beIN SPORTS 4
-http://lunar.pm:8080/live/Altonesherman/Power22/108608.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-5-int.png" group-title="Bein Sports",(US) beIN SPORTS 5
-http://lunar.pm:8080/live/Altonesherman/Power22/108609.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-6-int.png" group-title="Bein Sports",(US) beIN SPORTS 6
-http://lunar.pm:8080/live/Altonesherman/Power22/108610.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-7-int.png" group-title="Bein Sports",(US) beIN SPORTS 7
-http://lunar.pm:8080/live/Altonesherman/Power22/108611.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-8-int.png" group-title="Bein Sports",(US) beIN SPORTS 8
-http://lunar.pm:8080/live/Altonesherman/Power22/108612.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-1-int.png" group-title="Bein Sports",(FR) beIN SPORTS 01
-http://lunar.pm:8080/live/Altonesherman/Power22/108735.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-2-int.png" group-title="Bein Sports",(FR) beIN SPORTS 02
-http://lunar.pm:8080/live/Altonesherman/Power22/108736.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-3-int.png" group-title="Bein Sports",(FR) beIN SPORTS 03
-http://lunar.pm:8080/live/Altonesherman/Power22/108737.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-4-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 04
-http://lunar.pm:8080/live/Altonesherman/Power22/108738.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-5-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 05
-http://lunar.pm:8080/live/Altonesherman/Power22/108739.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-6-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 06
-http://lunar.pm:8080/live/Altonesherman/Power22/108740.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-7-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 07
-http://lunar.pm:8080/live/Altonesherman/Power22/108741.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-8-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 08
-http://lunar.pm:8080/live/Altonesherman/Power22/108742.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-9-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 09
-http://lunar.pm:8080/live/Altonesherman/Power22/108743.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-10-max-int.png" group-title="Bein Sports",(FR) beIN SPORTS MAX 10
-http://lunar.pm:8080/live/Altonesherman/Power22/108744.m3u8
+# --- Bein Sports (30) ---
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS
+http://lunar.pm:8080/live/Altonesherman/Power22/139205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 01
+http://lunar.pm:8080/live/Altonesherman/Power22/139206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 02
+http://lunar.pm:8080/live/Altonesherman/Power22/139207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 03
+http://lunar.pm:8080/live/Altonesherman/Power22/139208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 04
+http://lunar.pm:8080/live/Altonesherman/Power22/139209.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 05
+http://lunar.pm:8080/live/Altonesherman/Power22/139210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 06
+http://lunar.pm:8080/live/Altonesherman/Power22/139211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 07
+http://lunar.pm:8080/live/Altonesherman/Power22/139212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 08
+http://lunar.pm:8080/live/Altonesherman/Power22/139213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS 09
+http://lunar.pm:8080/live/Altonesherman/Power22/139214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS EN 01
+http://lunar.pm:8080/live/Altonesherman/Power22/139215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS EN 02
+http://lunar.pm:8080/live/Altonesherman/Power22/139216.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS FR 01
+http://lunar.pm:8080/live/Altonesherman/Power22/139217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS FR 02
+http://lunar.pm:8080/live/Altonesherman/Power22/139218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS MAX 01
+http://lunar.pm:8080/live/Altonesherman/Power22/139219.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS MAX 02
+http://lunar.pm:8080/live/Altonesherman/Power22/139220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS MAX 03
+http://lunar.pm:8080/live/Altonesherman/Power22/139221.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS MAX 04
+http://lunar.pm:8080/live/Altonesherman/Power22/139222.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS MAX 05
+http://lunar.pm:8080/live/Altonesherman/Power22/139223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS MAX 06
+http://lunar.pm:8080/live/Altonesherman/Power22/139224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS NEWS
+http://lunar.pm:8080/live/Altonesherman/Power22/139225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 01
+http://lunar.pm:8080/live/Altonesherman/Power22/139226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 02
+http://lunar.pm:8080/live/Altonesherman/Power22/139227.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 03
+http://lunar.pm:8080/live/Altonesherman/Power22/139228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 04
+http://lunar.pm:8080/live/Altonesherman/Power22/139229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 05
+http://lunar.pm:8080/live/Altonesherman/Power22/139230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 06
+http://lunar.pm:8080/live/Altonesherman/Power22/139231.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 07
+http://lunar.pm:8080/live/Altonesherman/Power22/139232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 08
+http://lunar.pm:8080/live/Altonesherman/Power22/139233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein Sports",beIN SPORTS XTRA 09
+http://lunar.pm:8080/live/Altonesherman/Power22/139234.m3u8
 
 # --- Brazil (108) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80551114131.png" group-title="Brazil",BR: Animal Planet HD
@@ -4622,6 +4578,32 @@ http://lunar.pm:8080/live/Altonesherman/Power22/136099.m3u8
 http://lunar.pm:8080/live/Altonesherman/Power22/136100.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52970616641.png" group-title="France",FR: W9 HD
 http://lunar.pm:8080/live/Altonesherman/Power22/136101.m3u8
+
+# --- Fubo Sports (EVENTS ONLY) (12) ---
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/fubo-sports-guide.png" group-title="Fubo Sports (EVENTS ONLY)",***Fubo Sports Channel Listings***
+http://lunar.pm:8080/live/Altonesherman/Power22/139193.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 01
+http://lunar.pm:8080/live/Altonesherman/Power22/139194.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 02
+http://lunar.pm:8080/live/Altonesherman/Power22/139195.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 03
+http://lunar.pm:8080/live/Altonesherman/Power22/139196.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 04
+http://lunar.pm:8080/live/Altonesherman/Power22/139197.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 05
+http://lunar.pm:8080/live/Altonesherman/Power22/139198.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 06
+http://lunar.pm:8080/live/Altonesherman/Power22/139199.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 07
+http://lunar.pm:8080/live/Altonesherman/Power22/139200.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 08
+http://lunar.pm:8080/live/Altonesherman/Power22/139201.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 09
+http://lunar.pm:8080/live/Altonesherman/Power22/139202.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 10
+http://lunar.pm:8080/live/Altonesherman/Power22/139203.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/fubo-sports.png" group-title="Fubo Sports (EVENTS ONLY)",CA | Fubo Sports 4K
+http://lunar.pm:8080/live/Altonesherman/Power22/139204.m3u8
 
 # --- Germany (267) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39778353961.png" group-title="Germany",DE : RTL HD
@@ -10139,6 +10121,30 @@ http://lunar.pm:8080/live/Altonesherman/Power22/138610.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/New-Uk/Sky-Comedy-2026.png" group-title="UK Entertainment",Sky Comedy
 http://lunar.pm:8080/live/Altonesherman/Power22/138611.m3u8
 
+# --- UK Football Clubs -SPFL (11) ---
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/aberdeen.png" group-title="UK Football Clubs -SPFL",Aberdeen FC (Reds TV)
+http://lunar.pm:8080/live/Altonesherman/Power22/139182.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/celtic.png" group-title="UK Football Clubs -SPFL",Celtic TV
+http://lunar.pm:8080/live/Altonesherman/Power22/139183.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/dundee.png" group-title="UK Football Clubs -SPFL",Dundee
+http://lunar.pm:8080/live/Altonesherman/Power22/139184.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/dundee-united.png" group-title="UK Football Clubs -SPFL",Dundee United
+http://lunar.pm:8080/live/Altonesherman/Power22/139185.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/falkirk.png" group-title="UK Football Clubs -SPFL",Falkirk FC TV
+http://lunar.pm:8080/live/Altonesherman/Power22/139186.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/hearts.png" group-title="UK Football Clubs -SPFL",Hearts FC
+http://lunar.pm:8080/live/Altonesherman/Power22/139187.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/hibs.png" group-title="UK Football Clubs -SPFL",Hibs FC
+http://lunar.pm:8080/live/Altonesherman/Power22/139188.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/kilmarnrock.png" group-title="UK Football Clubs -SPFL",Kilmarnock FC
+http://lunar.pm:8080/live/Altonesherman/Power22/139189.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/motherwell.png" group-title="UK Football Clubs -SPFL",Motherwell FC
+http://lunar.pm:8080/live/Altonesherman/Power22/139190.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/rangers.png" group-title="UK Football Clubs -SPFL",Rangers TV
+http://lunar.pm:8080/live/Altonesherman/Power22/139191.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-2026/st-mirren.png" group-title="UK Football Clubs -SPFL",St. Mirren FC
+http://lunar.pm:8080/live/Altonesherman/Power22/139192.m3u8
+
 # --- UK Football- Hub Premier League (Events Only) (13) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/hub-guide.png" group-title="UK Football- Hub Premier League (Events Only)",***HUB PREMIER Listings***
 http://lunar.pm:8080/live/Altonesherman/Power22/110300.m3u8
@@ -10433,21 +10439,11 @@ http://lunar.pm:8080/live/Altonesherman/Power22/110794.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/world-fishing-network-us.png" group-title="USA Documentaries",World Fishing Network
 http://lunar.pm:8080/live/Altonesherman/Power22/110795.m3u8
 
-# --- USA Entertainment (101) ---
+# --- USA Entertainment (96) ---
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="USA Entertainment",A&E
 http://lunar.pm:8080/live/Altonesherman/Power22/9229.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="USA Entertainment",ABC
 http://lunar.pm:8080/live/Altonesherman/Power22/9228.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/afn-family.png" group-title="USA Entertainment",AFN Family/Pulse
-http://lunar.pm:8080/live/Altonesherman/Power22/118462.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/afn-movie.png" group-title="USA Entertainment",AFN Movie
-http://lunar.pm:8080/live/Altonesherman/Power22/118463.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/afn.png" group-title="USA Entertainment",AFN Prime Atlantic
-http://lunar.pm:8080/live/Altonesherman/Power22/118465.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/afn.png" group-title="USA Entertainment",AFN Prime Pacific
-http://lunar.pm:8080/live/Altonesherman/Power22/118466.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/afn-spectrum-logo-png-transparent.png" group-title="USA Entertainment",AFN Spectrum
-http://lunar.pm:8080/live/Altonesherman/Power22/118467.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/amc1-us.png" group-title="USA Entertainment",AMC
 http://lunar.pm:8080/live/Altonesherman/Power22/9227.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/vod/amc-plus-vod-us.png" group-title="USA Entertainment",AMC+
@@ -11699,4 +11695,4 @@ http://lunar.pm:8080/live/Altonesherman/Power22/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Altonesherman/Power22/120491.m3u8
 
-# Total: 5767
+# Total: 5764

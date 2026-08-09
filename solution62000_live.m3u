@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-09 07:01:46
+# Generated: 2026-08-09 18:33:37
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -793,7 +793,7 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/14970.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" group-title="CARAC TV",CARAC 4
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/14971.m3u8
 
-# --- CINEMA & SERIES (61) ---
+# --- CINEMA & SERIES (60) ---
 #EXTINF:-1 tvg-logo="http://static.epgguide.net/icon/ab1.fr.png" group-title="CINEMA & SERIES",AB 1
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/491.m3u8
 #EXTINF:-1 tvg-logo="https://live-replay.ab3.be/assets/images/logos/ab3.png" group-title="CINEMA & SERIES",AB3
@@ -830,8 +830,6 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/4816.m3u8
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/10368.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="CINEMA & SERIES",Téléfilms 24/24 Romance
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/29670.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc72448e1-59be-4c04-b2c8-461cb3bb5bac%2FAll_White_Generation-Sitcom.png" group-title="CINEMA & SERIES",Génération Sitcoms TV
-http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/29981.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x74/smart/filters:quality(40)/warehouse.canal-overseas.com/channel/0001/01/8902faece62167e4587968480303fbecf55363d9.png" group-title="CINEMA & SERIES",A+ CENTRE
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/660.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x74/smart/filters:quality(40)/warehouse.canal-overseas.com/channel/0001/01/2f211520002995ed1629ccb2c2ced42d42c86f7d.png" group-title="CINEMA & SERIES",NOLLYWOOD TV
@@ -2619,4 +2617,4 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/19453.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="Thmanayh Sports",Goal-Zone
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/2771.m3u8
 
-# Total: 1260
+# Total: 1259

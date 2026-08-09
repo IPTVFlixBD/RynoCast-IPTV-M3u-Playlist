@@ -1,8 +1,8 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-08-08 07:09:19
-# Expires: 2026-08-08
+# Generated: 2026-08-09 18:38:11
+# Expires: 2027-10-09
 # Family Safe Edition
 # ==============================================
 
@@ -6417,6 +6417,22 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67409.mkv
 
+# --- Movies | Vod Sports (7) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",=====Vod Sports=====
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85494.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",UCL Bayern vs Real 15.04.2026
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85498.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",Fc Bayern Munchen  vs Cf Real madrid UCL 15.05.2026
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85492.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",Cf Real madrid vs Fc Bayern Munchen UCL 07.05.2026
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85495.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",UCL Final 2013 Dortmund vs Bayern
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85502.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",Atletico madrid vs Barcelona
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85499.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",Fussball 1 Bundesliga 2025-2026 28 Spieltag SC Freiburg vs FC Bayern
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85496.mkv
+
 # --- Movies | Vod de (1363) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80934.mkv
@@ -9145,4 +9161,30 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4560
+# --- Series | SERIES-ITA (12) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",===== SERIES-ITA=====
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/253
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Dutton Ranch (2026) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/303
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Hostage (2025) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/256
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",L'Istituto (2025) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/254
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Citadel: Diana (2024) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/261
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Citadel (2023) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/260
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",House of the Dragon (2022) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/259
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Power Book II: Ghost (2020) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/252
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Godfather of Harlem (2019) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/262
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",See (2019) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/257
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",Tom Clancy's Jack Ryan (2018) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/255
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
+http://predator.digital:8080/series/Edi/dWP7KSb4CM/258
+
+# Total: 4579

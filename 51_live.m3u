@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-08 18:40:48
+# Generated: 2026-08-09 18:36:40
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -992,6 +992,10 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25442.m3u8
 # --- BE: BELGIUM (71) ---
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",##### BELGIUM #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/41853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 1 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 2 HD
@@ -1016,12 +1020,8 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174040.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174041.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA TROIS HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174042.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL TVI HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CLUB RTL HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] PLUG RTL HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VTM FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VTM KAZOOM HD
@@ -2041,47 +2041,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (53) ---
+# --- DE-DAZN EVENT (34) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nrigbn6f14x81mhznlto8z6uj_image-header_pDach_1784218031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Honor of Kings: Day 10 (2026-08-08 11:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187230.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3xzfouccevgh1feyhhjgs1h92_image-header_pDach_1785245018000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tauras v FC Neptūnas (2026-08-08 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187231.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1w19pjn30a2q01971ehedjc4qq_image-header_pDach_1784793845000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - PUBG Mobile: Week 1 - Day 3 (2026-08-08 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187232.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9hot801aad6o8h01l17ia44y7_image-header_pDach_1784875518000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Carl Zeiss Jena - SGS Essen (2026-08-08 14:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187233.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1u6jv94uhtgm860hcmvq1yoar_image-header_pDach_1783520116000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Chelsea - Milan (2026-08-08 14:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187234.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/isgngfd3fliu17v2dc0i6bg4j_image-header_pDach_1781606491000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ekhaya FC vs. Dedza Dynamos FC (2026-08-08 14:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187235.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/127o40aq7jqa5103albkftrsef_image-header_pDach_1781607062000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Moyale Barracks vs. Mighty Mukuru Wanderers (2026-08-08 14:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187236.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/39ut15250flv1v1u146x0mqf4_image-header_pDach_1781606340000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Creck Sporting FC vs. Silver Strikers (2026-08-08 14:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187237.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15c8gs26cnklb1lirx8dvrqfc7_image-header_pDach_1784725292000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - COD: Black Ops 7 -Day 4 (2026-08-08 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187238.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dj7g5mt4gv8e1mpfx0cvwjmwl_image-header_pDach_1784546023000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tekken 8 - Day 4 (2026-08-08 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187239.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6piqfd90tididhwu34aegmdfq_image-header_pDach_1784714838000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Etappe 8 | Sisteron - Nizza (2026-08-08 15:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187240.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nz10rn0f56m11m2n02s1juyc7_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 5: Stream B (2026-08-08 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187241.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1v5s03f8kyyzz1ucs0640eba3p_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 5: Stream A (2026-08-08 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187242.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sqxckc6xel1hzp9ds4hlusrk_image-header_pDach_1785245023000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FK Minija v FK BE1 (2026-08-08 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187243.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19q0vrrp885zy1lv8z6r9xb8al_image-header_pDach_1784626686000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Williamson vs. Simpson 2 (2026-08-08 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187244.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/90j3gd1840dbec3jmlz7c0x26_image-header_pDach_1785337630000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",St. Truiden - Lommel (2026-08-08 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187245.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3md5hsmzj4tpb5cx9g3qig5sa_image-header_pDach_1785491840000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sochaux - St. Etienne (2026-08-08 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187246.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/879z87bb81oo4o3p7h56iu3q9_image-header_pDach_1785493427000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nantes - Red Star (2026-08-08 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187247.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/73xxhgyerz4iqsalc81vkt2ty_image-header_pDach_1778694084000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UFC Fight Night | Mateusz Gamrot vs Quillan Salkilld (Main Card) (2026-08-08 23:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187248.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/s88rfrz2ubhj1vctvzykasdxf_image-header_pDach_1783674135000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Municipal Jalapa vs. Sport Sébaco (2026-08-09 00:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/187249.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6650zoangknks8063fmjjlks9_image-header_pDach_1785417858000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Canadian GP (2026-08-09 03:30:00)
@@ -3204,7 +3166,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188193.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT Balkan HD
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",BBC EARTH
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188252.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT Doc
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188253.m3u8
@@ -3242,7 +3204,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32430.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: AS Premium 3 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Arena_1x2  HD
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Nova Sport 5 HD (SK)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32435.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA FIGHT tenis HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/169988.m3u8
@@ -3845,7 +3807,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182099.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Nova Sport 3
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182100.m3u8
 
-# --- HU: HUNGARY (177) ---
+# --- HU: HUNGARY (176) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37931.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="HU: HUNGARY",SPORT 1 HD
@@ -3858,8 +3820,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188296.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188297.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="HU: HUNGARY",AXN HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188300.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CqqWtzo.png" group-title="HU: HUNGARY",Budapest Európa Televízió (576p)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188306.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u0AKhzj.png" group-title="HU: HUNGARY",City TV
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188307.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVOEYuj.png" group-title="HU: HUNGARY",Csurgo TV (720p)
@@ -4652,38 +4612,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/49969.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/19825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NPO 2 EXTRA HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/186974.m3u8
-
-# --- NO : NORWAY (15) ---
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",##### NORWAY #####
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171516.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport 2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport 3 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport + HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport Premium HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171520.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport Football  HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport Extra HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV2 Sport Premium HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV2 Sport Premium2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171524.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 2 Sport 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171525.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 2 Sport 2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171526.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="" group-title="NO : NORWAY",NO: TV2 Sport X
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 3 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171528.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 3+ HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171529.m3u8
 
 # --- PL: POLAND (95) ---
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",##### POLAND #####
@@ -5823,6 +5751,184 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",UPL TV 1 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/94805.m3u8
 
+# --- SK : SLOVOKYA (88) ---
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",##### NORWAY #####
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima COOL HD SK
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima Love HD SK
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188569.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Kino Barrandov
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Barrandov Krimi
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",SuperTV2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",AXN CZ
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188572.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",HBO HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Markiza Krimi HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima COOL HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Epic Drama HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima Krimi HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima Love
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima MAX HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima SPORT 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima SPORT 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima ZOOM HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",DOMA HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",AutoMotorSport HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Filmbox NL HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV Mistral
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Film+ SK
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV 9
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Film+ Hungary
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Disney Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",HirTV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",M1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",M2 / Petofi
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",NPO2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",RTL
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",SBS6 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Star Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188494.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Muzsika TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Slager TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188498.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Duna SD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Duna World / M4 Sport+
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188507.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",DUCK TV HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",RTL Z
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",DAJTO HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188517.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Jojko
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188521.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Slager Muzika
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV JOJ HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Zapadoslovenska TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",CNN Prima News HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Cartoon Network CZ
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV Liptov
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",MTR TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",LİFE TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",HAHA TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Arena Sport 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",AMC SK
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Markiza HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Markiza International
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Cartoonito
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Daystar
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Fishing and Hunting
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Golf Channel
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nat Geo HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nat Geo HD CZ
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",OCKO STAR
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Premium HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Spektrum HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Sport 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV Barrandov HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Ziggo Sport
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188499.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TURBO TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TVT TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188501.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Jednotka
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188502.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Ziggo Sport Select HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",EBS Plus
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188566.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 3 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 4 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 5 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 6 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Fun HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Krimi
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Lady
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Action HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Cinema HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova International
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Arena Sport 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188556.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",ESPN 4 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",ESPN HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188481.m3u8
+
 # --- TR | 7/24 SERIES (16) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | 7/24 SERIES",##### TR 7/24 SERIES #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157867.m3u8
@@ -6336,7 +6442,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/4844.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/4836.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: NICKTOONS HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/35671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: COCUK  TV
+#EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: LEGO TV
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/22882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: TIVIBU COCUK HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/22881.m3u8
@@ -6366,7 +6472,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/39371.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/48714.m3u8
 #EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-4-250x150.png" group-title="TR | DIGITURK",VIP: BBC FIRST HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/7740.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/bein250x150.png" group-title="TR | DIGITURK",VIP: beIN HD
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/bein250x150.png" group-title="TR | DIGITURK",VIP: beIN H&E HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/39370.m3u8
 #EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Turk_HD_yeni.png" group-title="TR | DIGITURK",TR: beIN MOVIES TURK HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/7461.m3u8
@@ -7537,4 +7643,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3707
+# Total: 3760

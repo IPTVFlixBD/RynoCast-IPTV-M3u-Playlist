@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-08 18:40:48
+# Generated: 2026-08-09 18:36:40
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4664) ---
+# --- Movies | DE | CINEMA VOD (4666) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n07UUDAd8ki90WYD2yE72HS3vXk.jpg" group-title="Movies | DE | CINEMA VOD",Do Not Enter - Betreten verboten (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188598.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hksIYHtsHCG70nZKbnrYBPk600.jpg" group-title="Movies | DE | CINEMA VOD",Time and Water (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188599.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="Movies | DE | CINEMA VOD",Beast Race (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188470.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTcwx0v5HjqhlYOXJ39s9zXKykM.jpg" group-title="Movies | DE | CINEMA VOD",Das Geheimnis des Goldschmieds (2025)
@@ -28731,7 +28735,9 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/55425.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4s4uGqz9maWSiiIpeHl1oOBTQZ.jpg" group-title="Movies | TR-VOD | EXXEN TV FILMLER",Tosuncuk (2021)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/55426.mkv
 
-# --- Movies | TR-VOD | Fantastik/Bilim-Kurgu (205) ---
+# --- Movies | TR-VOD | Fantastik/Bilim-Kurgu (206) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WRbHcoakugna5zHNFIaxMFPcm7.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Hayvan Yarışı (2026) TR
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188597.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKpLzzX1va6gkMJiI9p3DudqChe.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Monolith (2023) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188150.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suFNqtGOi0BsBI3uJPKkDXCwgVI.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Kurtuluş Projesi (2026) TR
@@ -42223,4 +42229,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21041
+# Total: 21044
