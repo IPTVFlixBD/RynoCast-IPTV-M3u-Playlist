@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-08-08 18:31:16
+# Generated: 2026-08-09 07:01:50
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -2143,7 +2143,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/504462.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg" group-title="Movies | Action [VOD]",Jackass Forever (2022)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/504523.mkv
 
-# --- Movies | Adventure [VOD] (287) ---
+# --- Movies | Adventure [VOD] (288) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
 http://alienstreams.fi:8080/movie/hellhell/hellhell/329457.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg" group-title="Movies | Adventure [VOD]",Crouching Tiger, Hidden Dragon
@@ -2718,6 +2718,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/503472.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/503501.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/7SpokDLiRHON9H36GdlF7vWKOm6.jpg" group-title="Movies | Adventure [VOD]",Curious George (2006)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/503983.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="Movies | Adventure [VOD]",King Kong (2005)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/504546.mkv
 
 # --- Movies | Animation [VOD] (231) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r27iDZNaoyLJyKlD8eNchRtvq8C.jpg" group-title="Movies | Animation [VOD]",Resident Evil: Vendetta
@@ -6998,8 +7000,6 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/334479.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334484.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0NOqrnE4FhXrk9cHm6DQeRo1Zm.jpg" group-title="Movies | Drama [VOD]",Baggio: The Divine Ponytail
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334397.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Movies | Drama [VOD]",GoodFellas
-http://alienstreams.fi:8080/movie/hellhell/hellhell/334371.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmMahviTDwv6uRehlGxWNbTuoOc.jpg" group-title="Movies | Drama [VOD]",Angels in the Snow
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334422.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txgh2MG9xOVTQYzQE5UnuFp7RV1.jpg" group-title="Movies | Drama [VOD]",Anna Karenina
@@ -8728,10 +8728,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/494508.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="Movies | Drama [VOD]",The Swedish Connection (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494807.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies | Drama [VOD]",47 Ronin (2013)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/495081.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" group-title="Movies | Drama [VOD]",War for the Planet of the Apes (2017)
@@ -8950,6 +8950,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/504531.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/504534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/a7CbxY3TMwFKX6awlBxhb7Es6tS.jpg" group-title="Movies | Drama [VOD]",Imagine Me & You (2006)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/504544.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg" group-title="Movies | Drama [VOD]",GoodFellas (1990)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/504547.mkv
 
 # --- Movies | F1[VOD] (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | F1[VOD]",Formula 1 2026 Osterrikes GP    -RACiNG
@@ -20713,4 +20715,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 10297
+# Total: 10298

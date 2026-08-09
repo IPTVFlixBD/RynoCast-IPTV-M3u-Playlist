@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-08-08 18:40:29
+# Generated: 2026-08-09 07:03:03
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -1039,7 +1039,9 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/18121.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - HULU [EN]",EN - Koala Man (2023)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/18162.mp4
 
-# --- Movies | SRS - KIDS [EN] (172) ---
+# --- Movies | SRS - KIDS [EN] (173) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - KIDS [EN]",EN - Barbie: Dreamhouse Adventures (2018) (US)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/34015.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - KIDS [EN]",EN - Archibald's Next Big Thing (2019) (US)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/34014.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - KIDS [EN]",EN - TaleSpin (1990) (US)
@@ -46423,7 +46425,25 @@ http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/660592.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg" group-title="Movies | VOD - SCANDINAVIA MULTISUB [MU]",SC - Being the Ricardos  (2021)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/660591.mkv
 
-# --- Movies | VOD - SPORT [EN] (413) ---
+# --- Movies | VOD - SPORT [EN] (422) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",Raymond Muratalla vs. Robson Conceicao
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407499.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clfeUCNpqtBraIZMgJkHXhF4vt9.jpg" group-title="Movies | VOD - SPORT [EN]",Pierce O’Leary vs. Mark Chamberlain (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407498.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",My.Adventures.with.Superman.S03E08.1080p.WEB.h264-EDITH[EZTVx.to]
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407497.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",Lamont Roach vs. William Zepeda Segura
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407496.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",Kraus vs Ibrahim 2025
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407495.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",Emmanuel Carrillo Jr vs. Kenneth Taylor
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407494.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",Charles Conwell vs. Paul Kroll
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407493.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",Adam Olaniyan vs. Deepak Pathak
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407492.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvHfr6OmHneZuBtuUyKsH9DeVX.jpg" group-title="Movies | VOD - SPORT [EN]",UFC Fight Night 283: Medić vs. Rodriguez (2026)
+http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1407491.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQtvEKzBx4n3e9DfNVpF0Vf46t9.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 282: Ankalaev vs. Guskov (2026)
 http://30198-puppy.ott-cdn.me/movie/190492996f/e1510e6ac83e/1404872.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tqeu3ME1l7oueulQdX4aa2Wla7.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Anthony Joshua vs. Kristian Prenga (2026)
@@ -47875,4 +47895,4 @@ http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://30198-puppy.ott-cdn.me/series/190492996f/e1510e6ac83e/21939
 
-# Total: 23898
+# Total: 23908

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2026-08-08 18:37:17
+# Generated: 2026-08-09 07:04:51
 # Expires: 2026-08-18
 # Family Safe Edition
 # ==============================================
@@ -2779,10 +2779,14 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/100488.m3u8
 #EXTINF:-1 tvg-logo="http://cdn4k.net/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100489.m3u8
 
-# --- JOGOS DO DIA (20) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SCU Torreense x Fk Apolonia Fier - 10:30 FHD
+# --- JOGOS DO DIA (22) ---
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Chelsea x Milan - 09:00 FHD
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/355630.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Chelsea x Milan - 09:00 HD
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/355631.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bayer Lev. x Sevilla - 10:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355632.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SCU Torreense x Fk Apolonia Fier - 10:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bayer Lev. x Sevilla - 10:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355633.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Central Español x Progreso - 11:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355634.m3u8
@@ -2796,9 +2800,9 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/355636.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355638.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Colchester United x Southampton - 13:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Eintracht Frankfurt x Malmo FF - 14:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x Ferencváros - 15:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Eintracht Frankfurt x Malmo FF - 14:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Real Madrid x Ferencváros - 15:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355641.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Liverpool UY x Albion FC - 15:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355642.m3u8
@@ -4357,4 +4361,4 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/155608.m3u8
 #EXTINF:-1 tvg-logo="http://cdn4k.net/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/155606.m3u8
 
-# Total: 2128
+# Total: 2130

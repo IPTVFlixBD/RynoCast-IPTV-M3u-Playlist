@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-08-08 07:01:48
+# Generated: 2026-08-09 07:04:52
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -992,6 +992,10 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25442.m3u8
 # --- BE: BELGIUM (71) ---
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",##### BELGIUM #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/41853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 2 HD
@@ -1016,12 +1020,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174040.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174041.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA TROIS HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174042.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL TVI HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] CLUB RTL HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] PLUG RTL HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VTM FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VTM KAZOOM HD
@@ -2041,95 +2041,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (96) ---
+# --- DE-DAZN EVENT (53) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/almm1fxzucy0kmlaa8kxr1w2j_image-header_pDach_1784899877000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Burkina Faso - Südafrika (2026-08-04 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187187.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/41s5i9z5odna61nw3dpcqnuye_image-header_pDach_1784899848000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tansania - Elfenbeinküste (2026-08-04 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187188.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15kj3ftaddfa01vvef7iciurp9_image-header_pDach_1784218031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Honor of Kings: Day 7 (2026-08-05 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187189.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/93uc06y283ad47op1lykn6wrd_image-header_pDach_1783520104000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Chelsea - Juventus (2026-08-05 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187190.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6ma7ic0jid031ulsing2epjwt_image-header_pDach_1784714838000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Etappe 5 | Mâcon - Belleville-en-Beaujolais (2026-08-05 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187191.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vbbgn4y774c01ttrtm1r8azmf_image-header_pDach_1784544587000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Tekken 8 - Day 1 (2026-08-05 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187192.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/13zw3whyq5qp119y0mwdzoqhvt_image-header_pDach_1784725292000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - COD: Black Ops 7 - Day 1 (2026-08-05 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187193.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1o8bexlh9vef1igo127il43v8_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 2: Stream A (2026-08-05 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187194.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11q7gma3obh0d1rtju5qafw18n_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 2: Stream B (2026-08-05 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187195.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cvpksht41z9y79u2d53y92fdn_image-header_pDach_1783520099000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Arsenal - Real Betis (2026-08-05 20:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187196.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9yu1s12rgskwrv3honznvy9v0_image-header_pDach_1784899907000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Malawi - Sambia (2026-08-05 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187197.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bbqqu6pl102lk6k339f7a382u_image-header_pDach_1784899803000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ägypten - Nigeria (2026-08-05 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187198.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/g985tmvm5jy71501c60yvc454_image-header_pDach_1781595758000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bath Estate FC vs. Portsmouth Bombers FC (2026-08-06 01:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187199.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1t92vu2zh2she10psv9rvwc5zm_image-header_pDach_1783003916000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vieux Fort South vs. La Clery (2026-08-06 03:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187200.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1myet2g8qxc221swdd3pyz4kn7_image-header_pDach_1784218031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Honor of Kings: Day 8 (2026-08-06 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187201.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1d5nl5awcr74u18xhgjk03dr89_image-header_pDach_1784794036000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - PUBG Mobile: Week 1 - Day 1 (2026-08-06 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187202.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/znkqpzruc72l1m2nsutyflhq2_image-header_pDach_1785759245000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Williamson vs. Simpson 2: Pressekonferenz (2026-08-06 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187203.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2zw52bhityx21pemc80sy16cj_image-header_pDach_1784546379000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Tekken 8 - Day 2 (2026-08-06 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187204.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q6ytwt3pfspm1lrmpd819wlcc_image-header_pDach_1784725292000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - COD: Black Ops 7 - Day 2 Stream B (2026-08-06 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187205.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/g5wu73jz4eae1ma8605i4rq14_image-header_pDach_1784725292000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - COD: Black Ops 7 - Day 2 Stream A (2026-08-06 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187206.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5c2t74wwl3qbu0z3kt1q89fty_image-header_pDach_1784716398000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Etappe 6 | Montbrison - Tournon-sur-Rhône (2026-08-06 15:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187207.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58b7zitq1br01h4d823wi0mi1_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 3: Stream A (2026-08-06 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187208.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4p5bdcxm9gvq11w69kalgw0f0_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 3: Stream B (2026-08-06 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187209.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/czv15cfuo8t911gmpovt095q7_image-header_pDach_1785750437000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LIV Golf New York - Day 1 (2026-08-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187210.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/43b8c60ivr241eox5ujl3rf94_image-header_pDach_1785240587000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EFC 136: Sanchez vs Swanepoel (2026-08-06 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187211.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9a1v5pcgho2211410gglnisv4_image-header_pDach_1784899860000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kap Verde - Kamerun (2026-08-06 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187212.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1qc2fqe9td5bct82w7ienzi7q_image-header_pDach_1784899808000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mali - Ghana (2026-08-06 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187213.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1akgfzrbt7sdt1ugan0hzzv6we_image-header_pDach_1784218031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Honor of Kings: Day 9 (2026-08-07 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187214.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/yuxbtuw0vtir1363x4w1zotrk_image-header_pDach_1784793813000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - PUBG Mobile: Week 1 - Day 2 (2026-08-07 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187215.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/k5sbeztasc0h1j870p1axicl2_image-header_pDach_1784545991000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tekken 8 - Day 3 (2026-08-07 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187216.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vmm1ej86roin1cg4vd8rnn5b7_image-header_pDach_1784725292000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - COD: Black Ops 7 -Day 3 (2026-08-07 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187217.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5uai221wvdog15g3q1fpmj99f_image-header_pDach_1785764891000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Williamson vs. Simpson 2: Weigh-In (2026-08-07 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187218.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c4s2bca2a1tlvu6hqj81bmw3v_image-header_pDach_1784714284000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Etappe 7 | La Voulte-sur-Rhône - Mont Ventoux (2026-08-07 15:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187219.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/hfs39x31wlj1722l54yp93ag_image-header_pDach_1785250704000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",TAIF Racing Season 2026 - Week 3, Day 1 (2026-08-07 15:20:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187220.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/daoe1e9n65hb1csp28hfpmn7l_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 4: Stream B (2026-08-07 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187221.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3cb7jabl7x0b1l3qn9tbbu3bq_image-header_pDach_1784544643000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",EWC - Rainbow Six - Day 4: Stream A (2026-08-07 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187222.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sf912p38pmmg10m67twhwg1ah_image-header_pDach_1784818059000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",OR Bangui vs. SCAF (2026-08-07 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187223.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xqi6srthf3sr1ulhu3cliysgo_image-header_pDach_1785748094000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LIV Golf New York - Day 2 (2026-08-07 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187224.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/139o5s3ua0u8219javvhrge57o_image-header_pDach_1779372417000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",MFA Žalgiris vs. Kauno rajono FA (2026-08-07 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187225.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/67ehdqf2frf6i83340cbvjddq_image-header_pDach_1785337259000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Club Brügge - Kortrijk (2026-08-07 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187226.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bnwdshanaprcnwgebos0qd9ir_image-header_pDach_1783515351000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",PFL Charlotte | Bryan Battle vs Dalton Rosta (2026-08-08 01:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187227.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/boh78v1k3myt1nu4hk483gmt1_image-header_pDach_1779367945000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",We United FC vs. Mighty Avengers FC (2026-08-08 01:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187228.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m74g8oo2x4gc1tuggarxrm3l1_image-header_pDach_1785244891000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Moreno vs. Gutierrez (2026-08-08 02:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187229.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nrigbn6f14x81mhznlto8z6uj_image-header_pDach_1784218031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Honor of Kings: Day 10 (2026-08-08 11:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187230.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3xzfouccevgh1feyhhjgs1h92_image-header_pDach_1785245018000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tauras v FC Neptūnas (2026-08-08 13:00:00)
@@ -3253,7 +3167,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",Al Jazeera English
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176859.m3u8
 
-# --- EX.YUG: Yugoslavya (156) ---
+# --- EX.YUG: Yugoslavya (152) ---
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",##### EXYU #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37236.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Filmbox+ love&crime
@@ -3264,10 +3178,48 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188183.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188184.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Filmbox+ hits
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Premier_League_TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA  ESPORT HD adrenelin
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/169998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Cinemax
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Cinemax 2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Face TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Minimax
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Nicktoons
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Disney
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Disney Junior
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",TOP TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Viasat Kino
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Viasat Nature HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",HISTORY 2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",HISTORY HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188194.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",BBC EARTH
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT Doc
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTG int
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTS Poletarac
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTS Trezor
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTS Zivot
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTV 101
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTV Kiss
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Arena Sport 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/44300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Arena Sport 2
@@ -3290,7 +3242,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32430.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: AS Premium 3 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Arena_1x2  HD
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Nova Sport 5 HD (SK)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32435.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA FIGHT tenis HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/169988.m3u8
@@ -3380,10 +3332,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188158.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Cartoon Network
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Cinemax
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188162.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Cinemax 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Current Time TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188164.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",DW English
@@ -3396,12 +3344,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188167.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188168.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Discovery Channel HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188169.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Disney
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Disney Junior
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188171.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Diva
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188172.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Docubox
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",E!
@@ -3412,8 +3354,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188175.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188176.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",FTV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Face TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188178.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Fashion TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188179.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",FashionBOX
@@ -3434,10 +3374,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188190.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188191.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",HGTV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",HISTORY 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",HISTORY HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Happy Reality 1
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188195.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Happy Reality 2
@@ -3458,20 +3394,14 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188202.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188203.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",MOSTNET HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Minimax
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188205.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Nat Geo Wild HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188206.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",National Geographic HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188207.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Nick Jr
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Nickelodeon
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188209.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Nickelodeon HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Nicktoons
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188211.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",OBN
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188212.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Prva Files HD
@@ -3482,26 +3412,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188248.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188249.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Prva Plus HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT Balkan HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RT Doc
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTG int
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTL Kockica
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTS Poletarac
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTS Trezor
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTS Zivot
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTV 101
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",RTV Kiss
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Radio Karolina TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188261.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Radio Lola
@@ -3522,8 +3432,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188268.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188269.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",TLC
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",TOP TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",TV 4S
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188272.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",TV 5 Monde
@@ -3558,14 +3466,12 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188287.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188288.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Viasat History HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Viasat Kino
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Viasat Nature HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Viasat Nature HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188292.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",Zelena TV Zdravlje
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Premier_League_TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32363.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA  ESPORT HD adrenelin
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/169998.m3u8
 
 # --- FR: FRANCE (37) ---
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",##### FRANCE #####
@@ -4747,38 +4653,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/19825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NPO 2 EXTRA HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186974.m3u8
 
-# --- NO : NORWAY (15) ---
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",##### NORWAY #####
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171516.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport + HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport Premium HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171520.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport Football  HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: V Sport Extra HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV2 Sport Premium HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV2 Sport Premium2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171524.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 2 Sport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171525.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 2 Sport 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171526.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="" group-title="NO : NORWAY",NO: TV2 Sport X
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171528.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",NO: TV 3+ HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171529.m3u8
-
 # --- PL: POLAND (95) ---
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",##### POLAND #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37238.m3u8
@@ -5917,6 +5791,184 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",UPL TV 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/94805.m3u8
 
+# --- SK : SLOVOKYA (88) ---
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",##### NORWAY #####
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima COOL HD SK
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima Love HD SK
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188569.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Kino Barrandov
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Barrandov Krimi
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",SuperTV2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",AXN CZ
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188572.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",HBO HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Markiza Krimi HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima COOL HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Epic Drama HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima Krimi HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima Love
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima MAX HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima SPORT 2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima SPORT 1
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Prima ZOOM HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",DOMA HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",AutoMotorSport HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Filmbox NL HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV Mistral
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Film+ SK
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV 9
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Film+ Hungary
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Disney Channel
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",HirTV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",M1
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",M2 / Petofi
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",NPO2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",RTL
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",SBS6 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Star Channel
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188494.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Muzsika TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Slager TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188498.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Duna SD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Duna World / M4 Sport+
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188507.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",DUCK TV HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",RTL Z
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",DAJTO HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188517.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Jojko
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188521.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Slager Muzika
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV JOJ HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Zapadoslovenska TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",CNN Prima News HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Cartoon Network CZ
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV Liptov
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",MTR TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",LİFE TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",HAHA TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Arena Sport 2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",AMC SK
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Markiza HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Markiza International
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Cartoonito
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Daystar
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Fishing and Hunting
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Golf Channel
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nat Geo HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nat Geo HD CZ
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",OCKO STAR
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Premium HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Spektrum HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Sport 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TV Barrandov HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Ziggo Sport
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188499.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TURBO TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",TVT TV
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188501.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Jednotka
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188502.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Ziggo Sport Select HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",EBS Plus
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188566.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 3 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 4 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 5 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Sport 6 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Fun HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Krimi
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Lady
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Action HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova Cinema HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Nova International
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",Arena Sport 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188556.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",ESPN 4 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK : SLOVOKYA",ESPN HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188481.m3u8
+
 # --- TR | 7/24 SERIES (16) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | 7/24 SERIES",##### TR 7/24 SERIES #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157867.m3u8
@@ -6430,7 +6482,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/4844.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/4836.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: NICKTOONS HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/35671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: COCUK  TV
+#EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: LEGO TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/22882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TR: TIVIBU COCUK HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/22881.m3u8
@@ -6460,7 +6512,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39371.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/48714.m3u8
 #EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-4-250x150.png" group-title="TR | DIGITURK",VIP: BBC FIRST HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7740.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/bein250x150.png" group-title="TR | DIGITURK",VIP: beIN HD
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/bein250x150.png" group-title="TR | DIGITURK",VIP: beIN H&E HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39370.m3u8
 #EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Turk_HD_yeni.png" group-title="TR | DIGITURK",TR: beIN MOVIES TURK HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7461.m3u8
@@ -7631,4 +7683,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3754
+# Total: 3780
