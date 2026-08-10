@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-08-09 18:35:46
+# Generated: 2026-08-10 07:05:10
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13835,7 +13835,15 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3825) ---
+# --- Movies | SRS - NEW ADDED [EN] (3829) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Sterling Point (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34038.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Batman: Caped Crusader (2024) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34037.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Ricky Gervais Alley Cats (2026) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34036.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - The Shards (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34035.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Fightland (2026) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33993.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Furious (2026) (US)
@@ -21691,7 +21699,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22662.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PARAMOUNT+ [FR]",FR - The Woman in the Wall
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22665.mp4
 
-# --- Movies | SRS - PORTUGAL [PT] (85) ---
+# --- Movies | SRS - PORTUGAL [PT] (86) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PORTUGAL [PT]",PT - Batman: Cruzado Encapuzado (2024) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34039.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PORTUGAL [PT]",PT - Human Vapor (2026) (JP)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/33890.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PORTUGAL [PT]",PT - A Dama (2026) (GB)
@@ -110191,7 +110201,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/818911.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPAIN [ES]",ES - Underworld - (2003)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/818283.mkv
 
-# --- Movies | VOD - SPORT [EN] (421) ---
+# --- Movies | VOD - SPORT [EN] (423) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 284: Gamrot vs. Salkilld (Prelims) (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1407574.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 284: Gamrot vs. Salkilld (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1407573.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",EN - Raymond Muratalla vs. Robson Conceicao (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1407499.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD - SPORT [EN]",EN - Pierce O’Leary vs. Mark Chamberlain (2026)
@@ -113875,4 +113889,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 56819
+# Total: 56826
