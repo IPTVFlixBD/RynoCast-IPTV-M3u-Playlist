@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nplay.tel:2095
-# Generated: 2026-08-10 07:07:49
+# Generated: 2026-08-10 18:53:08
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (584) ---
+# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (585) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Peaky Blinders: The Immortal Man [Multi-Sub] [4K] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2337375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Hunting Season [Multi-Sub] [4K] [2025]
@@ -1176,6 +1176,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2490445.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2494904.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Evil Dead Burn [Multi-Sub] [4K] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2517859.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfgccePxnswMqhmtxafliLlcCVR.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Jackass: Best and Last [Multi-Sub] [4K] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524597.mkv
 
 # --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (369) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",On Her Majesty's Secret Service [4K] [1969]
@@ -40725,7 +40727,23 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399797.mkv
 
-# --- Movies | N1 Sports Events Replays (578) ---
+# --- Movies | N1 Sports Events Replays (583) ---
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/WxMbH/THxtKrVDUrUn3F3tA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",08.00 Neil Robertson . Chang Bingyu snooker FHD 8.10  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524915.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/WxMbH/THxtKrVDUrUn3F3tA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",08.00 Neil Robertson . Chang Bingyu snooker 8.10  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524914.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gcpST/ZHKFm6I3bprQPtVpA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",08.00 Si Jiahui . Jiang Jun snooker FHD 8.10  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524879.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gcpST/ZHKFm6I3bprQPtVpA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",08.00 Si Jiahui . Jiang Jun snooker 8.10  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524878.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",02.00 Padres . Astros  Major League Baseball 8.10  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524567.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/491/604/logo_MatchroomPool.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.30 Florida Open Pool Championship  Pool 8.10  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524566.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/m8fzr/sejuR6lPI_-4Kv7Fg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.45 Birmingham  Freestyle Park bmx FHD 8.9  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524559.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/m8fzr/sejuR6lPI_-4Kv7Fg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.45 Birmingham  Freestyle Park bmx 8.9  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524558.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",22.00 Bitnile.com Grand Prix of Portland  IndyCar 8.9  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524531.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.25 Benfica . Académico Viseu Liga Portugal 8.9  TV4 Play
@@ -41768,12 +41786,6 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2514611.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2514606.mkv
 #EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f4c9f-2e5d-7183-a58b-6c853654c8f1/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Puerto Rico vs. Brno, Czechia  Disney+ SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2514605.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/feba7b6b-9bfd-4308-ab23-773e317098c3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Repentigny, Quebec vs. Irmo, SC  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2514597.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f6bc8-9b0d-7ee1-80fb-42167a45aaca/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Laredo, TX vs. Pearl City, Hawaii  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2514596.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/c7fb9eaa-2c35-484e-8344-f6c7abf24f1e/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Georgetown, DE vs. Conneaut Lake, PA  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2514595.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/735/984/logo_IRONMANProSeries.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",07.30 IRONMAN 70.3 Swansea  IRONMAN Pro Series 7.12  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480820.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",11.55 Denis Shapovalov . Pablo Carreño Busta tennis FHD 6.29  HBO Max SE
@@ -41883,7 +41895,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2309912.mkv
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e2720206-3698-436a-a739-9c5374903c2e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202602261355" group-title="Movies | N1 Sports Events Replays",13.15 Cognizant Classic in The Palm Beaches. Main Feed (Third Round) 2.28
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2309905.mkv
 
-# --- Movies | Nordic (1265) ---
+# --- Movies | Nordic (1266) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Helikopterrånet
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Alex
@@ -44228,6 +44240,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/20999.mp4
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21022.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Den gode stemning - Secrets
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/22113.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Vem kan styra Mauri?
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23195.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Et monsters bekendelser
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23180.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Nepobaby
@@ -62421,7 +62435,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480912.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="Movies | Polska",The Punisher: One Last Kill [PL] [LEKTOR] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480913.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (6012) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (6013) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6h6HwucncSxn06sMNROJ9apLC5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -62432,6 +62446,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/146146.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/384488.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfae1vtjzlE73DPJGlHq88sZKX3.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Slumberland [PRE] [MULTI-AUDIO] [2022]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/450456.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfgccePxnswMqhmtxafliLlcCVR.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Jackass: Best and Last [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2524569.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig9iyMBptoX8HxUpAS0kZog2KeF.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Sins of the Parents: The Crumbley Trials [PRE] [2024]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2493930.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Death of Robin Hood [PRE] [2026]
@@ -79855,4 +79871,4 @@ http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/497
 #EXTINF:-1 tvg-logo="" group-title="Series | Turkish Series [ مسلسلات تركية مترجمة ]",İçerde
 http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/556
 
-# Total: 39866
+# Total: 39874
