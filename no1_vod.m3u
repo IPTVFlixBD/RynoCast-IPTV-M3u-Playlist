@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-08-10 07:03:59
+# Generated: 2026-08-11 07:03:09
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -28735,7 +28735,9 @@ http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/55425.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4s4uGqz9maWSiiIpeHl1oOBTQZ.jpg" group-title="Movies | TR-VOD | EXXEN TV FILMLER",Tosuncuk (2021)
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/55426.mkv
 
-# --- Movies | TR-VOD | Fantastik/Bilim-Kurgu (206) ---
+# --- Movies | TR-VOD | Fantastik/Bilim-Kurgu (207) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXrV3K4aCENHlp7zbrDnGqci7wj.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Supergirl (2026) TR
+http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/188602.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WRbHcoakugna5zHNFIaxMFPcm7.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Hayvan Yarışı (2026) TR
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/188597.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKpLzzX1va6gkMJiI9p3DudqChe.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Monolith (2023) TR
@@ -42229,4 +42231,4 @@ http://no1.no1turk.com:2086/series/T.Tarkan/DKiQCHhmAo/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://no1.no1turk.com:2086/series/T.Tarkan/DKiQCHhmAo/3927
 
-# Total: 21044
+# Total: 21045

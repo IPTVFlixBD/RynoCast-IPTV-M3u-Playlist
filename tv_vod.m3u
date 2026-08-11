@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-08-10 18:54:07
+# Generated: 2026-08-11 07:07:12
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -548,6 +548,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/121531.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/121571.mkv
 
 # --- Movies | DE - ABENTEUER (128) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojX9By9jnx4W31sGbArn88HV41q.jpg" group-title="Movies | DE - ABENTEUER",Der Herr der Ringe: Die Schlacht der Rohirrim (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376906.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwSZqCD0YYqmWWHqHJZ2UAYE9VQ.jpg" group-title="Movies | DE - ABENTEUER",Miau & Wau (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376543.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0Un6xgDF9R0ruzpRZx98fAMFpB.jpg" group-title="Movies | DE - ABENTEUER",Sindbad - Herr der sieben Meere (DE)
@@ -618,8 +620,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/185865.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/182765.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE16toU28KvSNzkMELv2w0nJrV1.jpg" group-title="Movies | DE - ABENTEUER",The Secret Kingdom - Eine fantastische Reise (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/182082.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojX9By9jnx4W31sGbArn88HV41q.jpg" group-title="Movies | DE - ABENTEUER",Der Herr der Ringe: Die Schlacht der Rohirrim (DE)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/181944.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="Movies | DE - ABENTEUER",Descendants 4: The Rise of Red (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/173750.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZO3jiPYp9LzDiSFKIaoquBjYtD.jpg" group-title="Movies | DE - ABENTEUER",Die Akademie des Meisters Klex (DE)
@@ -805,7 +805,17 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/60374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sq7U5W7mkGyC22PcSkG2FXk9DlX.jpg" group-title="Movies | DE - ABENTEUER",Dora and the Lost City of Gold (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/59089.mkv
 
-# --- Movies | DE - ACTION (1536) ---
+# --- Movies | DE - ACTION (1541) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFGIez4ikUfLEEZ2JZGPokFc94Q.jpg" group-title="Movies | DE - ACTION",Nicht alles ist verhandelbar (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376928.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g4MpERFB9bigXc12NQQiXv8yXT.jpg" group-title="Movies | DE - ACTION",Kalahari: Hunting Grounds (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376919.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iwkd9m3vGo32bjibNrfM7dtwJd.jpg" group-title="Movies | DE - ACTION",Jericho Ridge - Unter Beschuss (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376918.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg" group-title="Movies | DE - ACTION",Fight Another Day (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376915.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3PHWE9iUe7FvcBR6PuQrgNYtcs.jpg" group-title="Movies | DE - ACTION",Assassin's Guild (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376898.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4BpxKXXd6EFkEOMj9JSHjny4k8.jpg" group-title="Movies | DE - ACTION",Agent Recon (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376556.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aK5rEReEHBZvTpi8nyrsYkXtKtH.jpg" group-title="Movies | DE - ACTION",Naked Bodyguard (DE)
@@ -5375,7 +5385,13 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/157744.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzuuXDtbmA5wMyACojJmc6e0QXq.jpg" group-title="Movies | DE - BOLLYWOOD",Ich schwöre, dich für immer zu lieben! (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/63542.mkv
 
-# --- Movies | DE - CARTOONS (54) ---
+# --- Movies | DE - CARTOONS (57) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOZCN1IpDivlnfJKd4o2V1GCthe.jpg" group-title="Movies | DE - CARTOONS",Der wilde Roboter (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376908.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUOCmqkbCX94znDJNtSy1402Sie.jpg" group-title="Movies | DE - CARTOONS",SpongeBob Schwammkopf: Kamp Grusel (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376925.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqy7or7dokmZjHnPxZ6vRKMD1b3.jpg" group-title="Movies | DE - CARTOONS",Komada - A Whisky Family (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376923.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vSpTrmhvHVF8JrezrkOYHF8GWA.jpg" group-title="Movies | DE - CARTOONS",Alles voller Monster (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376539.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqlahADJmDdqQvLAPuEYD6EKPAN.jpg" group-title="Movies | DE - CARTOONS",Demon Slayer: Kimetsu no Yaiba Infinity Castle (DE)
@@ -6709,7 +6725,13 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10064.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - DISNEY+ ORIGINALS",Quantico (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10065.mp4
 
-# --- Movies | DE - DOKUMENTAR (93) ---
+# --- Movies | DE - DOKUMENTAR (96) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Iw7f8shDVZqG4Kc72gmMLWbd0S.jpg" group-title="Movies | DE - DOKUMENTAR",Die Enkeltrick Betrüger (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376909.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVHeq93kCbZYQi9mJv6nr7LTdxe.jpg" group-title="Movies | DE - DOKUMENTAR",Klitschko - Der härteste Kampf (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376924.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAC1FOLjDXaWEgNBJXtWYGq9SRE.jpg" group-title="Movies | DE - DOKUMENTAR",Bitcoin: Das Rätsel um die Kryptowährung (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376902.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKaPNWk1nhmxvSH4l8unDqldWNb.jpg" group-title="Movies | DE - DOKUMENTAR",Becoming Led Zeppelin (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/340610.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fU5OTHLNU7DHZ2XszpXqJw0p1F.jpg" group-title="Movies | DE - DOKUMENTAR",Culpa Mía (DE)
@@ -7129,7 +7151,23 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7516.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - DOKUMENTATION",MUNDO – Die Spur des Mörders (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9910.mp4
 
-# --- Movies | DE - DRAMA (2134) ---
+# --- Movies | DE - DRAMA (2142) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/picoBlK5yZB1Z0fclPZFTY0twV.jpg" group-title="Movies | DE - DRAMA",Die Ermittlung (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376910.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiEbNzw0AaZKLjLSYKQ7oulHwkP.jpg" group-title="Movies | DE - DRAMA",Daddio - Eine Nacht in New York (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376905.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mCMMQmBHCJOKh9z7panYJsjBbU.jpg" group-title="Movies | DE - DRAMA",More Than Strangers (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376927.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fjMFPEumO2mX0GoExar3910PK2.jpg" group-title="Movies | DE - DRAMA",Landesverräter (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376921.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywvuDg4PUwnPhquxojgOyKWYKUt.jpg" group-title="Movies | DE - DRAMA",Nur ein Freitag (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376920.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt8cw7au2drDgbfQrb01VOTSeJn.jpg" group-title="Movies | DE - DRAMA",Horizon (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376917.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVtI8KixtLJ8rXkvE7WWOTD0KAJ.jpg" group-title="Movies | DE - DRAMA",Night of the Witches - Das Hexenritual (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376914.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cru4ROm3U71JAuAH9LqwpAcZPIE.jpg" group-title="Movies | DE - DRAMA",Cranko (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376903.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3s18b1OTV9CinQMYCuEocM7JKq.jpg" group-title="Movies | DE - DRAMA",Stiller (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376554.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFJgt1wZ38PfzXY93NLvvQ3K138.jpg" group-title="Movies | DE - DRAMA",Miroirs No. 3 (DE)
@@ -13703,7 +13741,17 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10142.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - HBO ORIGINALS",Station Eleven (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10143.mp4
 
-# --- Movies | DE - HORROR (1208) ---
+# --- Movies | DE - HORROR (1212) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckhpwTUHMAzlV0LqU2FDiAd124s.jpg" group-title="Movies | DE - HORROR",Der Seelenfänger (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376907.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d0r9FiBh23PXdZAsHZYjMSBrD1.jpg" group-title="Movies | DE - HORROR",Curse of the Piper - Melodie des Todes (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376904.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50L732bFQYCYeXmT8gRLAy3TAWz.jpg" group-title="Movies | DE - HORROR",Shaky Shivers (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376932.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjydfGUlR4fwf8vyY41Lu7ACCCk.jpg" group-title="Movies | DE - HORROR",Nightman (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376929.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72JwieTarFfizpMkHc0ZXbepi9l.jpg" group-title="Movies | DE - HORROR",Knock Knock Knock (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376926.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lMu14IMuHo0hKYCwCIogt7IioX.jpg" group-title="Movies | DE - HORROR",The Parenting (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376551.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUPCH4Kvd65SR3gL1QwUWOSQxF8.jpg" group-title="Movies | DE - HORROR",Dark Nuns – Die Exorzistinnen (DE)
@@ -14236,8 +14284,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168867.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168577.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfSrMW6ooScsf3PRa0ZSjbch8ed.jpg" group-title="Movies | DE - HORROR",Godless - Der Exorzismus der Lara Levonde (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168440.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A92IidYEd25UHJGh4baSsTcJ650.jpg" group-title="Movies | DE - HORROR",Curse of the Piper - Melodie des Todes (DE)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/167922.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHkkHjygqfgLbC8ST3VTdGh2pwd.jpg" group-title="Movies | DE - HORROR",Unseen - Dunkle Macht (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/167779.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kdmre0wlUAUk9BvySv4Xoveieg.jpg" group-title="Movies | DE - HORROR",The Mistress - Für immer vereint (DE)
@@ -16121,7 +16167,13 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/373444.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioO9K1G16d16nMaxqCSBSGW1O6E.jpg" group-title="Movies | DE - HORROR",The Strange House (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/373445.mkv
 
-# --- Movies | DE - KINDER (687) ---
+# --- Movies | DE - KINDER (689) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QuuyFdtuAIes24WGWxldVtq4Ho.jpg" group-title="Movies | DE - KINDER",Die Heinzels - Neue Mützen, neue Mission (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376911.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2HoMvRIbHq9AZUQvbUAOYQnwdq.jpg" group-title="Movies | DE - KINDER",Fuchs und Hase retten den Wald (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376916.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHHy9gJeodaArtZOrvn5yVeZT3V.jpg" group-title="Movies | DE - KINDER",Bernard Bär - Mission Mars (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376899.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XSx6Oo4tYTCQrDLL9d5OIEZK0m.jpg" group-title="Movies | DE - KINDER",Das Geheimnis des Einhorns (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJqwIglIQpFeDjT9RQ6VFHTjO5d.jpg" group-title="Movies | DE - KINDER",Die Supermonster retten Halloween (DE)
@@ -16334,8 +16386,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177044.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177043.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSbCP68azahDzcfl8sm1VBxZqX.jpg" group-title="Movies | DE - KINDER",Arrietty - Die wundersame Welt der Borger (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/177042.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIPEakWqEBfpqtw7dXaVUQ5Qz8E.jpg" group-title="Movies | DE - KINDER",Der wilde Roboter (DE)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/176650.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZb8KzZl2lUZMEwDKGTFQo33o8O.jpg" group-title="Movies | DE - KINDER",Wer bist du, Mama Muh? (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/175909.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2s89bkf3kIp6QLLqyMrwdoSXrV.jpg" group-title="Movies | DE - KINDER",Das Geheimnis von La Mancha (DE)
@@ -19131,7 +19181,21 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62817.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0Sb0zqCuBw3P9KlA4aCvnSaBT1.jpg" group-title="Movies | DE - KLASSISCHER",Arizona Junior (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/62745.mkv
 
-# --- Movies | DE - KOMÖDIE (401) ---
+# --- Movies | DE - KOMÖDIE (408) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66M8anP3szyU6BDvJCG8N2saHPQ.jpg" group-title="Movies | DE - KOMÖDIE",Ezra - Eine Familiengeschichte (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376913.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHF8hS20fn2ND9oKr36aAftwhTJ.jpg" group-title="Movies | DE - KOMÖDIE",Dotty and Soul (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376912.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJH3THQFpiBCbSRrDPLTX39mGnI.jpg" group-title="Movies | DE - KOMÖDIE",Oh la la - Wer ahnt denn sowas? (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376931.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxTGEvt0Ee3lhRZ9adqCencTksj.jpg" group-title="Movies | DE - KOMÖDIE",Noch einmal, June (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376930.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktR2zdjBKlA709DdR3dwoitBVYL.jpg" group-title="Movies | DE - KOMÖDIE",Joe der Film (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376922.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGUfk25Gs8LNtpG7G1wqyYRZYJh.jpg" group-title="Movies | DE - KOMÖDIE",Bist du da, Gott? Ich bin’s, Margaret (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376901.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCYdd0cxFSJpTsyFW4UXCcCsDbF.jpg" group-title="Movies | DE - KOMÖDIE",Between the Temples (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376900.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dljamTLg1aRwcO8kTPWwJUgsrco.jpg" group-title="Movies | DE - KOMÖDIE",Lilly und die Kängurus (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376555.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MJJzuFSup7rPjtwf8nbfZinog8.jpg" group-title="Movies | DE - KOMÖDIE",Twinless (DE)
@@ -61190,6 +61254,8 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/797.mp4
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/1935.mp4
 
 # --- Movies | TR - GÜNLÜK DİZİLER (26) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30fXRXsx1tF0tiuXEy8Hvx2bupR.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Altı Üstü İstanbul (Bolum 9)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376944.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erd75Gon5bXL38kngnH6DCrOUj2.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Daha 17 (Bolum 11)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/376896.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Muhtemel Aşk (Bolum 8)
@@ -61212,8 +61278,6 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/375088.mkv
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374175.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Doğanın Kanunu (Bolum 7)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/374031.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30fXRXsx1tF0tiuXEy8Hvx2bupR.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Altı Üstü İstanbul (Bolum 6)
-http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/373552.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Güller ve Günahlar (SEZON FİNALİ)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/342751.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR - GÜNLÜK DİZİLER",Halef (SEZON FİNALİ)
@@ -76311,4 +76375,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37920
+# Total: 37952
