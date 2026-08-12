@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-11 18:44:06
+# Generated: 2026-08-12 07:12:59
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1229,7 +1229,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1693) ---
+# --- Movies | Films (1694) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg" group-title="Movies | Films",Disclosure Day (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29996.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/PODwO3sxLAMU9NyffIdYOzxYVW.jpg" group-title="Movies | Films",L’Enfant du Désert (2026)
@@ -1578,6 +1578,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHyKx8MlxjIGbkgfgeriJM8VPnC.jpg" group-title="Movies | Films",Blücher (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30024.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ue9vIO3Q8QbIOymRXM1t5QzLy1y.jpg" group-title="Movies | Films",In Vitro (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29451.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8uolIihwip3a0OtQ5gLhjSh8URA.jpg" group-title="Movies | Films",Box 234 (2025)
@@ -8619,4 +8621,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1269
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sauver Lisa
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1270
 
-# Total: 4276
+# Total: 4277
