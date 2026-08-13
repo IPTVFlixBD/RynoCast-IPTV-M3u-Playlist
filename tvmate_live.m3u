@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-11 18:46:05
+# Generated: 2026-08-13 07:20:55
 # Expires: 2026-08-24
 # Family Safe Edition
 # ==============================================
@@ -90807,7 +90807,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/101826.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH | Classic Movies
 http://tvmate.icu:8080/live/VM121628/56784321/320454.m3u8
 
-# --- PPV | UFC (8) ---
+# --- PPV | UFC (9) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: WWE Monday Night Raw (8.10 8:00 PM ET)
 http://tvmate.icu:8080/live/VM121628/56784321/328154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: Wild Thing Kart Series at Stafford (8.10 6:15 PM ET)
@@ -90824,6 +90824,8 @@ http://tvmate.icu:8080/live/VM121628/56784321/328159.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/328160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",NETFLIX 04 (Latin) Events Only
 http://tvmate.icu:8080/live/VM121628/56784321/328161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | fubo Sports Network
+http://tvmate.icu:8080/live/VM121628/56784321/328190.m3u8
 
 # --- Portugal (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
@@ -91665,7 +91667,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/213668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US A Wealth of Entertainment (AWE)
 http://tvmate.icu:8080/live/VM121628/56784321/326194.m3u8
 
-# --- USA | NEWS | REGIONALS (613) ---
+# --- USA | NEWS | REGIONALS (609) ---
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (KXAN) Austin
 http://tvmate.icu:8080/live/VM121628/56784321/17749.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",AK | Anchorage | NBC KTUU
@@ -92278,10 +92280,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/324469.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/324470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",GA | Augusta | NBC (WAGT)
 http://tvmate.icu:8080/live/VM121628/56784321/324471.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",GA | Augusta | NBC (WAGT)
-http://tvmate.icu:8080/live/VM121628/56784321/324472.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",GA | Augusta | NBC (WAGT)
-http://tvmate.icu:8080/live/VM121628/56784321/324473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",GA | Columbus | CBS 3 (WRBL)
 http://tvmate.icu:8080/live/VM121628/56784321/324474.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",GA | Columbus | NBC (WLTZ)
@@ -92539,8 +92537,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/324603.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NC | Wilmington | CBS (WWAY)
 http://tvmate.icu:8080/live/VM121628/56784321/324604.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NC | Wilmington | NBC (WECT)
-http://tvmate.icu:8080/live/VM121628/56784321/324605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NC | Wilmington | NBC (WECT)
 http://tvmate.icu:8080/live/VM121628/56784321/324606.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NC | Winston-Salem | ABC (WXLV)
 http://tvmate.icu:8080/live/VM121628/56784321/324607.m3u8
@@ -92572,8 +92568,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/324619.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/324620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NY | Buffalo | CBS (WIVB)
 http://tvmate.icu:8080/live/VM121628/56784321/324621.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NY | Buffalo | FOX (WUTV)
-http://tvmate.icu:8080/live/VM121628/56784321/324622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NY | Buffalo | FOX (WUTV)
 http://tvmate.icu:8080/live/VM121628/56784321/324623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",NY | Buffalo | NBC (WGRZ)
@@ -103083,4 +103077,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/328046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 : Golden State Valkyries vs Dallas Wings @ 09:30 pm EDT
 http://tvmate.icu:8080/live/VM121628/56784321/328047.m3u8
 
-# Total: 51498
+# Total: 51495

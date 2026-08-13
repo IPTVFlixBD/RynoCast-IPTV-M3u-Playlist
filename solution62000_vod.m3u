@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-12 07:12:59
+# Generated: 2026-08-13 07:15:54
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -5587,7 +5587,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (513) ---
+# --- Movies | NETFLIX (514) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nKQKWvHCZEeQEoCQaahJLnXCTAJ.jpg" group-title="Movies | NETFLIX",Nando Entre Deux Mondes :Un Film Sintonia (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30039.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/loDdQQZm3mPG9FFQpD2bdC0I2wy.jpg" group-title="Movies | NETFLIX",Le Dernier Refuge (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29909.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s4IUDzLZJb4CosgEXcmouY32Jfg.jpg" group-title="Movies | NETFLIX",Wild Sing (2026)
@@ -8621,4 +8623,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1269
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sauver Lisa
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1270
 
-# Total: 4277
+# Total: 4278
