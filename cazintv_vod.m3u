@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-08-13 07:21:11
+# Generated: 2026-08-14 18:45:03
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -765,8 +765,8 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/7656.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM5YzUwMzctOTA0OS00MjI4LWJlZTYtMDZmOTM1YTZhN2VmXkEyXkFqcGdeQXVyNzE0MDY5MzE@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="Movies | SERIJE",Besa S01 E12
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/7657.mp4
 
-# --- Movies | SERIJE NOVO (75) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",The Witcher
+# --- Movies | SERIJE NOVO (76) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Dexter: New Blood
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Chernobyl
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/2.mp4
@@ -916,6 +916,8 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/75.mp4
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/76.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Presumed Innocent
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/77.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",The Witcher
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/78.mp4
 
 # --- Movies | VIDEOTEKA (577) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/28_Weeks_Later_poster.jpg/250px-28_Weeks_Later_poster.jpg" group-title="Movies | VIDEOTEKA",28 Weeks Later (2007)
@@ -4045,7 +4047,15 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (97) ---
+# --- Movies | VIDEOTEKA 2026 (101) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BNmY1NmU5NjMtYjU2YS00YjI5LWExNDItNDA3N2M5YWJiZDhiXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",SOULM8TE (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13879.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",The Last House (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13877.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",The Invite (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13876.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMzRiN2IxNjgtMzUxYi00ZjI2LWIzODYtNGUzZmExZTdhMGI1XkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",Young Washington (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13878.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Movies | VIDEOTEKA 2026",The Odyssey (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13872.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsX67cgWkMDp94DLt5gGYxXKP05pXucf04vsrJbnNm6A&s=10" group-title="Movies | VIDEOTEKA 2026",Lucky Strike (2026)
@@ -4241,4 +4251,4 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13660.mp4
 
-# Total: 2101
+# Total: 2106
