@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-08-15 06:46:00
+# Generated: 2026-08-15 18:30:46
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -11032,10 +11032,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/399006.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/399005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Movies | Julfilmer [VOD]",A Boy Called Christmas (2021)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434381.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
-http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Julfilmer [VOD]",Reisen til julestjernen (2012)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434376.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8JmaKH9dqO1y1hvY617W1pVavnG.jpg" group-title="Movies | Julfilmer [VOD]",Christmas in Pine Valley (2022)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c8FgK92umNLI4KU2WcXoyt8oyrH.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on the Farm (2021)
@@ -12559,7 +12559,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/402031.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg" group-title="Movies | Romance (VOD)",The Perfect Date
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/402718.mkv
 
-# --- Movies | Romantic [VOD] (95) ---
+# --- Movies | Romantic [VOD] (96) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg" group-title="Movies | Romantic [VOD]",Good Luck to You, Leo Grande (2022)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443530.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="Movies | Romantic [VOD]",A Sunday Affair (2023)
@@ -12750,6 +12750,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/503241.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/503374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/chKMG9tzFqSkj24ejXTio156Qo0.jpg" group-title="Movies | Romantic [VOD]",Father of the Bride (2022)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/503550.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ulUjszY6YJFsDUd0E3WolJg6sOp.jpg" group-title="Movies | Romantic [VOD]",Message in a Bottle (1999)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/505058.mkv
 
 # --- Movies | Sci-Fi & Fantasy [VOD] (333) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Wishmaster 2: Evil Never Dies
@@ -20821,4 +20823,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 10351
+# Total: 10352
