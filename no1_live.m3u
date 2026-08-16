@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-08-14 18:51:37
+# Generated: 2026-08-16 18:30:21
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -2015,9 +2015,11 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (1) ---
+# --- DE-DAZN EVENT (2) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",FC Schalke 04 - Hannover 96
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188636.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -6450,7 +6452,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/2008.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/557.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/haberturk.png" group-title="TR | HABER",TR: HABERTURK  UHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/2004.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/haberturk.png" group-title="TR | HABER",TR: HABERTURK SD
+#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/haberturk.png" group-title="TR | HABER",TR: ULKE TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/300.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/cnnturk.png" group-title="TR | HABER",TR: CNN TURK
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/5113.m3u8
@@ -6717,7 +6719,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SINEMA",TR: LiONBOX YERLi SiNEMA 7
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157831.m3u8
 
-# --- TR | SPOR (20) ---
+# --- TR | SPOR (19) ---
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2021/07/30/12/07/flag-6509494__340.png" group-title="TR | SPOR",##### TURK SPOR PAKETI #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36209.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/sporsmart.png" group-title="TR | SPOR",TR: SPOR SMART HD
@@ -6740,8 +6742,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/549.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/550.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/htspor.png" group-title="TR | SPOR",TR: HT SPOR HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/141140.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | SPOR",TR: EKOL SPORTS HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | SPOR",TR: SIFIR TV FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167329.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/nbatv.png" group-title="TR | SPOR",TR: NBA TV HD
