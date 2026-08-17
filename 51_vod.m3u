@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-16 18:26:07
+# Generated: 2026-08-17 06:46:38
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,11 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4669) ---
+# --- Movies | DE | CINEMA VOD (4670) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg" group-title="Movies | DE | CINEMA VOD",Forbidden Fruits (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188639.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04cSyYB1igvJm9KsnvEAH9Jynb.jpg" group-title="Movies | DE | CINEMA VOD",Ice Cream Man (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188637.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziliP7npRNuRnBfnqnzapUexULY.jpg" group-title="Movies | DE | CINEMA VOD",Good Boy - Wir wollen nur dein Bestes (2026) DE
@@ -42251,4 +42253,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21055
+# Total: 21056

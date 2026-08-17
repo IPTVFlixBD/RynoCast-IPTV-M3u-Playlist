@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-16 06:44:31
+# Generated: 2026-08-17 06:52:12
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -1184,11 +1184,11 @@ http://cord-cutter.net:8080/live/315gBa/253680/320304.m3u8
 http://cord-cutter.net:8080/live/315gBa/253680/320306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 2
 http://cord-cutter.net:8080/live/315gBa/253680/320318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 2 VIP
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN
 http://cord-cutter.net:8080/live/315gBa/253680/320320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 3
 http://cord-cutter.net:8080/live/315gBa/253680/320321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 3 VIP
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 4
 http://cord-cutter.net:8080/live/315gBa/253680/320322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: HERMANDAD SALSERA
 http://cord-cutter.net:8080/live/315gBa/253680/320326.m3u8
@@ -2067,6 +2067,42 @@ http://cord-cutter.net:8080/live/315gBa/253680/327799.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",(ES) (VF) Slow UHD/4K
 http://cord-cutter.net:8080/live/315gBa/253680/327800.m3u8
 
+# --- Latino | ESPN | DEPORTES (17) ---
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN
+http://cord-cutter.net:8080/live/315gBa/253680/328464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN 2
+http://cord-cutter.net:8080/live/315gBa/253680/328465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",MEX ESPN 3
+http://cord-cutter.net:8080/live/315gBa/253680/328466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN 3
+http://cord-cutter.net:8080/live/315gBa/253680/328467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN 4
+http://cord-cutter.net:8080/live/315gBa/253680/328468.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",MEX ESPN 2
+http://cord-cutter.net:8080/live/315gBa/253680/328469.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN Deportes
+http://cord-cutter.net:8080/live/315gBa/253680/328470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Latin FOX Deportes
+http://cord-cutter.net:8080/live/315gBa/253680/328471.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Telemundo Deportes Ahora
+http://cord-cutter.net:8080/live/315gBa/253680/328472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Latin ESPN Deportes
+http://cord-cutter.net:8080/live/315gBa/253680/328473.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",TYC SPORTS
+http://cord-cutter.net:8080/live/315gBa/253680/328474.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",FOX SPORTS 1
+http://cord-cutter.net:8080/live/315gBa/253680/328475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",FOX SPORTS 2
+http://cord-cutter.net:8080/live/315gBa/253680/328476.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",FOX SPORTS PREMIUM
+http://cord-cutter.net:8080/live/315gBa/253680/328477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",TNT SPORTS
+http://cord-cutter.net:8080/live/315gBa/253680/328478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",WIN SPORTS
+http://cord-cutter.net:8080/live/315gBa/253680/328479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Win Sports+
+http://cord-cutter.net:8080/live/315gBa/253680/328480.m3u8
+
 # --- MLB (65) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://cord-cutter.net:8080/live/315gBa/253680/323887.m3u8
@@ -2316,19 +2352,19 @@ http://cord-cutter.net:8080/live/315gBa/253680/159119.m3u8
 http://cord-cutter.net:8080/live/315gBa/253680/159120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL REDZONE 3
 http://cord-cutter.net:8080/live/315gBa/253680/208830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00: Carolina Panthers  vs  Buffalo Bills
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00:
 http://cord-cutter.net:8080/live/315gBa/253680/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Cleveland Browns  vs  Chicago Bears
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:
 http://cord-cutter.net:8080/live/315gBa/253680/252010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02: Minnesota Vikings  vs  New York Giants
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:
 http://cord-cutter.net:8080/live/315gBa/253680/252011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03: Jacksonville Jaguars  vs  New Orleans Saints
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03:
 http://cord-cutter.net:8080/live/315gBa/253680/252012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04 Los Angeles Rams  vs  Kansas City Chiefs
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04
 http://cord-cutter.net:8080/live/315gBa/253680/252013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05: Philadelphia Eagles  vs  Baltimore Ravens
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:
 http://cord-cutter.net:8080/live/315gBa/253680/252014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06:  Dallas Cowboys  vs  Seattle Seahawks
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06:
 http://cord-cutter.net:8080/live/315gBa/253680/252015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07:
 http://cord-cutter.net:8080/live/315gBa/253680/252016.m3u8
@@ -102281,4 +102317,4 @@ http://cord-cutter.net:8080/live/315gBa/253680/328046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 : Golden State Valkyries vs Dallas Wings @ 09:30 pm EDT
 http://cord-cutter.net:8080/live/315gBa/253680/328047.m3u8
 
-# Total: 51097
+# Total: 51114

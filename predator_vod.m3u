@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-08-16 18:24:34
+# Generated: 2026-08-17 06:56:32
 # Expires: 2027-10-09
 # Family Safe Edition
 # ==============================================
@@ -341,11 +341,13 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1148) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | Filma me titra Shqip",The Invite (2026)
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85973.mp4
+# --- Movies | Filma me titra Shqip (1149) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="Movies | Filma me titra Shqip",Obsession (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85978.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg" group-title="Movies | Filma me titra Shqip",The Invite (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85973.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="Movies | Filma me titra Shqip",The Last House (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85964.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg" group-title="Movies | Filma me titra Shqip",72 HOURS (2026)
@@ -9195,4 +9197,4 @@ http://predator.digital:8080/series/Edi/dWP7KSb4CM/255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
 http://predator.digital:8080/series/Edi/dWP7KSb4CM/258
 
-# Total: 4583
+# Total: 4584

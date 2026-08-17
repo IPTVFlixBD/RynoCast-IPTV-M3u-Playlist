@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-08-16 18:24:34
+# Generated: 2026-08-17 06:56:32
 # Expires: 2027-10-09
 # Family Safe Edition
 # ==============================================
@@ -5524,7 +5524,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84835.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports+ FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Action FHD
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Arena FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Cricket FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84831.m3u8
@@ -8619,15 +8619,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (154) ---
+# --- World Sports (151) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 1 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 2 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",DE: Fussball.TV 3 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85886.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8929,4 +8923,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4434
+# Total: 4431
