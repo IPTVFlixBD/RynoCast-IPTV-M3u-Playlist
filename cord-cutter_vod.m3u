@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-17 06:52:12
+# Generated: 2026-08-17 18:28:03
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -22655,7 +22655,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/200943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg" group-title="Movies | Science Fiction",Young Ones (2014)
 http://cord-cutter.net:8080/movie/315gBa/253680/200944.mp4
 
-# --- Movies | Spanish Movies (1136) ---
+# --- Movies | Spanish Movies (1138) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",
 http://cord-cutter.net:8080/movie/315gBa/253680/202205.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",2 Minutos de Fama (2020)
@@ -24928,6 +24928,10 @@ http://cord-cutter.net:8080/movie/315gBa/253680/203359.mkv
 http://cord-cutter.net:8080/movie/315gBa/253680/203360.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",Últimas noticias en Yuba County (2021)
 http://cord-cutter.net:8080/movie/315gBa/253680/203361.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="Movies | Spanish Movies",Obsession (2026) {Spanish-Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328481.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRdDFIhaEmpRgoki805YvyyjZf.jpg" group-title="Movies | Spanish Movies",Mortal Kombat II (2026) {Spanish-Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328482.mkv
 
 # --- Movies | Star Trek Movie Collection (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Movies | Star Trek Movie Collection",Star Trek (2009)
@@ -29331,7 +29335,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2349
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",The Pitt
 http://cord-cutter.net:8080/series/315gBa/253680/2367
 
-# --- Series | 2026 TV Series (16) ---
+# --- Series | 2026 TV Series (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
 http://cord-cutter.net:8080/series/315gBa/253680/2353
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Star Wars: Maul - Shadow Lord
@@ -29364,6 +29368,8 @@ http://cord-cutter.net:8080/series/315gBa/253680/2389
 http://cord-cutter.net:8080/series/315gBa/253680/2390
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Furious
 http://cord-cutter.net:8080/series/315gBa/253680/2391
+#EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Lanterns
+http://cord-cutter.net:8080/series/315gBa/253680/2393
 
 # --- Series | All Series (343) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -30053,4 +30059,4 @@ http://cord-cutter.net:8080/series/315gBa/253680/2379
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Real Housewives of Atlanta
 http://cord-cutter.net:8080/series/315gBa/253680/2380
 
-# Total: 14963
+# Total: 14966

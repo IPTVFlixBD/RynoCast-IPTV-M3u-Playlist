@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-16 06:47:50
+# Generated: 2026-08-17 18:27:44
 # Expires: 2026-08-24
 # Family Safe Edition
 # ==============================================
@@ -1184,11 +1184,11 @@ http://tvmate.icu:8080/live/VM121628/56784321/320304.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/320306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 2
 http://tvmate.icu:8080/live/VM121628/56784321/320318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 2 VIP
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN
 http://tvmate.icu:8080/live/VM121628/56784321/320320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 3
 http://tvmate.icu:8080/live/VM121628/56784321/320321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 3 VIP
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 4
 http://tvmate.icu:8080/live/VM121628/56784321/320322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: HERMANDAD SALSERA
 http://tvmate.icu:8080/live/VM121628/56784321/320326.m3u8
@@ -2067,6 +2067,42 @@ http://tvmate.icu:8080/live/VM121628/56784321/327799.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",(ES) (VF) Slow UHD/4K
 http://tvmate.icu:8080/live/VM121628/56784321/327800.m3u8
 
+# --- Latino | ESPN | DEPORTES (17) ---
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN
+http://tvmate.icu:8080/live/VM121628/56784321/328464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN 2
+http://tvmate.icu:8080/live/VM121628/56784321/328465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",MEX ESPN 3
+http://tvmate.icu:8080/live/VM121628/56784321/328466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN 3
+http://tvmate.icu:8080/live/VM121628/56784321/328467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN 4
+http://tvmate.icu:8080/live/VM121628/56784321/328468.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",MEX ESPN 2
+http://tvmate.icu:8080/live/VM121628/56784321/328469.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ESPN Deportes
+http://tvmate.icu:8080/live/VM121628/56784321/328470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Latin FOX Deportes
+http://tvmate.icu:8080/live/VM121628/56784321/328471.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Telemundo Deportes Ahora
+http://tvmate.icu:8080/live/VM121628/56784321/328472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Latin ESPN Deportes
+http://tvmate.icu:8080/live/VM121628/56784321/328473.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",TYC SPORTS
+http://tvmate.icu:8080/live/VM121628/56784321/328474.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",FOX SPORTS 1
+http://tvmate.icu:8080/live/VM121628/56784321/328475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",FOX SPORTS 2
+http://tvmate.icu:8080/live/VM121628/56784321/328476.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",FOX SPORTS PREMIUM
+http://tvmate.icu:8080/live/VM121628/56784321/328477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",TNT SPORTS
+http://tvmate.icu:8080/live/VM121628/56784321/328478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",WIN SPORTS
+http://tvmate.icu:8080/live/VM121628/56784321/328479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Win Sports+
+http://tvmate.icu:8080/live/VM121628/56784321/328480.m3u8
+
 # --- MLB (65) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://tvmate.icu:8080/live/VM121628/56784321/323887.m3u8
@@ -2316,19 +2352,19 @@ http://tvmate.icu:8080/live/VM121628/56784321/159119.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/159120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL REDZONE 3
 http://tvmate.icu:8080/live/VM121628/56784321/208830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00: Carolina Panthers  vs  Buffalo Bills
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00:
 http://tvmate.icu:8080/live/VM121628/56784321/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: Cleveland Browns  vs  Chicago Bears
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:
 http://tvmate.icu:8080/live/VM121628/56784321/252010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02: Minnesota Vikings  vs  New York Giants
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:
 http://tvmate.icu:8080/live/VM121628/56784321/252011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03: Jacksonville Jaguars  vs  New Orleans Saints
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03:
 http://tvmate.icu:8080/live/VM121628/56784321/252012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04 Los Angeles Rams  vs  Kansas City Chiefs
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04
 http://tvmate.icu:8080/live/VM121628/56784321/252013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05: Philadelphia Eagles  vs  Baltimore Ravens
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:
 http://tvmate.icu:8080/live/VM121628/56784321/252014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06:  Dallas Cowboys  vs  Seattle Seahawks
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06:
 http://tvmate.icu:8080/live/VM121628/56784321/252015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07:
 http://tvmate.icu:8080/live/VM121628/56784321/252016.m3u8
@@ -103267,4 +103303,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/328046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 : Golden State Valkyries vs Dallas Wings @ 09:30 pm EDT
 http://tvmate.icu:8080/live/VM121628/56784321/328047.m3u8
 
-# Total: 51590
+# Total: 51607
