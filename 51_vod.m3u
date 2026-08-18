@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-17 18:37:11
+# Generated: 2026-08-18 18:28:11
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,15 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4670) ---
+# --- Movies | DE | CINEMA VOD (4673) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHNoUt8bTg5bRr56MUjXYdBpltc.jpg" group-title="Movies | DE | CINEMA VOD",Vier minus drei (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188675.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ama1E90JKhiwwuquPDqcMhg6uYc.jpg" group-title="Movies | DE | CINEMA VOD",The Invite (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188674.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MQlTLck75wCDi7bKFEJpqJkjwl.jpg" group-title="Movies | DE | CINEMA VOD",Exit 8 (2025) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188673.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg" group-title="Movies | DE | CINEMA VOD",Forbidden Fruits (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188639.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04cSyYB1igvJm9KsnvEAH9Jynb.jpg" group-title="Movies | DE | CINEMA VOD",Ice Cream Man (2026) DE
@@ -39027,7 +39033,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3822
 #EXTINF:-1 tvg-logo="" group-title="Series | HBOMAX DOCU REALITY SERIES",Palu Ailesi: Karanlık Sarmal
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4092
 
-# --- Series | HBOMAX SERIES (55) ---
+# --- Series | HBOMAX SERIES (56) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | HBOMAX SERIES",Pavyon (2019)
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/144
 #EXTINF:-1 tvg-logo="" group-title="Series | HBOMAX SERIES",Çekiç ve Gül: Bir Behzat Ç. Hikayesi
@@ -39138,6 +39144,8 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3926
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3947
 #EXTINF:-1 tvg-logo="" group-title="Series | HBOMAX SERIES",Mira: Her Şey Yolundaymış Gibi
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4091
+#EXTINF:-1 tvg-logo="" group-title="Series | HBOMAX SERIES",Lanterns
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4181
 
 # --- Series | NETFLIX ANIME SERIES (195) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NETFLIX ANIME SERIES",Abby Hatcher
@@ -42253,4 +42261,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21056
+# Total: 21060

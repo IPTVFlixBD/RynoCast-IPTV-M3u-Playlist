@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-08-17 18:31:06
+# Generated: 2026-08-18 18:26:09
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -13568,6 +13568,8 @@ http://allone8k.info:8080/live/hany/hany1234/468945.m3u8
 http://allone8k.info:8080/live/hany/hany1234/468946.m3u8
 
 # --- KU | Kurd VIP (61) ---
+#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
+http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] KHAK HD
 http://allone8k.info:8080/live/hany/hany1234/473970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] ZED HD
@@ -13688,8 +13690,6 @@ http://allone8k.info:8080/live/hany/hany1234/473547.m3u8
 http://allone8k.info:8080/live/hany/hany1234/473548.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/aa14593c6bd0c7b542e5f355c5916bb8.png" group-title="KU | Kurd VIP",VIP_KU | Neu TV
 http://allone8k.info:8080/live/hany/hany1234/473549.m3u8
-#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
-http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 
 # --- KU | Kurd documentary دیکومینتاری (7) ---
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd documentary دیکومینتاری",KU | NEWROZ DOC HD

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-17 18:28:03
+# Generated: 2026-08-18 18:38:45
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -22655,7 +22655,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/200943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg" group-title="Movies | Science Fiction",Young Ones (2014)
 http://cord-cutter.net:8080/movie/315gBa/253680/200944.mp4
 
-# --- Movies | Spanish Movies (1138) ---
+# --- Movies | Spanish Movies (1142) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",
 http://cord-cutter.net:8080/movie/315gBa/253680/202205.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",2 Minutos de Fama (2020)
@@ -24932,6 +24932,14 @@ http://cord-cutter.net:8080/movie/315gBa/253680/203361.mkv
 http://cord-cutter.net:8080/movie/315gBa/253680/328481.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRdDFIhaEmpRgoki805YvyyjZf.jpg" group-title="Movies | Spanish Movies",Mortal Kombat II (2026) {Spanish-Edition}
 http://cord-cutter.net:8080/movie/315gBa/253680/328482.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | Spanish Movies",Avatar: Fire and Ash (2025) {Spanish-Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328492.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="Movies | Spanish Movies",Hoppers (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328494.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies | Spanish Movies",Project Hail Mary (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328495.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="Movies | Spanish Movies",The Last House (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328496.mkv
 
 # --- Movies | Star Trek Movie Collection (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Movies | Star Trek Movie Collection",Star Trek (2009)
@@ -29285,7 +29293,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2344
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Cross
 http://cord-cutter.net:8080/series/315gBa/253680/2352
 
-# --- Series | 2025 TV Series (24) ---
+# --- Series | 2025 TV Series (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://cord-cutter.net:8080/series/315gBa/253680/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -29334,6 +29342,8 @@ http://cord-cutter.net:8080/series/315gBa/253680/2347
 http://cord-cutter.net:8080/series/315gBa/253680/2349
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",The Pitt
 http://cord-cutter.net:8080/series/315gBa/253680/2367
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Ransom Canyon
+http://cord-cutter.net:8080/series/315gBa/253680/2394
 
 # --- Series | 2026 TV Series (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
@@ -29371,7 +29381,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2391
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Lanterns
 http://cord-cutter.net:8080/series/315gBa/253680/2393
 
-# --- Series | All Series (343) ---
+# --- Series | All Series (344) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://cord-cutter.net:8080/series/315gBa/253680/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -30058,5 +30068,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2378
 http://cord-cutter.net:8080/series/315gBa/253680/2379
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Real Housewives of Atlanta
 http://cord-cutter.net:8080/series/315gBa/253680/2380
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Agents of S.H.I.E.L.D.
+http://cord-cutter.net:8080/series/315gBa/253680/2395
 
-# Total: 14966
+# Total: 14972

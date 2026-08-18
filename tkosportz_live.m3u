@@ -1,41 +1,35 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-08-17 18:30:04
+# Generated: 2026-08-18 18:34:10
 # Expires: 2026-08-26
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. PPV EVENTS / RACING (ET) (14) ---
+# --- 01. PPV EVENTS / RACING (ET) (11) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/105962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",05. FloRacing 24/7
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/188562.m3u8
 #EXTINF:-1 tvg-logo="https://news.dirtvision.com/hs-fs/hubfs/DigMo%20DV/WRG-DIRTVision_logo.png" group-title="01. PPV EVENTS / RACING (ET)",04. Dirtvision Now | 24/7
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",01. NASCAR
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/199029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",06. RACE NET
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204207.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",07. PBR RIDE PASS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/207543.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/NHRA.png" group-title="01. PPV EVENTS / RACING (ET)",02. NHRA TV
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/175763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT04: Volusia Speedway
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT04:
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",01. Nascar Truck series
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223515.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT01: ATTICA Speedway
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT01:
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT02: ALABAMA MOTOR SPEEDWAY
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT02:
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT03: MILLBRIDGE SPEEDWAY
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT03:
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225394.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV EVENTS / RACING (ET)",08. 330p AMA Supercross Championship Buchanan
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV EVENTS / RACING (ET)",08. 630p 8/18 FloRacing Night @ Marshalltown
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",01. WORLD SERIES OF POKER
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246936.m3u8
 
 # --- 01. PPV FIGHTS/WWE (ET) (17) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 8p MONDAY NIGHT RAW
@@ -73,7 +67,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224156.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",15.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224276.m3u8
 
-# --- 02. USA CABLE  TV #1 (156) ---
+# --- 02. USA CABLE  TV #1 (157) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/10357.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/08/directv-newyorkabcwabc.png" group-title="02. USA CABLE  TV #1",ABC EAST
@@ -386,6 +380,8 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246825.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246826.m3u8
 #EXTINF:-1 tvg-logo="http://209.126.105.154:8080/logos/2477.png" group-title="02. USA CABLE  TV #1",01. The Dukes Of Hazard
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="02. USA CABLE  TV #1",01. Family Feud Steve Harvey +
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251834.m3u8
 
 # --- 03. MOVIE CHANNELS (71) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO.png" group-title="03. MOVIE CHANNELS",HBO
@@ -531,9 +527,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/56262.m3u8
 #EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/10/MovieTime_logo.png" group-title="03. MOVIE CHANNELS",MovieTime
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/45944.m3u8
 
-# --- 04. KY-TN  LOCALS (33) ---
-#EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/wljc.png" group-title="04. KY-TN  LOCALS",07. WLJC BEATTYVILLE KY
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13132.m3u8
+# --- 04. KY-TN  LOCALS (26) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/The_CW.png" group-title="04. KY-TN  LOCALS",02. CW LEXINGTON
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13129.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Wlex_nbc18_lexington.png" group-title="04. KY-TN  LOCALS",02. NBC 18 WLEX LEX
@@ -566,10 +560,6 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13128.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204641.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="04. KY-TN  LOCALS",16. FOX-WTNZ KNOXVILLE
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204642.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01.
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/207678.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" group-title="04. KY-TN  LOCALS",07. KY ION
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13127.m3u8
 #EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",18. ABC 24[Memphis] WATN (WATN)
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224061.m3u8
 #EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",19. NEWS 3[Memphis] WREG (WREG)
@@ -586,16 +576,8 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224167.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224168.m3u8
 #EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",26. [PADUCAH_KY] CBS-KFVS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224172.m3u8
-#EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",01.
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/222915.m3u8
 #EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",Spectrum News 1 Kentucky HD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246952.m3u8
-#EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/MyNetworkTV_Logo_2D.png" group-title="04. KY-TN  LOCALS",07. MY KY
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13131.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/WYMT-TV_logo.png" group-title="04. KY-TN  LOCALS",06. WYMT 2 H&I
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/246953.m3u8
-#EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",01. KY Weather Channel
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/248236.m3u8
 #EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/MeTV_logo_2014.png" group-title="04. KY-TN  LOCALS",METV LEXINGTON
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13130.m3u8
 
@@ -663,7 +645,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/187137.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/c-span-1-logo-png-transparent.png" group-title="06. NEWS",C-SPAN 3
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/75429.m3u8
 
-# --- 08. 24-7 PRO (89) ---
+# --- 08. 24-7 PRO (92) ---
 #EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",CHEERS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/248230.m3u8
 #EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",Seinfeld (1989) 2
@@ -842,6 +824,12 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251828.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251829.m3u8
 #EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",Young Rock (2021)-1
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",01. Family Feud Steve Harvey
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",01. Wheel of Fortune
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="08. 24-7 PRO",01. Jeopardy!
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251833.m3u8
 
 # --- 09. 24-7 #3 (263) ---
 #EXTINF:-1 tvg-logo="https://bananamuncher.com:443/images/Z3FTtckYsGgX7p6_pYOC6MndFtJNWuvZEwI9gI4yFgn1-eC9xa5O7tri4nwbng1lU0Wj6nLOc7VXpiSN2xS-pPb4ea1KKc7ahLV-0A9Esuc.jpg" group-title="09. 24-7 #3",24/7 12 Rounds
@@ -12971,4 +12959,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190959.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s18801_ll_h3_aa.png" group-title="35. CANADA",CA: SPORTSNET PACIFIC
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190961.m3u8
 
-# Total: 6453
+# Total: 6447
