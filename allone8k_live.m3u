@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-08-18 18:26:09
+# Generated: 2026-08-19 06:50:56
 # Expires: 2027-06-21
 # Family Safe Edition
 # ==============================================
@@ -6192,7 +6192,7 @@ http://allone8k.info:8080/live/hany/hany1234/234564.m3u8
 http://allone8k.info:8080/live/hany/hany1234/234565.m3u8
 
 # --- AR | SYRIA 4K | سوريا (41) ---
-#EXTINF:-1 tvg-logo="https://www.elahmad.to/tv/mobiletv/images/al-souriya.jpg?v=7.png" group-title="AR | SYRIA 4K | سوريا",SYR: Al Souria TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Al-Souriya_TV_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="AR | SYRIA 4K | سوريا",SYR: Al Souria TV HD
 http://allone8k.info:8080/live/hany/hany1234/644095.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/6/69/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg.png" group-title="AR | SYRIA 4K | سوريا",SYR: SYRIA TV HD الاولي
 http://allone8k.info:8080/live/hany/hany1234/297183.m3u8
@@ -13568,8 +13568,6 @@ http://allone8k.info:8080/live/hany/hany1234/468945.m3u8
 http://allone8k.info:8080/live/hany/hany1234/468946.m3u8
 
 # --- KU | Kurd VIP (61) ---
-#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
-http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] KHAK HD
 http://allone8k.info:8080/live/hany/hany1234/473970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd VIP",[VIP_KU] ZED HD
@@ -13690,6 +13688,8 @@ http://allone8k.info:8080/live/hany/hany1234/473547.m3u8
 http://allone8k.info:8080/live/hany/hany1234/473548.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/aa14593c6bd0c7b542e5f355c5916bb8.png" group-title="KU | Kurd VIP",VIP_KU | Neu TV
 http://allone8k.info:8080/live/hany/hany1234/473549.m3u8
+#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Christian-Logo-2.png" group-title="KU | Kurd VIP",KR: Ishtar TV 4K.
+http://allone8k.info:8080/live/hany/hany1234/142813.m3u8
 
 # --- KU | Kurd documentary دیکومینتاری (7) ---
 #EXTINF:-1 tvg-logo="" group-title="KU | Kurd documentary دیکومینتاری",KU | NEWROZ DOC HD

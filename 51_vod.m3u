@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-18 18:28:11
+# Generated: 2026-08-19 06:51:00
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1587,9 +1587,11 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4673) ---
+# --- Movies | DE | CINEMA VOD (4674) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3IGLbWTw2CzMH2VwwzD9jciu5w.jpg" group-title="Movies | DE | CINEMA VOD",The End of Oak Street (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHNoUt8bTg5bRr56MUjXYdBpltc.jpg" group-title="Movies | DE | CINEMA VOD",Vier minus drei (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ama1E90JKhiwwuquPDqcMhg6uYc.jpg" group-title="Movies | DE | CINEMA VOD",The Invite (2026) DE
@@ -42261,4 +42263,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21060
+# Total: 21061
