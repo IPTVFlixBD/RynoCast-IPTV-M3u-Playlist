@@ -1,8 +1,8 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-18 18:29:19
-# Expires: 2026-08-24
+# Generated: 2026-08-19 18:29:55
+# Expires: 2026-09-24
 # Family Safe Edition
 # ==============================================
 
@@ -53241,7 +53241,7 @@ http://tvmate.icu:8080/movie/VM121628/56784321/200943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg" group-title="Movies | Science Fiction",Young Ones (2014)
 http://tvmate.icu:8080/movie/VM121628/56784321/200944.mp4
 
-# --- Movies | Spanish Movies (1142) ---
+# --- Movies | Spanish Movies (1140) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",
 http://tvmate.icu:8080/movie/VM121628/56784321/202205.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",2 Minutos de Fama (2020)
@@ -55520,12 +55520,8 @@ http://tvmate.icu:8080/movie/VM121628/56784321/328481.mkv
 http://tvmate.icu:8080/movie/VM121628/56784321/328482.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | Spanish Movies",Avatar: Fire and Ash (2025) {Spanish-Edition}
 http://tvmate.icu:8080/movie/VM121628/56784321/328492.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="Movies | Spanish Movies",Hoppers (2026) {Spanish - Edition}
-http://tvmate.icu:8080/movie/VM121628/56784321/328494.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies | Spanish Movies",Project Hail Mary (2026) {Spanish - Edition}
-http://tvmate.icu:8080/movie/VM121628/56784321/328495.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="Movies | Spanish Movies",The Last House (2026) {Spanish - Edition}
-http://tvmate.icu:8080/movie/VM121628/56784321/328496.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg" group-title="Movies | Spanish Movies",The Drama (2026) {Spanish-Edition}
+http://tvmate.icu:8080/movie/VM121628/56784321/328539.mkv
 
 # --- Movies | Star Trek Movie Collection (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Movies | Star Trek Movie Collection",Star Trek (2009)
@@ -60657,4 +60653,4 @@ http://tvmate.icu:8080/series/VM121628/56784321/2380
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Agents of S.H.I.E.L.D.
 http://tvmate.icu:8080/series/VM121628/56784321/2395
 
-# Total: 30244
+# Total: 30242

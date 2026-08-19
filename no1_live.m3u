@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-08-18 18:39:48
+# Generated: 2026-08-19 18:30:11
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -960,7 +960,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25433.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: CBC SPORT HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25441.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: DUNYA TV
+#EXTINF:-1 tvg-logo="" group-title="AZ: Azerbaijan",AZ: DUNYA TV sport tv
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25442.m3u8
 
 # --- BE: BELGIUM (71) ---
@@ -970,7 +970,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/41853.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] RTL 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174045.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 1 HD
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VOO SPORT 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174070.m3u8
@@ -978,7 +978,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174070.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174065.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo Sport 4 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] Ziggo TV HD
+#EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] VOO SPORT 2 HD.
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BE: BELGIUM",[BE] LA UNE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174036.m3u8
@@ -1399,49 +1399,67 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176207.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BG: BULGARIA",Фолклор ТВ
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176208.m3u8
 
-# --- CH: Switzerland (120) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/2000px-RTL_HD_Logo.svg.png" group-title="CH: Switzerland",RTL 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187851.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/RTL-II-Logo_ab_Sommer_2009.svg/1200px-RTL-II-Logo_ab_Sommer_2009.svg.png" group-title="CH: Switzerland",RTL 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187850.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="CH: Switzerland",RTL9 (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187961.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="CH: Switzerland",3 PLUS HD
+# --- CH: Switzerland (114) ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="CH: Switzerland",[CH] SRF INFO HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187996.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="CH: Switzerland",[CH] SRF 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187998.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="CH: Switzerland",[CH] SRF 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187997.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" group-title="CH: Switzerland",[CH] RTS 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187976.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="CH: Switzerland",[CH] RSI LA 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187979.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="CH: Switzerland",[CH] RSI LA 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187978.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="CH: Switzerland",[CH] SAT 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187999.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="CH: Switzerland",[CH] PRO 7 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="CH: Switzerland",[CH] KABEL 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188001.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="CH: Switzerland",[CH] 3 PLUS HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187848.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="CH: Switzerland",4 PLUS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="CH: Switzerland",[CH] 4 PLUS HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187855.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png" group-title="CH: Switzerland",ZDF HD
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png" group-title="CH: Switzerland",[CH] 5+ HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187849.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" group-title="CH: Switzerland",3sat (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/RTL-II-Logo_ab_Sommer_2009.svg/1200px-RTL-II-Logo_ab_Sommer_2009.svg.png" group-title="CH: Switzerland",[CH] 6+ HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187850.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png" group-title="CH: Switzerland",[CH] PULS 8 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187993.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="CH: Switzerland",[CH] VOX HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187889.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="CH: Switzerland",[CH] SWISS 1 FHD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187995.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/2000px-RTL_HD_Logo.svg.png" group-title="CH: Switzerland",[CH] RTL 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187851.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="CH: Switzerland",[CH] MYSPORTS 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187986.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="CH: Switzerland",[CH] MYSPORTS 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187984.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lo9OiWg.png" group-title="CH: Switzerland",[CH] MYSPORTS 3 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187983.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="CH: Switzerland",[CH] MYSPORTS 4 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187981.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="CH: Switzerland",[CH] MYSPORTS 5 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187980.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="CH: Switzerland",[CH]  RTL9 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187961.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" group-title="CH: Switzerland",[CH]  3sat HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187847.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="CH: Switzerland",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="CH: Switzerland",[CH] Nickelodeon HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187906.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="CH: Switzerland",Nickelodeon Junior (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="CH: Switzerland",[CH]  Nickelodeon Junior  HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187907.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png" group-title="CH: Switzerland",Nickelodeon Toons (720p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png" group-title="CH: Switzerland",[CH] Nickelodeon Toons HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187909.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png" group-title="CH: Switzerland",RTS Info (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187963.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="CH: Switzerland",[CH] Nick Jr. Club HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187905.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tD48GMD/RTV-Pendimi.png" group-title="CH: Switzerland",RTV Pendimi (720p)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187965.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="CH: Switzerland",Nick Jr. Club (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187905.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png" group-title="CH: Switzerland",Becker
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187852.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="CH: Switzerland",Zee One Français (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187995.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="CH: Switzerland",Zylo Ciné Nanar (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187996.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="CH: Switzerland",Zylo Ciné Western (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187997.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="CH: Switzerland",Zylo Emotion' L (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187998.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="CH: Switzerland",Zylo Fréquence Novelas (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187999.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="CH: Switzerland",Zylo Into Crime (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="CH: Switzerland",Zylo ScreamIN (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188001.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="CH: Switzerland",Beverly Hills 90210
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187853.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/663e09e4b18d700008e48dcf/colorLogoPNG.png" group-title="CH: Switzerland",BIG BROTHER CLASSIC
@@ -1462,8 +1480,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187863.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187864.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="CH: Switzerland",Comedy Central South Park
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187866.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="CH: Switzerland",Couleur 3 (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187867.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3lvrog.png" group-title="CH: Switzerland",Die Neue Zeit (576p)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187870.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" group-title="CH: Switzerland",Drake & Josh
@@ -1492,8 +1508,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187884.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187886.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c6fcfc6838ee00085beb1a/colorLogoPNG.png" group-title="CH: Switzerland",McLeods Töchter
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187887.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="CH: Switzerland",MCM Top (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187889.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="CH: Switzerland",Meteonews (1080p)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187890.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png" group-title="CH: Switzerland",Mission Impossible
@@ -1614,32 +1628,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187973.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187974.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png" group-title="CH: Switzerland",South Park: Original Version
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187975.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" group-title="CH: Switzerland",South Park: Stan Collection
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187976.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="CH: Switzerland",SpongeBob Schwammkopf (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187978.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="CH: Switzerland",Star Trek: The Next Generation
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187979.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="CH: Switzerland",Star Trek: The Original Series
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187980.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="CH: Switzerland",Takeshi's Castle
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187981.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lo9OiWg.png" group-title="CH: Switzerland",Telenova (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187983.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="CH: Switzerland",TeleTicino (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187984.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="CH: Switzerland",Terra Mater WILD (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187986.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" group-title="CH: Switzerland",The L Word – Wenn Frauen lieben
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187987.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="CH: Switzerland",Totally Turtles (720p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187988.m3u8
-#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="CH: Switzerland",WaterBear (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187992.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png" group-title="CH: Switzerland",Wedo Big Stories (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187993.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/1720621000_wedo-amor_white_logo.png" group-title="CH: Switzerland",Wedo TV Amor (1080p)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/187994.m3u8
 
 # --- CRO: KROATIEN (41) ---
 #EXTINF:-1 tvg-logo="" group-title="CRO: KROATIEN",##### MaxTV HR |  #####
@@ -2098,7 +2086,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/153228.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/26997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-DOKU/NEWS/KULTUR",DE: ZDF Info HD+
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/153229.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/N-tv-Logo.svg/1200px-N-tv-Logo.svg.png" group-title="DE-DOKU/NEWS/KULTUR",DE: N-TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/N-tv-Logo.svg/1200px-N-tv-Logo.svg.png" group-title="DE-DOKU/NEWS/KULTUR",DE: WELT DER WUNDER HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/27069.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-DOKU/NEWS/KULTUR",DE: N-TV HD+
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/153230.m3u8
@@ -3116,7 +3104,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32432.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32434.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Nova Sport 5 HD (SK)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA FIGHT tenis HD
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA FIGHT HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/169988.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU: Sport Klub 1
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/44305.m3u8
@@ -3342,7 +3330,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188289.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188293.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU SR: Premier_League_TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA  ESPORT HD adrenelin
+#EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EXYU | ARENA  ESPORT HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/169998.m3u8
 
 # --- FR: FRANCE (37) ---
@@ -4403,7 +4391,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152627.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD: Roma TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152628.m3u8
 
-# --- NL: NETHERLANDS (58) ---
+# --- NL: NETHERLANDS (47) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/Netherlands.png" group-title="NL: NETHERLANDS",##### NETHERLANDS #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36637.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: ESPN 1 HD
@@ -4414,7 +4402,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7880.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: ESPN 4 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport 1 4K
+#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport 4 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49968.m3u8
@@ -4438,10 +4426,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7867.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL 8 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Lounge HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Telekids HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: RTL Z
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/20181.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NET 5 HD
@@ -4482,16 +4466,12 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/28816.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7862.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL : National Geographic WILD HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186894.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: ID  HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49977.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: History HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL : Discovery Channel
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186895.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL:  E! HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: TLC  HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/40226.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: BBC First
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49966.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Canvas HD
@@ -4500,26 +4480,12 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49967.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: CNN HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Comedy Central HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: XITE HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186991.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Paramount Network HDHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186994.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Viaplay TV+ HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49972.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: MTV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL:  Djazz tv HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186923.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: 192 TV  HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/7856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: 100% NL TV HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/49969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Eurosport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/19825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NPO 2 EXTRA HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/186974.m3u8
 
 # --- PL: POLAND (100) ---
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",##### POLAND #####
@@ -6244,7 +6210,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31720.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31746.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | BOLGESEL",TR: VAN 65 TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | BOLGESEL",TR: KIBRIS TV
+#EXTINF:-1 tvg-logo="" group-title="TR | BOLGESEL",TR: BİR TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | BOLGESEL",TR: KON TV HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31732.m3u8
@@ -6304,7 +6270,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31706.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/144047.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | BOLGESEL",TR: YENI KOCAELI TV
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31708.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/benguturk.png" group-title="TR | BOLGESEL",TR: MANİSA TV
+#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/benguturk.png" group-title="TR | BOLGESEL",TR:  (MC TV) Mobility Channel,
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31744.m3u8
 
 # --- TR | COCUK (23) ---
@@ -7539,4 +7505,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3708
+# Total: 3691
