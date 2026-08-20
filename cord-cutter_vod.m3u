@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-19 18:27:47
+# Generated: 2026-08-20 06:49:05
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -6839,7 +6839,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/327463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="Movies | 2025 MOVIES",Roofman (2025)
 http://cord-cutter.net:8080/movie/315gBa/253680/328162.mkv
 
-# --- Movies | 2026 Movies (457) ---
+# --- Movies | 2026 Movies (456) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://cord-cutter.net:8080/movie/315gBa/253680/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7376,8 +7376,6 @@ http://cord-cutter.net:8080/movie/315gBa/253680/325408.mp4
 http://cord-cutter.net:8080/movie/315gBa/253680/325409.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" group-title="Movies | 2026 Movies",Protector (2026)
 http://cord-cutter.net:8080/movie/315gBa/253680/325882.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Dw1ujPlIPRLddhzNuJM4F401D.jpg" group-title="Movies | 2026 Movies",The Drama (2026)
-http://cord-cutter.net:8080/movie/315gBa/253680/325883.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Eewbbdv7MRsV87jlRWvwp1EFFE.jpg" group-title="Movies | 2026 Movies",Addicted to Change (2026)
 http://cord-cutter.net:8080/movie/315gBa/253680/326102.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg" group-title="Movies | 2026 Movies",Chum (2026)
@@ -22655,7 +22653,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/200943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg" group-title="Movies | Science Fiction",Young Ones (2014)
 http://cord-cutter.net:8080/movie/315gBa/253680/200944.mp4
 
-# --- Movies | Spanish Movies (1140) ---
+# --- Movies | Spanish Movies (1141) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",
 http://cord-cutter.net:8080/movie/315gBa/253680/202205.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",2 Minutos de Fama (2020)
@@ -24936,6 +24934,8 @@ http://cord-cutter.net:8080/movie/315gBa/253680/328482.mkv
 http://cord-cutter.net:8080/movie/315gBa/253680/328492.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg" group-title="Movies | Spanish Movies",The Drama (2026) {Spanish-Edition}
 http://cord-cutter.net:8080/movie/315gBa/253680/328539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="Movies | Spanish Movies",Shelter (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/315gBa/253680/328596.mkv
 
 # --- Movies | Star Trek Movie Collection (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Movies | Star Trek Movie Collection",Star Trek (2009)
@@ -29694,8 +29694,6 @@ http://cord-cutter.net:8080/series/315gBa/253680/1732
 http://cord-cutter.net:8080/series/315gBa/253680/1733
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",See
 http://cord-cutter.net:8080/series/315gBa/253680/1734
-#EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Capture
-http://cord-cutter.net:8080/series/315gBa/253680/1746
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Handmaid's Tale
 http://cord-cutter.net:8080/series/315gBa/253680/1748
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",War of the Worlds
@@ -30066,5 +30064,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2379
 http://cord-cutter.net:8080/series/315gBa/253680/2380
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Agents of S.H.I.E.L.D.
 http://cord-cutter.net:8080/series/315gBa/253680/2395
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Capture
+http://cord-cutter.net:8080/series/315gBa/253680/2396
 
 # Total: 14970

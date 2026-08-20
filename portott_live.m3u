@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-08-19 18:31:49
+# Generated: 2026-08-20 06:43:29
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -6893,13 +6893,15 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/575107.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/shofo-drama.png" group-title="|AR| DRAMA PLAY",DM - رأفت الهجان 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/575108.m3u8
 
-# --- |AR| EGYPT (79) ---
+# --- |AR| EGYPT (80) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/620295.png" group-title="|AR| EGYPT",##### EG - EGYPT TV #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/620295.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/620291.png" group-title="|AR| EGYPT",EG - AL ASKANDARIA 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/620291.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/620288.png" group-title="|AR| EGYPT",EG - AL GHAD TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/620288.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ONPORTMAX.png" group-title="|AR| EGYPT",EG - ON SPORT PLUS FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1409710.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/620292.png" group-title="|AR| EGYPT",EG - AL AHLY
 http://portott.com/live/c4c24c0217/c4b2e86278c6/620292.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/620289.png" group-title="|AR| EGYPT",EG - AL DELTA MASR 6
@@ -20247,65 +20249,63 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/494306.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/GINX-ESPORTS.png" group-title="|EU| FINLAND HD",FIN - GINX ESPORTS
 http://portott.com/live/c4c24c0217/c4b2e86278c6/494307.m3u8
 
-# --- |EU| FR SOCCER PPV (200) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Crossfire 2026 - Day 2 - Stream B | all | 8K EXCLUSIVE | FR: SOCCER PPV 1
+# --- |EU| FR SOCCER PPV (199) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Crossfire 2026 - Day 2 - Stream B | all | 19-08-2026 | 10:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409503.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Crossfire 2026 - Day 2 - Stream A | all | 8K EXCLUSIVE | FR: SOCCER PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Crossfire 2026 - Day 2 - Stream A | all | 19-08-2026 | 10:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409502.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Tour de Grande-Bretagne (F) | 1re étape Cockermouth – Cockermouth (158,9km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Tour de Grande-Bretagne (F) | 1re étape Cockermouth – Cockermouth (158,9km) | all | 19-08-2026 | 11:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409501.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Atlético Madrid vs. Málaga | all | 19-08-2026 | 20:38 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Atlético Madrid vs. Málaga | all | 19-08-2026 | 20:38 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409500.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | EWC - Counter-Strike 2 2026 - Day 6 - Stream A (French) | all | 19-08-2026 | 15:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | EWC - Counter-Strike 2 2026 - Day 6 - Stream A (French) | all | 19-08-2026 | 15:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409499.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Padres at Mets | all | 19-08-2026 | 19:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Padres at Mets | all | 19-08-2026 | 19:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409498.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Trackmania 2026 - Day 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Trackmania 2026 - Day 1 | all | 19-08-2026 | 13:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409497.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Fortnite 2026 - Day 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Fortnite 2026 - Day 1 | all | 19-08-2026 | 14:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409496.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Championnats d'Europe : Allemagne - France | all | 19-08-2026 | 16:01 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Championnats d'Europe : Allemagne - France | all | 19-08-2026 | 16:01 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409495.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | White Sox at Cubs | all | 19-08-2026 | 20:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409494.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Diamondbacks at Red Sox | all | 19-08-2026 | 22:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Diamondbacks at Red Sox | all | 20-08-2026 | 22:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409493.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Tigers at Pirates | all | 19-08-2026 | 18:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Tigers at Pirates | all | 19-08-2026 | 18:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409492.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | EWC - Counter-Strike 2 2026 - Day 6 - Stream B | all | 19-08-2026 | 15:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | EWC - Counter-Strike 2 2026 - Day 6 - Stream B | all | 19-08-2026 | 15:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409491.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | EWC - Counter-Strike 2 2026 - Day 6 - Stream A | all | 19-08-2026 | 15:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | EWC - Counter-Strike 2 2026 - Day 6 - Stream A | all | 19-08-2026 | 15:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409490.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Pirates at Cubs | all | 10:04 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409489.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Braves at Twins | all | 19-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Braves at Twins | all | 19-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409488.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Cyclisme : Renewi Tour: 1re étape, Messieurs | all | 19-08-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409487.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Renewi Tour | 1re étape Diest – Diest (191,3km) | all | 19-08-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Renewi Tour 1re étape | Diest – Diest (191,3km) | all | 19-08-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409486.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Smith vs. Puello: Launch Press Conference | all | 8K EXCLUSIVE | FR: SOCCER PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Smith vs. Puello: Launch Press Conference | all | 19-08-2026 | 13:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409485.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Tour d'Allemagne Prologue | Bad Orb – Bad Orb (2,5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Tour d'Allemagne Prologue | Bad Orb – Bad Orb (2,5km) | all | 19-08-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409484.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | White Sox at Cubs | all | 19-08-2026 | 20:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | White Sox at Cubs | all | 19-08-2026 | 20:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409483.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Cardinals at Reds | all | 20-08-2026 | 00:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409482.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Marlins at Phillies | all | 20-08-2026 | 00:05 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409481.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Yankees at Orioles | all | 20-08-2026 | 00:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409480.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Athletics at Royals | all | 20-08-2026 | 01:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409479.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Dodgers at Rockies | all | 20-08-2026 | 02:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409478.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 27
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Giants at Guardians | all | 20-08-2026 | 00:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409477.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 28
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | FC Cincinnati vs. New York City Football Club | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409476.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 29
-http://portott.com/live/c4c24c0217/c4b2e86278c6/1409475.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409474.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131
@@ -20316,55 +20316,55 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1409472.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409471.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409470.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 35
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | MLS Countdown | all | 19-08-2026 | 00:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 35
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409469.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 36
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | D.C. United vs. New England Revolution | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409468.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 37
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Orlando City vs. Chicago Fire FC | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 37
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409467.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 38
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Mariners at Brewers | all | 20-08-2026 | 01:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 38
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409466.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 39
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | MLS 360 | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409465.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 40
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Red Bull New York vs. Nashville SC | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409464.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 41
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | MLS La Previa | all | 19-08-2026 | 00:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 41
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409463.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 42
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Columbus Crew at CF Montréal | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 42
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409462.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 43
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Sporting Kansas City at St. Louis CITY | all | 20-08-2026 | 02:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 43
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409461.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 44
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Tempo vs. Mystics | all | 20-08-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409460.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 45
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | EWC - Counter-Strike 2 2026 - Day 7 - Stream A | all | 20-08-2026 | 12:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 45
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409459.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 46
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Trackmania 2026 - Day 2 | all | 20-08-2026 | 13:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 46
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409458.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 47
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | La Vuelta | Présentation des équipes Édition 2026 | all | 20-08-2026 | 19:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 47
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409457.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 48
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | EWC - Counter-Strike 2 2026 - Day 7 - Stream A (French) | all | 20-08-2026 | 12:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409456.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 49
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Cardinals at Reds | all | 20-08-2026 | 18:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409455.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 50
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Crossfire 2026 - Day 3 - Stream B | all | 20-08-2026 | 10:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 50
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409454.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 51
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Crossfire 2026 - Day 3 - Stream A | all | 20-08-2026 | 10:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409453.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 52
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Al Fayha FC vs. Al Hilal FC | all | 20-08-2026 | 19:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 52
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409452.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 53
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Braves at White Sox | all | 20-08-2026 | 20:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 53
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409451.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 54
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Fortnite 2026 - Day 2 | all | 20-08-2026 | 14:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 54
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409450.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 55
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Tour du Limousin-Périgord - Nouvelle Aquitaine | 3e étape Saint-Privat – Égletons (181,8km) | all | 20-08-2026 | 14:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 55
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409449.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 56
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Athletics at Royals | all | 20-08-2026 | 20:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 56
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409448.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 57
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | EWC - Counter-Strike 2 2026 - Day 7 - Stream B | all | 20-08-2026 | 12:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 57
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409447.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 58
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Giants at Guardians | all | 20-08-2026 | 19:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 58
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409446.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 59
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Multiplex : Journée 3 | all | 20-08-2026 | 20:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 59
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409445.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409444.m3u8
@@ -20406,11 +20406,11 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1409427.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409426.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409425.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 80
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Rayo Vallecano vs. Alavés | all | 20-08-2026 | 20:38 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 80
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409424.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 81
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Caen vs. Aubagne AB | all | 20-08-2026 | 20:38 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 81
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409423.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 82
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Fleury vs. Orléans | all | 20-08-2026 | 20:38 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 82
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409422.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 83
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409421.m3u8
@@ -24942,21 +24942,21 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | TOUR OF BRITAIN WOMEN | STAGE 1  | Wed 19 Aug 11:40 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR OF BRITAIN WOMEN | STAGE 2 | Thu 20 Aug 13:10 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DEUTSCHLAND TOUR  | Wed 19 Aug 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | DEUTSCHLAND TOUR  | Thu 20 Aug 14:05 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307814.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR DU LIMOUSIN | STAGE 2 | Wed 19 Aug 14:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR DU LIMOUSIN | STAGE 3 | Thu 20 Aug 14:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307813.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | RENEWI TOUR  | Wed 19 Aug 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR DE L'AVENIR | STAGE 1 | Thu 20 Aug 15:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307812.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | BMW CHAMPIONSHIP | ON THE RANGE | Wed 19 Aug 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | RENEWI TOUR | Thu 20 Aug 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307811.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | BMW CHAMPIONSHIP | DAY 1 | Thu 20 Aug 16:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307810.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ADVENTHEALTH CHAMPIONSHIP | DAY 1 | Thu 20 Aug 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307809.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LA VUELTA | TEAM PRESENTATION | Thu 20 Aug 19:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307808.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307807.m3u8
@@ -37084,25 +37084,25 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | TOUR OF BRITAIN KOBIET | 1. ETAP | Wed 19 Aug 11:40 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR OF BRITAIN KOBIET | 2. ETAP | Thu 20 Aug 13:10 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DEUTSCHLAND TOUR | PROLOG | Wed 19 Aug 14:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | DEUTSCHLAND TOUR | 1. ETAP | Thu 20 Aug 14:05 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168964.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR OF LIMOUSIN | 2. ETAP | Wed 19 Aug 14:45 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR OF LIMOUSIN | 3. ETAP | Thu 20 Aug 14:45 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168963.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | RENEWI TOUR | 1. ETAP | Wed 19 Aug 15:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR DE L'AVENIR | 1. ETAP | Thu 20 Aug 15:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168962.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | BMW CHAMPIONSHIPS | ON THE RANGE | Wed 19 Aug 18:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | RENEWI TOUR | 2. ETAP | Thu 20 Aug 15:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168961.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | BMW CHAMPIONSHIPS | 1. DZIEŃ | Thu 20 Aug 16:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168960.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | BMW CHAMPIONSHIPS | 1. DZIEŃ | WYRÓŻNIONE GRUPY | Thu 20 Aug 16:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168959.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | BMW CHAMPIONSHIPS | 1. DZIEŃ | GRUPA MARQUEE | Thu 20 Aug 16:45 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168958.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ADVENTHEALTH CHAMPIONSHIP | 1. DZIEŃ | Thu 20 Aug 18:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168957.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | VUELTA A ESPANA | PREZENTACJA ZESPOŁÓW | Thu 20 Aug 19:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168956.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168955.m3u8

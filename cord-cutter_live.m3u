@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-19 18:27:47
+# Generated: 2026-08-20 06:49:05
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -1233,6 +1233,44 @@ http://cord-cutter.net:8080/live/315gBa/253680/320377.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: Win Sports+
 http://cord-cutter.net:8080/live/315gBa/253680/320382.m3u8
 
+# --- ESPN + (18) ---
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 02: The Golics @ Aug 19 10:00AM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 03: The Pat McAfee Show @ Aug 19 12:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",8/19 - The Rich Eisen Show @ Aug 19 12:00PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 04: Wed, 8/19 - The Rich Eisen Show @ Aug 19 12:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 05: Atlanta Braves vs. Minnesota Twins @ Aug 19 1:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 06: En Espal-Atlanta Braves vs. Minnesota Twins @ Aug 19 1:30PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 07: Atletico de Madrid vs. Malaga CF (Matchday #1) @ Aug 19 2:30PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328579.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 08: En Espal-Atlico de Madrid vs. Malaga CF (Jornada 1) @ Aug 19 2:55PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 09: Matt & Myron @ Aug 19 3:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328581.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 10: Iowa State Football Press Conference @ Aug 19 3:25PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 11: Truman State vs. Marquette @ Aug 19 4:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",8/19 - ESPN FC @ Aug 19 5:00PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 12: Wed, 8/19 - ESPN FC @ Aug 19 5:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 13: Southern Wesleyan vs. UNC Asheville @ Aug 19 6:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 14: One Knoxville SC vs. Portland Hearts of Pine @ Aug 19 7:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 15: Stonehill vs. Holy Cross @ Aug 19 7:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 16: New York Heights vs. San Francisco Firebells @ Aug 19 7:30PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 17: Sarasota Paradise vs. Chattanooga Red Wolves SC @ Aug 19 7:30PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 18: Union (TN) vs. North Alabama @ Aug 19 8:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 19: Corpus Christi FC vs. New York Cosmos @ Aug 19 8:30PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328591.m3u8
+
 # --- FANDUEL SPORTS (28) ---
 #EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fan Duel TV
 http://cord-cutter.net:8080/live/315gBa/253680/315966.m3u8
@@ -1291,39 +1329,15 @@ http://cord-cutter.net:8080/live/315gBa/253680/316010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Sun N. Florida
 http://cord-cutter.net:8080/live/315gBa/253680/316011.m3u8
 
-# --- Floracing (16) ---
+# --- Floracing (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 01 : FloRacing 24/7
 http://cord-cutter.net:8080/live/315gBa/253680/317243.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 02 : PBR RIDEPASS
 http://cord-cutter.net:8080/live/315gBa/253680/317244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Floracing",USA | Flo Racing 24/7
 http://cord-cutter.net:8080/live/315gBa/253680/325514.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 02: FLORACING 002 | 2026 HASTY BAKE HIGH LIMIT ROOM LIVE AT KNOXVILLE NATIONALS AUG 15 04:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 03: FLORACING 003 | 2026 USAC ROAD RACING AT ROAD AMERICA AUG 15 09:30AM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 04: FLORACING 004 | 2026 KKM CHALLENGE SERIES AT GREENWOOD VALLEY ACTION TRACK AUG 15 05:45PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 05: FLORACING 005 | 2026 IMCA CAPTAIN OF THE CREEK AT 141 SPEEDWAY AUG 15 06:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 06: FLORACING 006 | 2026 GREAT LAKES PRO AM SERIES AT LAKE ERIE SPEEDWAY AUG 15 07:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 07: FLORACING 007 | 2026 LUCAS OIL TOPLESS 100 AT BATESVILLE MOTOR SPEEDWAY AUG 15 07:15PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 08: FLORACING 008 | 2026 SUMMER SHOWDOWN AT EVERGREEN SPEEDWAY AUG 15 08:30PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 09: FLORACING 009 | 2026 NASCAR YOUTH SERIES AT RICHMOND RACEWAY AUG 15 07:00AM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",MI AUG 15 09:30AM ET" tvg-logo="" group-title="Dirt Racing" - Flo Racing 10: FLORACING 010 | 2026 AMSOIL CHAMPIONSHIP OFF-ROAD IN BARK RIVER, MI AUG 15 09:30AM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328378.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 11: FLORACING 011 | 2026 MR. SUPERMODIFIED AT OSWEGO SPEEDWAY AUG 15 04:15PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 12: FLORACING 012 | 2026 CHAMPIONSHIP NIGHT AT FONDA SPEEDWAY AUG 15 05:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 13: FLORACING 013 | 2026 RACE OF CHAMPIONS MODIFIEDS AT LANCASTER MOTORPLEX AUG 15 05:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 14: FLORACING 014 | 2026 NASCAR WEEKLY RACING AT JENNERSTOWN SPEEDWAY AUG 15 05:20PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328382.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 02: FLORACING 002 | 2026 FLORACING NIGHT IN AMERICA AT MASON CITY MOTOR SPEEDWAY AUG 19 05:45PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328573.m3u8
 
 # --- Formula F1 (84) ---
 #EXTINF:-1 tvg-logo="" group-title="Formula F1",F1 Channel
@@ -1975,7 +1989,7 @@ http://cord-cutter.net:8080/live/315gBa/253680/328479.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",Win Sports+
 http://cord-cutter.net:8080/live/315gBa/253680/328480.m3u8
 
-# --- MLB (65) ---
+# --- MLB (66) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://cord-cutter.net:8080/live/315gBa/253680/323887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
@@ -2050,62 +2064,64 @@ http://cord-cutter.net:8080/live/315gBa/253680/328097.m3u8
 http://cord-cutter.net:8080/live/315gBa/253680/328098.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",AK | FAIRBANKS | CBS (KXDF)
 http://cord-cutter.net:8080/live/315gBa/253680/328099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: Chicago White Sox VS Detroit Tigers (Chicago White Sox Feed ) @ 13:10
-http://cord-cutter.net:8080/live/315gBa/253680/328322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: Chicago White Sox VS Detroit Tigers (Detroit Tigers Feed ) @ 13:10
-http://cord-cutter.net:8080/live/315gBa/253680/328323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: St. Louis Cardinals VS Chicago Cubs (Chicago Cubs Feed ) @ 14:20
-http://cord-cutter.net:8080/live/315gBa/253680/328324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: St. Louis Cardinals VS Chicago Cubs (St. Louis Cardinals Feed ) @ 14:20
-http://cord-cutter.net:8080/live/315gBa/253680/328325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: Detroit Tigers VS Pittsburgh Pirates (Pittsburgh Pirates Feed ) @ 12:35
+http://cord-cutter.net:8080/live/315gBa/253680/328541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: Detroit Tigers VS Pittsburgh Pirates (Detroit Tigers Feed ) @ 12:35
+http://cord-cutter.net:8080/live/315gBa/253680/328542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: San Diego Padres VS New York Mets (New York Mets Feed ) @ 13:10
+http://cord-cutter.net:8080/live/315gBa/253680/328543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: San Diego Padres VS New York Mets (San Diego Padres Feed ) @ 13:10
+http://cord-cutter.net:8080/live/315gBa/253680/328544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: Atlanta Braves VS Minnesota Twins (Atlanta Braves Feed ) @ 13:40
+http://cord-cutter.net:8080/live/315gBa/253680/328545.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: Cincinnati Reds VS Colorado Rockies (Rockies.TV Feed ) @ 15:10
-http://cord-cutter.net:8080/live/315gBa/253680/328327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Colorado Rockies VS San Francisco Giants (San Francisco Giants Feed ) @ 16:05
-http://cord-cutter.net:8080/live/315gBa/253680/328329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: Colorado Rockies VS San Francisco Giants (Colorado Rockies Feed ) @ 16:05
-http://cord-cutter.net:8080/live/315gBa/253680/328330.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: Washington Nationals VS New York Mets (FS1 Feed ) @ 16:10
-http://cord-cutter.net:8080/live/315gBa/253680/328331.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: Washington Nationals VS New York Mets (New York Mets Feed ) @ 16:10
-http://cord-cutter.net:8080/live/315gBa/253680/328332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12: Washington Nationals VS New York Mets (Washington Nationals Feed ) @ 16:10
-http://cord-cutter.net:8080/live/315gBa/253680/328333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: Baltimore Orioles VS Tampa Bay Rays (Baltimore Orioles Feed ) @ 18:10
-http://cord-cutter.net:8080/live/315gBa/253680/328334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: Baltimore Orioles VS Tampa Bay Rays (Tampa Bay Rays Feed ) @ 18:10
-http://cord-cutter.net:8080/live/315gBa/253680/328335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Miami Marlins VS Cincinnati Reds (Cincinnati Reds Feed ) @ 18:40
-http://cord-cutter.net:8080/live/315gBa/253680/328336.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: Miami Marlins VS Cincinnati Reds (Miami Marlins Feed ) @ 18:40
-http://cord-cutter.net:8080/live/315gBa/253680/328337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: San Diego Padres VS Cleveland Guardians (San Diego Padres Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18: San Diego Padres VS Cleveland Guardians (Cleveland Guardians Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19: San Diego Padres VS Cleveland Guardians (San Diego Padres Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 20: San Diego Padres VS Cleveland Guardians (San Diego Padres Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 21: Seattle Mariners VS Houston Astros (Houston Astros Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328342.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22: Seattle Mariners VS Houston Astros (Seattle Mariners Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328343.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23: Seattle Mariners VS Houston Astros (Houston Astros Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24: Philadelphia Phillies VS Minnesota Twins (Philadelphia Phillies Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25: Philadelphia Phillies VS Minnesota Twins (Minnesota Twins Feed ) @ 19:10
-http://cord-cutter.net:8080/live/315gBa/253680/328346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 26: Kansas City Royals VS Los Angeles Angels (Kansas City Royals Feed ) @ 21:38
-http://cord-cutter.net:8080/live/315gBa/253680/328347.m3u8
+http://cord-cutter.net:8080/live/315gBa/253680/328546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: Chicago White Sox VS Chicago Cubs (Chicago Cubs Feed ) @ 14:20
+http://cord-cutter.net:8080/live/315gBa/253680/328547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Chicago White Sox VS Chicago Cubs (Chicago White Sox Feed ) @ 14:20
+http://cord-cutter.net:8080/live/315gBa/253680/328548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: Arizona Diamondbacks VS Boston Red Sox (Arizona Diamondbacks Feed ) @ 16:10
+http://cord-cutter.net:8080/live/315gBa/253680/328549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: Arizona Diamondbacks VS Boston Red Sox (Boston Red Sox Feed ) @ 16:10
+http://cord-cutter.net:8080/live/315gBa/253680/328550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: Miami Marlins VS Philadelphia Phillies (Philadelphia Phillies Feed ) @ 18:05
+http://cord-cutter.net:8080/live/315gBa/253680/328551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12: Miami Marlins VS Philadelphia Phillies (Miami Marlins Feed ) @ 18:05
+http://cord-cutter.net:8080/live/315gBa/253680/328552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: New York Yankees VS Baltimore Orioles (Baltimore Orioles Feed ) @ 18:35
+http://cord-cutter.net:8080/live/315gBa/253680/328553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: New York Yankees VS Baltimore Orioles (New York Yankees Feed ) @ 18:35
+http://cord-cutter.net:8080/live/315gBa/253680/328554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: San Francisco Giants VS Cleveland Guardians (Cleveland Guardians Feed ) @ 18:40
+http://cord-cutter.net:8080/live/315gBa/253680/328555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: San Francisco Giants VS Cleveland Guardians (San Francisco Giants Feed ) @ 18:40
+http://cord-cutter.net:8080/live/315gBa/253680/328556.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: St. Louis Cardinals VS Cincinnati Reds (Cincinnati Reds Feed ) @ 18:40
+http://cord-cutter.net:8080/live/315gBa/253680/328557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18: St. Louis Cardinals VS Cincinnati Reds (St. Louis Cardinals Feed ) @ 18:40
+http://cord-cutter.net:8080/live/315gBa/253680/328558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22: Athletics VS Kansas City Royals (Kansas City Royals Feed ) @ 19:40
+http://cord-cutter.net:8080/live/315gBa/253680/328562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23: Athletics VS Kansas City Royals (Athletics Feed ) @ 19:40
+http://cord-cutter.net:8080/live/315gBa/253680/328563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24: Seattle Mariners VS Milwaukee Brewers (Milwaukee Brewers Feed ) @ 19:40
+http://cord-cutter.net:8080/live/315gBa/253680/328564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25: Seattle Mariners VS Milwaukee Brewers (Seattle Mariners Feed ) @ 19:40
+http://cord-cutter.net:8080/live/315gBa/253680/328565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 26: Washington Nationals VS Texas Rangers (Washington Nationals Feed ) @ 20:05
+http://cord-cutter.net:8080/live/315gBa/253680/328566.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 27: Baltimore Orioles VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-http://cord-cutter.net:8080/live/315gBa/253680/328348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 27: Kansas City Royals VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-http://cord-cutter.net:8080/live/315gBa/253680/328349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 28: Texas Rangers VS Athletics (Athletics Feed ) @ 21:40
-http://cord-cutter.net:8080/live/315gBa/253680/328350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 29: Texas Rangers VS Athletics (Texas Rangers Feed ) @ 21:40
-http://cord-cutter.net:8080/live/315gBa/253680/328351.m3u8
+http://cord-cutter.net:8080/live/315gBa/253680/328567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 27: Washington Nationals VS Texas Rangers (Texas Rangers Feed ) @ 20:05
+http://cord-cutter.net:8080/live/315gBa/253680/328568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 28: Los Angeles Angels VS Houston Astros (Houston Astros Feed ) @ 20:10
+http://cord-cutter.net:8080/live/315gBa/253680/328569.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 29: Los Angeles Angels VS Houston Astros (Los Angeles Angels Feed ) @ 20:10
+http://cord-cutter.net:8080/live/315gBa/253680/328570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 30: Los Angeles Dodgers VS Colorado Rockies (Los Angeles Dodgers Feed ) @ 20:40
+http://cord-cutter.net:8080/live/315gBa/253680/328571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 31: Los Angeles Dodgers VS Colorado Rockies (Colorado Rockies Feed ) @ 20:40
+http://cord-cutter.net:8080/live/315gBa/253680/328572.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -90691,7 +90707,7 @@ http://cord-cutter.net:8080/live/315gBa/253680/326194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US Law & Crime
 http://cord-cutter.net:8080/live/315gBa/253680/328196.m3u8
 
-# --- USA | NEWS | REGIONALS (609) ---
+# --- USA | NEWS | REGIONALS (608) ---
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (KXAN) Austin
 http://cord-cutter.net:8080/live/315gBa/253680/17749.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",AK | Anchorage | NBC KTUU
@@ -91156,8 +91172,6 @@ http://cord-cutter.net:8080/live/315gBa/253680/216549.m3u8
 http://cord-cutter.net:8080/live/315gBa/253680/216550.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC 17 (KGET) Bakersfield
 http://cord-cutter.net:8080/live/315gBa/253680/216551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US FOX 35 Orlando (WOFL) (A)
-http://cord-cutter.net:8080/live/315gBa/253680/216552.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS 6 (KAUZ) Wichita Falls (H)
 http://cord-cutter.net:8080/live/315gBa/253680/216554.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US ABC 10 (KAKE) Wichita (H)
@@ -102081,24 +102095,14 @@ http://cord-cutter.net:8080/live/315gBa/253680/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://cord-cutter.net:8080/live/315gBa/253680/121048.m3u8
 
-# --- WNBA (9) ---
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Las Vegas Aces at Indiana Fever Aug 6 7:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328039.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Los Angeles Sparks at Minnesota Lynx Aug 6 9:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328040.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: Toronto Tempo at Portland Fire Aug 6 10:00PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/328041.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: 7:30PM Dallas vs Atlanta
-http://cord-cutter.net:8080/live/315gBa/253680/328042.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: 7:30PM Golden State vs Indiana
-http://cord-cutter.net:8080/live/315gBa/253680/328043.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: 10PM Connecticut vs Seattle
-http://cord-cutter.net:8080/live/315gBa/253680/328044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Atlanta Dream vs Washington Mystics @ 07:30 pm EDT
-http://cord-cutter.net:8080/live/315gBa/253680/328045.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Phoenix Mercury vs Connecticut Sun @ 07:30 pm EDT
-http://cord-cutter.net:8080/live/315gBa/253680/328046.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 : Golden State Valkyries vs Dallas Wings @ 09:30 pm EDT
-http://cord-cutter.net:8080/live/315gBa/253680/328047.m3u8
+# --- WNBA (4) ---
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Toronto Tempo at Washington Mystics Aug 19 7:30PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Minnesota Lynx at Golden State Valkyries Aug 19 10:00PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/328593.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Toronto Tempo vs Washington Mystics @ 07:30 pm EDT
+http://cord-cutter.net:8080/live/315gBa/253680/328594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Minnesota Lynx vs Golden State Valkyries @ 10:00 pm EDT
+http://cord-cutter.net:8080/live/315gBa/253680/328595.m3u8
 
-# Total: 51008
+# Total: 51009
