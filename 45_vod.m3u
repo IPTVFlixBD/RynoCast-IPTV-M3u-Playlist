@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-08-20 18:31:08
+# Generated: 2026-08-21 18:28:09
 # Expires: 2027-08-11
 # Family Safe Edition
 # ==============================================
@@ -5701,7 +5701,13 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/22481.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DramaBite [ English ]",Love Story in a Flower Village
 http://45.139.122.199:8080/movie/Martin1/Martin1/22482.mp4
 
-# --- Movies | English [Multi-Sub] (4480) ---
+# --- Movies | English [Multi-Sub] (4481) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",S&X 2026
+http://45.139.122.199:8080/movie/Martin1/Martin1/23452.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Buried In The Backyard
+http://45.139.122.199:8080/movie/Martin1/Martin1/23447.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Take a Hike! 2026
+http://45.139.122.199:8080/movie/Martin1/Martin1/23436.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Mountain Men Alaska
 http://45.139.122.199:8080/movie/Martin1/Martin1/23425.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",History's Greatest Mysteries
@@ -9928,7 +9934,7 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/1490.mp4
 http://45.139.122.199:8080/movie/Martin1/Martin1/1491.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",X-Ray Earth
 http://45.139.122.199:8080/movie/Martin1/Martin1/1492.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Outer Banks [MULTI-AUDIO]
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Outer Banks
 http://45.139.122.199:8080/movie/Martin1/Martin1/1517.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Small Town News: KPVM Pahrump
 http://45.139.122.199:8080/movie/Martin1/Martin1/1518.mp4
@@ -14650,10 +14656,6 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/23197.mp4
 http://45.139.122.199:8080/movie/Martin1/Martin1/23346.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Lanterns
 http://45.139.122.199:8080/movie/Martin1/Martin1/23416.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Take a Hike 2026
-http://45.139.122.199:8080/movie/Martin1/Martin1/23426.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Beauty and the Billionaire 2025
-http://45.139.122.199:8080/movie/Martin1/Martin1/23428.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Guarded
 http://45.139.122.199:8080/movie/Martin1/Martin1/23431.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Bureau - Falsk Identitet
@@ -15749,7 +15751,7 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/104781.mkv
 #EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/42/4268b7be-687f-4cca-ba03-fd6b144e12df.jpg" group-title="Movies | Kommisarie Montalbano",Kommissarie Montalbano - Spår i sanden [2008]
 http://45.139.122.199:8080/movie/Martin1/Martin1/104782.mkv
 
-# --- Movies | Nordic (1269) ---
+# --- Movies | Nordic (1270) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Den gode stemning - Secrets
 http://45.139.122.199:8080/movie/Martin1/Martin1/22113.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Smash
@@ -15796,6 +15798,8 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/5037.mp4
 http://45.139.122.199:8080/movie/Martin1/Martin1/5066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Cirkus Magaluf
 http://45.139.122.199:8080/movie/Martin1/Martin1/5197.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Blodsoffer - Blood Sacrifice
+http://45.139.122.199:8080/movie/Martin1/Martin1/23435.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Silent attraction
 http://45.139.122.199:8080/movie/Martin1/Martin1/23300.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Ølhunden Berit
@@ -33681,7 +33685,9 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2517736.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Meru [PRE] [2015]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2535870.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (6042) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (6051) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mutiny [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2544087.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Furious [PRE] [2026]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2538438.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfgccePxnswMqhmtxafliLlcCVR.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Jackass: Best and Last [PRE] [2026]
@@ -45766,6 +45772,22 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2542371.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/2542372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",One Mile: Chapter Two [PRE] [2026]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2542386.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEI3DnzQC1afAjJOAizx6UX27pL.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Deathstalker [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2543144.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VcMQdxRDDrAd6ETh1NVxuZ7iYr.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Disney Worldbuilders [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2543145.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Here the Whole Time [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2543146.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iKw3VjDs5TvuM5T2x6kSvb4fTT.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",North to Home [PRE] [2022]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2543147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Novak Djokovic: The Wolf in Winter [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2543148.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv3K4tY70phKeagLEqIjjuLiYCs.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Journey Ahead [PRE] [2022]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2543149.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Carolina Caroline [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2544470.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alpf5v4UqSFawPmG9RX03Or4BDk.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Facing El Chapo [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2544471.mkv
 
 # --- Movies | Recent releases [English subtitles] (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Recent releases [English subtitles]",The Amazing Race
@@ -46053,4 +46075,4 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2173473.mkv
 
-# Total: 22990
+# Total: 23001

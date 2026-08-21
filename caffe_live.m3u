@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-08-20 18:31:14
+# Generated: 2026-08-21 18:42:26
 # Expires: 2026-08-29
 # Family Safe Edition
 # ==============================================
@@ -158,8 +158,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118719.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1337.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/alfatvlogo.png" group-title="BiH",Alfa TV Sarajevo
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1318.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/aljazeera_balkans-logo.png" group-title="BiH",Al Jazeera Balkans
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1336.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTV_HB.png" group-title="BiH",RTV HB
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5726.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTV_TK_Logo.jpg" group-title="BiH",TK Tuzla
@@ -204,6 +202,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118817.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34306.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4DAYit.png" group-title="BiH",RTV Podrinje
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6411.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/favicon-www.televizija5.ba.png" group-title="BiH",Televizija 5
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3244.m3u8
 
 # --- Crna Gora (7) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTCG1-logo.jpg" group-title="Crna Gora",RTCG 1
@@ -247,7 +247,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5547.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-D21pGDqa5S4/WNg3fj86dGI/AAAAAAAADfY/Xc1II26YPyMkG-udRbY4pexYv2LUB3CWACLcB/s1600/Viasat_Film_premiere_2.jpg" group-title="Danska",DK: Viasat Film Premiere
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5545.m3u8
 
-# --- Deutsch (91) ---
+# --- Deutsch (90) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1576.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE (backup)
@@ -304,8 +304,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1560.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1559.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutsch",AXN DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutsch",FOX DE
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1558.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sky_atlantic_de.png" group-title="Deutsch",Atlantik DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1549.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sky_atlantic_de.png" group-title="Deutsch",Atlantik DE (backup)
@@ -967,7 +965,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/116880.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagledam.com/logo/logosehara.jpg" group-title="Music",TV Sehara
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5434.m3u8
 
-# --- NIzozemska (11) ---
+# --- NIzozemska (12) ---
 #EXTINF:-1 tvg-logo="" group-title="NIzozemska",NL: NPO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6891.m3u8
 #EXTINF:-1 tvg-logo="http://ewsat.com/img/NPO.png" group-title="NIzozemska",NL: NPO 2
@@ -988,6 +986,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13670.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6882.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="NIzozemska",Animal Planet (NL)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13669.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="NIzozemska",NL: Boomerang
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6890.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/266px-Comedy_Central_2018.svg.png" group-title="NIzozemska",NL: Comedy Central
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6894.m3u8
 
@@ -1065,7 +1065,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14517.m3u8
 
-# --- Sport (195) ---
+# --- Sport (196) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4731.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_HR_logo.png" group-title="Sport",SK 1
@@ -1330,6 +1330,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118750.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1474.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1473.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD4.png" group-title="Sport",Bein Sports 4
@@ -1360,8 +1362,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14082.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14083.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-extra-1-netherlands.png" group-title="Sport",Ziggo Sports Docu
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",Ziggo Sport Select
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Eleven Sport 1 FHD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4851.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_2_PL_logo.png" group-title="Sport",Eleven Sport 2 FHD
@@ -1406,6 +1406,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34188.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1449.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/barca-tv-plus.png" group-title="Sport",Barca TV (Spa)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",FC Bayern TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",NFL Network
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4814.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Sport",NBA TV
@@ -1457,7 +1459,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Viasat Sport Premium
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5549.m3u8
 
-# --- Srbija (68) ---
+# --- Srbija (69) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1310.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1 (backup)
@@ -1574,6 +1576,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1292.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1291.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/svetplus_logo.png" group-title="Srbija",KCN 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1290.m3u8
+#EXTINF:-1 tvg-logo="https://tvistok.com/wp-content/uploads/2020/02/tvilogo200.png" group-title="Srbija",TV Istok
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/78098.m3u8
 #EXTINF:-1 tvg-logo="https://tvistok.com/wp-content/uploads/2020/02/tvilogo200.png" group-title="Srbija",TV ISTOK 2
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/78099.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/UNA_TV_HR_logo.png" group-title="Srbija",UNA TV Sr
@@ -1625,7 +1629,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53710.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/TRT_World_TR_logo.png" group-title="Turk",TRT World
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53706.m3u8
 
-# --- UK & USA (24) ---
+# --- UK & USA (25) ---
 #EXTINF:-1 tvg-logo="" group-title="UK & USA",BBC One UK
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1601.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bbc-two-logo.png" group-title="UK & USA",BBC Two UK
@@ -1648,6 +1652,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1595.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6634.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/RTE-One_logo.png" group-title="UK & USA",RTE ONE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6632.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK & USA",RTE Two
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6633.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="UK & USA",National Geographic Channel UK
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1594.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png" group-title="UK & USA",Nat Geo Wild UK
@@ -1685,4 +1691,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/79256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 816
+# Total: 819

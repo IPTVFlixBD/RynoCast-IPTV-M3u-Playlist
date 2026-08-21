@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-20 18:34:53
+# Generated: 2026-08-21 18:32:03
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1231,7 +1231,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1699) ---
+# --- Movies | Films (1702) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQRKadGZSBUjkFfjF7kDV047MUN.jpg" group-title="Movies | Films",Bagarre (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30128.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVB83xtAhdQ0DIjmomXwfH68Ro.jpg" group-title="Movies | Films",Soumsoum, la nuit des astres (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30127.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idXsnt9nkmeVo32Zoa9IuE4V0wV.jpg" group-title="Movies | Films",Pour le meilleur (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30126.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg" group-title="Movies | Films",Black Box (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30124.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gP7maqMVoQPXYi1rtCJ1kpSpNTA.jpg" group-title="Movies | Films",Speed Demon (2026)
@@ -7969,7 +7975,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (341) ---
+# --- Series | Series divers (343) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8652,5 +8658,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1275
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1276
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Average Joe
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1277
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Tip Toe
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1278
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sacrifice de Sang
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1279
 
-# Total: 4293
+# Total: 4298
