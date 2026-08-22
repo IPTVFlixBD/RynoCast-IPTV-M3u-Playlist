@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-08-22 06:53:34
+# Generated: 2026-08-22 18:32:46
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -773,7 +773,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/21872.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - APPLE+ [MULTISUB]",A+ - Monarch: Legacy of Monsters
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22303.mp4
 
-# --- Movies | SRS - COMEDIE [FR] (169) ---
+# --- Movies | SRS - COMEDIE [FR] (171) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - COMEDIE [FR]",FR - Trop Mortel (2024) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34107.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - COMEDIE [FR]",FR - Based on a True Story (2023) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34105.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - COMEDIE [FR]",FR - Philadelphia (2005) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - COMEDIE [FR]",FR - Dolmen (2005) (FR)
@@ -21529,7 +21533,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22712.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Chrissy & Dave Dine Out (2024)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22713.mp4
 
-# --- Movies | SRS - PARAMOUNT+ [FR] (101) ---
+# --- Movies | SRS - PARAMOUNT+ [FR] (102) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PARAMOUNT+ [FR]",FR - Average Joe (2023) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34104.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PARAMOUNT+ [FR]",FR - Diarra from Detroit (2024) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34016.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - PARAMOUNT+ [FR]",FR - Insomnia (2024) (GB)
@@ -23535,7 +23541,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22427.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - REALITY SHOWS [EN]",EN - Help! My House Is Haunted! (2018)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22731.mp4
 
-# --- Movies | SRS - SCIENCE-FICTION [FR] (128) ---
+# --- Movies | SRS - SCIENCE-FICTION [FR] (129) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - SCIENCE-FICTION [FR]",FR - Ascension (2014) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34103.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - SCIENCE-FICTION [FR]",FR - Les Contes de la crypte (1989) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34009.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - SCIENCE-FICTION [FR]",FR - L'Odyssée (1997) (DE)
@@ -113781,7 +113789,13 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/22725
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/16970
 
-# --- Series | SRS - SERIES 2026 [FR] (220) ---
+# --- Series | SRS - SERIES 2026 [FR] (223) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Tip Toe (2026) (GB)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/34109
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Jaadugar, la légende de Fatima (2026) (JP)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/34108
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Blood Sacrifice (2026) (SE)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/34106
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Umthetho: La Loi des Freres (2026) (ZA)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/34100
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Les Sartori, une histoire italienne (2026) (IT)
@@ -114399,4 +114413,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 57081
+# Total: 57088
