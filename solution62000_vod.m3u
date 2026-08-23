@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-22 18:28:40
+# Generated: 2026-08-23 18:26:36
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -277,7 +277,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (256) ---
+# --- Movies | Dessins Animés (257) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h1FVf2kiS1964VsGmkYQHJoVsHe.jpg" group-title="Movies | Dessins Animés",Les Légendaires (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28205.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
@@ -790,6 +790,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5222.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7191.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2bt3UomRX41rHHZmIsSNmXzidU.jpg" group-title="Movies | Dessins Animés",Toy Story 5 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30064.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwIjtLG5YV9CFwavZll0v4NZ9JJ.jpg" group-title="Movies | Dessins Animés",LEGO Disney Princesses : Pagaille au Château (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30165.mkv
 
 # --- Movies | Disney+ (83) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg" group-title="Movies | Disney+",Descendants : La Malédiction du Pays des Merveilles (2026)
@@ -1231,7 +1233,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1702) ---
+# --- Movies | Films (1703) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1020OYhA1YRAZISRNZgQ7TCXZl8.jpg" group-title="Movies | Films",The Fires (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30166.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQRKadGZSBUjkFfjF7kDV047MUN.jpg" group-title="Movies | Films",Bagarre (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30128.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVB83xtAhdQ0DIjmomXwfH68Ro.jpg" group-title="Movies | Films",Soumsoum, la nuit des astres (2026)
@@ -5605,7 +5609,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (518) ---
+# --- Movies | NETFLIX (519) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky4Bk14mhlb16Vw2fqCPou6inR9.jpg" group-title="Movies | NETFLIX",La captura (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30164.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg" group-title="Movies | NETFLIX",Don't Say Good Luck (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30041.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2eEuRsrK7JZQHxs7zBOmiOJIXdx.jpg" group-title="Movies | NETFLIX",Fous Furieux (2026)
@@ -6993,7 +6999,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (200) ---
+# --- Movies | prime video (201) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg" group-title="Movies | prime video",Back to the 90s (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30167.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3imTq5MFDmqUuVb9qFdlSAhZ98.jpg" group-title="Movies | prime video",La Course des animaux (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29908.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | prime video",Wildcat (2026)
@@ -8663,4 +8671,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1278
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Sacrifice de Sang
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1279
 
-# Total: 4298
+# Total: 4302
