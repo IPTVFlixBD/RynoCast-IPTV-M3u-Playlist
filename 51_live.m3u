@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-22 18:22:32
+# Generated: 2026-08-23 06:52:21
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -2003,11 +2003,21 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (2) ---
+# --- DE-DAZN EVENT (7) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Upper Hutt City vs. FC Western
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Udinese - Como
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188636.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Inter - Monza
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Valencia - Celta Vigo
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Parma - Cagliari
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Espanyol - Real Madrid
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Toulouse - Lyon
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188719.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -2879,25 +2889,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/137645.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DK: DENMARK",DK: TV2 Play 10 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/137646.m3u8
 
-# --- ES: SPAIN (63) ---
+# --- ES: SPAIN (55) ---
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",##### SPAIN ####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES|  M. DEPORTES 1 FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| BOM CINE HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| BOM CINE FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| RED BULL TV HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Movistar NEGOCIOS HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Televisión de GALicia Europa
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| DAZN La Liga 1 SD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| DAZN La Liga 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/167822.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: AMC BREAK FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/168017.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: AMC CRIME FHD
@@ -7505,4 +7499,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3691
+# Total: 3688

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-21 18:32:25
+# Generated: 2026-08-23 06:49:49
 # Expires: 2026-09-24
 # Family Safe Edition
 # ==============================================
@@ -18,7 +18,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/325109.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/325110.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DINOSAURS
 http://tvmate.icu:8080/live/VM121628/56784321/325111.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",DRIVE-INS AND DIVES" tvg-logo="" group-title="24/7" - 24/7 DINERS, DRIVE-INS AND DIVES
+#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DINERS, DRIVE-INS AND DIVES
 http://tvmate.icu:8080/live/VM121628/56784321/325112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DIFF'RENT STROKES
 http://tvmate.icu:8080/live/VM121628/56784321/325113.m3u8
@@ -1210,7 +1210,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/108547.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/119471.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Star TV Sports
 http://tvmate.icu:8080/live/VM121628/56784321/53708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Star TV Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",CAR: RUSH SPORT
 http://tvmate.icu:8080/live/VM121628/56784321/53709.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Television Caribbean
 http://tvmate.icu:8080/live/VM121628/56784321/216085.m3u8
@@ -1227,9 +1227,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/164888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chile",CHILE: CNN CHILE HD
 http://tvmate.icu:8080/live/VM121628/56784321/164892.m3u8
 
-# --- Colombia (36) ---
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: CARACOL INTERNACIONAL HD
-http://tvmate.icu:8080/live/VM121628/56784321/78701.m3u8
+# --- Colombia (32) ---
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: RCN FHD
 http://tvmate.icu:8080/live/VM121628/56784321/78694.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",COL: TELECARIBE HD
@@ -1242,12 +1240,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/320251.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/320255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: CARACOL
 http://tvmate.icu:8080/live/VM121628/56784321/320297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: CARACOL
-http://tvmate.icu:8080/live/VM121628/56784321/320298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: CARACOL INTERNACIONAL
-http://tvmate.icu:8080/live/VM121628/56784321/320302.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CO: CARACOL VIP
-http://tvmate.icu:8080/live/VM121628/56784321/320304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: CITY TV VIP
 http://tvmate.icu:8080/live/VM121628/56784321/320306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: ESPN 2
@@ -1301,389 +1293,169 @@ http://tvmate.icu:8080/live/VM121628/56784321/320377.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: Win Sports+
 http://tvmate.icu:8080/live/VM121628/56784321/320382.m3u8
 
-# --- ESPN + (157) ---
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 02: BMW Championship: Main Feed (First Round) @ Aug 20 10:00AM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 03: PGA TOUR LIVE BetCast Presented by DraftKings (First Round) @ Aug 20 10:30AM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329158.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 04: BMW Championship: Woodland & Fox Featured Groups (First Round) @ Aug 20 10:30AM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 05: BMW Championship: Morikawa Marquee Group (First Round) @ Aug 20 10:45AM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329160.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 06: FC Kairat Almaty vs. Anderlecht (UEFA Europa League) @ Aug 20 11:00AM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 07: Old Dominion vs. George Washington @ Aug 20 12:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329162.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 08: VCU vs. Delaware @ Aug 20 12:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329163.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",8/20 - The Rich Eisen Show @ Aug 20 12:00PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 09: Thu, 8/20 - The Rich Eisen Show @ Aug 20 12:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329164.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 10: Temple vs. Villanova @ Aug 20 12:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329165.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 11: The Pat McAfee Show @ Aug 20 12:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 12: Rutgers vs. American University @ Aug 20 1:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329167.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 13: UNC Wilmington vs. UMBC @ Aug 20 1:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 14: Atlanta Braves vs. Chicago White Sox @ Aug 20 1:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329169.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 15: Paok FC vs. SK Brann @ Aug 20 1:45PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 16: Emory & Henry vs. Gardner-Webb @ Aug 20 2:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329171.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 17: Flames Central @ Aug 20 2:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329172.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 18: En Espal-Atlanta Braves vs. Chicago White Sox @ Aug 20 2:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329173.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 19: Motherwell vs. Freiburg @ Aug 20 2:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 20: Heart of Midlothian vs. SK Rapid Wien @ Aug 20 2:45PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329175.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 21: Rayo Vallecano vs. D. Alaves (Matchday #2) @ Aug 20 2:50PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329176.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 22: En Espal-Rayo Vallecano vs. D. Alav (Jornada 2) @ Aug 20 2:55PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 23: St. Bonaventure vs. Cornell @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329178.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 24: BMW Championship: Featured Hole #13 (First Round) @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 25: Matt & Myron @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329180.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 26: Lafayette vs. Duquesne @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 27: BMW Championship: Scheffler Featured Group (First Round) @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 29: BMW Championship: McIlroy Featured Group (First Round) @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329184.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 30: American University vs. Richmond @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 31: Central Michigan vs. Charleston Southern @ Aug 20 3:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 32: Mount St. Mary's vs. Bucknell @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 33: NJIT vs. Massachusetts @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 34: Fairmont State vs. UMBC @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 35: Monmouth vs. Providence @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 36: Colgate vs. Marist @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 37: Marshall vs. High Point @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 38: South Dakota vs. Green Bay @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 39: Towson vs. St. John's @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 40: William & Mary vs. Army @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 41: Cleveland State vs. Santa Clara @ Aug 20 4:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 42: Pittsburgh vs. Loyola Marymount @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",8/20 - ESPN FC @ Aug 20 5:00PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 43: Thu, 8/20 - ESPN FC @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 44: Omaha vs. Northern Iowa @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 45: Northern Illinois vs. Butler @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 46: Denver vs. DePaul @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 47: Illinois State vs. Lindenwood @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 48: UAlbany vs. Siena @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 49: Texas Southern vs. Incarnate Word @ Aug 20 5:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 50: South Carolina vs. North Florida @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 51: Stony Brook vs. Harvard @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 52: Chattanooga vs. Belmont @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 53: Southern Indiana vs. Milwaukee @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 54: Rider vs. James Madison @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 55: Kent State vs. Youngstown State @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 56: East Tennessee State vs. Queens University @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 57: Davidson vs. South Carolina Upstate @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 58: Northeastern vs. Holy Cross @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 59: Akron vs. Southern Indiana @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 60: Massachusetts vs. #10 Bryant @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 61: Missouri State vs. Kansas State @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 62: Pennsylvania vs. George Mason @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 63: St. John's vs. Loyola Maryland @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 64: George Mason vs. #13 Vermont @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 65: California vs. Pepperdine @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 66: Northern Kentucky vs. UNC Asheville @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 67: Boston University vs. Fairfield @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 68: West Georgia vs. East Tennessee State @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 69: Western Carolina vs. App State @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 70: Iowa State vs. Drake @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 71: UMass Lowell vs. Dartmouth @ Aug 20 6:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 72: New Hampshire vs. Colgate @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 73: Florida Atlantic vs. Mercer @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 74: Toledo vs. Detroit Mercy @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 75: Evansville vs. Bellarmine @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 76: Boston University vs. UCF @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 77: Loyola Chicago vs. Green Bay @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 78: VMI vs. Winthrop @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 79: VA Commonwealth vs. #14 UNC Greensboro @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 80: #23 Penn State vs. #22 West Virginia @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 81: St. Bonaventure vs. Niagara @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 82: New Haven vs. Brown @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 83: Vermont vs. Yale @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 84: Saint Mary's of the Woods vs. Indiana State @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 85: Dayton vs. #12 Akron @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 86: Long Island University vs. Temple @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 87: Duquesne vs. Cleveland State @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 88: Alabama State vs. South Alabama @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 89: Georgia State vs. Samford @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 90: Binghamton vs. Mount St. Mary's @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 91: Kentucky vs. Dayton @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 92: Winthrop vs. South Florida @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 93: Florida Gulf Coast vs. Georgia Southern @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 94: Manhattan vs. Fordham @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 95: Stony Brook vs. Marist @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 96: Ferrum vs. Presbyterian @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 97: Oakland vs. Marquette @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 98: Southeast Missouri State vs. Evansville @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 99: Loyola Maryland vs. Princeton @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 100: Florida International vs. Creighton @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 102: Wright State vs. Bowling Green @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 103: Eastern Washington vs. UIC @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 104: Air Force vs. Army @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 105: Miami vs. Little Rock @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 106: #23 West Virginia vs. Charlotte @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 107: DePaul vs. Bradley @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 108: Air Force vs. Navy @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 109: Wofford vs. Gardner-Webb @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 110: Sacred Heart vs. Providence @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 111: Northeastern vs. Rhode Island @ Aug 20 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 112: Fairfield vs. #17 Marshall @ Aug 20 7:10PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 113: New York Heights vs. Boston Hunters @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 114: Western Michigan vs. Kentucky @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329269.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 115: Prairie View A&M vs. UT Rio Grande Valley @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 116: North Carolina vs. #5 Georgetown @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329271.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 117: #20 Hofstra vs. Bucknell @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329272.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 118: Ball State vs. Butler @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329273.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 119: Long Island University vs. #16 High Point @ Aug 20 7:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 120: UC Davis vs. Sacramento State @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329275.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 121: Northwestern State vs. Houston @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329276.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 122: Middle Tennessee vs. UT Martin @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329277.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 123: Tulsa vs. Stephen F. Austin @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329278.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 124: Lamar vs. Louisiana Tech @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 125: Louisiana vs. East Texas A&M @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 126: UC Davis vs. Saint Mary's @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 127: Jackson State vs. McNeese @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 128: Western Illinois vs. Valparaiso @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 129: Alcorn State vs. Nicholls @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 130: New Mexico State vs. Abilene Christian @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 131: UAB vs. Western Kentucky @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 132: Lipscomb vs. UAB @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 133: UMass Lowell vs. Incarnate Word @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 134: UTEP vs. Tarleton State @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 135: Troy vs. SE Louisiana @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 136: Chicago State vs. Lindenwood @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 137: UIC vs. Tulsa @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 138: Seattle U vs. #4 Saint Louis @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 139: Radford vs. Tennessee Tech @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 140: Austin Peay vs. SIU Edwardsville @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329295.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 141: Oklahoma vs. Oklahoma State @ Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 142: Colorado College vs. UTSA @ Aug 20 8:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",8/20 - Futbol Americas @ Aug 20 8:30PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 143: Thu, 8/20 - Futbol Americas @ Aug 20 8:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 144: Memphis vs. Belmont @ Aug 20 8:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 145: Central Arkansas vs. Drake @ Aug 20 8:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 146: Cal Poly vs. Denver @ Aug 20 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329301.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 147: Cal State Fullerton vs. #17 Colorado @ Aug 20 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329302.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 148: Pacific vs. Utah Valley @ Aug 20 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 149: Sacramento State vs. San Francisco @ Aug 20 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 150: Westminster (UT) vs. Utah Tech @ Aug 20 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 151: #19 Oregon State vs. UC Irvine @ Aug 20 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329306.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 152: Montana vs. Seattle U @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329307.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 153: Utah Tech vs. Cal State Bakersfield @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 154: Nevada vs. Pacific @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329309.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 155: Idaho State vs. Cal State Northridge @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329310.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 156: Portland State vs. California Baptist @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329311.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 157: Texas vs. Arizona State @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 158: Navy vs. UC San Diego @ Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 159: Oregon vs. Santa Clara @ Aug 20 10:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329314.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 160: San JosState vs. UC Santa Barbara @ Aug 20 10:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329315.m3u8
+# --- Dirtvision (8) ---
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 01: 8.22.26 | Millbridge Speedway @ 22 Aug 05:30 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 02: 8.22.26 | Cedar Lake Speedway  @ 22 Aug 06:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 03: 8.22.26 | Land of Legends Raceway @ 22 Aug 06:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 04: 8.22.26 | Sharon Speedway @ 22 Aug 06:30 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 05: 8.22.26 | Jackson Motorplex @ 22 Aug 07:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 06: 8.22.26 | Maquoketa Speedway @ 22 Aug 07:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 07: 8.22.26 | DIRT Zone @ 22 Aug 07:30 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 08: 8.22.26 | Riverside International Speedway @ 22 Aug 08:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329529.m3u8
 
-# --- FANDUEL SPORTS (28) ---
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fan Duel TV
-http://tvmate.icu:8080/live/VM121628/56784321/315966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Cincinnati Plus
-http://tvmate.icu:8080/live/VM121628/56784321/315967.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports South (Tennessee)
-http://tvmate.icu:8080/live/VM121628/56784321/315971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports SouthEast (Tennessee)
-http://tvmate.icu:8080/live/VM121628/56784321/315972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports SouthWest (Dallas)
-http://tvmate.icu:8080/live/VM121628/56784321/315973.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports SouthWest (San Antonio)
-http://tvmate.icu:8080/live/VM121628/56784321/315974.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports SouthWest Plus (San Antonio)
-http://tvmate.icu:8080/live/VM121628/56784321/315975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Sun (Miami)
-http://tvmate.icu:8080/live/VM121628/56784321/315976.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Wisconsin Plus
-http://tvmate.icu:8080/live/VM121628/56784321/315977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA |  FanDuel Sports Wisconsin
-http://tvmate.icu:8080/live/VM121628/56784321/315978.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Cincinati
-http://tvmate.icu:8080/live/VM121628/56784321/315984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Cincinnati
-http://tvmate.icu:8080/live/VM121628/56784321/315985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Detroit Plus
-http://tvmate.icu:8080/live/VM121628/56784321/315987.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Detroit Plus
-http://tvmate.icu:8080/live/VM121628/56784321/315988.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Florida
-http://tvmate.icu:8080/live/VM121628/56784321/315989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Florida (North)
-http://tvmate.icu:8080/live/VM121628/56784321/315991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Indiana
-http://tvmate.icu:8080/live/VM121628/56784321/315993.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Midwest
-http://tvmate.icu:8080/live/VM121628/56784321/315994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Midwest Plus
-http://tvmate.icu:8080/live/VM121628/56784321/315995.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports North Plus
-http://tvmate.icu:8080/live/VM121628/56784321/315998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Oklahoma
-http://tvmate.icu:8080/live/VM121628/56784321/316000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Oklahoma Plus
-http://tvmate.icu:8080/live/VM121628/56784321/316001.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports South
-http://tvmate.icu:8080/live/VM121628/56784321/316005.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports South Plus
-http://tvmate.icu:8080/live/VM121628/56784321/316006.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Southeast (North Carolina)
-http://tvmate.icu:8080/live/VM121628/56784321/316008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | FANDUEL Sports Detroit
-http://tvmate.icu:8080/live/VM121628/56784321/316009.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | FanDuel Sports Great Lakes
-http://tvmate.icu:8080/live/VM121628/56784321/316010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FANDUEL SPORTS",USA | Fanduel Sports Sun N. Florida
-http://tvmate.icu:8080/live/VM121628/56784321/316011.m3u8
+# --- ESPN + (55) ---
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 02: BMW Championship: Griffin Marquee Group (Third Round) @ Aug 22 9:15AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 03: PGA TOUR LIVE BetCast Presented by DraftKings (Third Round) @ Aug 22 9:30AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 04: BMW Championship: Fowler & Fleetwood Featured Groups (Third Round) @ Aug 22 10:00AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 05: Fortuna Sittard vs. AZ @ Aug 22 10:25AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 06: En Espal-Fortuna Sittard vs. AZ @ Aug 22 10:25AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 07: Athletic Club vs. Sevilla FC (Matchday #2) @ Aug 22 10:30AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 08: En Espal-Real Oviedo vs. Legan (Jornada 2) @ Aug 22 10:50AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 09: Real Oviedo vs. Leganes (Matchday #2) @ Aug 22 10:50AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 10: En Espal-Athletic Club vs. Sevilla FC (Jornada 2) @ Aug 22 10:55AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 11: 2026 APP Detroit Open @ Aug 22 11:30AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 12: North Dakota vs. Eastern Michigan @ Aug 22 11:30AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329556.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 13: Columbia (SC) vs. Charleston Southern @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 14: Regent vs. VMI @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 15: BMW Championship: Thomas Featured Group (Third Round) @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329559.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 16: BMW Championship: Scheffler Featured Group (Third Round) @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 17: BMW Championship: Featured Hole #13 (Third Round) @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 18: Gannon vs. Bowling Green @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 19: Chicago State vs. Indiana State @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 20: Baltimore Ravens vs. Minnesota Vikings @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 21: En Espal-Little League World Series @ Aug 22 1:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 23: En Espal-Valencia CF vs. Celta de Vigo (Jornada 2) @ Aug 22 1:15PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 24: Valencia CF vs. Celta de Vigo (Matchday #2) @ Aug 22 1:20PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 27: San Francisco Firebells vs. Boston Hunters @ Aug 22 2:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 28: The MidAtlantic (Day 2) @ Aug 22 2:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329572.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 29: RCD Espanyol vs. Real Madrid (Matchday #2) @ Aug 22 3:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 30: En Espal-RCD Espanyol vs. Real Madrid (Jornada 2) @ Aug 22 3:25PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 31: New Orleans Saints vs. Los Angeles Rams @ Aug 22 4:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 32: Southern Utah vs. Utah @ Aug 22 5:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",8/22 - ESPN FC @ Aug 22 5:00PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 33: Sat, 8/22 - ESPN FC @ Aug 22 5:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 34: En Espal-Little League World Series @ Aug 22 5:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 35: En Espal - PFL Tampa (Prelims) @ Aug 22 5:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329579.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 36: PFL Tampa (Prelims) @ Aug 22 5:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 37: Quincy vs. Western Illinois @ Aug 22 6:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329581.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 38: Loudoun United FC vs. New Mexico United @ Aug 22 6:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 39: Ottawa Rapid FC vs. Vancouver Rise FC @ Aug 22 6:55PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 40: Chattanooga Red Wolves SC vs. New York Cosmos @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 41: Detroit City FC vs. Tampa Bay Rowdies @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 42: Union Omaha vs. Sarasota Paradise @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 43: Indy Eleven vs. Louisville City FC @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 44: Richmond Kickers vs. Portland Hearts of Pine @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 45: Lexington Sporting Club vs. Las Vegas Lights FC @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 46: Brooklyn FC vs. Pittsburgh Riverhounds SC @ Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 47: Rhode Island FC vs. Monterey Bay FC @ Aug 22 7:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 48: New York Heights vs. Los Angeles Queens @ Aug 22 7:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 49: Banana Ball Live Presented by DQ @ Aug 22 7:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329593.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 50: One Knoxville SC vs. Athletic Club Boise @ Aug 22 7:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 51: Kansas City Chiefs vs. Tampa Bay Buccaneers @ Aug 22 7:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 52: Forward Madison FC vs. Charlotte Independence @ Aug 22 8:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 53: Birmingham Legion FC vs. Sporting Club Jacksonville @ Aug 22 8:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 54: Corpus Christi FC vs. Westchester SC @ Aug 22 8:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329598.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 55: San Antonio FC vs. Oakland Roots SC @ Aug 22 9:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329599.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 56: Colorado Springs Switchbacks FC vs. El Paso Locomotive FC @ Aug 22 9:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 57: USC vs. #9 BYU @ Aug 22 9:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329601.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 58: Spokane Velocity FC vs. Greenville Triumph SC @ Aug 22 9:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329602.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 59: AV Alta FC vs. FC Naples @ Aug 22 11:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329603.m3u8
 
-# --- Floracing (4) ---
+# --- Floracing (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Floracing",USA | Flo Racing 24/7
-http://tvmate.icu:8080/live/VM121628/56784321/325514.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 01: FLORACING 001 | PBR RIDEPASS AUG 20 04:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 02: FLORACING 002 | 2026 SOUTHERN NATIONALS AT TOCCOA RACEWAY AUG 20 06:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 03: FLORACING 003 | 2026 HIGH LIMIT RACING AT SANTA MARIA SPEEDWAY AUG 20 07:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329156.m3u8
+http://tvmate.icu:8080/live/VM121628/56784321/329530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",FloRacing 24/7 (FloRacing 247)
+http://tvmate.icu:8080/live/VM121628/56784321/329531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 01: FLORACING 001 | PBR RIDEPASS AUG 22 04:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 02: FLORACING 002 | 2026 THE WORLD FUEL ALTERED NATIONALS AUG 22 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 03: FLORACING 003 | 2026 HIGH LIMIT RACING AT TULARE THUNDERBOWL RACEWAY AUG 22 07:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 04: FLORACING 004 | 2026 USAC BETTENHAUSEN 100 AT ILLINOIS STATE FAIRGROUNDS AUG 22 10:00AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329535.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 05: FLORACING 005 | 2026 AMERICAN FLAT TRACK AT PEORIA TT AUG 22 11:25AM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 06: FLORACING 006 | 2026 NASCAR WHELEN MODIFIED TOUR AT NEW HAMPSHIRE MOTOR SPEEDWAY AUG 22 03:15PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 07: FLORACING 007 | 2026 CARS TOUR AT ANDERSON MOTOR SPEEDWAY AUG 22 03:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 08: FLORACING 008 | 2026 NASCAR WEEKLY RACING AT JENNERSTOWN SPEEDWAY AUG 22 04:45PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 09: FLORACING 009 | 2026 IRA SPRINTS AT WILMOT RACEWAY AUG 22 04:50PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 10: FLORACING 010 | 2026 NAPA ALL STAR CIRCUIT OF CHAMPIONS AT BUTLER SPEEDWAY AUG 22 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 11: FLORACING 011 | 2026 LIVING LEGENDS DREAM RACE AT PORT ROYAL SPEEDWAY AUG 22 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 12: FLORACING 012 | 2026 RACE OF CHAMPIONS SPORTSMAN AT SHANGRI-LA II SPEEDWAY AUG 22 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 13: FLORACING 013 | 2026 NASCAR WEEKLY RACING AT BERLIN RACEWAY AUG 22 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 14: FLORACING 014 | 2026 CHAMPIONSHIP NIGHT AT OSWEGO SPEEDWAY AUG 22 05:15PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329545.m3u8
 
 # --- Formula F1 (84) ---
 #EXTINF:-1 tvg-logo="" group-title="Formula F1",F1 Channel
@@ -2313,7 +2085,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/328480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",CO: DIRECTV SPORTS
 http://tvmate.icu:8080/live/VM121628/56784321/329120.m3u8
 
-# --- MLB (55) ---
+# --- MLB (63) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://tvmate.icu:8080/live/VM121628/56784321/323887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
@@ -2388,42 +2160,58 @@ http://tvmate.icu:8080/live/VM121628/56784321/328097.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/328098.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",AK | FAIRBANKS | CBS (KXDF)
 http://tvmate.icu:8080/live/VM121628/56784321/328099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: St. Louis Cardinals VS Cincinnati Reds (Cincinnati Reds Feed ) @ 12:40
-http://tvmate.icu:8080/live/VM121628/56784321/329135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: St. Louis Cardinals VS Cincinnati Reds (St. Louis Cardinals Feed ) @ 12:40
-http://tvmate.icu:8080/live/VM121628/56784321/329136.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: San Francisco Giants VS Cleveland Guardians (Cleveland Guardians Feed ) @ 13:10
-http://tvmate.icu:8080/live/VM121628/56784321/329137.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: San Francisco Giants VS Cleveland Guardians (San Francisco Giants Feed ) @ 13:10
-http://tvmate.icu:8080/live/VM121628/56784321/329138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: Atlanta Braves VS Milwaukee Brewers (Milwaukee Brewers Feed ) @ 14:10
+http://tvmate.icu:8080/live/VM121628/56784321/329475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: Atlanta Braves VS Milwaukee Brewers (Atlanta Braves Feed ) @ 14:10
+http://tvmate.icu:8080/live/VM121628/56784321/329476.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: Cincinnati Reds VS Colorado Rockies (Rockies.TV Feed ) @ 15:10
-http://tvmate.icu:8080/live/VM121628/56784321/329140.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: Athletics VS Kansas City Royals (Athletics Feed ) @ 14:10
-http://tvmate.icu:8080/live/VM121628/56784321/329141.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Athletics VS Kansas City Royals (Kansas City Royals Feed ) @ 14:10
-http://tvmate.icu:8080/live/VM121628/56784321/329142.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: Atlanta Braves VS Chicago White Sox (Chicago White Sox Feed ) @ 14:10
-http://tvmate.icu:8080/live/VM121628/56784321/329143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: Atlanta Braves VS Chicago White Sox (Atlanta Braves Feed ) @ 14:10
-http://tvmate.icu:8080/live/VM121628/56784321/329144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: Seattle Mariners VS Milwaukee Brewers (Milwaukee Brewers Feed ) @ 14:10
-http://tvmate.icu:8080/live/VM121628/56784321/329145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12: Seattle Mariners VS Milwaukee Brewers (Seattle Mariners Feed ) @ 14:10
-http://tvmate.icu:8080/live/VM121628/56784321/329146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: New York Yankees VS Baltimore Orioles (New York Yankees Feed ) @ 18:35
-http://tvmate.icu:8080/live/VM121628/56784321/329147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: New York Yankees VS Baltimore Orioles (Baltimore Orioles Feed ) @ 18:35
-http://tvmate.icu:8080/live/VM121628/56784321/329148.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Washington Nationals VS Texas Rangers (Washington Nationals Feed ) @ 20:05
-http://tvmate.icu:8080/live/VM121628/56784321/329149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: Washington Nationals VS Texas Rangers (Texas Rangers Feed ) @ 20:05
-http://tvmate.icu:8080/live/VM121628/56784321/329150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: Washington Nationals VS Texas Rangers (FS1 Feed ) @ 20:05
-http://tvmate.icu:8080/live/VM121628/56784321/329151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18: Los Angeles Angels VS Houston Astros (Houston Astros Feed ) @ 20:10
-http://tvmate.icu:8080/live/VM121628/56784321/329152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19: Los Angeles Angels VS Houston Astros (Los Angeles Angels Feed ) @ 20:10
-http://tvmate.icu:8080/live/VM121628/56784321/329153.m3u8
+http://tvmate.icu:8080/live/VM121628/56784321/329477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: Washington Nationals VS Miami Marlins (Washington Nationals Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/329478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Washington Nationals VS Miami Marlins (Miami Marlins Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/329479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: St. Louis Cardinals VS Philadelphia Phillies (Philadelphia Phillies Feed ) @ 18:05
+http://tvmate.icu:8080/live/VM121628/56784321/329480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: St. Louis Cardinals VS Philadelphia Phillies (St. Louis Cardinals Feed ) @ 18:05
+http://tvmate.icu:8080/live/VM121628/56784321/329481.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: Tampa Bay Rays VS Baltimore Orioles (Baltimore Orioles Feed ) @ 19:05
+http://tvmate.icu:8080/live/VM121628/56784321/329482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12: Tampa Bay Rays VS Baltimore Orioles (Tampa Bay Rays Feed ) @ 19:05
+http://tvmate.icu:8080/live/VM121628/56784321/329483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: Los Angeles Angels VS Texas Rangers (Texas Rangers Feed ) @ 19:05
+http://tvmate.icu:8080/live/VM121628/56784321/329484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: Los Angeles Angels VS Texas Rangers (Los Angeles Angels Feed ) @ 19:05
+http://tvmate.icu:8080/live/VM121628/56784321/329485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Athletics VS Houston Astros (Athletics Feed ) @ 19:10
+http://tvmate.icu:8080/live/VM121628/56784321/329486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: Athletics VS Houston Astros (Houston Astros Feed ) @ 19:10
+http://tvmate.icu:8080/live/VM121628/56784321/329487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: New York Mets VS Chicago White Sox (New York Mets Feed ) @ 19:10
+http://tvmate.icu:8080/live/VM121628/56784321/329488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18: New York Mets VS Chicago White Sox (Chicago White Sox Feed ) @ 19:10
+http://tvmate.icu:8080/live/VM121628/56784321/329489.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19: Detroit Tigers VS Kansas City Royals (Kansas City Royals Feed ) @ 19:15
+http://tvmate.icu:8080/live/VM121628/56784321/329490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 20: Detroit Tigers VS Kansas City Royals (Detroit Tigers Feed ) @ 19:15
+http://tvmate.icu:8080/live/VM121628/56784321/329491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 21: Cincinnati Reds VS Arizona Diamondbacks (Arizona Diamondbacks Feed ) @ 20:10
+http://tvmate.icu:8080/live/VM121628/56784321/329492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22: Cincinnati Reds VS Arizona Diamondbacks (Cincinnati Reds Feed ) @ 20:10
+http://tvmate.icu:8080/live/VM121628/56784321/329493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23: Cleveland Guardians VS Colorado Rockies (Colorado Rockies Feed ) @ 20:10
+http://tvmate.icu:8080/live/VM121628/56784321/329494.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24: Cleveland Guardians VS Colorado Rockies (Cleveland Guardians Feed ) @ 20:10
+http://tvmate.icu:8080/live/VM121628/56784321/329495.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25: Minnesota Twins VS San Diego Padres (Minnesota Twins Feed ) @ 20:40
+http://tvmate.icu:8080/live/VM121628/56784321/329496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 26: Minnesota Twins VS San Diego Padres (San Diego Padres Feed ) @ 20:40
+http://tvmate.icu:8080/live/VM121628/56784321/329497.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 27: Baltimore Orioles VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
+http://tvmate.icu:8080/live/VM121628/56784321/329498.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 27: Minnesota Twins VS San Diego Padres (San Diego Padres Feed ) @ 20:40
+http://tvmate.icu:8080/live/VM121628/56784321/329499.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 28: Minnesota Twins VS San Diego Padres (San Diego Padres Feed ) @ 20:40
+http://tvmate.icu:8080/live/VM121628/56784321/329500.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -2542,9 +2330,9 @@ http://tvmate.icu:8080/live/VM121628/56784321/159119.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/159120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL REDZONE 3
 http://tvmate.icu:8080/live/VM121628/56784321/208830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00: Las Vegas Raiders  vs  Houston Texans
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00: Seattle Seahawks VS Tennessee Titans
 http://tvmate.icu:8080/live/VM121628/56784321/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01: San Francisco 49ers  vs  Los Angeles Chargers
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:
 http://tvmate.icu:8080/live/VM121628/56784321/252010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:
 http://tvmate.icu:8080/live/VM121628/56784321/252011.m3u8
@@ -2554,13 +2342,13 @@ http://tvmate.icu:8080/live/VM121628/56784321/252012.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/252013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:
 http://tvmate.icu:8080/live/VM121628/56784321/252014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06:
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06:  Chicago Bears VS Cincinnati Bengals
 http://tvmate.icu:8080/live/VM121628/56784321/252015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07:
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07: Philadelphia Eagles VS New England Patriots
 http://tvmate.icu:8080/live/VM121628/56784321/252016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 08:
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 08: Kansas City Chiefs VS Tampa Bay Buccaneers
 http://tvmate.icu:8080/live/VM121628/56784321/252017.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 09:
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 09: Dallas Cowboys VS Arizona Cardinals
 http://tvmate.icu:8080/live/VM121628/56784321/252018.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 10:
 http://tvmate.icu:8080/live/VM121628/56784321/252019.m3u8
@@ -91147,11 +90935,129 @@ http://tvmate.icu:8080/live/VM121628/56784321/328490.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH PTV 4 (C)
 http://tvmate.icu:8080/live/VM121628/56784321/328491.m3u8
 
-# --- PPV | UFC (2) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: WWE Monday Night RAW (8.17 8:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/328289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: Brewerton Speedway (8.17 5:45 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/328290.m3u8
+# --- PPV | UFC (61) ---
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: PRELIMS UFC FN (8.22 5:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: PRELIMS UFC FN (8.22 5:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03: UFC FN Hernandez vs. Rodrigues (8.22 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04: UFC FN Hernandez vs. Rodrigues (8.22 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05: PRELIMS Rolando Romero vs. Teofimo Lopez (8.22 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06: Rolando Romero vs. Teofimo Lopez (8.22 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07: HAW Rise From The Ashes IV (8.22 4:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08: AMW Superbowl of Wrestling (8.22 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09: Brand Risk 15 McBroom vs. Temper (8.22 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10: PRELIMS Liddard vs. Morello (8.22 12:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11: Liddard vs. Morello (8.22 2:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329440.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12: Real American Freestyle 12 Dvalishvili vs. Cejudo 2 (8.22 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13: PRELIMS PFL Tampa (8.22 5:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 14: PFL Tampa Cyborg vs. Vieira (8.22 9:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15: The World Fuel Altered Nationals (8.22 11:00 AM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 16: USAC Bettenhausen 100 at Illinois (8.22 11:00 AM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 17: American Flat Track at Peoria (8.22 12:25 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 18: NASCAR Whelen Modified Tour at New Hampshire (8.22 4:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329447.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 19: CARS Tour at Anderson (8.22 4:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329448.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 20: NASCAR Weekly Racing at Jennerstown (8.22 5:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 21: IRA Sprints at Wilmot (8.22 5:50 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329450.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 22: Race of Champions Sportsman at Shangri La II (8.22 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 23: Living Legends Dream Race at Port Royal (8.22 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329452.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 24: NAPA All Star Circuit of Champions at Butler (8.22 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329453.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 25: NASCAR Weekly Racing at Berlin (8.22 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329454.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 26: Championship Night at Oswego (8.22 4:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329455.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 27: NASCAR Weekly Racing at South Boston (8.22 6:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 28: Race for the Million at Colorado National (8.22 6:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 29: IMCA Weekly Racing at 141 (8.22 6:55 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329458.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 30: NASCAR Weekly Racing at Hickory Motor (8.22 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329459.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 31: NASCAR Weekly Racing at Langley (8.22 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 32: KKM Challenge Series at Southern Illinois (8.22 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329461.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 33: Slamfest at Slinger (8.22 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329462.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 34: NASCAR Season Finale at Bowman Gray (8.22 7:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 35: High Limit Racing at Placerville (8.22 8:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 36: Millbridge Speedway (8.22 5:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 37: Land of Legends Raceway (8.22 6:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 38: Cedar Creek Speedway (8.22 6:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 39: Jackson Motorplex (8.22 7:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329468.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 40: Maquoketa Speedway (8.22 7:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329469.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 41: Riverside International Speedway (8.22 8:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV01: UFC Fight Night: Hernandez vs. Rodrigues (Paramount+) @ 05:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329501.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV03: Boxing: Liddard vs. Morello @ 02:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV04: Boxing: Rolly vs. Teofimo (DAZN) @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV05: Millbridge Speedway @ 05:30 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329505.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV06: Land of Legends Raceway @ 06:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV07: Cedar Lake Speedway @ 06:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329507.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV08: Sharon Speedway @ 06:30 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV09: Jackson Motorplex @ 07:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV10: Maquoketa Speedway @ 07:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329510.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV11: DIRT Zone @ 07:30 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV12:  USMTS Route 66 Motor Speedway 8/22/26 @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV13: HLMT Salcity Racing 8/22/26 @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV14: AMW: Superbowl of Wrestling 2026 (fite tv) @ 07:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 01: Liddard vs Morello (5:00pm UK | 12:00pm ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 02: Rolly vs Teofimo (11:00pm UK | 6:00pm ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329516.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 03: UFC Sacramento: Early Prelims (10:00pm UK | 5:00pm ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329517.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04: UFC Sacramento: Prelims (11:00pm UK | 6:00pm ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329518.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 05: UFC Sacramento: Hernandez vs Rodrigues (1:00am UK SUN | 8:00pm ET SAT)
+http://tvmate.icu:8080/live/VM121628/56784321/329519.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 06: UFC Sacramento: Hernandez vs Rodrigues (1:00am UK SUN | 8:00pm ET SAT) (Back-up)
+http://tvmate.icu:8080/live/VM121628/56784321/329520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 07: PFL Tampa (10:30pm UK | 5:30pm ET)
+http://tvmate.icu:8080/live/VM121628/56784321/329521.m3u8
 
 # --- Portugal (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
@@ -91395,7 +91301,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/266674.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (OP) SIC Replay (D)
 http://tvmate.icu:8080/live/VM121628/56784321/266675.m3u8
 
-# --- Sports Fanatic's (89) ---
+# --- Sports Fanatic's (72) ---
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",CA Sportsnet East (D)
 http://tvmate.icu:8080/live/VM121628/56784321/41836.m3u8
 #EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="Sports Fanatic's",CA Sportsnet One (E)
@@ -91422,8 +91328,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/10389.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/16131.m3u8
 #EXTINF:-1 tvg-logo="https://caribbean.espnpressroom.com/wp-content/uploads/2019/03/RS1746_ESPN_Caribbean_CLR_Pos-scr.jpg" group-title="Sports Fanatic's",Carib ESPN
 http://tvmate.icu:8080/live/VM121628/56784321/66372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Florida (A)
-http://tvmate.icu:8080/live/VM121628/56784321/46794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Willow Cricket (S)
 http://tvmate.icu:8080/live/VM121628/56784321/58847.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",UK-Sky Sports Arena
@@ -91442,34 +91346,14 @@ http://tvmate.icu:8080/live/VM121628/56784321/45940.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/35244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",UK: SKY SP RACING FHD
 http://tvmate.icu:8080/live/VM121628/56784321/76842.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US NBC Sports Network (F)
+#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US NBC Sports Now
 http://tvmate.icu:8080/live/VM121628/56784321/46725.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="Sports Fanatic's",US: WWE NETWORK
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="Sports Fanatic's",24/7 WRESTLEMANIA
 http://tvmate.icu:8080/live/VM121628/56784321/11645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Detroit (A)
-http://tvmate.icu:8080/live/VM121628/56784321/20930.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Midwest (A)
-http://tvmate.icu:8080/live/VM121628/56784321/66795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Oklahoma
-http://tvmate.icu:8080/live/VM121628/56784321/20934.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Southeast
-http://tvmate.icu:8080/live/VM121628/56784321/2213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Fanduel Sports Southwest
-http://tvmate.icu:8080/live/VM121628/56784321/21843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports West (A)
-http://tvmate.icu:8080/live/VM121628/56784321/20932.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Wisconsin
-http://tvmate.icu:8080/live/VM121628/56784321/78599.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",PT Eleven Sports 1 FHD
 http://tvmate.icu:8080/live/VM121628/56784321/35264.m3u8
 #EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's",US ESPN NEWS
 http://tvmate.icu:8080/live/VM121628/56784321/17707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports North (A)
-http://tvmate.icu:8080/live/VM121628/56784321/58827.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports Fanatic's",US Bally Sports Detroit
-http://tvmate.icu:8080/live/VM121628/56784321/20936.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Ohio
-http://tvmate.icu:8080/live/VM121628/56784321/17752.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US MASN (A)
 http://tvmate.icu:8080/live/VM121628/56784321/65697.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US MASN2
@@ -91520,14 +91404,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/10255.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/1846.m3u8
 #EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="Sports Fanatic's",US Fox Sports 2 (A)
 http://tvmate.icu:8080/live/VM121628/56784321/1847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports North (A)
-http://tvmate.icu:8080/live/VM121628/56784321/20928.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports Fanatic's",US Bally Sports Carolinas (A)
-http://tvmate.icu:8080/live/VM121628/56784321/20929.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports Fanatic's",US Bally Sports South
-http://tvmate.icu:8080/live/VM121628/56784321/20931.m3u8
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="Sports Fanatic's",US FanDuel Sports South
-http://tvmate.icu:8080/live/VM121628/56784321/20922.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="Sports Fanatic's",US Marquee Sports Network (HD) (A)
 http://tvmate.icu:8080/live/VM121628/56784321/13379.m3u8
 #EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="Sports Fanatic's",US MAV TV (F)
@@ -91550,8 +91426,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/18940.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/18941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Root Sports Network
 http://tvmate.icu:8080/live/VM121628/56784321/85232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Sun
-http://tvmate.icu:8080/live/VM121628/56784321/104917.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US AT&T SportsNet Pittsburgh
 http://tvmate.icu:8080/live/VM121628/56784321/108178.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",CA One Soccer
@@ -91562,18 +91436,16 @@ http://tvmate.icu:8080/live/VM121628/56784321/136909.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/137719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",UK: SKY SPORTS MAIN EVENT HD
 http://tvmate.icu:8080/live/VM121628/56784321/137720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Great Lakes
-http://tvmate.icu:8080/live/VM121628/56784321/139272.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US NESN PLUS
 http://tvmate.icu:8080/live/VM121628/56784321/161451.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US (LN) HBCU Go
 http://tvmate.icu:8080/live/VM121628/56784321/209775.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2024/10/fanduel-sports-network-socal.jpg" group-title="Sports Fanatic's",US FanDuel Sports Socal
-http://tvmate.icu:8080/live/VM121628/56784321/221151.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",Red Bull TV au
 http://tvmate.icu:8080/live/VM121628/56784321/317109.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",Red Bull TV 1
 http://tvmate.icu:8080/live/VM121628/56784321/317110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US  ESPN8: The Ocho
+http://tvmate.icu:8080/live/VM121628/56784321/329471.m3u8
 
 # --- UK UNITED KINGDOM (46) ---
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
@@ -103383,24 +103255,18 @@ http://tvmate.icu:8080/live/VM121628/56784321/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tvmate.icu:8080/live/VM121628/56784321/121048.m3u8
 
-# --- WNBA (9) ---
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Indiana Fever at Dallas Wings Aug 20 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329316.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Connecticut Sun at Las Vegas Aces Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329317.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: Atlanta Dream at Los Angeles Sparks Aug 20 10:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/329318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: 7:30PM Dallas vs Atlanta
-http://tvmate.icu:8080/live/VM121628/56784321/329319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: 7:30PM Golden State vs Indiana
-http://tvmate.icu:8080/live/VM121628/56784321/329320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: 10PM Connecticut vs Seattle
-http://tvmate.icu:8080/live/VM121628/56784321/329321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Indiana Fever vs Dallas Wings @ 08:00 pm EDT
-http://tvmate.icu:8080/live/VM121628/56784321/329322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Atlanta Dream vs Los Angeles Sparks @ 10:00 pm EDT
-http://tvmate.icu:8080/live/VM121628/56784321/329323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 : Connecticut Sun vs Las Vegas Aces @ 10:00 pm EDT
-http://tvmate.icu:8080/live/VM121628/56784321/329324.m3u8
+# --- WNBA (6) ---
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Indiana Fever at New York Liberty Aug 22 7:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329404.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Connecticut Sun at Los Angeles Sparks Aug 22 9:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: Atlanta Dream at Phoenix Mercury Aug 22 10:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/329406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Indiana Fever vs New York Liberty @ 07:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Connecticut Sun vs Los Angeles Sparks @ 09:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329408.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 : Atlanta Dream vs Phoenix Mercury @ 10:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/329409.m3u8
 
-# Total: 51658
+# Total: 51591

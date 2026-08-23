@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-08-22 18:22:28
+# Generated: 2026-08-23 06:46:40
 # Expires: 2026-10-02
 # Family Safe Edition
 # ==============================================
@@ -3845,7 +3845,7 @@ http://l1iptv.xyz/live/saatci/ywnh6ZT5up/368.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL : Regionaal",|NL| TV Ellef
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/80840.m3u8
 
-# --- NL : Sport (33) ---
+# --- NL : Sport (37) ---
 #EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png" group-title="NL : Sport",|NL| Ziggo Sport 1 4K+
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/287.m3u8
 #EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png" group-title="NL : Sport",|NL| Ziggo Sport 2 4K+
@@ -3912,8 +3912,18 @@ http://l1iptv.xyz/live/saatci/ywnh6ZT5up/116192.m3u8
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/116193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL : Sport",|NL| TNT Sports 3
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/116194.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL : Sport",|NL| F1 TV 4K+
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL : Sport",|NL| F1 TV Replay Trainingen
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL : Sport",|NL| F1 TV Replay Kwalificaties
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL : Sport",|NL| F1 TV Replay Race
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158763.m3u8
 
-# --- NL : Viaplay (20) ---
+# --- NL : Viaplay (26) ---
+#EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay TV Gids
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158754.m3u8
 #EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 1
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/71461.m3u8
 #EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 2
@@ -3954,6 +3964,16 @@ http://l1iptv.xyz/live/saatci/ywnh6ZT5up/142793.m3u8
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/142794.m3u8
 #EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 20
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/142795.m3u8
+#EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 21
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158755.m3u8
+#EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 22
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158756.m3u8
+#EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 23
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158757.m3u8
+#EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 24
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158758.m3u8
+#EXTINF:-1 tvg-logo="http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png" group-title="NL : Viaplay",|NL| Viaplay Event 25
+http://l1iptv.xyz/live/saatci/ywnh6ZT5up/158759.m3u8
 
 # --- PK : Pakistan (20) ---
 #EXTINF:-1 tvg-logo="https://cpanel.traveliptv.nl:8443/stream.php?id=35005" group-title="PK : Pakistan",|PK| 24 News 4K+
@@ -6905,4 +6925,4 @@ http://l1iptv.xyz/live/saatci/ywnh6ZT5up/95813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",|TR| Neseli Pazar
 http://l1iptv.xyz/live/saatci/ywnh6ZT5up/130253.m3u8
 
-# Total: 3361
+# Total: 3371

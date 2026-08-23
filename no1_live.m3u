@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-08-22 18:32:58
+# Generated: 2026-08-23 06:48:50
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -2003,11 +2003,21 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (2) ---
+# --- DE-DAZN EVENT (7) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Upper Hutt City vs. FC Western
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Udinese - Como
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188636.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Inter - Monza
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Valencia - Celta Vigo
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Parma - Cagliari
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Espanyol - Real Madrid
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Toulouse - Lyon
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/188719.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -2879,25 +2889,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/137645.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DK: DENMARK",DK: TV2 Play 10 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/137646.m3u8
 
-# --- ES: SPAIN (63) ---
+# --- ES: SPAIN (55) ---
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",##### SPAIN ####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES|  M. DEPORTES 1 FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| BOM CINE HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| BOM CINE FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| RED BULL TV HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Movistar NEGOCIOS HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Televisión de GALicia Europa
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| DAZN La Liga 1 SD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| DAZN La Liga 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167822.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: AMC BREAK FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168017.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: AMC CRIME FHD
@@ -7505,4 +7499,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3691
+# Total: 3688
