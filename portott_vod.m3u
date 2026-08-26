@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-08-24 18:42:10
+# Generated: 2026-08-26 06:51:34
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13871,7 +13871,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3835) ---
+# --- Movies | SRS - NEW ADDED [EN] (3836) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Lanterns (2026) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34143.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Love Cabin (2025) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34102.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Rise of the 49ers (2026) (US)
@@ -79485,7 +79487,17 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/647996.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTL10rosTEhOZp8E3zoniXddyRC.jpg" group-title="Movies | VOD - NIÑOS y FAMILIA [ES]",ES - Alicia en el País de las Maravillas (2010)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/988061.mkv
 
-# --- Movies | VOD - NUEVO 2024/2026 [ES] (797) ---
+# --- Movies | VOD - NUEVO 2024/2026 [ES] (802) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjR9MAuIvW3KWj8V3Ya5mfjMVTM.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Te quiero desde siempre (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1410436.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rVJLhpYrtaDzeItzhteP3xCZW7.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Dink (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1410435.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kROhtE1DPiU8kY9QRUUJDto4Bw4.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Caso 137 (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1410434.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9899dxEkeprkzCl460ehg7h3cII.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Así llegó la noche (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1410433.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HCNREHu5GpmrClXHiyyJVMOGt.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - 72 Horas (2024)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1410432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrwd5yxWuBjSpnCrzZM1N7obe3K.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Un buen chico (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1410135.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - The Mandalorian and Grogu (2026)
@@ -114495,4 +114507,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 57129
+# Total: 57135

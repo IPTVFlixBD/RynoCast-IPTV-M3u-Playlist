@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-24 06:48:28
+# Generated: 2026-08-26 06:47:18
 # Expires: 2026-09-24
 # Family Safe Edition
 # ==============================================
@@ -2460,7 +2460,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/159119.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/159120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL REDZONE 3
 http://tvmate.icu:8080/live/VM121628/56784321/208830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00: Seattle Seahawks VS Tennessee Titans
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 00:
 http://tvmate.icu:8080/live/VM121628/56784321/208896.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:
 http://tvmate.icu:8080/live/VM121628/56784321/252010.m3u8
@@ -91579,7 +91579,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/99138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK: CBS JUSTICE
 http://tvmate.icu:8080/live/VM121628/56784321/134942.m3u8
 
-# --- USA (162) ---
+# --- USA (163) ---
 #EXTINF:-1 tvg-logo="" group-title="USA",US CBSN New York (D)
 http://tvmate.icu:8080/live/VM121628/56784321/46754.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US FOX Sports 1
@@ -91904,6 +91904,8 @@ http://tvmate.icu:8080/live/VM121628/56784321/213668.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/326194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US Law & Crime
 http://tvmate.icu:8080/live/VM121628/56784321/328196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",US Victory Television Network
+http://tvmate.icu:8080/live/VM121628/56784321/329991.m3u8
 
 # --- USA | NEWS | REGIONALS (608) ---
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (KXAN) Austin
@@ -103307,4 +103309,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/329408.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 :
 http://tvmate.icu:8080/live/VM121628/56784321/329409.m3u8
 
-# Total: 51610
+# Total: 51611
