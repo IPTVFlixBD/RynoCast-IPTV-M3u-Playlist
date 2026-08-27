@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-24 18:32:40
+# Generated: 2026-08-27 12:01:30
 # Expires: 2026-09-19
 # Family Safe Edition
 # ==============================================
@@ -6839,7 +6839,7 @@ http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/327463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="Movies | 2025 MOVIES",Roofman (2025)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/328162.mkv
 
-# --- Movies | 2026 Movies (474) ---
+# --- Movies | 2026 Movies (475) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7788,6 +7788,8 @@ http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329924.mkv
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329925.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg" group-title="Movies | 2026 Movies",Novak Djokovic: The Wolf in Winter (2026)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329926.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pKPTugulAt0EtH0g4gvJGffPSg.jpg" group-title="Movies | 2026 Movies",Batman: Knightfall Part 1: Knightfall (2026)
+http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/330007.mkv
 
 # --- Movies | Action Movies (1646) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -53261,7 +53263,7 @@ http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/200943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg" group-title="Movies | Science Fiction",Young Ones (2014)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/200944.mp4
 
-# --- Movies | Spanish Movies (1142) ---
+# --- Movies | Spanish Movies (1145) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/202205.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",2 Minutos de Fama (2020)
@@ -55546,6 +55548,12 @@ http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/328539.mkv
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/328596.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg" group-title="Movies | Spanish Movies",Long Distance (2024) {Spanish - Edition}
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329325.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="Movies | Spanish Movies",The Last House (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329975.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | Spanish Movies",War Machine (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/330005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies | Spanish Movies",Project Hail Mary (2026) {Spanish - Edition}
+http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/330006.mkv
 
 # --- Movies | Star Trek Movie Collection (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Movies | Star Trek Movie Collection",Star Trek (2009)
@@ -60679,4 +60687,4 @@ http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2395
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Capture
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2396
 
-# Total: 30255
+# Total: 30259

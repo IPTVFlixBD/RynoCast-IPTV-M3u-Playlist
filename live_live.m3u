@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-08-26 06:45:35
+# Generated: 2026-08-27 12:06:24
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -419,7 +419,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",CA: YES TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13765.m3u8
 
-# --- Chile (49) ---
+# --- Chile (46) ---
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14878.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C
@@ -430,18 +430,12 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/8724.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9049.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV *
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9753.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV **
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9754.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV ***
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14871.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV Full HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/5.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/6.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png" group-title="Chile",CL: El Gourmet HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9106.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title="Chile",CL: ETC TV
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/1513.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png" group-title="Chile",CL: HBO HD SUB
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13503.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Chile",CL: History HD
@@ -1671,4 +1665,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 808
+# Total: 805
