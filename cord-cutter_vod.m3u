@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-08-27 12:01:30
+# Generated: 2026-08-28 14:13:18
 # Expires: 2026-09-19
 # Family Safe Edition
 # ==============================================
@@ -6839,7 +6839,7 @@ http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/327463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="Movies | 2025 MOVIES",Roofman (2025)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/328162.mkv
 
-# --- Movies | 2026 Movies (475) ---
+# --- Movies | 2026 Movies (476) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7790,6 +7790,8 @@ http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329925.mp4
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/329926.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pKPTugulAt0EtH0g4gvJGffPSg.jpg" group-title="Movies | 2026 Movies",Batman: Knightfall Part 1: Knightfall (2026)
 http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/330007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg" group-title="Movies | 2026 Movies",Grand Theft Auto VI: An Extended Look (GTA VI - TRAILER) (2026)
+http://cord-cutter.net:8080/movie/9313090115/ramsey.missy89@gmail.com/330213.mkv
 
 # --- Movies | Action Movies (1646) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -59907,7 +59909,7 @@ http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2344
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Cross
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2352
 
-# --- Series | 2025 TV Series (25) ---
+# --- Series | 2025 TV Series (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -59958,8 +59960,10 @@ http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2349
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2367
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Ransom Canyon
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2394
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",The Hunting Wives
+http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2399
 
-# --- Series | 2026 TV Series (18) ---
+# --- Series | 2026 TV Series (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2353
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Star Wars: Maul - Shadow Lord
@@ -59996,6 +60000,8 @@ http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2391
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2393
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",The Real Wolf of Wall Street
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2397
+#EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",The Five Star Weekend
+http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2398
 
 # --- Series | All Series (344) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -60687,4 +60693,4 @@ http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2395
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Capture
 http://cord-cutter.net:8080/series/9313090115/ramsey.missy89@gmail.com/2396
 
-# Total: 30259
+# Total: 30262
