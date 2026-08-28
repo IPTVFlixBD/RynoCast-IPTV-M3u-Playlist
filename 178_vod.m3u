@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 178.162.193.239:80
-# Generated: 2026-08-28 14:11:41
+# Generated: 2026-08-29 03:39:40
 # Expires: 2033-03-07
 # Family Safe Edition
 # ==============================================
@@ -307,7 +307,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5326.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ABC",Era uma Vez no País das Maravilhas
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5826.mp4
 
-# --- Movies | AMAZON PRIME VIDEO (557) ---
+# --- Movies | AMAZON PRIME VIDEO (558) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg" group-title="Movies | AMAZON PRIME VIDEO",A Vastidão da Noite (2020)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/2240.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg" group-title="Movies | AMAZON PRIME VIDEO",After (2019)
@@ -1422,6 +1422,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5680.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5746.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Nadando com Tubarões
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5772.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Hudson & Rex
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5857.mp4
 
 # --- Movies | AMC (33) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMC",Fear the Walking Dead
@@ -4009,7 +4011,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5821.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIMES",86 EIGHTY-SIX
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5825.mp4
 
-# --- Movies | APPLE TV+ (99) ---
+# --- Movies | APPLE TV+ (98) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE TV+",Losing Alice
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/414.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE TV+",The Mosquito Coast
@@ -4132,8 +4134,6 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3711.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3740.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE TV+",Palm Royale
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3757.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | APPLE TV+",Matéria Escura
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3904.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE TV+",The Big Cigar: A Fuga
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3917.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLE TV+",Acima de Qualquer Suspeita
@@ -20487,7 +20487,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208497.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4bf5w4OMVhxY5tQKnkAKs011My.jpg" group-title="Movies | DRAMA",A Última Chance de Grace (2024)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208632.mp4
 
-# --- Movies | EM BREVE (37) ---
+# --- Movies | EM BREVE (35) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmeGpWrYy679EzRJvu04Sn91j6w.jpg" group-title="Movies | EM BREVE",Herança de Narcisa (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207179.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65q7J1JyulMD7L1UaBhYVJrXCeb.jpg" group-title="Movies | EM BREVE",As Dez Vantagens de Morrer Depois de Você (EM BREVE)
@@ -20504,12 +20504,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207753.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207757.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wrwd0kTF2ktt9SABTajipn84iH.jpg" group-title="Movies | EM BREVE",Muito Prazer (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208650.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="Movies | EM BREVE",O Homem que Sussurra (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208652.mp4
 #EXTINF:-1 tvg-logo="https://entretetizei.com.br/wp-content/uploads/2026/07/pt-br_BR_FHTS_Teaser_KA_Vertical_4x5_RGB_Predate.jpg" group-title="Movies | EM BREVE",Quatro Mãos, Duas Sonatas (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208653.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOiEzr5_W0VlW1tLhkaX62ztzrbGKb5tIWzMtMDccAbHvgfWe4IigOfPG&s=10" group-title="Movies | EM BREVE",Matéria Escura - Temporada 2 (EM BREVE)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208891.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNmcB3tmDkLjZbR2cEx1RgsvKUM.jpg" group-title="Movies | EM BREVE",A Hipótese do Amor (EM BREVE)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/209694.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MOFntnWffnC6HbLRJ2RLrGWtup.jpg" group-title="Movies | EM BREVE",A Queda 2: No Limite (EM BREVE)
@@ -21583,7 +21579,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/193374.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jz0CIF5VTFbT9tLDnU8AEWdyoV.jpg" group-title="Movies | FAMILIA",Rags: O Poder da Música (2012)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/197815.mp4
 
-# --- Movies | FAMÍLIA (631) ---
+# --- Movies | FAMÍLIA (632) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBNL4NUEIFRSDvHYgH3OHrhKyUk.jpg" group-title="Movies | FAMÍLIA",Sabrina Vai Para a Austrália (1999)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/48420.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CwzaIz7MvzPs5fA4NddlFD27M5.jpg" group-title="Movies | FAMÍLIA",A Boneca que Virou Gente 2 (2018)
@@ -22648,6 +22644,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207050.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207629.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txFQFgjVQmQYFYvEFCbUlTJMYcs.jpg" group-title="Movies | FAMÍLIA",Uma Grande Amizade (2019)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207738.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyxa96dx5oyDp7GqvfTZJaxuVPK.jpg" group-title="Movies | FAMÍLIA",Bambi: Uma aventura na floresta (2024)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208675.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | FAMÍLIA",Mr. Bean
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/26.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | FAMÍLIA",Eu, a Patroa e as Crianças
@@ -28819,7 +28817,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5458.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | INFANTIL",Barbie: It Takes Two
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5834.mp4
 
-# --- Movies | LANÇAMENTOS 2026 (799) ---
+# --- Movies | LANÇAMENTOS 2026 (806) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQAl4G271ZRB8IJdvPvEZL6lKen.jpg" group-title="Movies | LANÇAMENTOS 2026",Outro Amor Fora do Tempo (2026)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/194865.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nC1F6LrhyvRn0YWpQiispac6mI.jpg" group-title="Movies | LANÇAMENTOS 2026",Chitas de Perto com Bertie Gregory (2026) LEG
@@ -29654,6 +29652,18 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/210857.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/210860.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iww7yBKMEFGm2KSAawCi0b825oT.jpg" group-title="Movies | LANÇAMENTOS 2026",Grand Theft Auto VI: Um Olhar Estendido (2026) LEG
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/210997.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg" group-title="Movies | LANÇAMENTOS 2026",A Mulher Secreta (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211015.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg" group-title="Movies | LANÇAMENTOS 2026",O Homem que Sussurra (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211028.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XwnN6bGkJWY9SYGZslciMs7QTW.jpg" group-title="Movies | LANÇAMENTOS 2026",O Rei da Internet (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211037.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEBZ3cKpgcsHuIJk3mYFzYivPfM.jpg" group-title="Movies | LANÇAMENTOS 2026",Saudades te Amo (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211047.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PY9jVshi6lvyMawM5llRGkAqBR.jpg" group-title="Movies | LANÇAMENTOS 2026",Visões de um amor (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211078.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="Movies | LANÇAMENTOS 2026",Mestre Bhagat Singh (2026)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211109.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Amor no Escritório
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5273.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",Custe o que Custar
@@ -30418,6 +30428,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5853.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5854.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",A Chave para o Coração da Fênix
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5855.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | LANÇAMENTOS 2026",A Verdade por Trás das Minhas Mentiras
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5856.mp4
 
 # --- Movies | LANÇAMENTOS AR 2025 (113) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcHVILDb5ZAGrLJq2ZDFsT6RhgP.jpg" group-title="Movies | LANÇAMENTOS AR 2025",سنة أولى خطف (2025)
@@ -31981,7 +31993,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/188363.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlWOAWRKSno6UxaE0IXDFVvmzTf.jpg" group-title="Movies | MARVEL + DC",Quarteto Fantástico: Primeiros Passos (2025)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/192780.mp4
 
-# --- Movies | MISTÉRIO (781) ---
+# --- Movies | MISTÉRIO (782) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Movies | MISTÉRIO",10x10: O Cativeiro (2018)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/1485.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg" group-title="Movies | MISTÉRIO",12 Homens e Uma Sentença (1957)
@@ -33544,8 +33556,10 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208249.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208254.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNcnCQdwaIDqz1bpcQvrrcetsGV.jpg" group-title="Movies | MISTÉRIO",O Relutante Fundamentalista (2013)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208633.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAcsTHfzYwxe0QkarzHqNfnqvxa.jpg" group-title="Movies | MISTÉRIO",Vende-se Esta Casa (2018)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208666.mp4
 
-# --- Movies | NACIONAIS (692) ---
+# --- Movies | NACIONAIS (693) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpCUQTdwFB0O502RvqLPMxyol8f.jpg" group-title="Movies | NACIONAIS",2 Filhos de Francisco (2005)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/23115.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg" group-title="Movies | NACIONAIS",Bacurau (2019)
@@ -34930,6 +34944,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208086.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208098.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCXb4le0ogtxwI8kR62tMwwiu5d.jpg" group-title="Movies | NACIONAIS",Apenas Coisas Boas (2025)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208286.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HPKnssvAXH0Tnybv88gIEP2eT4.jpg" group-title="Movies | NACIONAIS",Infantaria (2022)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208685.mp4
 
 # --- Movies | NBC (55) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NBC",Manifest: O Mistério do Voo 828
@@ -37879,7 +37895,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5220.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NICKELODEON",Wylde Pak
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5329.mp4
 
-# --- Movies | NOVAS TEMPORADAS (36) ---
+# --- Movies | NOVAS TEMPORADAS (38) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Trying
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/692.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Ted Lasso
@@ -37918,6 +37934,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3731.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3755.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Sugar
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3808.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Matéria Escura
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3904.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",De Férias com o Ex Diretoria
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3964.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Uma Loja Para Assassinos
@@ -37930,6 +37948,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4115.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4118.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Casamento às Cegas: Reino Unido
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4135.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Estrelas da Casa
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4154.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",Beauty in Black
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4422.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVAS TEMPORADAS",NCIS: Sydney
@@ -38355,17 +38375,9 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5838.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS",Rosario Tijeras
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/5849.mp4
 
-# --- Movies | NOVIDADES (100) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jETWpCTDiDAhe6hbcK4dbBlEAb1.jpg" group-title="Movies | NOVIDADES",As Freiras Exorcistas (2025)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208645.mp4
+# --- Movies | NOVIDADES (102) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1lnt0MtehsWbQPf5Ni5qUAsII2.jpg" group-title="Movies | NOVIDADES",Os Primeiros Soldados (2021)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208665.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAcsTHfzYwxe0QkarzHqNfnqvxa.jpg" group-title="Movies | NOVIDADES",Vende-se Esta Casa (2018)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208666.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyxa96dx5oyDp7GqvfTZJaxuVPK.jpg" group-title="Movies | NOVIDADES",Bambi: Uma aventura na floresta (2024)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208675.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HPKnssvAXH0Tnybv88gIEP2eT4.jpg" group-title="Movies | NOVIDADES",Infantaria (2022)
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208685.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcttzMQzwUUSAQBv0wSUYvsfMhW.jpg" group-title="Movies | NOVIDADES",Cidade das Sombras (2008)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208748.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kisMqFjwtUWBrg6vcYBLyLsaXWV.jpg" group-title="Movies | NOVIDADES",Sem Destino Novamente (2012)
@@ -38556,6 +38568,18 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/210852.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/210879.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOdtXOhSYp6Ja30taOZxCdBzo4Y.jpg" group-title="Movies | NOVIDADES",Trair é Uma Arte (2010)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/210880.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im48m1dWTdSTYo7Ue8SxvfUd6iq.jpg" group-title="Movies | NOVIDADES",Rendel: Ciclo da Vingança (2024)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211042.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rM9yMUntZMAeXLDCmPrDGGBYdYR.jpg" group-title="Movies | NOVIDADES",November Man: Um Espião Nunca Morre (2014)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211079.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFPHliE07qqmy8pNZ8TGyZiFD7I.jpg" group-title="Movies | NOVIDADES",Perseguindo Abbott (2015)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211080.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSrOPgDqdLuqL5cmQ0AgJ1FtUpg.jpg" group-title="Movies | NOVIDADES",Jack Hunter e a Estrela do Paraíso (2009)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211081.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkjACojVQ8EPGgVvXQQ9zzYXpJH.jpg" group-title="Movies | NOVIDADES",Jack Hunter e o Olho do Enigma (2008)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211082.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2NdUrQrkIfjYPShFuHxsvpe9mY.jpg" group-title="Movies | NOVIDADES",Jack Hunter e o Tesouro Perdido (2010)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/211083.mp4
 
 # --- Movies | ORGULHO LGBTQIA+ (161) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryLcuVJmSTVSfKsyDBLTVpD71cZ.jpg" group-title="Movies | ORGULHO LGBTQIA+",A Garota Dinamarquesa (2015)
@@ -39367,7 +39391,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/195487.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoBcz7hOFPdJS9aWMr1z4Gk76rN.jpg" group-title="Movies | PLOT TWIST",A Empregada (2025)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/197434.mp4
 
-# --- Movies | REALITY (216) ---
+# --- Movies | REALITY (215) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | REALITY",A Corrida Mais Difícil do Mundo: Eco-Challenge Fiji
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/185.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | REALITY",The Big Day
@@ -39642,8 +39666,6 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4143.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4144.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | REALITY",Amor Entre Línguas
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4152.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | REALITY",Estrela da Casa
-http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4154.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | REALITY",Selena + Restaurante
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/4174.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | REALITY",The Masked Singer Brasil
@@ -41025,7 +41047,7 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3376.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SYFY",As Crônicas de Spiderwick LEG
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/3925.mp4
 
-# --- Movies | TERROR (2080) ---
+# --- Movies | TERROR (2081) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUEv9INjh1HEdbD9BAExioSO65a.jpg" group-title="Movies | TERROR",#Alive (2020)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/27230.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHkIIkP4O0vUkSACcizOPZQIiF7.jpg" group-title="Movies | TERROR",31 - A Morte é a Única Saída (2016)
@@ -45186,6 +45208,8 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/207772.mp4
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208044.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AWwDt0nUh68dISgAWU72SbjQGF.jpg" group-title="Movies | TERROR",Capitão Hook: As Marés Malditas (2025)
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208467.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jETWpCTDiDAhe6hbcK4dbBlEAb1.jpg" group-title="Movies | TERROR",As Freiras Exorcistas (2025)
+http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/208645.mp4
 
 # --- Movies | THE CW (38) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | THE CW",Stargirl
@@ -45291,4 +45315,4 @@ http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/594.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",ROBLOX LIVE
 http://178.162.193.239:80/movie/Xplus-Box-v3-VkXKMkr8M8/0PHqq2Odnh/595.mp4
 
-# Total: 22575
+# Total: 22587

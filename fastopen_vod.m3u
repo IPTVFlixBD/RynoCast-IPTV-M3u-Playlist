@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-08-28 14:16:01
+# Generated: 2026-08-29 03:47:36
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -92085,7 +92085,19 @@ http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/23900.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Russian",Within () -RU-
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/23901.mkv
 
-# --- Movies | VOD Spain (1864) ---
+# --- Movies | VOD Spain (1870) ---
+#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Spain",Your Fault London (2026) [ES]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/145976.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Spain",Torrente for President (2026) [ES]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/145975.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Spain",The Giant Falls (2026) [ES]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/145974.mkv
+#EXTINF:-1 tvg-logo="http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/images/alpf5v4UqSFawPmG9RX03Or4BDk_big.jpg" group-title="Movies | VOD Spain",Facing El Chapo (2026) [ES]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/145973.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Spain",Agent Zeta (2026) [ES]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/145972.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Spain",53 Sundays (2026) [ES]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/145971.mkv
 #EXTINF:-1 tvg-logo="http://c.pttuga.com:8080/images/lI2uFlSEkwXKljqiry7coaJ6wIS_big.jpg" group-title="Movies | VOD Spain",Counterattack (2025) [ES]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/126360.mkv
 #EXTINF:-1 tvg-logo="http://c.pttuga.com:8080/images/78KfOGOqXvTja8lRFwgjmkprRmI_big.jpg" group-title="Movies | VOD Spain",A Hipster In Rural Spain (2024) [ES]
@@ -115655,4 +115667,4 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14596
 #EXTINF:-1 tvg-logo="None" group-title="Series | VOD Turkey Series - Söz",Söz - S02 E50 [TR]
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14601
 
-# Total: 57787
+# Total: 57793

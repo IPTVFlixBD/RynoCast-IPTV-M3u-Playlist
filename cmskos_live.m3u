@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cmskos.bekaks.net:777
-# Generated: 2026-08-28 14:09:45
+# Generated: 2026-08-29 03:44:50
 # Expires: 2026-11-30
 # Family Safe Edition
 # ==============================================
@@ -1775,9 +1775,11 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2962.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/babytv.png" group-title="Italy",IT: EAGLE 4ᴷ ᵁᴴᴰ
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2961.m3u8
 
-# --- Music (26) ---
+# --- Music (27) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvllapi.png" group-title="Music",AL: TV Llapi
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: TV DIELLI
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6148.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Folk Plus.png" group-title="Music",AL: Folk+
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/27.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/turbochannel.png" group-title="Music",AL: Turbo Channel
@@ -3259,4 +3261,4 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/505.m3u8
 
-# Total: 1601
+# Total: 1602
