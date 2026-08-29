@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-08-29 10:54:24
+# Generated: 2026-08-29 22:00:18
 # Expires: 2027-08-11
 # Family Safe Edition
 # ==============================================
@@ -21687,7 +21687,7 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2550188.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jRsWnpciWHRy0MC7K5eMDKKqPw.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Grey Zone [PRE] [2001]
 http://45.139.122.199:8080/movie/Martin1/martin1/2550189.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (6061) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (6065) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Grand Theft Auto VI: An Extended Look [PRE] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2562132.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viQxAwBsx353fWp1x4wr0dI8GIk.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Darkest Web [PRE] [2026]
@@ -33810,6 +33810,14 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2553384.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2553386.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Whisper Man [PRE] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2563448.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Fuze [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2567716.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Nirvanna the Band the Show the Movie [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2567717.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYgTfhop3NvvgfWcc8wPlMY3x5M.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Boyfriend Trap [PRE] [2022]
+http://45.139.122.199:8080/movie/Martin1/martin1/2567718.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Urchin [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2567719.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -34071,4 +34079,4 @@ http://45.139.122.199:8080/movie/Martin1/martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/martin1/2173473.mkv
 
-# Total: 17006
+# Total: 17010

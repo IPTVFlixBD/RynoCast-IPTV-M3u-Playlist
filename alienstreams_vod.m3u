@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-08-29 10:57:19
+# Generated: 2026-08-29 22:03:32
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -4700,10 +4700,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/403119.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
-http://alienstreams.fi:8080/movie/hellhell/hellhell/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
+http://alienstreams.fi:8080/movie/hellhell/hellhell/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -8798,10 +8798,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/494508.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="Movies | Drama [VOD]",The Swedish Connection (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494807.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies | Drama [VOD]",47 Ronin (2013)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/495081.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" group-title="Movies | Drama [VOD]",War for the Planet of the Apes (2017)
@@ -11899,7 +11899,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/502234.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zfFvltKHntGBupFuubx3r61v48e.jpg" group-title="Movies | Music [VOD]",Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D) (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/503274.mkv
 
-# --- Movies | Mystery [VOD] (76) ---
+# --- Movies | Mystery [VOD] (77) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keW2sLB9yJbdkRy9yHQjqUjmzbB.jpg" group-title="Movies | Mystery [VOD]",Closed Circuit
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtlxPYO9zSSz5cv9a1UEna2RtQA.jpg" group-title="Movies | Mystery [VOD]",Devil's Peak
@@ -12052,6 +12052,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/501770.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/502609.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg" group-title="Movies | Mystery [VOD]",Secret Window (2004)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/504809.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/r3rpSAi2yukZwr9H2km0WKGODWo.jpg" group-title="Movies | Mystery [VOD]",See How They Run (2022)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/505877.mkv
 
 # --- Movies | NEEDSORTING (22) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | NEEDSORTING",Å andra sidan
@@ -20947,4 +20949,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 10414
+# Total: 10415
