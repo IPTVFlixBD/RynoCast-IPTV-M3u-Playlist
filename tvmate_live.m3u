@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-29 03:36:02
+# Generated: 2026-08-30 08:44:14
 # Expires: 2026-09-24
 # Family Safe Edition
 # ==============================================
@@ -1293,11 +1293,25 @@ http://tvmate.icu:8080/live/VM121628/56784321/320377.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO: Win Sports+
 http://tvmate.icu:8080/live/VM121628/56784321/320382.m3u8
 
-# --- Dirtvision (1) ---
+# --- Dirtvision (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 01: 8.23.26 | Huset's Speedway @ 23 Aug 07:25 PM ET
 http://tvmate.icu:8080/live/VM121628/56784321/329522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 02: 8.29.26 | Cedar Lake Speedway @ 29 Aug 06:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 03: 8.29.26 | Land of Legends Raceway @ 29 Aug 06:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330328.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 04: 8.29.26 | Fix it Forward Speedway @ 29 Aug 07:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330329.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 05: 8.29.26 | Knoxville Raceway @ 29 Aug 07:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330330.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 06: 8.29.26 | Shelby County Speedway @ 29 Aug 07:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330331.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 07: 8.29.26 | DIRT Zone @ 29 Aug 07:30 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330332.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Dirtvision",Dirtvision 08: 8.29.26 | Big Sky Speedway @ 29 Aug 08:15 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330333.m3u8
 
-# --- ESPN + (165) ---
+# --- ESPN + (171) ---
 #EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 02: MVPW-07: Turhan vs. Baumgardner Introductory Press Conference @ Aug 27 10:00AM ET
 http://tvmate.icu:8080/live/VM121628/56784321/330031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 04: PGA TOUR LIVE BetCast Presented by DraftKings (First Round) @ Aug 27 11:00AM ET
@@ -1628,8 +1642,20 @@ http://tvmate.icu:8080/live/VM121628/56784321/330194.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/330195.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPN +",ESPN+ 167: California vs. Santa Clara @ Aug 27 10:30PM ET
 http://tvmate.icu:8080/live/VM121628/56784321/330196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",MLB 26: Colorado Rockies VS Atlanta Braves (Colorado Rockies Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330306.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",USA Real MLB 27: Baltimore Orioles VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
+http://tvmate.icu:8080/live/VM121628/56784321/330307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",MLB 27: Colorado Rockies VS Atlanta Braves (Atlanta Braves Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330308.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",MLB 28: Baltimore Orioles VS Athletics (Athletics Feed ) @ 22:05
+http://tvmate.icu:8080/live/VM121628/56784321/330309.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",MLB 29: Baltimore Orioles VS Athletics (Baltimore Orioles Feed ) @ 22:05
+http://tvmate.icu:8080/live/VM121628/56784321/330310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPN +",MLB 30: Philadelphia Phillies VS Los Angeles Angels (Philadelphia Phillies Feed ) @ 22:07
+http://tvmate.icu:8080/live/VM121628/56784321/330311.m3u8
 
-# --- Floracing (7) ---
+# --- Floracing (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Floracing",USA | Flo Racing 24/7
 http://tvmate.icu:8080/live/VM121628/56784321/329530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Floracing",FloRacing 24/7 (FloRacing 247)
@@ -1644,6 +1670,24 @@ http://tvmate.icu:8080/live/VM121628/56784321/330028.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/330029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 05: FLORACING 005 | 2026 RUN-WHAT-U-BRUNG AT THUNDER ROAD SPEEDBOWL AUG 27 06:00PM ET
 http://tvmate.icu:8080/live/VM121628/56784321/330030.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 06: FLORACING 006 | 2026 KKM CHALLENGE SERIES AT U.S. 24 SPEEDWAY AUG 29 05:45PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330334.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 07: FLORACING 007 | 2026 INEX LEGENDS NATIONAL QUALIFIER AT RIVERHEAD RACEWAY AUG 29 03:45PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 08: FLORACING 008 | 2026 OHIO WHEELMAN SERIES AT JENNERSTOWN SPEEDWAY AUG 29 04:45PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 09: FLORACING 009 | 2026 RACE OF CHAMPIONS SPORTSMAN AT HOLLAND SPEEDWAY AUG 29 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 10: FLORACING 010 | 2026 CHAMPIONSHIP NIGHT AT BERLIN RACEWAY AUG 29 05:00PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 11: FLORACING 011 | 2026 USAC MRA SPRINTS AT VALLEY SPEEDWAY AUG 29 05:15PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 12: FLORACING 012 | 2026 NAPA ALL STAR CIRCUIT OF CHAMPIONS AT SHARON SPEEDWAY AUG 29 05:30PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 13: FLORACING 013 | 2026 NASCAR WEEKLY RACING AT SOUTH BOSTON SPEEDWAY AUG 29 05:35PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330341.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Floracing",Flo Racing 14: FLORACING 014 | 2026 IMCA CHAMPIONSHIP NIGHT AT 141 SPEEDWAY AUG 29 05:55PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/330342.m3u8
 
 # --- Formula F1 (84) ---
 #EXTINF:-1 tvg-logo="" group-title="Formula F1",F1 Channel
@@ -2277,7 +2321,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/330009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino | ESPN | DEPORTES",ES: M+ LaLiga Tv
 http://tvmate.icu:8080/live/VM121628/56784321/330010.m3u8
 
-# --- MLB (51) ---
+# --- MLB (60) ---
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
 http://tvmate.icu:8080/live/VM121628/56784321/323887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA | MLB Network
@@ -2352,34 +2396,52 @@ http://tvmate.icu:8080/live/VM121628/56784321/328097.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/328098.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",AK | FAIRBANKS | CBS (KXDF)
 http://tvmate.icu:8080/live/VM121628/56784321/328099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: Colorado Rockies VS Washington Nationals (Colorado Rockies Feed ) @ 13:05
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01:  Boston Red Sox vs New York Yankees @ 7:05pm PM EDT
 http://tvmate.icu:8080/live/VM121628/56784321/330012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: Colorado Rockies VS Washington Nationals (Washington Nationals Feed ) @ 13:05
-http://tvmate.icu:8080/live/VM121628/56784321/330013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: Baltimore Orioles VS St. Louis Cardinals (Baltimore Orioles Feed ) @ 14:15
-http://tvmate.icu:8080/live/VM121628/56784321/330014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: Baltimore Orioles VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 14:15
-http://tvmate.icu:8080/live/VM121628/56784321/330015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: Houston Astros VS New York Yankees (New York Yankees Feed ) @ 19:05
-http://tvmate.icu:8080/live/VM121628/56784321/330016.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: Boston Red Sox VS New York Yankees (Boston Red Sox Feed ) @ 13:05
+http://tvmate.icu:8080/live/VM121628/56784321/330281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: Boston Red Sox VS New York Yankees (New York Yankees Feed ) @ 13:05
+http://tvmate.icu:8080/live/VM121628/56784321/330282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: Los Angeles Dodgers VS Detroit Tigers (Los Angeles Dodgers Feed ) @ 13:10
+http://tvmate.icu:8080/live/VM121628/56784321/330283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: Los Angeles Dodgers VS Detroit Tigers (Detroit Tigers Feed ) @ 13:10
+http://tvmate.icu:8080/live/VM121628/56784321/330284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: Chicago White Sox VS Minnesota Twins (Minnesota Twins Feed ) @ 14:10
+http://tvmate.icu:8080/live/VM121628/56784321/330285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: Cincinnati Reds VS Colorado Rockies (Rockies.TV Feed ) @ 15:10
-http://tvmate.icu:8080/live/VM121628/56784321/330017.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: Milwaukee Brewers VS New York Mets (New York Mets Feed ) @ 19:10
-http://tvmate.icu:8080/live/VM121628/56784321/330020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: Milwaukee Brewers VS New York Mets (Milwaukee Brewers Feed ) @ 19:10
-http://tvmate.icu:8080/live/VM121628/56784321/330021.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: Los Angeles Dodgers VS Atlanta Braves (Atlanta Braves Feed ) @ 19:15
-http://tvmate.icu:8080/live/VM121628/56784321/330022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12: Los Angeles Dodgers VS Atlanta Braves (FS1 Feed ) @ 19:15
-http://tvmate.icu:8080/live/VM121628/56784321/330023.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: Los Angeles Dodgers VS Atlanta Braves (Los Angeles Dodgers Feed ) @ 19:15
-http://tvmate.icu:8080/live/VM121628/56784321/330024.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: Arizona Diamondbacks VS San Francisco Giants (San Francisco Giants Feed ) @ 21:45
-http://tvmate.icu:8080/live/VM121628/56784321/330025.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Arizona Diamondbacks VS San Francisco Giants (Arizona Diamondbacks Feed ) @ 21:45
-http://tvmate.icu:8080/live/VM121628/56784321/330026.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 27: Baltimore Orioles VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-http://tvmate.icu:8080/live/VM121628/56784321/330027.m3u8
+http://tvmate.icu:8080/live/VM121628/56784321/330286.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: Pittsburgh Pirates VS St. Louis Cardinals (Pittsburgh Pirates Feed ) @ 14:15
+http://tvmate.icu:8080/live/VM121628/56784321/330287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Pittsburgh Pirates VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 14:15
+http://tvmate.icu:8080/live/VM121628/56784321/330288.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: Cincinnati Reds VS Chicago Cubs (Chicago Cubs Feed ) @ 14:20
+http://tvmate.icu:8080/live/VM121628/56784321/330289.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: Cincinnati Reds VS Chicago Cubs (Cincinnati Reds Feed ) @ 14:20
+http://tvmate.icu:8080/live/VM121628/56784321/330290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: Arizona Diamondbacks VS San Francisco Giants (San Francisco Giants Feed ) @ 16:05
+http://tvmate.icu:8080/live/VM121628/56784321/330294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Arizona Diamondbacks VS San Francisco Giants (Arizona Diamondbacks Feed ) @ 16:05
+http://tvmate.icu:8080/live/VM121628/56784321/330295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: Arizona Diamondbacks VS San Francisco Giants (San Francisco Giants Feed ) @ 22:05
+http://tvmate.icu:8080/live/VM121628/56784321/330296.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: Arizona Diamondbacks VS San Francisco Giants (Arizona Diamondbacks Feed ) @ 22:05
+http://tvmate.icu:8080/live/VM121628/56784321/330297.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18: Miami Marlins VS Washington Nationals (Washington Nationals Feed ) @ 16:05
+http://tvmate.icu:8080/live/VM121628/56784321/330298.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19: Miami Marlins VS Washington Nationals (Miami Marlins Feed ) @ 16:05
+http://tvmate.icu:8080/live/VM121628/56784321/330299.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 20: Kansas City Royals VS Cleveland Guardians (Cleveland Guardians Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 21: Kansas City Royals VS Cleveland Guardians (Kansas City Royals Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330301.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22: Houston Astros VS New York Mets (New York Mets Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330302.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23: Houston Astros VS New York Mets (Houston Astros Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330303.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24: San Diego Padres VS Tampa Bay Rays (San Diego Padres Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25: San Diego Padres VS Tampa Bay Rays (Tampa Bay Rays Feed ) @ 16:10
+http://tvmate.icu:8080/live/VM121628/56784321/330305.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -91103,55 +91165,109 @@ http://tvmate.icu:8080/live/VM121628/56784321/328490.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH PTV 4 (C)
 http://tvmate.icu:8080/live/VM121628/56784321/328491.m3u8
 
-# --- PPV | UFC (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: HLR Gold Cup Race of Champions at Silver Dollar (8.28 9:15 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: PDRA Drag Wars Day 2 (8.28 8:30 AM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03: USAC Sprint Car Smackdown at Kokomo (8.28 6:20 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04: NASCAR Whelen Modified Tour at Stafford (8.28 5:15 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05: Lucas Oil Late Model Dirt Series at Port Royal (8.28 5:45 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06: 500 Sprint Car Tour at Berlin (8.28 6:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07: Season Championship at Utica Rome (8.28 6:15 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08: NASCAR Weekly Racing at Autodrome (8.28 6:15 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09: NAPA All Star Circuit of Champions at Freedom Motorsports (8.28 6:30 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10: KKM Challenge Series at US 24 Night 1 (8.28 6:45 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11: Race of Champions Dirt Modifieds at Ohsweken (8.28 7:30 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12: USAC MRA Weld Memorial at Lakeside (8.28 7:45 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13: IMCA Weekly Racing at Marshalltown (8.28 7:45 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 14: NASCAR Weekly Racing at Riverhead (8.28 8:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15: MARS Late Models at Benton (8.28 8:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 16: Volusia Speedway Park (8.28 6:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 17: Attica Raceway Park (8.28 6:30 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 18: Williams Grove Speedway (8.28 7:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 19: River Cities Speedway (8.28 7:15 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 20: Adams County Speedway (8.28 7:15 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 21: Brotherly Love Boxing Price vs. Guevara (8.28 7:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 22: Road to UFC S5 (8.28 5:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 23: Shooto Brazil 139 (8.28 7:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 24: Marksman vs. Barreto (8.28 8:00 PM ET)
-http://tvmate.icu:8080/live/VM121628/56784321/330239.m3u8
+# --- PPV | UFC (51) ---
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01: PRELIMS Moses vs. Hrgovic (8.29 11:00 AM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02: Moses vs. Hrgovic (8.29 2:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04: Perry vs. Jenkins (8.29 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05: True Grit Wrestling New Grit Rising (8.29 2:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06: Top Level Pro 24 Summer Jam (8.29 5:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07: PRELIMS BKFC 92 (8.26 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08: BKFC 92 Stewart vs. Gigliotti (8.29 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09: Lopez vs. Cruz (En Espanol) (8.29 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10: HAW Uninvited VI (8.29 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11: APFC IPBL (8.29 11:30 AM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12: BKB 58 Trujillo vs. Terrill (8.29 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13: Lara vs. Ornela (8.29 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 14: HLR Gold Cup Race of Champions at Silver Dollar (8.29 9:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15: PDRA Drag Wars Day 3 (8.29 8:30 AM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 16: USAC Sprint Car Smackdown at Kokomo (8.29 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 17: Lucas Oil Late Model Dirt Series at Port Royal (8.29 5:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 18: KKM Challenge Series at US 24 (8.29 6:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 19: INEX Legends National Qualifier at Riverhead (8.29 4:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 20: Ohio Wheelman Series at Jennerstown (8.29 5:45 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 21: Championship Night at Berlin (8.29 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 22: Race of Champions Sportsman at Holland (8.29 6:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 23: USAC MRA Sprints at Valley (8.29 6:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 24: NAPA All Star Circuit of Champions at Sharon (8.29 6:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 25: NASCAR Weekly Racing at South Boston (8.29 6:35 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 26: IMCA Championship Night at 141 (8.29 6:55 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 27: NASCAR Weekly Racing at Langley (8.29 7:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330269.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 28: MARS Late Models at I55 Federated Auto Parts (8.29 7:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330270.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 29: CARS Tour West at All American (8.29 8:00 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 30: USAC Southwest Sprints at Deuce of Clubs (8.29 8:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 31: Millbridge Speedway (8.29 5:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 32: Land of Legends Raceway (8.29 6:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 33: Cedar Lake Speedway (8.29 6:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330275.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 34: Fix It Forward Speedway (8.29 7:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330276.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 35: Knoxville Raceway (8.29 7:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 36: Shelby County Speedway (8.29 7:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 37: Dirt Zone (8.29 7:30 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 38: Big Sky Speedway (8.29 8:15 PM ET)
+http://tvmate.icu:8080/live/VM121628/56784321/330280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV01: UFC Early Prelims/Prelims Sat 29th Aug @ 3:00AM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV03: Boxing: Moses vs. Hrgovic (DAZN) @ 02:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330314.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV04: Boxing: Lara vs. Ornelas (DAZN) @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV05: Millbridge Speedway (dirtvision) @ 06:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330316.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV06: Land of Legends Raceway (dirtvision) @ 06:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330317.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV07: Cedar Lake Speedway (dirtvision) @ 06:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV08: Knoxville Raceway (dirtvision) @ 07:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV09: Shelby County Speedway (dirtvision) @ 07:15 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV10: Heartland Modified Tour Tri-State Speedway Larry Phillips Memorial 8/29/26 (racindirt) @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330321.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV11: Lucas Oil Speedway Challenge Cup 8/29/26 (racindirt) @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV12: Vado Speedway Park 8/29/26 (racindirt) @ 09:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV13: True Grit Wrestling: New Grit Rising 2026 (fite tv) @ 02:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV14: BKFC 92 Boston: Kai Stewart vs Harry Gigliotti (fite tv) @ 07:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV15: HAW: Uninvited VI (fite tv) @ 08:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/330326.m3u8
 
 # --- Portugal (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
@@ -103354,7 +103470,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/121048.m3u8
 # --- WNBA (6) ---
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 01: Golden State Valkyries at Connecticut Sun Aug 26 7:00PM ET
 http://tvmate.icu:8080/live/VM121628/56784321/329404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Washington Mystics vs Phoenix Mercury @ 10:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 02: Toronto Tempo vs Phoenix Mercury @ 10:00 PM EDT
 http://tvmate.icu:8080/live/VM121628/56784321/329405.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03: Washington Mystics at Portland Fire Aug 23 7:00PM ET
 http://tvmate.icu:8080/live/VM121628/56784321/329406.m3u8
@@ -103365,4 +103481,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/329408.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 03 :
 http://tvmate.icu:8080/live/VM121628/56784321/329409.m3u8
 
-# Total: 51639
+# Total: 51697

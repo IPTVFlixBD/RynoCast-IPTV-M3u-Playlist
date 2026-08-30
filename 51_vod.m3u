@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-29 22:00:13
+# Generated: 2026-08-30 08:48:37
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -32453,7 +32453,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1074) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1076) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36235.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CD5QPUVDSS9hZpkYHKGyVZCGyR.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Kardeşler Araştırma (2026)
@@ -34602,6 +34602,10 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148850.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/73341.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JDJWhPU2rfTal8xkESkxnZb5q0.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Öngörü (2026)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/188950.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpewUcEo4xkZLSEaAFHPBzbyyod.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Kör Talih (2025)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189075.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k38X0ttLiR28lg5TRAMG7TaYAaF.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Soylu Tutsak (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189076.mkv
 
 # --- Movies | TÜRK YABANCI INTERNET DIZILER (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TÜRK YABANCI INTERNET DIZILER",TR: Hausen
@@ -35839,7 +35843,7 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4130
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT DOCU REALITY SERIES",7 vs. Wild - Wildcard Competition
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4145
 
-# --- Series | AMAZON PRIME - PARAMOUNT SERIES (388) ---
+# --- Series | AMAZON PRIME - PARAMOUNT SERIES (389) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",4 Blocks
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/515
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",12 Monkeys
@@ -36616,6 +36620,8 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4125
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4128
 #EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",Bis morgen bei der Arbeit!
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4150
+#EXTINF:-1 tvg-logo="" group-title="Series | AMAZON PRIME - PARAMOUNT SERIES",M.I.A.
+http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/4184
 
 # --- Series | APPLE TV+ ANIME SERIES (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | APPLE TV+ ANIME SERIES",Ein Huhn will’s wissen / Interrupting Chicken
@@ -42355,4 +42361,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21107
+# Total: 21110
