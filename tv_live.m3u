@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-08-30 08:48:26
+# Generated: 2026-08-30 21:53:25
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -12319,7 +12319,9 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3234.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/l1mburg.png" group-title="NL - REGIONAAL",(NL) L1
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3174.m3u8
 
-# --- NL - SPORTS (19) ---
+# --- NL - SPORTS (20) ---
+#EXTINF:-1 tvg-logo="" group-title="NL - SPORTS",(NL) W-Sport 4K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/380561.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="NL - SPORTS",(NL) Eurosport 1 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/151301.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="NL - SPORTS",(NL) Eurosport 2 4K+
@@ -12381,9 +12383,11 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329807.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 10 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329808.m3u8
 
-# --- NL - VIAPLAY EVENTS (53) ---
+# --- NL - VIAPLAY EVENTS (54) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay TV+ 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/305682.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay TV 4K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/380560.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay PDC Darts 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/125217.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY EVENTS",(NL) Viaplay Snooker FHD (LIVE ON MATCH)
@@ -20667,4 +20671,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353620.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Arablar/1828080.png" group-title="İR - PERSİAN",(IR) Velayat TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353619.m3u8
 
-# Total: 10114
+# Total: 10116
