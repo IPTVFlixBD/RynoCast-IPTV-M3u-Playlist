@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-08-30 21:56:22
+# Generated: 2026-08-31 08:42:22
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -7009,7 +7009,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/505053.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/miegIzRJ7N5kyzHEWsSY5Szo4pL.jpg" group-title="Movies | Documentaries [VOD]",TV 2 Avslører: Slagene i Oslo fengsel (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/505054.mkv
 
-# --- Movies | Drama [VOD] (1016) ---
+# --- Movies | Drama [VOD] (1017) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
 http://alienstreams.fi:8080/movie/hellhell/hellhell/260102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="Movies | Drama [VOD]",Luckiest Girl Alive
@@ -9042,6 +9042,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/505411.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/505581.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ndxoK8RZF1nfHvZzQ3f2sNlkkzg.jpg" group-title="Movies | Drama [VOD]",Che: Part One (2008)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/505880.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg" group-title="Movies | Drama [VOD]",The Motorcycle Diaries (2004)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/505883.mkv
 
 # --- Movies | F1[VOD] (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | F1[VOD]",Formula 1 2026 Osterrikes GP    -RACiNG
@@ -20953,4 +20955,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 10417
+# Total: 10418

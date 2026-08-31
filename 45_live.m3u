@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-08-30 21:45:14
+# Generated: 2026-08-31 08:37:30
 # Expires: 2027-07-13
 # Family Safe Edition
 # ==============================================
@@ -1155,11 +1155,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351423.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/College%20Baseball.png" group-title="College Baseball US",College Baseball 15 :
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351424.m3u8
 
-# --- DR Sport DK (2) ---
+# --- DR Sport DK (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/DR_logo.png" group-title="DR Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2433705.m3u8
-#EXTINF:-1 tvg-logo="https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='616098'&Width=1920&Height=1080&ImageId='80652171'" group-title="DR Sport DK",21:10 Sportsmagasinet 8/30 [DR Sport]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568749.m3u8
 
 # --- Denmark (216) ---
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flags-circle-3d/100/Denmark-128.png" group-title="Denmark",-= Denmark =-
@@ -1595,11 +1593,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/41317.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Denmark",Viasat Nature FHD DK [Multi-Sub]
 http://45.139.122.199:8080/live/Susanne1/susanne1/774461.m3u8
 
-# --- DirekteSport Events DK (2) ---
+# --- DirekteSport Events DK (1) ---
 #EXTINF:-1 tvg-logo="https://direktesport.dk/assets/1768306695/kodus/jfm-brands/brands/direktesport/favicons/android-icon-192x192.png" group-title="DirekteSport Events DK",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/686202.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-87b67e8e-015c-4bda-9d89-3bb050ef1630.jpg" group-title="DirekteSport Events DK",16:55 DHG Håndbold - Rødovre HK (1. division Kvinder) 8/30 [Direktesport DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568914.m3u8
 
 # --- Dirtvision US (11) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 01 : Nodak Speedway 7:15 PM
@@ -1625,43 +1621,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351587.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",Dirtvision 24/7
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351588.m3u8
 
-# --- Disney Plus DK (19) ---
+# --- Disney Plus DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1340808.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/673a2cc2-9869-4be6-b7ca-0844bef25095/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",15:00 Bruno Classic (Morning Session) 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568981.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f5c4f-7b57-7575-8340-5f21ddeae2dd/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",16:00 Hamilton, OH vs. Tokyo, Japan 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568980.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a00ed4-1cf1-781b-9afd-23ad9ba33a0b/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",16:50 Real Madrid - Málaga 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568979.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fd2c0-d390-73c0-9192-d87a60db325f/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 #6 Wisconsin vs. #4 Pittsburgh 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568978.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a011b7-f9a1-7bc6-aaea-b51e35d901f4/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:00 Quinnipiac vs. Boston College 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568977.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/673a2cc2-9869-4be6-b7ca-0844bef25095/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:00 Bruno Classic (Afternoon Session) 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568976.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff21b-d551-7fa5-be54-be7fa164b354/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:03 Yale vs. #13 Virginia 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568975.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a01a36-595a-7ed9-a98f-88100c54a0a5/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:25 Deportivo A Coruña - Valencia 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568974.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff21e-149d-71ee-95fd-47ba949dbd64/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",20:00 American University vs. Stanford 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568973.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fd2c3-13ce-7bd0-a940-620cc2d8c4ee/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",20:30 #15 Kansas vs. #5 Stanford 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568972.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a05062-33e4-7fa9-8afe-50f96e3eb1f3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",21:00 Willemstad, Curacao vs. Henderson, NV 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568971.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a007c4-2ebb-737f-9751-9a3279f20438/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",21:25 Celta Vigo - Athletic Bilbao 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568970.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fc89b-4d95-7479-b2e8-17bac80893cf/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",22:00 Central Michigan vs. California 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568969.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fc973-a50f-7d19-8d94-dbacb258893f/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",22:00 Cal State Fullerton vs. #1 Stanford 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568968.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff21b-b71c-77a2-b164-69bd395b1564/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",22:00 Dartmouth vs. Boston College 8/30 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568967.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fd7ce-34d2-7ca5-b066-9dca797d3900/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",00:00 #6 Georgetown vs. #19 Duke 8/31 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568965.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fc973-6f0a-70db-a6bb-2e65ceddf581/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",01:00 Wright State vs. Kentucky 8/31 [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568963.m3u8
 #EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a03b3e-4b2f-7f0c-bf5d-c09940859998/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",02:00 West Alabama vs. Tuskegee 8/31 [Disney+ DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568961.m3u8
 
@@ -1817,315 +1779,17 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2160773.m3u8
 #EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL36ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2160774.m3u8
 
-# --- ESPN+ Events US (159) ---
+# --- ESPN+ Events US (10) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/2yb4OEL.png" group-title="ESPN+ Events US",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/101275.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="ESPN+ Events US",UFC Fight Pass 24/7 FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/101217.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ac3e5018-d735-4317-a8f1-3b0101b1204e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608271402" group-title="ESPN+ Events US",9:00 AM EDT Bruno Classic (Morning Session) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569207.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/981f3a85-eae6-476b-bc5f-0453200123c2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608271405" group-title="ESPN+ Events US",9:00 AM EDT Bruno Classic (at Brown) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569206.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5538a96a-eadd-4de3-b5b0-e983e01f9c61/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292005" group-title="ESPN+ Events US",10:30 AM EDT En Español-Real Madrid vs. Malaga CF (Jornada 3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569205.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2d7b1f4c-fcb9-4405-9029-490a57fc473c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292005" group-title="ESPN+ Events US",10:30 AM EDT Real Madrid vs. Malaga CF (Matchday #3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569204.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1dcd050c-b8c5-427f-8a14-a8512a26f730/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608271640" group-title="ESPN+ Events US",10:40 AM EDT En Español-Telstar vs. Ajax 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569203.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/234c4a29-1371-4fdf-9c2f-7e6bb8e02a3f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608271642" group-title="ESPN+ Events US",10:40 AM EDT Telstar vs. Ajax 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569202.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e25c631b-598f-4e6f-ac37-13e1d978b745/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192137" group-title="ESPN+ Events US",11:00 AM EDT Sacred Heart vs. Bucknell 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569201.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2d586e6b-750d-441b-86be-c2340e2f309d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608252104" group-title="ESPN+ Events US",11:00 AM EDT TOUR Championship: Main Feed (Final Round) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569200.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/11eb35c0-cd6e-4f82-9f17-52a44101bda2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608201409" group-title="ESPN+ Events US",11:00 AM EDT James Madison vs. Princeton 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569199.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/61e3ba91-7bb5-4dbd-a7e2-93af199d8488/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608111549" group-title="ESPN+ Events US",11:00 AM EDT Alabama A&M vs. Southern Illinois 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569198.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1f5181bd-86f8-4443-8241-2f09b01e2cf5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300237" group-title="ESPN+ Events US",11:00 AM EDT TOUR Championship: Cantlay & Matsuyama Featured Groups (Final Round) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569197.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/80e8c4aa-96f3-4e62-8149-cab51bc816d3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608252104" group-title="ESPN+ Events US",11:15 AM EDT PGA TOUR LIVE BetCast Presented by DraftKings (Final Round) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569196.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f2e4e0ff-c5e4-4175-af82-008eeafc7e87/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608072020" group-title="ESPN+ Events US",12:00 PM EDT Boston University vs. Providence 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569195.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1d7ac265-725c-4877-86f8-256fbbbf8e4b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031619" group-title="ESPN+ Events US",12:00 PM EDT Duke vs. Richmond 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569194.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0a693ada-996a-43bd-9d11-415946742eb3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300239" group-title="ESPN+ Events US",12:00 PM EDT TOUR Championship: Clark Featured Group (Final Round) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569193.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/79f8dae0-d50b-4a5c-9913-2f9d5b68c31c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608281834" group-title="ESPN+ Events US",12:00 PM EDT Queens University vs. Longwood 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569192.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d116113f-5a5b-491e-a2f9-ea983f8327d3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608252104" group-title="ESPN+ Events US",12:00 PM EDT TOUR Championship: Featured Hole #2 & #15 (Final Round) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569191.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d0489552-2dfe-45a1-8302-00557b426e90/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300239" group-title="ESPN+ Events US",12:00 PM EDT TOUR Championship: Fleetwood Featured Group (Final Round) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569190.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/aa0ed2a7-a6ac-47c9-bc6b-069dcb3c4e17/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608072023" group-title="ESPN+ Events US",12:00 PM EDT Hofstra vs. Sacred Heart 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569189.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/39dc83ae-ddb5-48ee-a373-165b488f0840/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608121918" group-title="ESPN+ Events US",12:00 PM EDT Texas A&M International vs. UT Rio Grande Valley 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569188.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/949edf9a-3844-448e-87d1-9fead69d4dbf/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141447" group-title="ESPN+ Events US",12:00 PM EDT UMBC vs. West Virginia 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569187.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2914cf1d-b1b2-48b1-bb37-383e9b778827/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192137" group-title="ESPN+ Events US",12:00 PM EDT Rider vs. Temple 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569186.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b9f3fdd4-7d14-402f-b564-cce8f4e943c1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192137" group-title="ESPN+ Events US",12:30 PM EDT Loyola Chicago vs. Georgia Tech 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569185.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8861d3f7-f14c-4470-bca8-78ecefb97738/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291459" group-title="ESPN+ Events US",12:50 PM EDT En Español-RCD Mallorca vs. Ceuta (Jornada 3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569184.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/734b9040-5c10-4a00-bd79-c6426e32b63e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291459" group-title="ESPN+ Events US",12:50 PM EDT RCD Mallorca vs. Ceuta (Matchday #3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569183.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e7ca0288-8114-4809-b6f1-a5efe6404d58/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291451" group-title="ESPN+ Events US",12:50 PM EDT En Español-Cadiz vs. Valladolid (Jornada 3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569182.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e1c545a8-4b95-4373-b17f-6c041f7d1514/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291451" group-title="ESPN+ Events US",12:50 PM EDT Cadiz vs. Valladolid (Matchday #3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569181.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c9e40bd7-bcad-4149-8ee5-e8794cf8c483/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041438" group-title="ESPN+ Events US",1:00 PM EDT Grambling vs. Oklahoma State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569180.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4fd90e5f-b0a5-4e7b-be48-31b70dedc80b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292335" group-title="ESPN+ Events US",1:00 PM EDT Marist vs. Navy 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569179.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5856c0f1-c30f-4a4e-a570-3db76687ea8d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608051449" group-title="ESPN+ Events US",1:00 PM EDT William & Mary vs. App State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569178.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/adca33c9-c4df-403e-8ba9-2a0d73433b56/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292341" group-title="ESPN+ Events US",1:00 PM EDT Chicago State vs. IU Indianapolis 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569177.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c2572750-3bbd-4314-93dd-93ea5c97f847/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041428" group-title="ESPN+ Events US",1:00 PM EDT #3 Vanderbilt vs. Houston 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569176.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ed3f79aa-c5d1-4abf-a836-035fabe7a74b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292328" group-title="ESPN+ Events US",1:00 PM EDT Bryant vs. Merrimack 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569175.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/617ef998-9a5e-4219-b4c3-f8615321e048/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",1:00 PM EDT Delaware vs. Lafayette 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569174.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/65ba8167-7779-4817-8b6a-f966e9021c1d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292330" group-title="ESPN+ Events US",1:00 PM EDT Queens University vs. Coastal Carolina 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569173.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/48e36787-c3d4-4cf3-8f3c-e13ceefa64c3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608101716" group-title="ESPN+ Events US",1:00 PM EDT Cincinnati vs. Ball State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569172.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/12755770-8a0d-4bdc-8ad1-06c9fe8e0240/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608042109" group-title="ESPN+ Events US",1:00 PM EDT San Francisco vs. Boston University 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569171.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b8fe02a8-1770-4f21-899e-92921b851a4e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608271403" group-title="ESPN+ Events US",1:00 PM EDT Bruno Classic (Afternoon Session) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569170.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c5db1647-e00e-444c-9beb-2f45191703ee/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292338" group-title="ESPN+ Events US",1:00 PM EDT Gardner-Webb vs. VMI 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569169.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/20795674-513a-4a31-abde-e98cbc6d7a25/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300003" group-title="ESPN+ Events US",1:00 PM EDT East Carolina vs. Western Carolina 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569168.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5a66e0f1-37a2-4a5c-8924-67888c311c01/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608281542" group-title="ESPN+ Events US",1:00 PM EDT North Carolina A&T vs. Charlotte 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569167.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5f93c459-5fa4-49d2-82a0-dd3bcae1c5a2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",1:00 PM EDT North Dakota vs. Chicago State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569166.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/019e6fd8-0c31-453c-90bd-11ce4c872141/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",1:00 PM EDT SIU Edwardsville vs. Drake 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569165.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d0264340-b756-4355-8c08-fb0d05ed6ecb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608042108" group-title="ESPN+ Events US",1:00 PM EDT #7 West Virginia vs. Army 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569164.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3ca4f658-1f1a-40cb-a0b5-9d44a64eb1f0/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608112206" group-title="ESPN+ Events US",1:00 PM EDT Kent State vs. Duquesne 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569163.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ffab70c4-4966-45ad-8282-86414fd1e7ef/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608101719" group-title="ESPN+ Events US",1:00 PM EDT Saint Louis vs. Ohio 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569162.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/72e28029-5da3-4e58-9adf-95acd97dabbb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292330" group-title="ESPN+ Events US",1:00 PM EDT Tennessee Tech vs. Tulane 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569161.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4d17c24f-0929-4c11-9244-c4bff2bf28a7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292334" group-title="ESPN+ Events US",1:00 PM EDT Northern Kentucky vs. Morehead State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569160.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/370d4132-79e8-4c1b-9a67-72be6ca1cf1c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300014" group-title="ESPN+ Events US",1:00 PM EDT UMBC vs. Delaware 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569159.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ecd8d8ca-741f-4590-8d63-82b34ee4d760/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",1:00 PM EDT St. Thomas-Minnesota vs. Eastern Illinois 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569158.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/38e5ce70-0323-4f38-b02d-3644e1ce50d2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608241845" group-title="ESPN+ Events US",1:00 PM EDT Florida State vs. Florida Gulf Coast 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569157.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cc23870f-bda9-4f57-aff5-cc2f39b508cc/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031813" group-title="ESPN+ Events US",1:00 PM EDT Missouri State vs. Wichita State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569156.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6bf22121-38bd-44f9-95c4-a7e62b3d1da4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",1:00 PM EDT Wagner vs. Lafayette 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569155.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9bfec775-5b13-4082-b929-3e9a429b6a0a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608072046" group-title="ESPN+ Events US",1:00 PM EDT Northwestern vs. Butler 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569154.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7bcb58b2-08c7-4a20-80b2-0e0b79362295/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031808" group-title="ESPN+ Events US",1:00 PM EDT #20 Florida vs. Florida Atlantic 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569153.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a405175f-3f58-48bd-bc4d-ef55dc1b2099/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608050106" group-title="ESPN+ Events US",1:00 PM EDT Eastern Kentucky vs. Chattanooga 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569152.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7b31743f-10f6-4470-9842-a04b4c9c3466/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041637" group-title="ESPN+ Events US",1:00 PM EDT Cal State Northridge vs. Central Arkansas 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569151.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a2cdc86f-23b1-4b49-882e-049c03767a0f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608072045" group-title="ESPN+ Events US",1:00 PM EDT Virginia Tech vs. #22 Georgetown 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569150.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4928d410-0b3a-497f-97bf-c4cd210f2463/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608061838" group-title="ESPN+ Events US",1:00 PM EDT Eastern Michigan vs. Robert Morris 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569149.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fb7bddff-ed95-4687-9295-ab4df1f2996f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292330" group-title="ESPN+ Events US",1:00 PM EDT Columbia vs. La Salle 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569148.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bd2b1f95-b5a3-4fb1-ab22-b1fee1ecdf58/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292335" group-title="ESPN+ Events US",1:00 PM EDT Howard vs. Florida International 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569147.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ebd3acb9-ccec-4818-9226-50f5c8280028/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608042109" group-title="ESPN+ Events US",1:00 PM EDT Maine vs. Colgate 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569146.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1b212551-6d1a-4f45-897d-b7c2707e56fa/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292026" group-title="ESPN+ Events US",1:20 PM EDT Deportivo A Coruña vs. Valencia CF (Matchday #3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569145.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/52276fc7-e33c-4512-b843-b5ddcd812422/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292026" group-title="ESPN+ Events US",1:25 PM EDT En Español-Deportivo A Coruña vs. Valencia CF (Jornada 3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569144.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0f099a5e-1d74-45ad-9b76-b7a5cdc2193c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291508" group-title="ESPN+ Events US",1:30 PM EDT Viktoria Koln vs. Preussen Munster 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569142.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b7d2db34-7dc1-4231-adbe-c68dd65cb583/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608211317" group-title="ESPN+ Events US",2:00 PM EDT Wofford vs. Davidson 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569141.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8b7f02a3-6f4d-4fc0-8177-158b09be7ce3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292336" group-title="ESPN+ Events US",2:00 PM EDT Alabama State vs. Arkansas State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569140.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1ae04186-a919-4bdd-8e65-4d87b0f5f365/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",2:00 PM EDT Saint Joseph's vs. Bucknell 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569139.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/63cb91ba-e403-455c-bfde-70da8f874861/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608061741" group-title="ESPN+ Events US",2:00 PM EDT Central Arkansas vs. Missouri State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569138.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/56a25a87-0ef4-460f-b884-46c2b306ddff/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",2:00 PM EDT Indiana State vs. Austin Peay 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569137.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f3d609fb-b45f-41f7-bbff-29e754aa2a3c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607200044" group-title="ESPN+ Events US",2:00 PM EDT Sun, 8/30 - ESPN FC 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569136.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/78157ccd-ca20-4901-8389-7bf909e6c098/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608050105" group-title="ESPN+ Events US",2:00 PM EDT Winthrop vs. The Citadel 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569135.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9ad4402f-bfc0-4ac0-a833-b8fc7058aee1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608042118" group-title="ESPN+ Events US",2:00 PM EDT UAlbany vs. Army 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569134.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3d63b8af-4af2-4e91-af25-a7135cb034aa/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608042039" group-title="ESPN+ Events US",2:00 PM EDT Purdue vs. Southern Indiana 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569133.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a4516b04-e7a9-4fd0-9473-549ad31ee8af/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608262316" group-title="ESPN+ Events US",2:00 PM EDT Northwestern vs. Georgetown 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569132.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/13ef09aa-7dcd-4758-914b-ad686d3061ee/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",2:00 PM EDT UC Riverside vs. Samford 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569131.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9ba60dd7-f2b0-4cbc-8fbc-6621aa4de193/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608072027" group-title="ESPN+ Events US",2:00 PM EDT Richmond vs. Mount St. Mary's 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569130.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4a575cd8-0aad-41eb-938e-ae2de471aa86/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608051927" group-title="ESPN+ Events US",2:00 PM EDT Southeast Missouri State vs. North Alabama 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569129.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/43daa3c0-5153-42d3-9eef-be4beedb0279/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",2:00 PM EDT Green Bay vs. Western Illinois 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569128.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fb26af75-4e2a-4489-8c20-1b9bebdd73eb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608050105" group-title="ESPN+ Events US",2:00 PM EDT UNC Asheville vs. Furman 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569127.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c0ddb750-39d8-43d6-b421-bcb17f7171b0/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291515" group-title="ESPN+ Events US",2:00 PM EDT Charleston vs. Memphis 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569126.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/85bba58d-92d6-4f3a-a988-edba9e299a23/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608172259" group-title="ESPN+ Events US",2:00 PM EDT Rider vs. Colgate 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569125.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/324b8fba-b17c-4cc3-b4d7-442c012ae3fd/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608271602" group-title="ESPN+ Events US",2:00 PM EDT Denver vs. Northern Colorado 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569124.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5b7d906f-c1fb-4447-a806-76121cb6b58e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",2:00 PM EDT Illinois State vs. Loyola Chicago 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569123.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f9f75da5-8f8f-45b7-9fdb-f92f8ea3b840/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608072044" group-title="ESPN+ Events US",2:00 PM EDT Northern Illinois vs. Marquette 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569122.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4efd7904-e52d-4c27-a326-deb6244cb396/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041636" group-title="ESPN+ Events US",2:00 PM EDT NC State vs. UCF 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569121.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/628933b6-7eb7-4b42-a8d4-6ddf406b112f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",2:00 PM EDT South Carolina State vs. Wofford 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569120.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8a2990ff-ba00-4a87-8f2c-0a1172f568b7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141446" group-title="ESPN+ Events US",2:00 PM EDT Missouri vs. Creighton 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569119.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/312c73a9-30bb-4567-8c83-741531958330/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041755" group-title="ESPN+ Events US",2:00 PM EDT Georgia Southern vs. Murray State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569118.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0fc02d35-3678-49c2-add8-a2452eccc178/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292333" group-title="ESPN+ Events US",2:00 PM EDT UConn vs. Saint Joseph's 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569117.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1ab807a2-7b5d-4d42-9403-d5d164f13c67/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608112200" group-title="ESPN+ Events US",2:00 PM EDT Tulsa vs. #17 Kansas 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569116.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d9296a1f-15fc-4dfd-8a3d-d1b55fdb79c5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292335" group-title="ESPN+ Events US",2:00 PM EDT Kennesaw State vs. Tennessee Tech 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569115.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/50115617-7c34-4ad5-b3a1-cecffbf0565d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608202336" group-title="ESPN+ Events US",2:00 PM EDT 2026 US Open Pool Championship (Junior Final) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569114.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/433d87bf-8986-4c73-8f3e-f7fb785b846c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041637" group-title="ESPN+ Events US",3:00 PM EDT Northern Iowa vs. Iowa State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569113.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6a254fcc-af0a-4e60-a48a-e4a4ff4aac7f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300011" group-title="ESPN+ Events US",3:00 PM EDT Alabama State vs. Troy 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569112.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3991c454-8e86-4092-aae4-0f98039e9d0a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608102025" group-title="ESPN+ Events US",3:00 PM EDT UTEP vs. Northern Arizona 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569111.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dbe2950a-e935-4527-9371-ff48adf6862b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608112212" group-title="ESPN+ Events US",3:00 PM EDT Michigan vs. Bowling Green 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569110.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6b8ae461-0ef5-4a14-9237-e2036ee24d0d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608162129" group-title="ESPN+ Events US",3:00 PM EDT UL Monroe vs. East Texas A&M 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569109.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5a5d0103-b241-485f-8633-64694aa556f2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",3:00 PM EDT Nevada vs. Portland State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569108.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/30e2af3b-585a-4ccd-9ab7-1c14cfaee8ac/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608121934" group-title="ESPN+ Events US",3:00 PM EDT MSU Billings vs. Montana 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569107.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/73fca810-5781-4ed4-b779-b92773890bd2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031703" group-title="ESPN+ Events US",3:00 PM EDT Lindenwood vs. Saint Louis 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569106.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7c1797e6-cb90-4c60-bccf-8295803e4699/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608202342" group-title="ESPN+ Events US",1:00 PM EDT Hurricane Hole Louisiana Open (Day 3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569105.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/87304a9f-8efe-4485-963d-5906eb64be19/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608051503" group-title="ESPN+ Events US",3:00 PM EDT Little Rock vs. Louisiana Tech 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569104.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/43ef484e-00ad-4bc6-98cf-ae55b9259ac0/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041637" group-title="ESPN+ Events US",3:00 PM EDT Oregon State vs. Utah 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569103.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8ec6e4c0-3178-457b-b7ff-97c0b394aa12/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031800" group-title="ESPN+ Events US",3:00 PM EDT Radford vs. East Carolina 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569102.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/be9f6b31-a3bc-498f-9f67-67f9d826ee37/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300316" group-title="ESPN+ Events US",3:20 PM EDT Celta de Vigo vs. Athletic Club (Matchday #3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569101.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8ec1f26d-3bbc-4c7b-80eb-177fe8c01ade/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300316" group-title="ESPN+ Events US",3:25 PM EDT En Español-Celta de Vigo vs. Athletic Club (Jornada 3) 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569100.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf7ae1b8-8820-40aa-8321-f97787644782/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608191934" group-title="ESPN+ Events US",3:30 PM EDT UC Santa Barbara vs. Arizona 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569099.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/56b3b294-b991-49a1-ab16-230ff0eeba57/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",3:30 PM EDT 2026 WSL Championship Tour: Fiji Pro 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569098.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/261d7be8-ab7c-472b-bfaf-9509ea432534/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608111513" group-title="ESPN+ Events US",3:55 PM EDT AFC Toronto vs. Ottawa Rapid FC 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569097.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1c7f8a29-6cf5-4645-9c2d-360c4b20392c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041637" group-title="ESPN+ Events US",4:00 PM EDT Denver vs. #23 Colorado 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569096.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6b335249-ae6f-4177-b8c6-309b3a3aef96/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:00 PM EDT Nevada vs. Portland State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569095.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/aeeb7c65-6ebb-40a9-981a-a6c6f8adc562/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608112208" group-title="ESPN+ Events US",4:00 PM EDT Duquesne vs. Robert Morris 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569094.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/853e70ce-727b-4254-a090-90de2318e895/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608051503" group-title="ESPN+ Events US",4:00 PM EDT Georgia State vs. South Alabama 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569093.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6e999656-609b-4b27-ad73-47105252b983/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608162306" group-title="ESPN+ Events US",4:00 PM EDT #17 UCLA vs. Santa Clara 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569092.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d68f5915-e3d9-409a-b66c-5443fe4c2ce0/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608262035" group-title="ESPN+ Events US",4:00 PM EDT East Tennessee State vs. Longwood 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569091.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/39cd863e-44fc-4de1-9e89-80d25bdf6c71/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:00 PM EDT Iona vs. Villanova 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569090.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/52101cf6-35c4-43f2-abd5-31fd5412c3f8/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608281425" group-title="ESPN+ Events US",4:00 PM EDT Purdue Fort Wayne vs. Eastern Illinois 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569089.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ac06b4f4-eaff-4a29-8ba7-26b4e65db6f9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608300024" group-title="ESPN+ Events US",4:00 PM EDT Sacramento State vs. Pepperdine 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569088.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7cdceda4-e9b9-4813-8be8-d3032f1b1c9a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292346" group-title="ESPN+ Events US",4:00 PM EDT Eastern Washington vs. Seattle U 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569087.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/544b5e12-2f1d-4761-8963-5ac99163ef1d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608102040" group-title="ESPN+ Events US",4:00 PM EDT Cal State Bakersfield vs. Eastern Washington 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569086.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/92449a6e-ed31-49ff-8eb3-9c383d1daad8/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",4:00 PM EDT Grand Canyon vs. UC Irvine 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569085.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c401aaa1-8162-4be1-9bc5-57f10953ecd5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192139" group-title="ESPN+ Events US",5:00 PM EDT California vs. Saint Mary's 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569084.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c557d011-ab56-4f42-9a51-2fdf9b429747/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",5:00 PM EDT WGP Kickboxing 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569083.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/696da911-bdef-4757-b841-2e90ee17cb61/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292332" group-title="ESPN+ Events US",5:00 PM EDT Le Moyne vs. St. Bonaventure 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569082.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/889d5421-21c5-46ba-a3c3-dd71c006304c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608052151" group-title="ESPN+ Events US",5:00 PM EDT Pacific vs. UC San Diego 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569081.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2f425a36-e71c-457e-ba1e-880fe3e70877/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608061741" group-title="ESPN+ Events US",5:00 PM EDT Troy vs. Jacksonville State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569080.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e771a265-5b1f-4da4-adda-80b5670f9603/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141758" group-title="ESPN+ Events US",5:00 PM EDT Illinois-Springfield vs. Western Illinois 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569079.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d0044470-841a-49bf-8e5b-a1125f21f6bb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608050105" group-title="ESPN+ Events US",6:00 PM EDT Radford vs. UNC Greensboro 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569078.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/416542c4-21b1-4454-8bfb-6f78e64175d9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608131453" group-title="ESPN+ Events US",6:00 PM EDT Lamar vs. Tarleton State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569077.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1d57ff26-3fa2-4a81-91ef-b399f95df2ee/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031608" group-title="ESPN+ Events US",6:00 PM EDT Colgate vs. UAlbany 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569073.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fce0ec2f-8a31-49f0-a333-15938295d1c3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608182009" group-title="ESPN+ Events US",6:00 PM EDT #17 Georgia vs. Mercer 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569071.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/560753e7-055d-47a8-a432-75255d23ef67/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192141" group-title="ESPN+ Events US",6:00 PM EDT Louisiana vs. McNeese 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569069.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/462d02e1-e089-471d-888e-6688034df03b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041912" group-title="ESPN+ Events US",6:00 PM EDT South Florida vs. Stetson 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569067.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4c98f80a-6f18-4dae-80d2-619a3ccba3c2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292330" group-title="ESPN+ Events US",6:00 PM EDT Loyola Maryland vs. George Mason 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569065.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b274c461-e193-4878-8ab5-a34687bfa03e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608291733" group-title="ESPN+ Events US",7:00 PM EDT Gonzaga vs. Seattle U 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569063.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f8aa39d8-aac8-4397-8250-81cd8b1b2dfe/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608261548" group-title="ESPN+ Events US",7:00 PM EDT Hampton vs. South Carolina Upstate 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569061.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3fe3471f-2e88-4f55-b92f-4c6a3e7e1a0d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031745" group-title="ESPN+ Events US",7:00 PM EDT #20 NC State vs. Florida Atlantic 8/30
 http://45.139.122.199:8080/live/Susanne1/susanne1/2569059.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/496f47e0-e039-41b4-9d53-df8f2166ea58/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041430" group-title="ESPN+ Events US",7:00 PM EDT Northern Iowa vs. Iowa State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569057.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d4496e44-b48e-4a2a-badc-a9a53ffc0933/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292327" group-title="ESPN+ Events US",7:00 PM EDT Bellarmine vs. Northern Kentucky 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569055.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/db244617-c54c-4de0-a04a-d71fdc270ca9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608101504" group-title="ESPN+ Events US",7:00 PM EDT Louisiana Tech vs. Stephen F. Austin 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569053.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c62ce5e0-45c9-4e4d-8864-37f6c0c2ee65/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192141" group-title="ESPN+ Events US",7:00 PM EDT DePaul vs. Loyola Chicago 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569051.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c26efb5f-7af7-4488-8a31-e98c1aedbe70/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608192140" group-title="ESPN+ Events US",7:00 PM EDT Green Bay vs. Bradley 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569049.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf87c680-7eed-4fe3-8b4c-92330634e471/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608041428" group-title="ESPN+ Events US",7:30 PM EDT Nebraska vs. Kansas State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569047.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7926ae5f-43c6-40b8-8c62-7da6a5dc11b5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607292239" group-title="ESPN+ Events US",7:30 PM EDT New York Heights vs. San Francisco Firebells 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569045.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/541b549b-1002-4cb1-9b07-d6d7ea5b026f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",7:30 PM EDT Chicago State vs. Missouri State 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569043.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bdf56fad-f023-4a7d-baa8-ce0cc0f321b9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608121920" group-title="ESPN+ Events US",8:00 PM EDT Our Lady of the Lake vs. Texas A&M-Corpus Christi 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569041.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2a9c99c9-2305-4299-8c54-0a67557d7401/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608102057" group-title="ESPN+ Events US",8:00 PM EDT Pepperdine vs. Baylor 8/30
 http://45.139.122.199:8080/live/Susanne1/susanne1/2569039.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5c0ece7c-87d1-4567-b33b-a4402d7c23b3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608292335" group-title="ESPN+ Events US",8:00 PM EDT Marshall vs. UT Martin 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569037.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/24ecf063-7022-438a-8125-c35feb03d578/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031807" group-title="ESPN+ Events US",8:00 PM EDT Air Force vs. North Texas 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569035.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/34fba4c9-9d5a-4b23-b967-1d4380e484f7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608102031" group-title="ESPN+ Events US",9:00 PM EDT Utah vs. Utah Tech 8/30
 http://45.139.122.199:8080/live/Susanne1/susanne1/2569033.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0e37a467-364a-459e-8964-01b9f9aab790/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608272347" group-title="ESPN+ Events US",9:00 PM EDT Red Tails Classic Band Halftime Performance 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569031.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bf39f537-8391-4a69-902c-cbfa91a68462/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608180502" group-title="ESPN+ Events US",10:00 PM EDT UC Irvine vs. Pacific 8/30
 http://45.139.122.199:8080/live/Susanne1/susanne1/2569029.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/674a9825-c3c7-4245-911f-efddaec4b7a2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608102057" group-title="ESPN+ Events US",10:00 PM EDT Cal Poly vs. Arizona State 8/30
@@ -2499,61 +2163,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2114417.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/6/221/full/kbzgpcg1efl3ckze0a40g8jjs.png" group-title="Entertainment US",WGN 9 Chicago US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2114418.m3u8
 
-# --- FOX One US (35) ---
+# --- FOX One US (9) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjgBXxP8SzLTDegn56CwdKAqIYkbBDY_ca7-VfOsYcA&s" group-title="FOX One US",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2484847.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-12498788/89xzsrpohqq0d39e.jpg" group-title="FOX One US",11:00 AM EDT IndyCar NXT - Milwaukee 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568823.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1326428/un3w2f7y852iu3xw.jpg" group-title="FOX One US",11:00 AM EDT NCAA WSOC - Michigan State Spartans vs. Colorado Buffaloes 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568821.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1341052/ggkdrv9xa6t7t1ez.jpg" group-title="FOX One US",11:00 AM EDT Players Era Volleyball Showcase - Nebraska vs UNLV 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568819.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-8747179/s68ksrqdrmldm6os.jpg" group-title="FOX One US",12:00 PM EDT American Flat Track - Peoria TT 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568815.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1342086/xek6443eckain270.jpg" group-title="FOX One US",1:00 PM EDT IndyCar - Milwaukee II 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568813.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1326868/1pmtbt7gjkdzhxde.jpg" group-title="FOX One US",1:00 PM EDT B1G Women's Volleyball - Creighton vs. USC 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568811.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9646634/oabgqa537c2v4fct.jpg" group-title="FOX One US",1:00 PM EDT Saratoga Live 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568809.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1340104/wnyj11jpoe81uhtq.jpg" group-title="FOX One US",1:00 PM EDT Players Era Volleyball Showcase - TCU vs Texas 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568807.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1327006/5vgeg9zs3cfxenb9.jpg" group-title="FOX One US",2:00 PM EDT Saudi Pro League - Al-Qadisiyah vs Al-Faisaly FC 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568805.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1303641/9grtov22sqgupcmf.jpg" group-title="FOX One US",3:00 PM EDT Championship Off-Road Racing - Bark River, MI 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568803.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1342665/u14nylb0zizhrxrv.jpg" group-title="FOX One US",3:00 PM EDT B1G Football in 60 - San Jose State at USC 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568801.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1340105/33wxohb3j7n09o6n.jpg" group-title="FOX One US",3:30 PM EDT Players Era Volleyball Showcase - Texas vs Nebraska 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568799.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9281595/dr40asggsg5uu4rw.jpg" group-title="FOX One US",4:00 PM EDT B1G Volleyball in 60 - Minnesota vs. Creighton 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568797.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1342167/a7e50apcmc605gly.jpg" group-title="FOX One US",4:00 PM EDT Liga MX en Español - Club Necaxa v Cruz Azul 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568795.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-12202909/6p59zk7msvr4uepx.jpg" group-title="FOX One US",4:30 PM EDT MOTOGP Sprint Race - Aragon GP 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568793.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-12155958/28y4j9zypgg0og8u.jpg" group-title="FOX One US",5:00 PM EDT MOTOGP Racing - Aragon GP 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568791.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1341052/ggkdrv9xa6t7t1ez.jpg" group-title="FOX One US",6:00 PM EDT Players Era Volleyball Showcase - UNLV vs TCU 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568789.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9646634/oabgqa537c2v4fct.jpg" group-title="FOX One US",6:00 PM EDT Saratoga Live 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568787.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1303641/9grtov22sqgupcmf.jpg" group-title="FOX One US",6:30 PM EDT Championship Off-Road Racing - Bark River, MI 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568785.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1319588/r22e0c2qotqyfal6.jpg" group-title="FOX One US",7:00 PM EDT CPA - Millonarios vs. Internacional de Bogota. 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568783.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1342665/u14nylb0zizhrxrv.jpg" group-title="FOX One US",7:00 PM EDT B1G Football in 60 - San Jose State at USC 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568781.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1324426/0azvwag6wv4yh3l4.jpg" group-title="FOX One US",7:00 PM EDT Liga MX Femenil - Chivas de Guadalajara v Pumas UNAM 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568779.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1340105/33wxohb3j7n09o6n.jpg" group-title="FOX One US",8:00 PM EDT Players Era Volleyball Showcase - Texas vs Nebraska 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568777.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1058344/97lfjl9c2sqi9sz6.jpg" group-title="FOX One US",8:00 PM EDT ARCA Racing - Madison 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568775.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1198455/fkodo11z7gbjvgdf.jpg" group-title="FOX One US",8:30 PM EDT ARGE - Independiente Rivadavia vs. Racing Club 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568773.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/sports/artwork/VX-9281595/dr40asggsg5uu4rw.jpg" group-title="FOX One US",9:00 PM EDT B1G Volleyball in 60 - Minnesota vs. Creighton 8/30 [FOX One]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568771.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1198455/fkodo11z7gbjvgdf.jpg" group-title="FOX One US",9:00 PM EDT Liga Profesional de Fútbol Argentino - Independiente Rivadavia v Racing Club 8/30 [FOX One]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568769.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1342086/xek6443eckain270.jpg" group-title="FOX One US",10:00 PM EDT IndyCar - Milwaukee II 8/30 [FOX One]
@@ -3123,164 +2735,74 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351516.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/6GDGuR.md.png" group-title="HBO Max Original US",HBOMax Original 17
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351517.m3u8
 
-# --- HBO Max Sports DK (51) ---
+# --- HBO Max Sports DK (5) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CeD5u/vAIISgrX-b4NE8SdQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",12:00 La Vuelta cykling FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568341.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QuaLp/JJ7fnXha5oIh1Cexw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 BSB | Præsentation superbike FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568339.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/y0Ak2/L0-fzDzosSoi8EhxQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:00 UEC European Gravel Championships gravel cykling FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568338.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5cOig/0iOWgoyBLGNwWOe3w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:10 Bretagne Classic cykling FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568336.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/WVJtI/uogVupgOFDpIgb4Rw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Daniel Merida - Marton Fucsovics tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568334.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gahTX/WIV9b4ho-0m0lZcrQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Sho Shimabukuro - Arthur Rinderknech  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568333.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qKVqw/cJZ-ls7F782Twi6Gw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Multiview tennis FHD 8/30 [HBO Max DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568332.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oLfym/Hv7cVC6c_KJjkp9jA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Renata Zarazua - Polina Iatcenko tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568331.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oL9kA/coEyKoo0HGYigMWSQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Yibing Wu - Adam Walton tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568330.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QrwRS/5_7w80hKJ_6_Mg9Mg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Kamil Majchrzak - Hamad Medjedovic  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568329.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zbHxD/L7K3Pex-LtcgwJTRw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Jiri Lehecka - Pablo Carreño Busta tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568328.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/12o3z/x-GXW6g34fCu89DLg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Stream 1 | Main feed / Featured group golf FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568327.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ALgjE/y3CqXQ-zl8DERldXA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Stream 3 | Featured groups / Featured group golf FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568326.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SifMC/DVXZTwPjB0Bt1Yikg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Talia Gibson - Donna Vekic tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568325.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bktAP/mcDvJyXNLboWalSpg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:02 Jasmine Paolini - Veronika Erjavec tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568324.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/xsWXe/yzExoTLnxl2vgs2UA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Dino Prizmic - Aleksandr Shevchenko tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568323.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_KtZv/DHAH2PR8iD9kQKpUg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Kamilla Rakhimova - Barbora Krejcikova tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568322.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/p_eME/z3cIZospfj6qOmGVw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Jessica Pegula - Elena-Gabriela Ruse tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568321.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5CHcC/jwIv9yhP8n4zIrCgw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Tour Championship | Dag 4 golf FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568320.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/64Uhv/XXYNEEym7I90DdqzA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Stream 2 | Marquee group / Featured group golf FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568319.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JB1hi/Mmbj1yEjDkdT-9O3g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:30 Emiliana Arango - Xinyu Wang tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568318.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nUHYt/j3XYE_TGHHKUumMjQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:31 Coleman Wong - Tommy Paul  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568316.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/0W2bi/BxaDUTmR-F8k3seWQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:30 Lucrezia Stefanini - Dayana Yastremska tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568315.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/692p7/TFyHxGc5WsJ96wekA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:29 Jaume Munar - Térence Atmane  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568314.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CoEdc/0Ee_QYYIOUfEzUcyQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:30 Toby Samuel - Tomas Machac tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568313.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eGtuG/Tf0rvGgu6uIc2-Cew.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:29 Elvina Kalieva - Lanlana Tararudee tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568312.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/l5C2n/J7514K6-26DuRAlLg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:30 Shuai Zhang - Leylah Fernandez tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568311.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/aGGSM/6J7iB-0BhcIoKDaaQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:30 Marta Kostyuk - Storm Hunter tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568310.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Bhb6C/enUNlZvhfqdxRcKew.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:29 Lloyd Harris - Jack Kennedy tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568309.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/n2Edk/0H6We_9ke98LMWbKQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Daniil Medvedev - Hugo Gaston tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568308.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5CHcC/jwIv9yhP8n4zIrCgw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:00 The Ally Challenge | Dag 3 golf FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568307.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ksFNr/MbK_IgSh19m_67KkA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Jaime Faria - Jenson Brooksby  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568306.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ONg0x/0TiTtAtEJYTJrkrcA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Thiago Agustin Tirante - Adrian Mannarino  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568305.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/L43qw/NjfPI1AwC3YjnY5rA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Carol Young Suh Lee - Katie Boulter tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568304.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oTvUR/p2ju58MzABWAWSvHQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:59 McCartney Kessler - Ekaterina Alexandrova tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568303.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZoxX3/p9IeFdcPCCyCr665Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:59 Hanne Vandewinkel - Karolina Pliskova tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568302.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/iWE82/3BdeGI-blitQCmTrw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Aleksandar Vukic - Rei Sakamoto  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568301.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Akplw/-4aOD8BL8nRuFsbdQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Miomir Kecmanovic - Denis Shapovalov  tennis FHD 8/30 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568300.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eGX1u/4gWFuVKvpI3YV6zFA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:30 Alex Michelsen - Federico Cina tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568299.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/K2nXD/slzD7o6TJh2GRQjrQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:29 Sebastian Gorzny - Raphael Collignon  tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568298.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XRPM_/rs0DZwM-gYWR6-9SA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:30 Martin Landaluce - Jacob Fearnley tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568297.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/F7LnS/y6ExIX8vWkKH5CwNA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:30 Tomás Martin Etcheverry - Vit Kopriva  tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568296.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/l3Zv_/u9ptihVv1rEdjYzfg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:30 Emma Navarro - Lois Boisson tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568295.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MpcL_/-Gcb9hds722pvR9uw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:30 Kimberly Birrell - Petra Marcinko tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568294.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/0PSrr/HYEq_hQh784cqtm_Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:29 Taylah Preston - Alycia Parks tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568293.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/iwMPk/hdD-zfCOIbdEGT_FQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:45 Courtside tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568292.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/058dI/Vhoizj3C3G1n8mCKA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:00 Mariano Navone - Novak Djokovic tennis FHD 8/31 [HBO Max DK]
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/058dI/Vhoizj3C3G1n8mCKA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:18 Mariano Navone - Novak Djokovic tennis FHD 8/31 [HBO Max DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568291.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/UufQd/FRAlHouwp0lzkc-vg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:00 Elina Svitolina - Solana Sierra tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568290.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LvY7t/0AEDZshB7MGhHfZ1A.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",03:30 Venus Williams - Sofia Kenin tennis FHD 8/31 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568289.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MsbhG/JNxGwrfA4ZzCA4zvg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",03:30 Alexander Bublik - J.J. Wolf  tennis FHD 8/31 [HBO Max DK]
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MsbhG/JNxGwrfA4ZzCA4zvg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",02:14 Alexander Bublik - J.J. Wolf  tennis FHD 8/31 [HBO Max DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568288.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LvY7t/0AEDZshB7MGhHfZ1A.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",04:35 Venus Williams - Sofia Kenin tennis FHD 8/31 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2568289.m3u8
 
-# --- HBO Max Sports DK [B] (49) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | LA VUELTA | Sun 30 Aug 11:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+# --- HBO Max Sports DK [B] (50) ---
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | ALEXANDER BUBLIK - J.J. WOLF  | Mon 31 Aug 03:22 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Susanne1/susanne1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | JIRI LEHECKA - PABLO CARREÑO BUSTA | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | VENUS WILLIAMS - SOFIA KENIN | Mon 31 Aug 04:21 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Susanne1/susanne1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | BSB | PRÆSENTATION | Sun 30 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | DING JUNHUI - ANTON KAZAKOV | Mon 31 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Susanne1/susanne1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | UEC EUROPEAN GRAVEL CHAMPIONSHIPS | Sun 30 Aug 14:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | IULIAN BOIKO - XU YICHEN | Mon 31 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Susanne1/susanne1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | SHAUN MURPHY - REANNE EVANS | Mon 31 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Susanne1/susanne1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | BRETAGNE CLASSIC | Sun 30 Aug 15:10 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MARK WILLIAMS - DAVID GILBERT | Mon 31 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Susanne1/susanne1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | DINO PRIZMIC - ALEKSANDR SHEVCHENKO | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | BSB | PRÆSENTATION | Mon 31 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Susanne1/susanne1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | DANIEL MERIDA - MARTON FUCSOVICS | Sun 30 Aug 16:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FLORIAN NÜSSLE - KYREN WILSON | Mon 31 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Susanne1/susanne1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | SHO SHIMABUKURO - ARTHUR RINDERKNECH  | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MARK JOYCE - MATEUSZ BARANOWSKI | Mon 31 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Susanne1/susanne1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | MULTIVIEW | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | BARRY HAWKINS - HAOHUI DENG | Mon 31 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Susanne1/susanne1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | RENATA ZARAZUA - POLINA IATCENKO | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | WU YIZE - LIU HONGYU | Mon 31 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Susanne1/susanne1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | YIBING WU - ADAM WALTON | Sun 30 Aug 16:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Susanne1/susanne1/987419.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | KAMIL MAJCHRZAK - HAMAD MEDJEDOVIC  | Sun 30 Aug 16:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Susanne1/susanne1/987420.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 1 | MAIN FEED / FEATURED GROUP | Sun 30 Aug 16:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 14
 http://45.139.122.199:8080/live/Susanne1/susanne1/987421.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 3 | FEATURED GROUPS / FEATURED GROUP | Sun 30 Aug 16:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 15
 http://45.139.122.199:8080/live/Susanne1/susanne1/987422.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | TALIA GIBSON - DONNA VEKIC | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 16
 http://45.139.122.199:8080/live/Susanne1/susanne1/987423.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | KAMILLA RAKHIMOVA - BARBORA KREJCIKOVA | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 17
 http://45.139.122.199:8080/live/Susanne1/susanne1/987424.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | JASMINE PAOLINI - VERONIKA ERJAVEC | Sun 30 Aug 17:01 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 18
 http://45.139.122.199:8080/live/Susanne1/susanne1/987425.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | STREAM 2 | MARQUEE GROUP / FEATURED GROUP | Sun 30 Aug 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 19
 http://45.139.122.199:8080/live/Susanne1/susanne1/987426.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOUR CHAMPIONSHIP | DAG 4 | Sun 30 Aug 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 20
 http://45.139.122.199:8080/live/Susanne1/susanne1/987427.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JESSICA PEGULA - ELENA-GABRIELA RUSE | Sun 30 Aug 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 21
 http://45.139.122.199:8080/live/Susanne1/susanne1/987428.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ELVINA KALIEVA - LANLANA TARARUDEE | Sun 30 Aug 19:29 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 22
 http://45.139.122.199:8080/live/Susanne1/susanne1/987429.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JAUME MUNAR - TÉRENCE ATMANE  | Sun 30 Aug 19:29 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 23
 http://45.139.122.199:8080/live/Susanne1/susanne1/987430.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOBY SAMUEL - TOMAS MACHAC | Sun 30 Aug 19:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 24
+http://45.139.122.199:8080/live/Susanne1/susanne1/987431.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 25
 http://45.139.122.199:8080/live/Susanne1/susanne1/987432.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LUCREZIA STEFANINI - DAYANA YASTREMSKA | Sun 30 Aug 19:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 26
 http://45.139.122.199:8080/live/Susanne1/susanne1/987433.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | EMILIANA ARANGO - XINYU WANG | Sun 30 Aug 19:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 27
 http://45.139.122.199:8080/live/Susanne1/susanne1/987434.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LLOYD HARRIS - JACK KENNEDY | Sun 30 Aug 19:29 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 28
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 28
 http://45.139.122.199:8080/live/Susanne1/susanne1/987435.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 29
 http://45.139.122.199:8080/live/Susanne1/susanne1/987436.m3u8
@@ -6860,7 +6382,7 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2378259.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131418.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 04 ⓧ| UFC | Makhachev v Machado Garry | Sat 15th Aug 2:00AM UK/9:00PM ET (Backup)
 http://45.139.122.199:8080/live/Susanne1/susanne1/2378258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 04: Perry v Jenkins 6:00 pm
+#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 04:
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131419.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 05 :
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131420.m3u8
@@ -6872,7 +6394,7 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2378256.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131421.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 07 ⓧ| ACW Uprising | Sat 15th Aug 11:30PM UK/6:30PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2378255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 07: Top Level Pro 24 Summer Jam 5:00 pm
+#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 07:
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131422.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 08 :
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131423.m3u8
@@ -7005,15 +6527,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2131473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",USA PPV59:
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131474.m3u8
 
-# --- Paramount+ Original US (4) ---
+# --- Paramount+ Original US (1) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/250px-Paramount_Plus.svg.png" group-title="Paramount+ Original US",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2380061.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/67dbbda5-75a1-4648-af9c-3b0abca3f6c7/SERIE_THMB_27_Napoli_Main_Como_Main_akes5.jpg?format=webp" group-title="Paramount+ Original US",12:00 PM EDT Napoli vs. Como Serie A 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568836.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/7e09dcf5-ffee-42a0-bcf3-7f8697777e30/SERIE_THMB_27_Cagliari_Main_InterMilan_Alt_yem3f.jpg?format=webp" group-title="Paramount+ Original US",2:30 PM EDT Cagliari vs. Inter Serie A 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568835.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/17933205-0ed2-408a-b7e0-7fc21a3838cf/SERIE_THMB_27_Lazio_Main_Genoa_Main_whcxf.jpg?format=webp" group-title="Paramount+ Original US",2:30 PM EDT Lazio vs. Genoa Serie A 8/30
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568834.m3u8
 
 # --- Peacock / DAZN US (44) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cc8c0x1vqmlngpzugxcbimc35_image-header_pUs_1738622991000/fill/center/top/none/85/800/600/png/image" group-title="Peacock / DAZN US",US-DAZN 1
@@ -7105,15 +6621,11 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160451.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  19
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160452.m3u8
 
-# --- Prime Sports DK (6) ---
+# --- Prime Sports DK (4) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c73fee6f-c4b9-4e16-b034-9afc7543ff93/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",15:00 Aug 30 - PTT Clemson 8/30 [Amazon Prime DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568580.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",17:00 Aug 30 - PTT Boise 8/30 [Amazon Prime DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568579.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60b7f13e-4866-4bcc-9193-903b1c94e004/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",19:00 Aug 30 - PTT Newport Beach 8/30 [Amazon Prime DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568578.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.076211d7-1fef-40fa-92aa-fea290e14093/5/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/appletvdk/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1607%2C885%2C234%2C117_kvfc4eae327231b538ae97d39c72e95c2c_.jpeg" group-title="Prime Sports DK",03:30 MLS Wrap-Up 8/31 [Amazon Prime DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2568577.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efc2a803-9f6f-4348-8fcf-dfb8f1388775/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/appletvdk/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1607%2C885%2C234%2C117_kvfc4eae327231b538ae97d39c72e95c2c_.jpeg" group-title="Prime Sports DK",03:30 MLS El Resumen 8/31 [Amazon Prime DK]
@@ -7573,25 +7085,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2251847.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/WDAY-TV_2021.svg/200px-WDAY-TV_2021.svg.png" group-title="Sports US",WDAY FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2251811.m3u8
 
-# --- TV2 Sport DK (9) ---
+# --- TV2 Sport DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/527426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/a3508add-5a3a-3aaa-b901-f06f6920fc88.png?ar=16%3A9&auto=format&fit=crop&rect=224%2C215%2C3457%2C1945&w=1200" group-title="TV2 Sport DK",11:40 Vuelta a España: 9. etape 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568993.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/41e23061-367a-3ee0-b67b-a2e70a188dfb.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",15:25 3F Superliga: Før Randers FC-AGF 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568990.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/2f9ef612-e129-3e1d-89b3-9efa0674b0bf.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",15:50 3F Superliga: Taktisk feed med Randers FC-AGF 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568989.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/ec4a3546-b781-3b4f-a7db-d9bd4324dd0e.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",15:55 3F Superliga: Randers FC-AGF 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568988.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/bf77b3e6-21a3-3b8e-84df-39986be68ee2.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",18:00 Herreligaen: Aalborg-TTH Holstebro 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568986.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/d2807309-cb73-3d8e-ae78-d4a615f16466.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",18:25 Serie A: Napoli-Como 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568985.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/ab0f366f-ee8a-3184-b5ec-7b07d46dd560.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",20:30 Serie A: Lazio-Genoa 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568984.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/95ea39eb-ae7e-3292-b136-86d8d99ee86c.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",20:40 Serie A: Cagliari-Inter 8/30 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2568983.m3u8
 
 # --- Tennis Channel Plus US (100) ---
 #EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 01) |  WTA 125 Philadelphia: Haverlag I / Radisic N _ Skoch M / Maleckova J (2026-08-29 12:00:00)
@@ -8491,53 +7987,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2121934.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="United States",YES Network US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2121935.m3u8
 
-# --- Viaplay Sport DK (24) ---
+# --- Viaplay Sport DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",14:30 Chelsea - Brighton | Premier League 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569242.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/311/692/logo_GTWorldChallenge.png?width=320&height=320" group-title="Viaplay Sport DK",14:30 Nürburgring | GT World Challenge Asia 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569241.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Viaplay Sport DK",23:55 Snap-On Makers and Fixers 250 | IndyCar 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569537.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/968/952/Logo_LadiesEuropeanTour.png?width=320&height=320" group-title="Viaplay Sport DK",15:00 KPMG Women’s Irish Open | Ladies European Tour 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569234.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",15:20 Freiburg - Werder Bremen | Bundesliga 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569233.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Leverkusen - Wolfsburg | Frauen-Bundesliga 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569232.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 Man United - Ipswich | Premier League 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569229.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 FC Nordsjælland - Brøndby IF | 3F Superliga 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569228.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 Indy NXT by Firestone at Milwaukee Mile | Indy NXT 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569227.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",17:10 Rennes - Le Mans | Ligue 1 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569226.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",17:25 [4k] Man United - Ipswich | Premier League UHD 2160p 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569225.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",17:25 Augsburg - Schalke | Bundesliga 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569224.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Hungarian Darts Trophy | PDC Darts 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569223.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_LPGA.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 FM Championship | LPGA 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569222.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Snap-On Milwaukee Mile 250 | IndyCar 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569221.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",19:30 Yankees - Red Sox | Major League Baseball 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569220.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/491/604/logo_MatchroomPool.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 US Open Pool Championship | Pool 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569219.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 The Weekend Wrap | Premier League 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569218.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 Onside | 3F Superliga 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569217.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/907/432/logo_GTWorldChallenge.png?width=320&height=320" group-title="Viaplay Sport DK",20:30 Road America | GT World Challenge America 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569216.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:40 Monaco - Marseille | Ligue 1 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569215.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/491/604/logo_MatchroomPool.png?width=320&height=320" group-title="Viaplay Sport DK",23:00 US Open Pool Championship | Pool 8/30 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2569214.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Cubs - Reds | Major League Baseball 8/31 [Viaplay DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2569213.m3u8
 
@@ -8911,4 +8363,4 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835487.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="World Football Events",USA | MLS 14ⓧ: LA Galaxy vs New York City | Sun 22nd Feb 7:00PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835488.m3u8
 
-# Total: 4377
+# Total: 4103

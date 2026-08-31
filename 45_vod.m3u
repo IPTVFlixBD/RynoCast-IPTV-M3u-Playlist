@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-08-30 21:45:14
+# Generated: 2026-08-31 08:37:30
 # Expires: 2027-07-13
 # Family Safe Edition
 # ==============================================
@@ -1195,7 +1195,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2541856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",The Whisper Man [Multi-Sub] [4K] [2026]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2563449.mkv
 
-# --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (369) ---
+# --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (370) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",On Her Majesty's Secret Service [4K] [1969]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2369782.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",No Time to Die [4K] [2021]
@@ -1934,6 +1934,8 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/1326849.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2204879.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",Raiders of the Lost Ark [Multi-Sub] [4K] [1981]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2204880.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",Platoon [Multi-Sub] [4K] [1986]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2569678.mkv
 
 # --- Movies | Box set [Multi-Sub] (42) ---
 #EXTINF:-1 tvg-logo="http://nordic1.tv:2095/images/movies/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="Movies | Box set [Multi-Sub]",Spider-Man: Homecoming [2017]
@@ -18837,7 +18839,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2567983.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SfsoUYXRRrfL31br8q4DlTYvKK.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Yours, Mine & Ours [PRE] [2005]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2567984.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (6066) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (6067) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Grand Theft Auto VI: An Extended Look [PRE] [2026]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2562132.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viQxAwBsx353fWp1x4wr0dI8GIk.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Darkest Web [PRE] [2026]
@@ -30970,6 +30972,8 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2567718.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2567719.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Motor City [PRE] [2026]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2569564.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Mandalorian and Grogu [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2569938.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -31081,4 +31085,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2173473.mkv
 
-# Total: 15521
+# Total: 15523

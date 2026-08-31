@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-08-30 21:57:06
-# Expires: 2026-08-30
+# Generated: 2026-08-31 08:36:52
+# Expires: 2026-08-31
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K (921) ---
+# --- Movies | 4K (922) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg62sAnuT2yzuA7MWqAktJSsAeZ.jpg" group-title="Movies | 4K",Curry com Cianeto [4K] (2023)
+http://lidns.cc/movie/yu3k45/3audeg/554391.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijXKi02M7HIAHtjpBCWKTQj5L3X.jpg" group-title="Movies | 4K",Fundo do Poço [4K] (2023)
 http://lidns.cc/movie/yu3k45/3audeg/553592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | 4K",O Bad Boy e Eu 2 AKA Outro Amor Fora do Tempo (2025) 4K
@@ -22681,7 +22683,9 @@ http://lidns.cc/movie/yu3k45/3audeg/2546.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",The Beginning After the End [L]
 http://lidns.cc/movie/yu3k45/3audeg/7298.mp4
 
-# --- Movies | Legendado (5344) ---
+# --- Movies | Legendado (5345) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg" group-title="Movies | Legendado",అఖండ 2: తాండవం [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/554381.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Doctor-X O Filme (2024) [L]
 http://lidns.cc/movie/yu3k45/3audeg/554347.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHiFO7jaY03Etdj6yfwFm8850Kj.jpg" group-title="Movies | Legendado",Home [L] (2023)
@@ -32324,7 +32328,7 @@ http://lidns.cc/movie/yu3k45/3audeg/8845.mp4
 http://lidns.cc/movie/yu3k45/3audeg/8843.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Não Atenda o Telefone! [L]
 http://lidns.cc/movie/yu3k45/3audeg/8841.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Gavan Infinity [L]
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",PROJECT R.E.D. [L]
 http://lidns.cc/movie/yu3k45/3audeg/8840.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Força Negra: A Lenda da Associação Americana de Basquete [L]
 http://lidns.cc/movie/yu3k45/3audeg/8839.mp4
@@ -45853,4 +45857,4 @@ http://lidns.cc/movie/yu3k45/3audeg/7542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Turcas",Yargı: Segredos de Família
 http://lidns.cc/movie/yu3k45/3audeg/2553.mp4
 
-# Total: 22873
+# Total: 22875
