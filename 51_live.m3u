@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-08-31 08:40:31
+# Generated: 2026-09-01 00:38:20
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1665,7 +1665,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165929.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sportklub-1.png" group-title="CRO: KROATIEN",Sport Klub 1 HD [CRO]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165928.m3u8
 
-# --- CZE: CZECH REPUBLIC (53) ---
+# --- CZE: CZECH REPUBLIC (52) ---
 #EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",##### CZECH REPUBLIC #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj plus
@@ -1768,8 +1768,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177483.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177484.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JEDONTKA
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177485.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: ID
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JIM JAM
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177487.m3u8
 
@@ -1955,125 +1953,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (59) ---
+# --- DE-DAZN EVENT (1) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/78ec6tjkfyqxtvqwebqqyw05q_image-header_pDach_1782214454000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",DE:DAZN
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/188932.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/hlgn81zluc1c1eu4a0uaynygz_image-header_pDach_1785943255000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",IRONMAN 70.3 Zell am See-Kaprun (2026-08-30 10:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189014.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1eev2qnfrbjqjhqs71q76b5lh_image-header_pDach_1784893379000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Stage 9 | La Vila Joiosa/Villajoyosa - Alto de Aitana.Costa Blanca (2026-08-30 12:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189017.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19sriawvujro5177kc86cfhqqg_image-header_pDach_1786638742000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rukinzo vs. Olympic Star (2026-08-30 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189018.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7b9eqfetvgjdez7hbjvvpwdr3_image-header_pDach_1755520811000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hungarian Darts Trophy | Tag 3 (Session 1) (2026-08-30 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189019.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/844fjt9ah450d65tdru1kajgs_image-header_pDach_1785682422000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gent - Club Brügge (2026-08-30 13:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189021.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3u6mnfp4stm4nnwk5wr3gu3qs_image-header_pDach_1775736246000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Eintracht Frankfurt - 1. FC Nürnberg (2026-08-30 14:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189022.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/82xeo82b61dcybb2mp2cpzia7_image-header_pDach_1786695449000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SV Meppen - Eintracht Frankfurt II (2026-08-30 14:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189023.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16eiij6ey1qpl1qeva8pah3ygz_image-header_pDach_1787572384000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NASCAR GP Czech Republic - NASCAR Pro Race 2 (2026-08-30 14:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189024.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lbkwmaolpc2n1ksbt62mscrsc_image-header_pDach_1787657901000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Final | Mighty Wanderers vs. Ekhaya FC (2026-08-30 14:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189025.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/690waza0g0279vi1utezjldwy_image-header_pDach_1787124913000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SC Freiburg - SV Werder Bremen (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189027.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3peswkeaw84ugy2kwqts9e3dn_image-header_pDach_1781767186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Paris FC - Nizza (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189028.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1b2smnezojti31v6v7r4dg94iz_image-header_pDach_1786638732000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kayanza United vs. Vital'O (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189029.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1iw56gxfa3n71d958zc3od2ii_image-header_pDach_1786638768000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ngozi City vs. Inter Star (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189030.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qqn442cio4h716h0fg8g954js_image-header_pDach_1787823725000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Majantja FC vs. Lijabatho FC (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189031.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ggy22o82c9n1ik14pfgmpdo6_image-header_pDach_1787229499000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Virtus vs. La Florita (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189032.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/na3hl7jjn61616odcptenjez3_image-header_pDach_1787657868000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",3rd-Place Match | TBC vs. TBC (2026-08-30 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189033.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sd11swz154ho1u90dvr1bpqd9_image-header_pDach_1787823733000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Matlama FC vs. LMPS FC (2026-08-30 15:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189034.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ux9bgq1w4p8t1v5knuo6r7fiq_image-header_pDach_1786638772000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Muzinga vs. Panthere Noir (2026-08-30 15:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189035.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jafou8u9b1hs1xixr7822r6sr_image-header_pDach_1787767295000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FK Žalgiris vs. FK Gintra (2026-08-30 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189036.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/anmvgqxb9w5nv0dn6x0fbwlzt_image-header_pDach_1784737811000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bayer Leverkusen - VfL Wolfsburg (2026-08-30 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189037.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1p2011s0yetk25il04t63d2b1_image-header_pDach_1787231130000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Antwerpen - St. Truiden (2026-08-30 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189038.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/as9urxgoe95a9oloaa69ahrem_image-header_pDach_1758036805000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Most | Rennen 4 (2026-08-30 16:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189039.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8r8c0or6qsiss4qzh0i6aax9q_image-header_pDach_1786715145000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Red Bull Bowl Rippera (2026-08-30 16:40:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189040.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4h5tvbjz4liahibcz5vvieihi_image-header_pDach_1787125762000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Augsburg - FC Schalke 04 (2026-08-30 16:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189041.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4vlpc1wp3u348k8svyxn0te3k_image-header_pDach_1786371202000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Telstar - Ajax (2026-08-30 16:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189042.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cynzil9crhzd1e6hiu1da00j9_image-header_pDach_1787657868000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",5th-Place Match | TBC vs. TBC (2026-08-30 16:50:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189043.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bagatk0wh3mux0cc2rdmtozro_image-header_pDach_1782981999000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Madrid - Malaga (2026-08-30 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189044.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mw6pulyg2wu11vmxqribdag4q_image-header_pDach_1787829256000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AEW: All In London 2026 - Buy-In (2026-08-30 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189045.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6kp4vn1n1m4cwkhucsm5u3xfo_image-header_pDach_1778590472000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Glentoran - Cliftonville (2026-08-30 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189046.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zqic0r0se1kf1mxjd1eoh9e3w_image-header_pDach_1786688582000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Emirates Club vs. Palm City (2026-08-30 17:05:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189047.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vzeo4t5zq9xbzoqx5wakr0z3_image-header_pDach_1786790359000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al Hamriyah vs. Forte Virtus (2026-08-30 17:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189048.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2z2m9hkey84g36q9jxfdkoyuk_image-header_pDach_1781767242000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rennes - Le Mans (2026-08-30 17:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189049.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x8vjxeybi3f01vajrn0ynmefm_image-header_pDach_1787657868000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Final | TBC vs. TBC (2026-08-30 17:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189050.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2plmi85s5ax4cz2lv8mdjdbe_image-header_pDach_1782212699000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Neapel - Como (italienischer Kommentar) (2026-08-30 17:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189051.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e5gdkxjwb3xf1anoky1fzq6sz_image-header_pDach_1787767162000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UNA vs. CODEA (2026-08-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189052.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/koqa59kfh6lk15bq5497pq2p2_image-header_pDach_1786638729000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Aigle Noir vs. Young Star (2026-08-30 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189053.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aebbvbpq1mdfol38zshusc5zc_image-header_pDach_1779356980000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Saint-Gilloise - Anderlecht (2026-08-30 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189054.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3epl7r3qa2lwsq7mlemuyulld_image-header_pDach_1782212699000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Neapel - Como (2026-08-30 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189055.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bdzf6hlkgnaoaqymvsbppiq5w_image-header_pDach_1787647896000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SV Werder Bremen - RB Leipzig (2026-08-30 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189056.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7v6nx3batclefvjy84dkmwiku_image-header_pDach_1720105457000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hungarian Darts Trophy | Viertelfinale, Halbfinale & Finale (2026-08-30 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189057.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ai9xd1pt5v16zmasi5ef8zea_image-header_pDach_1787660513000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AEW: All In London 2026 (2026-08-30 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189058.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e8jf6clk3dd1u3gupcg78fozs_image-header_pDach_1783590352000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",A Coruna - Valencia (2026-08-30 19:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189059.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/20n2aczwnoc2dmjifgvt5oicv_image-header_pDach_1786356279000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Qadsiah - Al-Faisaly (2026-08-30 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189060.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5xhlz3ua30fobb4tmvrohlvfe_image-header_pDach_1782213763000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cagliari - Inter (italienischer Kommentar) (2026-08-30 20:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189061.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ioj8kjla3er1z4i1u5ysi8kt_image-header_pDach_1782214360000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - CFC Genua (italienischer Kommentar) (2026-08-30 20:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189062.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/evdsuxx192llhy4xd710i3sc9_image-header_pDach_1782214360000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - CFC Genua (2026-08-30 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189063.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8cuxc045qxn7p9rfs41eh03lw_image-header_pDach_1784132130000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Monaco - Marseille (2026-08-30 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189064.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2wtcaalrux0ivcx02j76yrw1a_image-header_pDach_1782213763000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cagliari - Inter (2026-08-30 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189065.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1guplkfgzgyq01skeirmw2zd4n_image-header_pDach_1787145134000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bolívar SC vs. Ávila FC (2026-08-30 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189066.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/st90sd3mh2h51nmw66qlvoxl3_image-header_pDach_1787049592000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",KF Teuta vs. KF Tirana (2026-08-30 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189067.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mdcrq1fobuyp1hbybu5iepdyx_image-header_pDach_1787145091000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Deportivo Miranda vs. Monagas B (2026-08-30 21:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189068.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xy3tm4d4gf4t1f8pk7qtlhtmt_image-header_pDach_1787812045000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ureña SC vs. El Vigía FC (2026-08-30 21:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189069.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qkqjmz8lggw11ljyxroo0dcha_image-header_pDach_1787812077000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Puerto Cabello B vs. Real Frontera (2026-08-30 21:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189070.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6v45ows5if9oivhs6eljvwdca_image-header_pDach_1784627678000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Celta Vigo - Bilbao (2026-08-30 21:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189071.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4dfele5ddp2c1fqtq5enc1i47_image-header_pDach_1787812185000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Barquisimeto SC vs. Yaracuyanos FC (2026-08-30 22:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189072.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/fm9dxq62d2gq141b9no6r1upf_image-header_pDach_1787820000000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Somos La Unión vs. Talamanqueña (2026-08-30 22:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189073.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/121bkko6sf3vl1rklmrszn328d_image-header_pDach_1784195535000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CS Sébaco vs. Real Estelí FC (2026-08-30 23:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/189074.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -7137,4 +7019,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/111808.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",##### WORLD SPORTS #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/166669.m3u8
 
-# Total: 3507
+# Total: 3448

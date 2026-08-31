@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-08-31 08:31:55
+# Generated: 2026-09-01 00:35:39
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -65239,7 +65239,9 @@ http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/83788.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD Norway",Tunnelen () [NO]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/83789.mkv
 
-# --- Movies | VOD PPV ENGLISH (144) ---
+# --- Movies | VOD PPV ENGLISH (145) ---
+#EXTINF:-1 tvg-logo="http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/images/yRvUHjsxRzZzuYmJvqBBifVnTm0_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC Fight Night 286: Nurmagomedov vs. Song (2026) [EN]
+http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/146044.mkv
 #EXTINF:-1 tvg-logo="http://c.pttuga.com:8080/images/dG6WMwBdPjSxlXFuBed4DKDAcdM_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC 330: Makhachev vs. Machado Garry (2026) [EN]
 http://fastopen.live:8080/movie/ArianTairi/JexIujaTrf/141251.mp4
 #EXTINF:-1 tvg-logo="http://c.pttuga.com:8080/images/qSsDud1zHhodVHDs439xEj33OTK_big.jpg" group-title="Movies | VOD PPV ENGLISH",UFC Fight Night 284: Gamrot vs. Salkilld (2026) [EN]
@@ -115793,4 +115795,4 @@ http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14596
 #EXTINF:-1 tvg-logo="None" group-title="Series | VOD Turkey Series - Söz",Söz - S02 E50 [TR]
 http://fastopen.live:8080/series/ArianTairi/JexIujaTrf/14601
 
-# Total: 57856
+# Total: 57857

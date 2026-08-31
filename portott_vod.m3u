@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-08-31 08:42:58
+# Generated: 2026-09-01 00:40:50
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -23135,7 +23135,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22724.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - REALITY [FR]",FR - Les Apprentis Aventuriers (2016) (FR)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22752.mp4
 
-# --- Movies | SRS - REALITY SHOWS [EN] (221) ---
+# --- Movies | SRS - REALITY SHOWS [EN] (222) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - REALITY SHOWS [EN]",EN - That Metal Show (2008) (US)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34207.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - REALITY SHOWS [EN]",EN - Let’s Marry Harry (2026) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - REALITY SHOWS [EN]",EN - Million Dollar Secret (2025) (US)
@@ -111025,7 +111027,19 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/818911.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" group-title="Movies | VOD - SPAIN [ES]",ES - Underworld - (2003)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/818283.mkv
 
-# --- Movies | VOD - SPORT [EN] (431) ---
+# --- Movies | VOD - SPORT [EN] (437) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRvUHjsxRzZzuYmJvqBBifVnTm0.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 286: Nurmagomedov vs. Song (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1412327.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNwNndp5uA6AHuBrr5PWQkuzgdo.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Mauricio Lara vs. Carlos Ornelas (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1412325.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5G4YDVKnQb8p-E_BCH5EbTtcP7tWfdqiCYm3CBoO4jDBcCBxOxyB8uE&s=10" group-title="Movies | VOD - SPORT [EN]",EN -  Jorge Mata vs. Ronaldo Ruelas (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1412324.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLraiIRc_6KU_K36bwRQGSYpN8cQeF_bqLlR6GNnabsEEtFvpdbE66-VF&s=10" group-title="Movies | VOD - SPORT [EN]",EN - Caroline Dubois vs. Amelia Moore (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1412323.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWZX8Sz6xueiNUaSR5orM9re8w6.jpg" group-title="Movies | VOD - SPORT [EN]",EN - Moses Itauma vs. Filip Hrgovic (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1412322.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ISsuRYqK5_BPnOVRf2QFQLQQSl_PKy5hnwELn133bv5W0g5qiWT2ETc&s=10" group-title="Movies | VOD - SPORT [EN]",EN - Constantin Ursu vs. Ben Vaughan (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1412321.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iahjUE1DAK2U1repV96kKkbHYLX.jpg" group-title="Movies | VOD - SPORT [EN]",UFC Fight Night 285: Hernandez vs. Rodrigues (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1411841.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iahjUE1DAK2U1repV96kKkbHYLX.jpg" group-title="Movies | VOD - SPORT [EN]",EN - UFC Fight Night 285: Hernandez vs. Rodrigues (2026)
@@ -114759,4 +114773,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 57261
+# Total: 57268
