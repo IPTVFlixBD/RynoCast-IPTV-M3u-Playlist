@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-08-31 08:32:26
+# Generated: 2026-09-01 21:51:58
 # Expires: 2026-09-24
 # Family Safe Edition
 # ==============================================
@@ -13633,7 +13633,7 @@ http://tvmate.icu:8080/movie/VM121628/56784321/325880.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="Movies | Comedy",The Devil Wears Prada (2006)
 http://tvmate.icu:8080/movie/VM121628/56784321/326541.mkv
 
-# --- Movies | Drama Movies (1377) ---
+# --- Movies | Drama Movies (1378) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdm0rXjrg7y9WDbiFzC2ikMtikG.jpg" group-title="Movies | Drama Movies",1, 2, 3, All Eyes On Me (2020)
 http://tvmate.icu:8080/movie/VM121628/56784321/199026.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owz3dbSegBWtvAyuH2B3HH2YWI.jpg" group-title="Movies | Drama Movies",2nd Greatest (2016)
@@ -16388,8 +16388,10 @@ http://tvmate.icu:8080/movie/VM121628/56784321/327449.mkv
 http://tvmate.icu:8080/movie/VM121628/56784321/327520.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYdlRTvA5fneB88NchV3sirzCE1.jpg" group-title="Movies | Drama Movies",Step Up 2: The Streets (2008)
 http://tvmate.icu:8080/movie/VM121628/56784321/327521.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg" group-title="Movies | Drama Movies",Boogie Nights (1997) (ENG)
+http://tvmate.icu:8080/movie/VM121628/56784321/330394.mkv
 
-# --- Movies | Extra - EN-Movies (1360) ---
+# --- Movies | Extra - EN-Movies (1359) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xOH2JhBHPmk2ZCniBpWhiZ6xeC.jpg" group-title="Movies | Extra - EN-Movies",3 Days to Kill (2014)
 http://tvmate.icu:8080/movie/VM121628/56784321/234370.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Extra - EN-Movies",8MM 1 (1999) NICOLAS CAGE, JAMES GANDOLFINI
@@ -19064,8 +19066,6 @@ http://tvmate.icu:8080/movie/VM121628/56784321/235756.mp4
 http://tvmate.icu:8080/movie/VM121628/56784321/235757.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZTKTY0lWrm07kdxPE6RjpG4EBp.jpg" group-title="Movies | Extra - EN-Movies",Wild in the Country (1961)
 http://tvmate.icu:8080/movie/VM121628/56784321/235758.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg" group-title="Movies | Extra - EN-Movies",Wild Things (1998)
-http://tvmate.icu:8080/movie/VM121628/56784321/235759.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aoRiK4Q36kS4kYWWeF1CG4HhZr.jpg" group-title="Movies | Extra - EN-Movies",Wild Things 2 (2004)
 http://tvmate.icu:8080/movie/VM121628/56784321/235760.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngFYme3fGnwkssHkPXZr3peI6iW.jpg" group-title="Movies | Extra - EN-Movies",Winners & Sinners (1983)
@@ -55747,7 +55747,7 @@ http://tvmate.icu:8080/movie/VM121628/56784321/183143.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg" group-title="Movies | The Transporter Complete 4 Movie Collection",The Transporter Refueled (2015)
 http://tvmate.icu:8080/movie/VM121628/56784321/183144.mp4
 
-# --- Movies | Thriller Movies (1070) ---
+# --- Movies | Thriller Movies (1071) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Thriller Movies",#Like (2019)
 http://tvmate.icu:8080/movie/VM121628/56784321/200945.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Thriller Movies",'Til Death Do Us Part (2017)
@@ -57888,6 +57888,8 @@ http://tvmate.icu:8080/movie/VM121628/56784321/202031.mp4
 http://tvmate.icu:8080/movie/VM121628/56784321/202032.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8gzsWPSlH0hHaaFiZmX049bHtT.jpg" group-title="Movies | Thriller Movies",Zombie at 17 (2018)
 http://tvmate.icu:8080/movie/VM121628/56784321/202033.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg" group-title="Movies | Thriller Movies",Wild Things (1998)
+http://tvmate.icu:8080/movie/VM121628/56784321/330393.mkv
 
 # --- Movies | Top 220 Movies - The Movie Database IMDB (193) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg" group-title="Movies | Top 220 Movies - The Movie Database IMDB",12 Angry Men (1957)
@@ -60047,7 +60049,7 @@ http://tvmate.icu:8080/series/VM121628/56784321/2397
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",The Five Star Weekend
 http://tvmate.icu:8080/series/VM121628/56784321/2398
 
-# --- Series | All Series (344) ---
+# --- Series | All Series (345) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://tvmate.icu:8080/series/VM121628/56784321/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -60736,5 +60738,7 @@ http://tvmate.icu:8080/series/VM121628/56784321/2380
 http://tvmate.icu:8080/series/VM121628/56784321/2395
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Capture
 http://tvmate.icu:8080/series/VM121628/56784321/2396
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",Curb Your Enthusiasm
+http://tvmate.icu:8080/series/VM121628/56784321/2400
 
-# Total: 30284
+# Total: 30286
