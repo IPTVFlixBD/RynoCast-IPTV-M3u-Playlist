@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-08-30 21:46:47
+# Generated: 2026-09-02 08:06:50
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1235,8 +1235,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1715) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg" group-title="Movies | Films",La Corde au cou (2026)
+# --- Movies | Films (1716) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bavJsCFKGushwdftvG1LpdcfktT.jpg" group-title="Movies | Films",Vivaldi et moi (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30331.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg" group-title="Movies | Films",La Corde au cou (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30261.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg" group-title="Movies | Films",Desert Warrior (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30259.mkv
@@ -5635,7 +5637,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (522) ---
+# --- Movies | NETFLIX (523) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSsX2LnGzyfHR9RioDEiLrPy5wa.jpg" group-title="Movies | NETFLIX",The Whisper Man (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky4Bk14mhlb16Vw2fqCPou6inR9.jpg" group-title="Movies | NETFLIX",La captura (2026)
@@ -6680,6 +6682,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1272.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1285.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Comme un rat
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1286.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Innocent
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1289.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7031,7 +7035,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (202) ---
+# --- Movies | prime video (203) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg" group-title="Movies | prime video",Normal (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30260.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg" group-title="Movies | prime video",Back to the 90s (2026)
@@ -7436,6 +7440,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1239.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1242.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Star Trek: Picard
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1256.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Les Fumiers : bienvenue à la ferme
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1290.mp4
 
 # --- Series | Series Algerienne (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Algerienne",أولاد الحلال
@@ -7523,7 +7529,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1199
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Les 4400
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1236
 
-# --- Series | Series Arabe (138) ---
+# --- Series | Series Arabe (139) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -7800,6 +7806,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1226
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1238
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بنج كُلي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1284
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) القصة الكاملة
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1292
 
 # --- Series | Series Documentaires (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -8019,7 +8027,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (347) ---
+# --- Series | Series divers (349) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8714,5 +8722,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1282
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1283
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Les Évaporés
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1287
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",La Cible
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1288
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Le Rouge et le Noir
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1291
 
-# Total: 4324
+# Total: 4330
