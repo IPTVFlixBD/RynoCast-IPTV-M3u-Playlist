@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-09-02 21:53:34
+# Generated: 2026-09-03 08:19:50
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -23155,7 +23155,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/54569.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/nick-toons-de.png" group-title="Scandinavian",Nicktoons (Multi-Sub) SC (L) VIP
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/54565.m3u8
 
-# --- Script UK (129) ---
+# --- Script UK (130) ---
+#EXTINF:-1 tvg-logo="https://www.celticfc.tv/_nuxt/img/icon.04746c8.png" group-title="Script UK",Celtic TV HD Script UK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/146045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Script UK",ITV HD Script UK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/112790.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Script UK",ITV2 HD Script UK
@@ -31699,4 +31701,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15739
+# Total: 15740

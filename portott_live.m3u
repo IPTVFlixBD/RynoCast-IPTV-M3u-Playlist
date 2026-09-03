@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-09-02 21:47:02
+# Generated: 2026-09-03 08:21:51
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -1833,7 +1833,9 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/262194.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/expnatyra.png" group-title="|ALB| DOCUMENTARY",ALB - X NATYRA UHD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/262183.m3u8
 
-# --- |ALB| GENERAL (36) ---
+# --- |ALB| GENERAL (37) ---
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/116228.png" group-title="|ALB| GENERAL",ALB - ZICO TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1413178.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIA.png" group-title="|ALB| GENERAL",##### GENERAL #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/261932.m3u8
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topchannel.png" group-title="|ALB| GENERAL",ALB - TOP CHANNEL 4K
@@ -15980,31 +15982,31 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1358331.m3u8
 # --- |DE| DYN NETWORK (62) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",##### DYN PPV EXCLUSIVE #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/985362.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | HSG BLOMBERG-LIPPE - TUS METZINGEN | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | HSG BLOMBERG-LIPPE - TUS METZINGEN | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331981.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | HC ERLANGEN - TSV HANNOVER-BURGDORF | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | HC ERLANGEN - TSV HANNOVER-BURGDORF | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331980.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | HANDBALL CLUB HAMBURG - TVB STUTTGART | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | HANDBALL CLUB HAMBURG - TVB STUTTGART | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331979.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | HBL KONFERENZ | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | HBL KONFERENZ | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331978.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | MT MELSUNGEN - FRISCH AUF! GÖPPINGEN | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | MT MELSUNGEN - FRISCH AUF! GÖPPINGEN | Wed 02 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331977.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | BORUSSIA DORTMUND - SPORT-UNION NECKARSULM | Wed 02 Sep 19:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | BORUSSIA DORTMUND - SPORT-UNION NECKARSULM | Wed 02 Sep 19:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331976.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | BERGISCHER HC - SG FLENSBURG-HANDEWITT | Wed 02 Sep 19:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | BERGISCHER HC - SG FLENSBURG-HANDEWITT | Wed 02 Sep 19:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331975.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | RHEIN-NECKAR LÖWEN - VFL GUMMERSBACH | Wed 02 Sep 19:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | RHEIN-NECKAR LÖWEN - VFL GUMMERSBACH | Wed 02 Sep 19:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331974.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | TTC OE CLARITY TEL. BAD HOMBURG - BV BORUSSIA 09 DORTMUND | Thu 03 Sep 18:40 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331973.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | SG BBM BIETIGHEIM - THW KIEL | Thu 03 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331972.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | TBV LEMGO LIPPE - HSG WETZLAR | Thu 03 Sep 18:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331971.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | SC MAGDEBURG - FÜCHSE BERLIN | Thu 03 Sep 19:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331970.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | THSV EISENACH - HBW BALINGEN-WEILSTETTEN | Thu 03 Sep 19:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331969.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331968.m3u8
@@ -20461,7 +20463,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/494306.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/GINX-ESPORTS.png" group-title="|EU| FINLAND HD",FIN - GINX ESPORTS
 http://portott.com/live/c4c24c0217/c4b2e86278c6/494307.m3u8
 
-# --- |EU| FR SOCCER PPV (200) ---
+# --- |EU| FR SOCCER PPV (199) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Long Zehuang - Ashley Carty British Open | 2e tour | all | 02-09-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409503.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Lei Peifan - Mark Selby British Open | 2e tour | all | 02-09-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 2
@@ -20470,53 +20472,53 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1409502.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409501.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Stan Moody - Yao Pengcheng British Open | 2e tour | all | 02-09-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409500.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Les Rois de la Pédale | Le débrief Magazine | La Vuelta – 11e étape | all | 8K EXCLUSIVE | FR: SOCCER PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Les Rois de la Pédale | Le débrief Magazine | La Vuelta – 11e étape | all | 02-09-2026 | 17:28 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409499.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Padres at Reds | all | 02-09-2026 | 18:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Padres at Reds | all | 02-09-2026 | 18:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409498.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Athletics at Rangers | all | 02-09-2026 | 20:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Athletics at Rangers | all | 02-09-2026 | 20:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409497.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Udinese vs. Venezia | all | 02-09-2026 | 17:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Udinese vs. Venezia | all | 02-09-2026 | 17:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409496.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Cyclisme : La Vuelta: 11e étape, Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Cyclisme : La Vuelta: 11e étape, Messieurs | all | 02-09-2026 | 14:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409495.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | The Ocean Race Atlantic 2026 Daily Show 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | The Ocean Race Atlantic 2026 Daily Show 1 | all | 02-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409494.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Phillies at Diamondbacks | all | 02-09-2026 | 21:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Phillies at Diamondbacks | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409493.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Orioles at Rockies | all | 02-09-2026 | 21:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Orioles at Rockies | all | 02-09-2026 | 21:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409492.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Mariners at Red Sox | all | 02-09-2026 | 22:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Mariners at Red Sox | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409491.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | La Vuelta | 11e étape Cartagena – Lorca (156,1km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | La Vuelta | 11e étape Cartagena – Lorca (156,1km) | all | 02-09-2026 | 14:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409490.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Pirates at Cubs | all | 10:04 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409489.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Taylor vs. Pili: Open Workouts | all | 02-09-2026 | 18:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Taylor vs. Pili: Open Workouts | all | 02-09-2026 | 18:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409488.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Sassuolo vs. Frosinone | all | 8K EXCLUSIVE | FR: SOCCER PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Sassuolo vs. Frosinone | all | 02-09-2026 | 14:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409487.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Ruiz vs. Knyba: Press Conference | all | 02-09-2026 | 20:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Ruiz vs. Knyba: Press Conference | all | 02-09-2026 | 20:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409486.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Navarrete vs. Foster: Launch Press Conference | all | 02-09-2026 | 19:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Navarrete vs. Foster: Launch Press Conference | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409485.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Plíšková vs. Shnaider | all | 8K EXCLUSIVE | FR: SOCCER PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Plíšková vs. Shnaider | all | 02-09-2026 | 16:59 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409484.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Bartunkova vs. Sherif Ahmed Abdelaziz | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Bartunkova vs. Sherif Ahmed Abdelaziz | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409483.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Jovic vs. Fręch | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Jovic vs. Fręch | all | 03-09-2026 | 00:07 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409482.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Selekhmeteva vs. Rakhimova | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Selekhmeteva vs. Rakhimova | all | 02-09-2026 | 20:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409481.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Sawangkaew vs. Fernandez | all | 8K EXCLUSIVE | FR: SOCCER PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Sawangkaew vs. Fernandez | all | 02-09-2026 | 16:59 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409480.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Pegula vs. Kenin | all | 8K EXCLUSIVE | FR: SOCCER PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Pegula vs. Kenin | all | 02-09-2026 | 17:29 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409479.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Navarro vs. McNally | all | 02-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Navarro vs. McNally | all | 02-09-2026 | 19:16 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409478.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Dubois vs. Wardley 2: Launch Press Conference | all | 02-09-2026 | 13:27 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409477.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Maria vs. Ostapenko | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Maria vs. Ostapenko | all | 02-09-2026 | 23:41 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409476.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Matteo Berrettini - Mariano Navone US Open | 2e tour | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 29
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409475.m3u8
@@ -20530,55 +20532,55 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1409472.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409471.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409470.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Bai Yulu - Ross Muir British Open | 2e tour | all | 8K EXCLUSIVE | FR: SOCCER PPV 35
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Bai Yulu - Ross Muir British Open | 2e tour | all | 02-09-2026 | 14:01 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 35
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409469.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Aaron Hill - Ben Mertens British Open | 2e tour | all | 8K EXCLUSIVE | FR: SOCCER PPV 36
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Aaron Hill - Ben Mertens British Open | 2e tour | all | 02-09-2026 | 18:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409468.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Parry vs. Cîrstea | all | 8K EXCLUSIVE | FR: SOCCER PPV 37
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Parry vs. Cîrstea | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 37
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409467.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Li vs. Vekić | all | 02-09-2026 | 23:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 38
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Li vs. Vekić | all | 8K EXCLUSIVE | FR: SOCCER PPV 38
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409466.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Pang Junxu - Mark Joyce British Open | 3e tour | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Pang Junxu - Mark Joyce British Open | 3e tour | all | 03-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409465.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Iulian Boiko - Ding Junhui British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Iulian Boiko - Ding Junhui British Open | 3e tour | all | 02-09-2026 | 20:54 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409464.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | David Gilbert - Shaun Murphy British Open | 2e tour | all | 02-09-2026 | 14:29 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 41
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409463.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Judd Trump - Ricky Walden British Open | 2e tour | all | 02-09-2026 | 13:59 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 42
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409462.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Jamie Jones - Wang Xinbo British Open | 2e tour | all | 8K EXCLUSIVE | FR: SOCCER PPV 43
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Jamie Jones - Wang Xinbo British Open | 2e tour | all | 02-09-2026 | 13:59 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 43
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409461.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Kyren Wilson - Liam Highfield British Open | 3e tour | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Jak Jones - Chang Bingyu British Open | 3e tour | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409460.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Noppon Saengkham - John Higgins British Open | 2e tour | all | 8K EXCLUSIVE | FR: SOCCER PPV 45
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Noppon Saengkham - John Higgins British Open | 2e tour | all | 02-09-2026 | 16:34 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 45
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409459.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Zhao Xintong - Daniel Wells British Open | 2e tour | all | 8K EXCLUSIVE | FR: SOCCER PPV 46
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Zhao Xintong - Daniel Wells British Open | 2e tour | all | 02-09-2026 | 15:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 46
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409458.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Mark Selby - Jackson Page British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 47
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Ishpreet Singh Chadha - Jack Lisowski British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 47
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409457.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Lyu Haotian - Duane Jones British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Mark Selby - Jackson Page British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409456.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | David Grace - Zak Surety British Open | 2e tour | all | 8K EXCLUSIVE | FR: SOCCER PPV 49
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | David Grace - Zak Surety British Open | 2e tour | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409455.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Jak Jones - Chang Bingyu British Open | 3e tour | all | 02-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 50
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | He Guoqiang - Artemijs Zizins British Open | 3e tour | all | 02-09-2026 | 22:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 50
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409454.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Ishpreet Singh Chadha - Jack Lisowski British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Iulian Boiko - Ding Junhui British Open | 3e tour | all | 02-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409453.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 52
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Boulter vs. Muchová | all | 02-09-2026 | 21:34 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 52
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409452.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 53
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Kasatkina vs. Badosa | all | 02-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 53
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409451.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 54
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Boulter vs. Muchová | all | 02-09-2026 | 21:17 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 54
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409450.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 55
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Linette vs. Jones | all | 02-09-2026 | 20:51 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 55
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409449.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 56
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Jesper de Jong - Francesco Passaro | | | US Open | all | 02-09-2026 | 23:04 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 56
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409448.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 57
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Giants at Pirates | all | 8K EXCLUSIVE | FR: SOCCER PPV 57
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409447.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 58
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Mets at Rays | all | 03-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 58
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409446.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 59
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Marlins at Royals | all | 8K EXCLUSIVE | FR: SOCCER PPV 59
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409445.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409444.m3u8
@@ -20620,93 +20622,91 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1409427.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409426.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409425.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 80
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | La Vuelta 12e étape | Vera – Calar Alto (166,5km) | all | 03-09-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 80
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409424.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 81
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Club América vs. CF Monterrey | all | 03-09-2026 | 05:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 81
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409423.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 82
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Leagues Cup El Resumen | all | 03-09-2026 | 08:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 82
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409422.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 83
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Taylor vs. Pili: Undercard Press Conference | all | 03-09-2026 | 13:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 83
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409421.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 84
-http://portott.com/live/c4c24c0217/c4b2e86278c6/1409420.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 85
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Diriyah Club vs. Al Qadsiah FC | all | 03-09-2026 | 19:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 85
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409419.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Ruiz vs. Knyba: Weigh-In | all | 03-09-2026 | 21:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 86
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409418.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 87
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Tararudee vs. Noskova | all | 8K EXCLUSIVE | FR: SOCCER PPV 87
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409417.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 88
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | John Higgins - Thanawat Tirapaipongboon British Open | 3e tour | all | 03-09-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 88
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409416.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 89
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Elliot Slessor - Judd Trump British Open | 3e tour | all | 03-09-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 89
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409415.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 90
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Stan Moody - Zhang Anda British Open | 3e tour | all | 03-09-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 90
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409414.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 91
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Aaron Hill - Wang Xinbo British Open | 3e tour | all | 03-09-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 91
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409413.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 92
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Ross Muir - Fan Zhengyi British Open | 3e tour | all | 03-09-2026 | 16:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 92
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409412.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 93
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Liam Davies - David Gilbert British Open | 3e tour | all | 03-09-2026 | 16:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 93
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409411.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 94
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | David Grace - Long Zehuang British Open | 3e tour | all | 03-09-2026 | 16:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 94
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409410.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 95
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Zhao Xintong - Michael Holt British Open | 3e tour | all | 03-09-2026 | 16:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 95
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409409.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 96
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Svitolina vs. Joint | all | 03-09-2026 | 04:09 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 96
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409408.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 97
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | British Open British Open | 8e de finale | all | 03-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 97
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409407.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 98
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | British Open British Open | 8e de finale | all | 03-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 98
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409406.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 99
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | British Open British Open | 8e de finale | all | 03-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 99
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409405.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 100
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | British Open British Open | 8e de finale | all | 03-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 100
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409404.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 101
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | British Open British Open | 8e de finale | all | 03-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 101
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409403.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 102
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | British Open British Open | 8e de finale | all | 03-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 102
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409402.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 103
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | British Open British Open | 8e de finale | all | 03-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 103
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409401.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 104
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | British Open British Open | 8e de finale | all | 03-09-2026 | 22:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 104
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409400.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 105
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Tagger vs. Anisimova | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 105
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409399.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 106
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Osaka vs. Siniaková | all | 03-09-2026 | 17:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 106
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409398.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 107
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Zheng vs. Putintseva | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 107
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409397.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 108
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Timofeeva vs. Mertens | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 108
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409396.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 109
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Świątek vs. Podoroska | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 109
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409395.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 110
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Potapova vs. Jeanjean | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 110
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409394.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 111
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Dart vs. Bouzková | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 111
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409393.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 112
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Oliynykova vs. Eala | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 112
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409392.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 113
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Bennett/Esposito Cogan vs. Hunter/Krawczyk | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 113
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409391.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 114
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Schuurs/Perez vs. Zarazúa/Tikhonova | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 114
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409390.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 115
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Keys vs. Bondár | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 115
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409389.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 116
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Svitolina vs. Joint | all | 8K EXCLUSIVE | FR: SOCCER PPV 116
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409388.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 117
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Aoyama/Liang vs. Neel/Olmos | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 117
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409387.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 118
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Liu/Pareja vs. Xu/Wang | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 118
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409386.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 119
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Ruse/Kostyuk vs. Pigossi/Udvardy | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 119
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409385.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 120
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Fernandez/Tjen vs. Radisic/Haverlag | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 120
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409384.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 121
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Eikeri/Gleason vs. Wang/Uchijima | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 121
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409383.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 122
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Khromacheva/Detiuc vs. Dabrowski/Stefani | all | 03-09-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 122
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409382.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 123
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Ninomiya/Kozyreva vs. Panova/Kempen | all | 03-09-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 123
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409381.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 124
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1409380.m3u8
@@ -25198,57 +25198,57 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | BRANDON NAKASHIMA  -  ALEX MICHELSEN | Wed 02 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ELINA SVITOLINA - MAYA JOINT | Thu 03 Sep 02:05 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MANANCHAYA SAWANGKAEW - LEYLAH FERNANDEZ | Wed 02 Sep 16:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LANLANA TARARUDEE - LINDA NOSKOVÁ | Thu 03 Sep 04:01 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307814.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DIANE PARRY - SORANA CIRSTEA  | Wed 02 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | JAIME FARIA - CARLOS ALCARAZ | Thu 03 Sep 02:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307813.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | KAROLÍNA PLÍŠKOVÁ  -  DIANA SHNAIDER | Wed 02 Sep 16:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ZHAO XINTONG - MICHAEL HOLT | Thu 03 Sep 16:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307812.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | JAUME MUNAR - ARTHUR RINDERKNECH | Wed 02 Sep 16:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR OF BRITAIN  | Thu 03 Sep 11:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307811.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | JASMINE PAOLINI  -  LUCREZIA STEFANINI | Wed 02 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LA VUELTA | Thu 03 Sep 12:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307810.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DANIEL MÉRIDA - ANDREY RUBLEV | Wed 02 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ELLIOT SLESSOR - JUDD TRUMP | Thu 03 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307809.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JAN CHOINSKI - BOTIC VAN DE ZANDSCHULP | Wed 02 Sep 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JOHN HIGGINS - THANAWAT TIRAPAIPONGBOON | Thu 03 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307808.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | BAI YULU - ROSS MUIR | Wed 02 Sep 14:01 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | AARON HILL - WANG XINBO | Thu 03 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307807.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LA VUELTA | Wed 02 Sep 14:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | STAN MOODY - ZHANG ANDA | Thu 03 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307806.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ZHAO XINTONG - DANIEL WELLS | Wed 02 Sep 16:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ROSS MUIR - FAN ZHENGYI | Thu 03 Sep 16:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307805.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DANIIL MEDVEDEV - SEBASTIAN GORZNY | Wed 02 Sep 17:04 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | DAVID GRACE - LONG ZEHUANG | Thu 03 Sep 16:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307804.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MULTIVIEW | Wed 02 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LIAM DAVIES - DAVID GILBERT | Thu 03 Sep 16:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307803.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | NOPPON SAENGKHAM - JOHN HIGGINS | Wed 02 Sep 16:34 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307802.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | DARIA KASATKINA - PAULA BADOSA | Wed 02 Sep 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307801.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | TAYLOR TOWNSEND - TAYLAH PRESTON | Wed 02 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307800.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | AARON HILL - BEN MERTENS | Wed 02 Sep 17:42 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DAVID GRACE - ZAK SURETY | Wed 02 Sep 17:14 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | JESSICA PEGULA - SOFIA KENIN | Wed 02 Sep 17:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ALEX MOLCAN - BENJAMIN BONZI | Wed 02 Sep 18:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307796.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MARCOS GIRON - IGNACIO BUSE | Wed 02 Sep 19:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307795.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | FÁBIÁN MAROZSÁN - MICHAEL ZHENG | Wed 02 Sep 19:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307794.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ZACHARY SVAJDA - DANIEL ALTMAIER | Wed 02 Sep 19:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307793.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOMÁS MARTÍN ETCHEVERRY - JACOB FEARNLEY | Wed 02 Sep 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307792.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ANDREA GUERRIERI - ALEX DE MINAUR | Wed 02 Sep 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307791.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | EMMA NAVARRO  -  CATY MCNALLY | Wed 02 Sep 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307790.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307789.m3u8
@@ -35386,7 +35386,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/983701.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983700.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 16: USA NETWORK
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983699.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 17: Kentucky Christian at Morehead State 6pm | 3.8.26
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 17: Kentucky Christian at Morehead State 6pm | 3.9.26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983698.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 18: Bethune-Cookman at UCF 7pm
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983697.m3u8
@@ -35400,7 +35400,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/983694.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983693.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 23: Eastern Illinois at Minnesota 8pm
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983692.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 24: San Jose State at Eastern Michigan 6:30pm | 4.8.26
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 24: San Jose State at Eastern Michigan 6:30pm | 4.9.26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983691.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/ncaaf.jpg" group-title="|NA| USA NCAA",NCAAF 25: 3:30PM Purdue at Nebraska
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983690.m3u8
@@ -37306,57 +37306,57 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | BRANDON NAKASHIMA - ALEX MICHELSEN | Wed 02 Sep 17:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | ELINA SVITOLINA - MAYA JOINT | Thu 03 Sep 02:05 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DIANE PARRY - SORANA CIRSTEA  | Wed 02 Sep 17:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | LANLANA TARARUDEE - LINDA NOSKOVA | Thu 03 Sep 04:01 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168964.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | KAROLINA PLISKOVA - DIANA SZNAJDER | Wed 02 Sep 16:59 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | JAIME FARIA - CARLOS ALCARAZ | Thu 03 Sep 02:20 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168963.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DANIIŁ MIEDWIEDIEW - SEBASTIAN GORZNY | Wed 02 Sep 17:04 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ZHAO XINTONG - MICHAEL HOLT | Thu 03 Sep 16:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168962.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | JAUME MUNAR - ARTHUR RINDERKNECH | Wed 02 Sep 16:59 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR OF BRITAIN | 2. ETAP | Thu 03 Sep 11:15 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168961.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ANDREA GUERRIERI - ALEX DE MINAUR | Wed 02 Sep 19:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | VUELTA A ESPANA | 12. ETAP | Thu 03 Sep 12:45 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168960.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DANIEL MERIDA - ANDRIEJ RUBLOW | Wed 02 Sep 17:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ELLIOT SLESSOR - JUDD TRUMP | Thu 03 Sep 14:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168959.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | DARIA KASATKINA - PAULA BADOSA | DOKOŃCZENIE | Wed 02 Sep 19:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JOHN HIGGINS - THANAWAT TIRAPAIPONGBOON | Thu 03 Sep 14:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168958.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | BAI YULU - ROSS MUIR | Wed 02 Sep 14:01 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | AARON HILL - WANG XINBO | Thu 03 Sep 14:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168957.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | VUELTA A ESPANA | 11. ETAP | Wed 02 Sep 14:45 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | STAN MOODY - ZHANG ANDA | Thu 03 Sep 14:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168956.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | ZHAO XINTONG - DANIEL WELLS | Wed 02 Sep 16:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ROSS MUIR - FAN ZHENGYI | Thu 03 Sep 16:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168955.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | MANANCHAYA SAWANGKAEW - LEYLAH FERNANDEZ | Wed 02 Sep 16:59 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | DAVID GRACE - LONG ZEHUANG | Thu 03 Sep 16:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168954.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | US OPEN | MULTIVIEW | Wed 02 Sep 17:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | LIAM DAVIES - DAVID GILBERT | Thu 03 Sep 16:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168953.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | NOPPON SAENGKHAM - JOHN HIGGINS | Wed 02 Sep 16:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168952.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | JASMINE PAOLINI  -  LUCREZIA STEFANINI | Wed 02 Sep 17:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168951.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | TAYLOR TOWNSEND - TAYLAH PRESTON | Wed 02 Sep 17:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168950.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | HUBERT HURKACZ - BEN SHELTON | Wed 02 Sep 19:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168949.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | AARON HILL - BEN MERTENS | Wed 02 Sep 17:42 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168948.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DAVID GRACE - ZAK SURETY | Wed 02 Sep 17:14 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168947.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | JESSICA PEGULA - SOFIA KENIN | Wed 02 Sep 17:29 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168946.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ALEX MOLCAN - BENJAMIN BONZI | Wed 02 Sep 18:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168945.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MARCOS GIRON  -  IGNACIO BUSE | Wed 02 Sep 19:29 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168944.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | FÁBIÁN MAROZSÁN - MICHAEL ZHENG | Wed 02 Sep 19:29 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168943.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ZACHARY SVAJDA - DANIEL ALTMAIER | Wed 02 Sep 19:29 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168942.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOMÁS MARTÍN ETCHEVERRY - JACOB FEARNLEY | Wed 02 Sep 19:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168941.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JAN CHOINSKI - BOTIC VAN DE ZANDSCHULP | Wed 02 Sep 19:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168940.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168939.m3u8

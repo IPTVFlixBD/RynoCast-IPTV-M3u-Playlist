@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-09-02 21:47:02
+# Generated: 2026-09-03 08:21:51
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -1125,7 +1125,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22570.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - COMEDIE [FR]",FR - Alf (1986) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22594.mp4
 
-# --- Movies | SRS - CRIME/MYSTERE [FR] (241) ---
+# --- Movies | SRS - CRIME/MYSTERE [FR] (242) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRIME/MYSTERE [FR]",FR - Simon Coleman (2022) (FR)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34239.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRIME/MYSTERE [FR]",FR - L'Exorciste (2016) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34205.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - CRIME/MYSTERE [FR]",FR - Soderzhanki (Russian Affairs) (2019) (RU)
@@ -61551,7 +61553,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8850) ---
+# --- Movies | VOD - NEW ADDED [EN] (8852) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Runner (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413277.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnMBqMSUwa0Lzh9X1Fwo4f8AMl6.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Heart and Souls (1993)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413276.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7Ra0BRYQVn47kiqOMyS8vdY0QS.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Road House (1989)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413057.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Mr. 3000 (2004)
@@ -79709,7 +79715,41 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/647996.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTL10rosTEhOZp8E3zoniXddyRC.jpg" group-title="Movies | VOD - NIÑOS y FAMILIA [ES]",ES - Alicia en el País de las Maravillas (2010)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/988061.mkv
 
-# --- Movies | VOD - NUEVO 2024/2026 [ES] (829) ---
+# --- Movies | VOD - NUEVO 2024/2026 [ES] (846) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTOfrLwl6hsqingLk0fRPsOVUpy.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Worldbreaker (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413236.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxyTgOtPidbopJ7zJzepIo1jpOk.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Stonehenge: ¿santuario o necrópolis? (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413235.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d55Yl0JL1zlOHX021VL36unOlY.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Return to Silent Hill (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413234.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La novia del año (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413233.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUCnHh2pnbllf6IB1AXW1mjrJCg.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Landa (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413232.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btXGqRlctQdbML6ifPmacZuykcC.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La momia de Lee Cronin (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413231.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nndo3wWkBy1SGCd2y3dakbLxAR.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La maldición de Shelby Oaks (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413230.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pae1NQnQW2fiVB4Aw3XwXJozd5u.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La hija pequeña (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413229.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPhwFUeaYV2hNswZ7N4kDJUYDeM.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La fuerza del deber (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413228.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayPZet6qlyIfPDKL53mkge0Eybi.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Jugar con fuego (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413227.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Jack Ryan. Guerra encubierta (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413226.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQfgIutah3176au5kf80j1PwFcP.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Henry Johnson (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413225.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXsI6DluqNnBfJenlXNuIpiPTOU.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Frankie y los monstruos (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413224.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTN9baARVvqjS8ZuMUQeFBW6z2l.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - El choque (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413223.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB0uqqzq6mSuAZQBvDDpx9JfA6v.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - El agente secreto (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNuIB21h5dAgY8EFcQrgIEQIkTr.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Coca Chicas. Atrapadas en el Caribe (2025)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413221.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3Bk1v28P0ZVQKFL90WtttpQhEP.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Aída y vuelta (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dEn8a12dqkQw48zxQhPcpQ7D5W.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Te van a matar (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14T7NFonfJ6wJ6fvrnz5HJMA7iQ.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Sorry, Baby (2025)
@@ -114239,7 +114279,11 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/22725
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - QUEBEC SERIES [QC]",EN - King of the Hill (1997)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/16970
 
-# --- Series | SRS - SERIES 2026 [FR] (234) ---
+# --- Series | SRS - SERIES 2026 [FR] (236) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Platini (2026) (FR)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/34238
+#EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - La Mort de la femme du pasteur (2026) (US)
+http://portott.com/series/c4c24c0217/c4b2e86278c6/34237
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Vitrerie Joyal (2026) (CA)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/34221
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - SERIES 2026 [FR]",FR - Comme un rat (2026) (KR)
@@ -114885,4 +114929,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 57324
+# Total: 57346

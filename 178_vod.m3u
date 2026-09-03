@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 178.162.193.239:80
-# Generated: 2026-09-02 21:41:22
+# Generated: 2026-09-03 08:19:32
 # Expires: 2034-02-25
 # Family Safe Edition
 # ==============================================
@@ -12901,7 +12901,7 @@ http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/208513.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" group-title="Movies | CRIME",O Vingador da Iugoslávia (2017)
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/208865.mp4
 
-# --- Movies | DISNEY+ (449) ---
+# --- Movies | DISNEY+ (450) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRYRBWKhwPI5lBT4DPhmNpmBOMU.jpg" group-title="Movies | DISNEY+",A Bela Adormecida (1959)
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/29771.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ti0VTeJdUUqGbKhTD8NxWHmtWyR.jpg" group-title="Movies | DISNEY+",A Bela e a Fera (1991)
@@ -13800,6 +13800,8 @@ http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/5091.mp4
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/5129.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",A Guarda do Leão
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/5457.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Dinoarmaduras
+http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/5873.mp4
 
 # --- Movies | DOCUMENTÁRIOS (1003) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMEbjQCLiquhAd2MeVyDr3rHKvM.jpg" group-title="Movies | DOCUMENTÁRIOS",A Bailarina (2020)
@@ -38433,7 +38435,7 @@ http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/5869.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS",Roupa Suja
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/5870.mp4
 
-# --- Movies | NOVIDADES (101) ---
+# --- Movies | NOVIDADES (103) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HLhSPjTcqaJgfWOMflkJKHuwn.jpg" group-title="Movies | NOVIDADES",Ninguém Merece, Frida (2016) LEG
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/209001.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SMQJit9clFpQJJHFp41LYJjBMq.jpg" group-title="Movies | NOVIDADES",Amizade Colorida (2011)
@@ -38636,6 +38638,10 @@ http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/211451.mp4
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/211452.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dil5UbG1RGJuAVzgKcV1Y9fHNk5.jpg" group-title="Movies | NOVIDADES",Hitman, O Rei dos Assassinos (1998)
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/211453.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9Zyv8WO36xcSbLqAkBfKK4qlYU.jpg" group-title="Movies | NOVIDADES",A Criatura Sombria (2017)
+http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/211493.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9KFHYVDp882nZ0tAV2OyfT71SH.jpg" group-title="Movies | NOVIDADES",O Despertar da Fera (2014)
+http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/211494.mp4
 
 # --- Movies | ORGULHO LGBTQIA+ (160) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryLcuVJmSTVSfKsyDBLTVpD71cZ.jpg" group-title="Movies | ORGULHO LGBTQIA+",A Garota Dinamarquesa (2015)
@@ -45363,4 +45369,4 @@ http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/594.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",ROBLOX LIVE
 http://178.162.193.239:80/movie/suspected-DFHKpc5nEX/6kQRflrEsl/595.mp4
 
-# Total: 22611
+# Total: 22614
