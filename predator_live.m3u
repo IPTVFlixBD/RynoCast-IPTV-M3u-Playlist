@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-09-03 08:12:47
+# Generated: 2026-09-04 08:10:43
 # Expires: 2026-09-16
 # Family Safe Edition
 # ==============================================
 
 
-# --- Austria (153) ---
+# --- Austria (151) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/640px-Flag_of_Austria.svg.png" group-title="Austria",========Austria========
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/84955.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF 1 HD
@@ -72,8 +72,6 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85293.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85292.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: DMAX HD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: duck TV
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85290.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Fix & Foxi
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85288.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: GEO Television HD
@@ -126,8 +124,6 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85135.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85273.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: KT 1
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85272.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Laola1.TV HD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Spiegel Geschichte HD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85152.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Love Nature HD
@@ -204,8 +200,6 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85205.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85204.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: SAT.1 HD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Schau TV HD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85202.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Servus TV HD Österreich
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85201.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: sixx austria
@@ -234,6 +228,14 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85179.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85178.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Sky Showcase HD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Sport 1 HD
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Laola1.TV HD
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Austria",AT: SPORTDIGITAL FUSSBALL HD
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Eurosport 1 HD
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85289.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: auto motor und sport channel HD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Sky Bundesliga HD
@@ -308,12 +310,6 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85155.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85268.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Magenta On Demand
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Sport 1 HD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Eurosport 1 HD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: SPORTDIGITAL FUSSBALL HD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85150.m3u8
 
 # --- Belgique (98) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1024px-Flag_of_Belgium.svg.png" group-title="Belgique",=========Belgium=========
@@ -8939,4 +8935,4 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/62225.m3u8
 
-# Total: 4439
+# Total: 4437

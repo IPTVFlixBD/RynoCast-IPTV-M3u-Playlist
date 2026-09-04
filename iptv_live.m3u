@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-09-03 08:13:18
+# Generated: 2026-09-04 08:19:53
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -302,6 +302,8 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5589.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5591.m3u8
 
 # --- News (22) ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyJo1eDCaTrDOi0Ap01P-I7pIh1erL8_pOA&s" group-title="News",Radio Traffic
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5013.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pf5722L/kurdsat.jpg" group-title="News",Kurdsat
 http://iptv.nextnet.krd:25461/live/nextnet/3738/84.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPbHCyb/kurdsat-news.jpg" group-title="News",Kurdsat News
@@ -338,8 +340,6 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4687.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4691.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2FAmr%2FThumps%2Funtitled0%2FLogoEN_alhadath%2Foriginal%2FLogoEN_alhadath.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="News",Al Hadath
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4724.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyJo1eDCaTrDOi0Ap01P-I7pIh1erL8_pOA&s" group-title="News",Radio Traffic
-http://iptv.nextnet.krd:25461/live/nextnet/3738/5013.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="News",Çira TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Shams tv

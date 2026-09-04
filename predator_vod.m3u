@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-09-03 08:12:47
+# Generated: 2026-09-04 08:10:43
 # Expires: 2026-09-16
 # Family Safe Edition
 # ==============================================
@@ -10,6 +10,8 @@
 # --- Movies | Deutsche Serien (48) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",=====Deutsche Serien=====
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",The Gentlemen (2024) DE
+http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Nur für dein Leben (2026)
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/301.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Dutton Ranch (2026) DE
@@ -74,8 +76,6 @@ http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/201.mp4
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/204.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Fallout (2024) DE
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/203.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",The Gentlemen (2024) DE
-http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Halo (2022) DE
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/205.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Mayor of Kingstown (2021) DE
@@ -2656,6 +2656,8 @@ http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/1.mp4
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/304.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Silo
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/151.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Gentlemen
+http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/184.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Walking Dead: Dead City
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/156.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Power Book III: Raising Kanan (US)
@@ -2822,8 +2824,6 @@ http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/187.mp4
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Baby Reindeer
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/186.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Gentlemen
-http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/184.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Shōgun
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/183.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Walking Dead: The Ones Who Live
@@ -6435,9 +6435,11 @@ http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/67409.mkv
 
-# --- Movies | Vod de (1365) ---
+# --- Movies | Vod de (1366) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/80934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg" group-title="Movies | Vod de",The Runner (2026) DE
+http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/86006.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgXv3bgudUDugs8DmJik5XLZ6Bc.jpg" group-title="Movies | Vod de",Mutiny (2026) DE
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/86005.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg" group-title="Movies | Vod de",Der Kinderflüsterer (2026)
@@ -9167,4 +9169,4 @@ http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/69012.mkv
 
-# Total: 4571
+# Total: 4572
