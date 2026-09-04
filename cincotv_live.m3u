@@ -1,53 +1,135 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cincotv.org:25461
-# Generated: 2026-09-04 08:11:15
+# Generated: 2026-09-04 21:32:50
 # Expires: 2026-09-18
 # Family Safe Edition
 # ==============================================
 
 
-# --- EVENTOS 3 SEPTIEMBRE (20) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png" group-title="EVENTOS 3 SEPTIEMBRE",EVENTOS #1
+# --- EVENTOS 4 SEPTIEMBRE (61) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png" group-title="EVENTOS 4 SEPTIEMBRE",EVENTOS #1
 http://cincotv.org:25461/live/Andre592/Martinez168/197027.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png" group-title="EVENTOS 3 SEPTIEMBRE",EVENTOS #2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png" group-title="EVENTOS 4 SEPTIEMBRE",EVENTOS #2
 http://cincotv.org:25461/live/Andre592/Martinez168/345317.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png" group-title="EVENTOS 3 SEPTIEMBRE",EVENTOS #3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png" group-title="EVENTOS 4 SEPTIEMBRE",EVENTOS #3
 http://cincotv.org:25461/live/Andre592/Martinez168/359044.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 3 SEPTIEMBRE",04:30pm Leones del Norte vs Orense (ZAPPING)
-http://cincotv.org:25461/live/Andre592/Martinez168/394241.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 3 SEPTIEMBRE",04:30pm Leones del Norte vs Orense (ZAPPING)
-http://cincotv.org:25461/live/Andre592/Martinez168/394242.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Bnry8/Liga-paraguaya.png" group-title="EVENTOS 3 SEPTIEMBRE",04:30pm Deportivo Recoleta vs Cerro Porteño (DIRECTV)
-http://cincotv.org:25461/live/Andre592/Martinez168/394243.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZst41t/Copa-do-Brasil.png" group-title="EVENTOS 3 SEPTIEMBRE",06:00pm Grêmio vs Internacional (ESPN MX)
-http://cincotv.org:25461/live/Andre592/Martinez168/394244.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZst41t/Copa-do-Brasil.png" group-title="EVENTOS 3 SEPTIEMBRE",06:00pm Grêmio vs Internacional (DIRECTV)
-http://cincotv.org:25461/live/Andre592/Martinez168/394245.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 3 SEPTIEMBRE",06:15pm Baltimore Orioles vs Boston Red Sox (FOX USA)
-http://cincotv.org:25461/live/Andre592/Martinez168/394246.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 3 SEPTIEMBRE",06:15pm Chicago Cubs vs Milwaukee Brewers (FOX DEPORTES)
-http://cincotv.org:25461/live/Andre592/Martinez168/394247.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 3 SEPTIEMBRE",06:40pm Kansas City Royals vs Miami Marlins
-http://cincotv.org:25461/live/Andre592/Martinez168/394248.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 3 SEPTIEMBRE",07:00pm Libertad vs Emelec (ZAPPING)
-http://cincotv.org:25461/live/Andre592/Martinez168/394249.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 3 SEPTIEMBRE",07:00pm Libertad vs Emelec (ZAPPING)
-http://cincotv.org:25461/live/Andre592/Martinez168/394250.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 3 SEPTIEMBRE",07:00pm Libertad vs Emelec (ZAPPING)
-http://cincotv.org:25461/live/Andre592/Martinez168/394251.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 3 SEPTIEMBRE",07:05pm Texas Rangers vs Tampa Bay Rays
-http://cincotv.org:25461/live/Andre592/Martinez168/394252.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncKMvBm1/Liga-Colombia.png" group-title="EVENTOS 3 SEPTIEMBRE",08:00pm Deportivo Pereira vs Medellín (RCN)
-http://cincotv.org:25461/live/Andre592/Martinez168/394253.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncKMvBm1/Liga-Colombia.png" group-title="EVENTOS 3 SEPTIEMBRE",08:00pm Deportivo Pereira vs Medellín (WIN+)
-http://cincotv.org:25461/live/Andre592/Martinez168/394254.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBJrWtsC/Liga-Honduras.png" group-title="EVENTOS 3 SEPTIEMBRE",08:00pm Olimpia vs Platense (TVC)
-http://cincotv.org:25461/live/Andre592/Martinez168/394255.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 3 SEPTIEMBRE",08:40pm Seattle Mariners vs Athletics
-http://cincotv.org:25461/live/Andre592/Martinez168/394256.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 3 SEPTIEMBRE",09:10pm Los Angeles Dodgers vs St. Louis Cardinals
-http://cincotv.org:25461/live/Andre592/Martinez168/394257.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrd7Ntp/Ligue-1-Francia.png" group-title="EVENTOS 4 SEPTIEMBRE",12:00pm Olympique Lyonnais vs Auxerre (FOX MEXICO)
+http://cincotv.org:25461/live/Andre592/Martinez168/394321.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrd7Ntp/Ligue-1-Francia.png" group-title="EVENTOS 4 SEPTIEMBRE",12:00pm Olympique Lyonnais vs Auxerre (BEIN SPORTS)
+http://cincotv.org:25461/live/Andre592/Martinez168/394322.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrd7Ntp/Ligue-1-Francia.png" group-title="EVENTOS 4 SEPTIEMBRE",12:00pm Olympique Lyonnais vs Auxerre (ESPN 4)
+http://cincotv.org:25461/live/Andre592/Martinez168/394323.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JN1RzS/Super-Liga-Turquia.png" group-title="EVENTOS 4 SEPTIEMBRE",12:00pm İstanbul Başakşehir vs Galatasaray (BEIN SPORTS MAX 10)
+http://cincotv.org:25461/live/Andre592/Martinez168/394324.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JN1RzS/Super-Liga-Turquia.png" group-title="EVENTOS 4 SEPTIEMBRE",12:00pm İstanbul Başakşehir vs Galatasaray (SPORT TV5)
+http://cincotv.org:25461/live/Andre592/Martinez168/394325.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL76c7P8/Saudi-Pro-League-Arabia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:00pm Al Shabab vs Al Hilal (FOX SOCCER PLUS)
+http://cincotv.org:25461/live/Andre592/Martinez168/394326.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL76c7P8/Saudi-Pro-League-Arabia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:00pm Al Shabab vs Al Hilal (FOX DEPORTES)
+http://cincotv.org:25461/live/Andre592/Martinez168/394327.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",01:10pm Cleveland Guardians vs Detroit Tigers
+http://cincotv.org:25461/live/Andre592/Martinez168/394328.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MLz9mf2/Bundesliga-Alemania.png" group-title="EVENTOS 4 SEPTIEMBRE",01:30pm Stuttgart vs Köln (UNIVERSO)
+http://cincotv.org:25461/live/Andre592/Martinez168/394329.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MLz9mf2/Bundesliga-Alemania.png" group-title="EVENTOS 4 SEPTIEMBRE",01:30pm Stuttgart vs Köln (ONE SOCCER)
+http://cincotv.org:25461/live/Andre592/Martinez168/394330.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC7pJbc2/Ekstraklasa-Polonia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:30pm Piast Gliwice vs Katowice (BEIN XTRA)
+http://cincotv.org:25461/live/Andre592/Martinez168/394331.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC7pJbc2/Ekstraklasa-Polonia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:30pm Piast Gliwice vs Katowice (BEIN XTRA ESPAÑOL)
+http://cincotv.org:25461/live/Andre592/Martinez168/394332.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL76BrcH/Serie-A-Italia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:45pm Genoa vs Como (ESPN 4 BRASIL)
+http://cincotv.org:25461/live/Andre592/Martinez168/394333.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL76BrcH/Serie-A-Italia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:45pm Genoa vs Como (SPORT TV2)
+http://cincotv.org:25461/live/Andre592/Martinez168/394334.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL76BrcH/Serie-A-Italia.png" group-title="EVENTOS 4 SEPTIEMBRE",01:45pm Genoa vs Como (DAZN 1)
+http://cincotv.org:25461/live/Andre592/Martinez168/394335.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZwpv8J/Premiere-league.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Ipswich Town vs Liverpool (TNT SPORTS)
+http://cincotv.org:25461/live/Andre592/Martinez168/394336.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZwpv8J/Premiere-league.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Ipswich Town vs Liverpool (USA NETWORK)
+http://cincotv.org:25461/live/Andre592/Martinez168/394337.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZwpv8J/Premiere-league.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Ipswich Town vs Liverpool (ESPN BRASIL)
+http://cincotv.org:25461/live/Andre592/Martinez168/394338.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZwpv8J/Premiere-league.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Ipswich Town vs Liverpool (DAZN 1)
+http://cincotv.org:25461/live/Andre592/Martinez168/394339.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbRS5V3t/Laliga-espana.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Real Betis vs Real Madrid (SKY SPORTS)
+http://cincotv.org:25461/live/Andre592/Martinez168/394340.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbRS5V3t/Laliga-espana.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Real Betis vs Real Madrid (ESPN DEPORTES)
+http://cincotv.org:25461/live/Andre592/Martinez168/394341.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbRS5V3t/Laliga-espana.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Real Betis vs Real Madrid (ESPN)
+http://cincotv.org:25461/live/Andre592/Martinez168/394342.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbRS5V3t/Laliga-espana.png" group-title="EVENTOS 4 SEPTIEMBRE",02:00pm Real Betis vs Real Madrid (ESPN)
+http://cincotv.org:25461/live/Andre592/Martinez168/394343.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrd7Ntp/Ligue-1-Francia.png" group-title="EVENTOS 4 SEPTIEMBRE",02:05pm PSG vs Monaco (FOX MEXICO)
+http://cincotv.org:25461/live/Andre592/Martinez168/394344.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrd7Ntp/Ligue-1-Francia.png" group-title="EVENTOS 4 SEPTIEMBRE",02:05pm PSG vs Monaco (BEIN SPORTS)
+http://cincotv.org:25461/live/Andre592/Martinez168/394345.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrd7Ntp/Ligue-1-Francia.png" group-title="EVENTOS 4 SEPTIEMBRE",02:05pm PSG vs Monaco (ESPN 4)
+http://cincotv.org:25461/live/Andre592/Martinez168/394346.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnv38TKj/Liga-Portugal-Betclic.png" group-title="EVENTOS 4 SEPTIEMBRE",02:15pm Porto vs Moreirense (BEIN SPORTS MAX 10)
+http://cincotv.org:25461/live/Andre592/Martinez168/394347.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnv38TKj/Liga-Portugal-Betclic.png" group-title="EVENTOS 4 SEPTIEMBRE",02:15pm Porto vs Moreirense (SPORT TV1)
+http://cincotv.org:25461/live/Andre592/Martinez168/394348.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTB57Dwd/Liga-Argentina.png" group-title="EVENTOS 4 SEPTIEMBRE",05:00pm Belgrano vs Huracán (ESPN)
+http://cincotv.org:25461/live/Andre592/Martinez168/394349.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTB57Dwd/Liga-Argentina.png" group-title="EVENTOS 4 SEPTIEMBRE",05:00pm Belgrano vs Huracán (ESPN PREMIUM)
+http://cincotv.org:25461/live/Andre592/Martinez168/394350.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTB57Dwd/Liga-Argentina.png" group-title="EVENTOS 4 SEPTIEMBRE",05:00pm Platense vs Deportivo Riestra (TNT SPORTS)
+http://cincotv.org:25461/live/Andre592/Martinez168/394351.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",05:10pm Cincinnati Reds vs Milwaukee Brewers
+http://cincotv.org:25461/live/Andre592/Martinez168/394352.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",05:40pm Philadelphia Phillies vs Atlanta Braves
+http://cincotv.org:25461/live/Andre592/Martinez168/394353.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",05:45pm Pittsburgh Pirates vs Los Angeles Angels
+http://cincotv.org:25461/live/Andre592/Martinez168/394354.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",06:05pm Baltimore Orioles vs Boston Red Sox
+http://cincotv.org:25461/live/Andre592/Martinez168/394355.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",06:10pm New York Mets vs San Francisco Giants
+http://cincotv.org:25461/live/Andre592/Martinez168/394356.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",06:10pm Miami Marlins vs Chicago Cubs
+http://cincotv.org:25461/live/Andre592/Martinez168/394357.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",06:15pm Cleveland Guardians vs Detroit Tigers (ESPN USA)
+http://cincotv.org:25461/live/Andre592/Martinez168/394358.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",06:15pm Cleveland Guardians vs Detroit Tigers (FOX USA)
+http://cincotv.org:25461/live/Andre592/Martinez168/394359.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jhPt6gQ/MLS.png" group-title="EVENTOS 4 SEPTIEMBRE",06:30pm New York City vs Nashville SC (APPLE TV)
+http://cincotv.org:25461/live/Andre592/Martinez168/394360.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",06:40pm Chicago White Sox vs Minnesota Twins
+http://cincotv.org:25461/live/Andre592/Martinez168/394361.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",07:05pm Texas Rangers vs Tampa Bay Rays
+http://cincotv.org:25461/live/Andre592/Martinez168/394362.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",07:10pm Houston Astros vs Arizona Diamondbacks
+http://cincotv.org:25461/live/Andre592/Martinez168/394363.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 4 SEPTIEMBRE",07:30pm Tecnico Universitario vs Liga de Quito (ZAPPING)
+http://cincotv.org:25461/live/Andre592/Martinez168/394365.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 4 SEPTIEMBRE",07:30pm Tecnico Universitario vs Liga de Quito (*ZAPPING)
+http://cincotv.org:25461/live/Andre592/Martinez168/394366.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qkq25Rc/Liga-pro-Ecuador.png" group-title="EVENTOS 4 SEPTIEMBRE",07:30pm Tecnico Universitario vs Liga de Quito (-ZAPPING)
+http://cincotv.org:25461/live/Andre592/Martinez168/394367.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzwDRv15/Liga-Chile-2025.png" group-title="EVENTOS 4 SEPTIEMBRE",07:30pm Deportes Concepción vs Audax Italiano (TNT PREMIUM)
+http://cincotv.org:25461/live/Andre592/Martinez168/394368.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",07:40pm Colorado Rockies vs St. Louis Cardinals
+http://cincotv.org:25461/live/Andre592/Martinez168/394369.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBJrWtsC/Liga-Honduras.png" group-title="EVENTOS 4 SEPTIEMBRE",08:00pm Choloma vs Olancho (TVC)
+http://cincotv.org:25461/live/Andre592/Martinez168/394370.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",08:40pm San Diego Padres vs New York Yankees
+http://cincotv.org:25461/live/Andre592/Martinez168/394371.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4C8drXy/LIGA-PROMERICA-Costa-RICA.png" group-title="EVENTOS 4 SEPTIEMBRE",09:00pm Escorpiones Belén vs Inter San Carlos (FUTV)
+http://cincotv.org:25461/live/Andre592/Martinez168/394372.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",09:10pm Los Angeles Dodgers vs Washington Nationals
+http://cincotv.org:25461/live/Andre592/Martinez168/394373.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMZvx6tg/MLB.png" group-title="EVENTOS 4 SEPTIEMBRE",09:10pm Seattle Mariners vs Athletics (NBC USA)
+http://cincotv.org:25461/live/Andre592/Martinez168/394374.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1HsjW6q/Liga-MX.png" group-title="EVENTOS 4 SEPTIEMBRE",10:00pm Juárez vs Pachuca (AZTECA 7)
+http://cincotv.org:25461/live/Andre592/Martinez168/394375.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1HsjW6q/Liga-MX.png" group-title="EVENTOS 4 SEPTIEMBRE",10:00pm Juárez vs Pachuca (AZTECA DEPORTES)
+http://cincotv.org:25461/live/Andre592/Martinez168/394376.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1HsjW6q/Liga-MX.png" group-title="EVENTOS 4 SEPTIEMBRE",10:00pm Juárez vs Pachuca (FOX MEXICO)
+http://cincotv.org:25461/live/Andre592/Martinez168/394377.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1HsjW6q/Liga-MX.png" group-title="EVENTOS 4 SEPTIEMBRE",10:00pm Juárez vs Pachuca (UNIVERSO)
+http://cincotv.org:25461/live/Andre592/Martinez168/394378.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1HsjW6q/Liga-MX.png" group-title="EVENTOS 4 SEPTIEMBRE",10:00pm Juárez vs Pachuca (FOX DEPORTES)
+http://cincotv.org:25461/live/Andre592/Martinez168/394379.m3u8
 
 # --- TV ||  GUATEMALA (2) ---
 #EXTINF:-1 tvg-logo="https://esquipulastv.com/wp-content/uploads/2020/08/Logo-ETV-FINAL-1.png" group-title="TV ||  GUATEMALA",GUATEMALA | ESQUIPULAS TV
@@ -2207,4 +2289,4 @@ http://cincotv.org:25461/live/Andre592/Martinez168/182972.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/__export/1433991439956/sites/telesur/img/news/2015/06/10/telesurlogo.jpg" group-title="TV || VENEZUELA",VEN | TELESUR
 http://cincotv.org:25461/live/Andre592/Martinez168/182974.m3u8
 
-# Total: 1057
+# Total: 1098

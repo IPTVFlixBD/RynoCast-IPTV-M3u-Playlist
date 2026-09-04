@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2026-09-04 08:16:48
+# Generated: 2026-09-04 21:37:26
 # Expires: 2026-09-19
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | AMAZON PRIME VIDEO (926) ---
+# --- Movies | AMAZON PRIME VIDEO (927) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",007 Estrada Para o Milhao
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7122.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",11 22 63
@@ -652,6 +652,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3872.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2253.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Fallout
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4641.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Familia de Herois
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9352.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Fargo
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1520.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Fatal Crossing As Garotas da Balsa
@@ -15805,7 +15807,9 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3763.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Zorro
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1067.mp4
 
-# --- Movies | DOCUMENTARIOS (913) ---
+# --- Movies | DOCUMENTARIOS (914) ---
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/sKHrTLiHeIFEa71mYAhiWhP6KGQ_big.jpg" group-title="Movies | DOCUMENTARIOS",A Rainha Mae e Monarca - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436660.mp4
 #EXTINF:-1 tvg-logo="http:/cdn4k.net/images/tp8rmMBt2WRVIG5FILfsGhrJM9P_big.jpg" group-title="Movies | DOCUMENTARIOS",Sirens - 2022 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436586.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/oMIVUxJxJurOnydts0bfKR2CZFk_big.jpg" group-title="Movies | DOCUMENTARIOS",O Ladrao Colecionador - 2022 (L)
@@ -17633,7 +17637,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410969.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/9yQIeaYKuepMhrdZjnhE8wDibbW_big.jpg" group-title="Movies | DOCUMENTARIOS",Cataratas de Vitoria Jardim do Eden da Africa - 2021
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/363698.mp4
 
-# --- Movies | DORAMA (671) ---
+# --- Movies | DORAMA (673) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",100 Memorias
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",1000 Stars
@@ -17904,6 +17908,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8688.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Cafe Minamdang
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3595.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Cancao de Amor no Inverno
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9353.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Candy
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8128.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Carma
@@ -18416,6 +18422,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5563.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7953.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Curandeiro
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8769.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Destino do Amor
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O detetive fantasma
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8098.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Dia das Criancas de Sammy
@@ -28425,7 +28433,21 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4249.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Zona de Sobrevivencia
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6300.mp4
 
-# --- Movies | LANÇAMENTOS LEGENDADOS (816) ---
+# --- Movies | LANÇAMENTOS LEGENDADOS (823) ---
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/iWckl9hilVTIum7P0OSkwCeoBEh_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Um Retrato de Esperanca - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436674.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/hVXjX1jLZ1ljFSNGXpjJfbTUOa7_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Mayday - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436670.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/hCHei97aPYCCsh4vicz9X0wmdFV_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Gandhari - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436666.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/gDbKETTKi8te7TiE0k6FfqAoSvR_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Time of Death - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436665.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/imfGMQkG1BP5O5bjQyWKiB0J1jA_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Natal Amargo - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436663.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/9Hc0QF0bJPyGXlQBq8NdzqqE3L4_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Fito Paez O Mundo Cabe em Uma Cancao - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436662.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/3BGYcEQnVjVzImecgXcm1xtzdEV_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",11 de Setembro 25 Anos Depois - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436661.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/zPlBUyu9rWhVrdiRfSClwMkmQiT_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Corrida Contra o Tempo - 2026 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436481.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/fqnp3doSeUFLGUFIolHVPA41O4E_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Coyote vs ACME - 2026 (L)
@@ -41323,7 +41345,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410971.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOPYBXYEG1DjIRcanivEeh9y8Jb.jpg" group-title="Movies | NACIONAIS",Os Bravos Nunca Se Calam - 2019
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410976.mp4
 
-# --- Movies | NETFLIX (1948) ---
+# --- Movies | NETFLIX (1949) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",100 Humanos
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5868.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",1670
@@ -41628,6 +41650,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1365.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8678.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Alias Grace
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2847.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Alix Earle pelo Mundo
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9349.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",All Of Us Are Dead
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3104.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Alma Gemea
@@ -53631,7 +53655,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/126588.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/rN1G5YsRS5pzCx3hdkEBN8NKn2R_big.jpg" group-title="Movies | UHD 4K",Exterminio  A Evolucao - 2025 UHD 4K
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/340777.mp4
 
-# --- Series | SERIES TV (493) ---
+# --- Series | SERIES TV (494) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Meu Nome e Farah
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/5715
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",O Coitado
@@ -54330,6 +54354,8 @@ http://cdn4k.us:80/series/Adrianobrito16/910989645a/9118
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/7919
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Portugal Show
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/4319
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Possession
+http://cdn4k.us:80/series/Adrianobrito16/910989645a/9351
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Presidente Curtis
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/9138
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Prisioneira 951
@@ -54619,4 +54645,4 @@ http://cdn4k.us:80/series/Adrianobrito16/910989645a/2179
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Zorro A Espada e a Rosa
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/1149
 
-# Total: 27263
+# Total: 27276
