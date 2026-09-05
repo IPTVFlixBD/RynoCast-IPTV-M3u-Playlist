@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-09-04 21:34:21
+# Generated: 2026-09-05 20:17:57
 # Expires: 2027-10-09
 # Family Safe Edition
 # ==============================================
@@ -12,6 +12,8 @@
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",The Gentlemen (2024) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/206.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Silo (2023) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/220.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Nur für dein Leben (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/301.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Dutton Ranch (2026) DE
@@ -62,8 +64,6 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/233.mp4
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/229.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Reacher (2022) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/207.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Silo (2023) DE
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/220.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",The Day of the Jackal (2024) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/211.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",The Penguin (2024) DE
@@ -341,9 +341,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1153) ---
+# --- Movies | Filma me titra Shqip (1154) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="Movies | Filma me titra Shqip",Mayday (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/86042.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFborW6HmffKL05GIWlkTFdvVpN.jpg" group-title="Movies | Filma me titra Shqip",The Brink of War (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/86002.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="Movies | Filma me titra Shqip",The Whisper Man (2026)
@@ -2649,15 +2651,17 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (208) ---
+# --- Movies | Seriale me titra Shqip (209) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Lucky (2026)
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/304.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Silo
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/151.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Gentlemen
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/184.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Silo
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/151.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Dark Matter (2024)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/305.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Lucky (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/304.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Walking Dead: Dead City
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/156.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Power Book III: Raising Kanan (US)
@@ -6451,9 +6455,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85499.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod Sports",Fussball 1 Bundesliga 2025-2026 28 Spieltag SC Freiburg vs FC Bayern
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85496.mkv
 
-# --- Movies | Vod de (1366) ---
+# --- Movies | Vod de (1367) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRlIaMbAmye8kyOTQFpS8HYEmSY.jpg" group-title="Movies | Vod de",Mayday (2026) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/86041.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg" group-title="Movies | Vod de",The Runner (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/86006.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgXv3bgudUDugs8DmJik5XLZ6Bc.jpg" group-title="Movies | Vod de",Mutiny (2026) DE
@@ -9211,4 +9217,4 @@ http://predator.digital:8080/series/Edi/dWP7KSb4CM/255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
 http://predator.digital:8080/series/Edi/dWP7KSb4CM/258
 
-# Total: 4591
+# Total: 4594

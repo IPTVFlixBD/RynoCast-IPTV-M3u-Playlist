@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-09-04 21:35:31
+# Generated: 2026-09-05 20:16:39
 # Expires: 2026-09-26
 # Family Safe Edition
 # ==============================================
@@ -12121,7 +12121,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217347.m3u8
 #EXTINF:-1 tvg-logo="" group-title="21. FANDUAL/SPECTRUM SPORTS",FanDuel Sports Network Wisconsin
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217348.m3u8
 
-# --- 26. NFL TICKET (36) ---
+# --- 26. NFL TICKET (28) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST01:
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/44603.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST02:
@@ -12174,26 +12174,10 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/105701.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/208416.m3u8
 #EXTINF:-1 tvg-logo="" group-title="26. NFL TICKET",02. SPECIAL EVENTS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217475.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS1 1p Detroit @ Indianapolis
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251722.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS2 6p Chicago @ Tennessee
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251723.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS3 7p Atlanta @ Miami
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251724.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS4 730p Tampa Bay @ Jacksonville
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS4
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251725.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS5 730p NY Giants @ NY Jets
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS5
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251726.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS6 8p Cincinnati @ Philadelphia
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251727.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS7 8p New Orleans @ Dallas
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251750.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS8 8p Seattle @ Kansas City
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251837.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",01. PS9 8p Arizona @ Green Bay
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251838.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/08/preseason2026.png" group-title="26. NFL TICKET",010. PS10 9p Minnesota @ Denver
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251840.m3u8
 
 # --- 26.1 NCAA BASKETBALL (ET) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",01. NCAA BASKETBALL
@@ -12202,19 +12186,19 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219731.m3u8
 # --- 26.2 NCAA FOOTBALL (ET) (12) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",01. EVERY GAME EVERY WEEK
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/105212.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",02. 8p 8p Colorado @ Georgia Tech
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",02.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217924.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",03. 8p UAPB @ 25 Missouri
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",03. 7p Indiana St @ Purdue
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217925.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",04. 8p Eastern Illinois @ Minnesota
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",04. 7p N.C. A&T @ Georgia St
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217926.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",05. 9p Idaho @ 21 Utah
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",05. 8p Toledo @ Michigan St
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217927.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",06. 9p UAB @ Illinois
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",06. 8p UTEP @ 10 Oklahoma
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217928.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",07.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",07. 9p Fresno St @ 14 USC
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251841.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",08.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",08. 9p 7 Miami (FL) @ Stanford
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251842.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",09.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251843.m3u8
@@ -12511,226 +12495,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/31456.m3u8
 #EXTINF:-1 tvg-logo="" group-title="33. RELIGIOUS",Faith Tv
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217010.m3u8
 
-# --- 35. CANADA (110) ---
-#EXTINF:-1 tvg-logo="EMPTYcanada/a%26e.png" group-title="35. CANADA",CA: A&E HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190834.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/abc%20spark.png" group-title="35. CANADA",CA: ABC SPARK HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190835.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/amc.png" group-title="35. CANADA",CA: AMC HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190836.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/animal%20planet.png" group-title="35. CANADA",CA: ANIMAL PLANET HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190837.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/APTN.png" group-title="35. CANADA",CA: APTN
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190838.m3u8
-#EXTINF:-1 tvg-logo="45jVQoR9318MpFqJj6YgYi8o9kDSqpMRRg4luA5lyRA&s" group-title="35. CANADA",CA: AMI TV ENGLISH
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190839.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/bbc%20america.png" group-title="35. CANADA",CA: BBC NEWS
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190840.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/BBC%20EARTH.png" group-title="35. CANADA",CA: BBC EARTH
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190841.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/bnn.png" group-title="35. CANADA",CA: BNN BLOOMBERG
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190842.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cartoon%20net.png" group-title="35. CANADA",CA: CARTOON NETWORK HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190843.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/chch.png" group-title="35. CANADA",CA: CHCH HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190844.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cmt.png" group-title="35. CANADA",CA: CMT HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190845.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cnn.png" group-title="35. CANADA",CA: CNN HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190846.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cooking%20channel.png" group-title="35. CANADA",CA: COOKING CHANNEL HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190847.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cottage%20life.png" group-title="35. CANADA",CA: COTTAGE LIFE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190848.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cp24.png" group-title="35. CANADA",CA: CP 24 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190849.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/cpac.png" group-title="35. CANADA",CA: CPAC HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190850.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/crave%20tv.png" group-title="35. CANADA",CA: CRAVE 1 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190851.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/crave%20tv.png" group-title="35. CANADA",CA: CRAVE 2 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190852.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/crave%20tv.png" group-title="35. CANADA",CA: CRAVE 3 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190853.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/crave%20tv.png" group-title="35. CANADA",CA: CRAVE 4 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190854.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/crime%20and%20invest.png" group-title="35. CANADA",CA: CRIME & INVESTIGATION HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190855.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/ctv%20comedy.png" group-title="35. CANADA",CA: CTV COMEDY HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190856.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV DRAMA
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190857.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV KITCHENER HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190858.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV LIFE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190859.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV Timmins
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190860.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV TORONTO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190861.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV 2 HALIFAX
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190862.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/CTV.png" group-title="35. CANADA",CA: CTV 2 TORONTO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190863.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/day%20star.png" group-title="35. CANADA",CA: DAYSTAR TV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190864.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/dejaview.png" group-title="35. CANADA",CA: DEJAVIEW
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190865.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/discovery%20hd.png" group-title="35. CANADA",CA: DISCOVERY HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190866.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/discovery%20sci.png" group-title="35. CANADA",CA: DISCOVERY SCIENCE HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190867.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/disney%20jr.png" group-title="35. CANADA",CA: DISNEY JR HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190868.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/disney%20dx.png" group-title="35. CANADA",CA: DISNEY XD HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190869.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/dtour.png" group-title="35. CANADA",CA: DTOUR
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190870.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/E%21.png" group-title="35. CANADA",CA: E! HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190871.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/FAMILY.png" group-title="35. CANADA",CA: FAMILY
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190872.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/familt%20chrgd.png" group-title="35. CANADA",CA: FAMILY CHRGD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190873.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/FAMILY%20JR.png" group-title="35. CANADA",CA: FAMILY JUNIOR
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190874.m3u8
-#EXTINF:-1 tvg-logo="GYKugLVA-5pOBxQVcA.png" group-title="35. CANADA",CA: FOOD NETWORK
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190875.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/fox%20hd.png" group-title="35. CANADA",CA: Fox HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190876.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/fx%20hd.png" group-title="35. CANADA",CA: FX HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190878.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/FXXX.png" group-title="35. CANADA",CA: FXX
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190879.m3u8
-#EXTINF:-1 tvg-logo="fightnet.PNG" group-title="35. CANADA",CA: The Fight Network
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190880.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/game%20show%20net.png" group-title="35. CANADA",CA: GAME SHOW NETWORK HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190881.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/game%20tv.png" group-title="35. CANADA",CA: Game TV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190882.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/global%20durham.png" group-title="35. CANADA",CA: Global EDMONTON
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190884.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/global%20edmonton.png" group-title="35. CANADA",CA: GLOBAL TORONTO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190885.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/global%20hd.png" group-title="35. CANADA",CA: GLOBAL VANCOUVER
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190886.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/global%20hd.png" group-title="35. CANADA",CA: GLOBAL HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190887.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/GOLF%20CHANNEL.png" group-title="35. CANADA",CA: GOLF CHANNEL
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190888.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/gsn.png" group-title="35. CANADA",CA: GSN
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190889.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/h2.png" group-title="35. CANADA",CA: H2
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190890.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/hbo%20hd.png" group-title="35. CANADA",CA: HBO HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190891.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/hbo%202%20hd.png" group-title="35. CANADA",CA: HBO 2 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190892.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/hgtv.png" group-title="35. CANADA",CA: HGTV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190893.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/the%20history%20channel.png" group-title="35. CANADA",CA: HISTORY HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190894.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/" group-title="35. CANADA",CA: HARD KNOCKS
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190895.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/HOLLYWOOD%20SUITS.png" group-title="35. CANADA",CA: HOLLYWOOD SUITE 00'S MOVIES
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190896.m3u8
-#EXTINF:-1 tvg-logo="EMPTY" group-title="35. CANADA",CA: EMPIRE CINEMA
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190900.m3u8
-#EXTINF:-1 tvg-logo="EMPTY" group-title="35. CANADA",CA: EMPIRE CINEMA COMICULT
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190901.m3u8
-#EXTINF:-1 tvg-logo="EMPTY" group-title="35. CANADA",CA: EMPIRE CINEMA PREMIERE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190902.m3u8
-#EXTINF:-1 tvg-logo="EMPTY" group-title="35. CANADA",CA: EMPIRE CINEMA SCI-FI
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190903.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/knowlage%20kids.png" group-title="35. CANADA",CA: KNOWLEDGE KIDS
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190904.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/lifetime%20hd.png" group-title="35. CANADA",CA: LIFETIME MOVIE NETWORK HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190906.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/love%20natch.png" group-title="35. CANADA",CA: Love Nature
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190907.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/makeful.png" group-title="35. CANADA",CA: MakeFul
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190909.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/miracle.png" group-title="35. CANADA",CA: MIRACLE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190910.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/MUCH.png" group-title="35. CANADA",CA: MUCH
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190914.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/NAT%20GEO%20WILD.png" group-title="35. CANADA",CA: NAT GEO WILD HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190916.m3u8
-#EXTINF:-1 tvg-logo="" group-title="35. CANADA",CA: NICK
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190918.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/NICK%20TOONS.png" group-title="35. CANADA",CA: NICKTOONS HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190919.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/" group-title="35. CANADA",CA: BRAVO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190920.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/OMNI%20TV.png" group-title="35. CANADA",CA: OMNI 1 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190921.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/peach%20tree.png" group-title="35. CANADA",CA: PEACH TREE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190923.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/silver%20screen.png" group-title="35. CANADA",CA: SILVER SCREEN CLASSICS
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190924.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/SLICE.png" group-title="35. CANADA",CA: SLICE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190925.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/PARAMOUNT.png" group-title="35. CANADA",CA: PARAMOUNT NETWORK
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190926.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/SUPER%20CHANNEL%20FUSE.png" group-title="35. CANADA",CA: SUPER CHANNEL FUSE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190927.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/SUPER%20CCHANNEL%20HART%20AND%20HOME.png" group-title="35. CANADA",CA: SUPER CHANNEL HEART & HOME
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190928.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/TELETOON.png" group-title="35. CANADA",CA: TELETOON HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190929.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/" group-title="35. CANADA",CA: SHOWCASE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190930.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/travel%20escape.png" group-title="35. CANADA",CA: TRAVEL ESCAPE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190932.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/TREE%20HOUSE.png" group-title="35. CANADA",CA: TREEHOUSE HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190933.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/VISION%20TV.png" group-title="35. CANADA",CA: VISION TV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190934.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/W%20CHANNEL.png" group-title="35. CANADA",CA: W NETWORK
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190935.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/THE%20WEATHER%20NETWORK.png" group-title="35. CANADA",CA: WEATHER NETWORK
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190936.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/wfn.png" group-title="35. CANADA",CA: WFN
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190937.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/wild%20tv.png" group-title="35. CANADA",CA: Wild TV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190938.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/" group-title="35. CANADA",CA: CBC MONTREAL FHD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190939.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcan" group-title="35. CANADA",CA: CBC TORONTO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190940.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcan" group-title="35. CANADA",CA: CBC NEWS
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190941.m3u8
-#EXTINF:-1 tvg-logo="EMPTY" group-title="35. CANADA",CA: CITY TV VANCOUVER
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190942.m3u8
-#EXTINF:-1 tvg-logo="https://technetnetwork.com/logo" group-title="35. CANADA",CA: CITY TV CALGARY
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190943.m3u8
-#EXTINF:-1 tvg-logo="https://technetnetwork.com/lo" group-title="35. CANADA",CA: CITY TV MONTREAL
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190944.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcan" group-title="35. CANADA",CA: CTV 2 HALIFAX
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190945.m3u8
-#EXTINF:-1 tvg-logo="https://technetnetwork.com/l" group-title="35. CANADA",CA: CTV 2 TORONTO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190946.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcan" group-title="35. CANADA",CA: CTV CALGARY FHD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190947.m3u8
-#EXTINF:-1 tvg-logo="EMPTYcanada/the%20hist" group-title="35. CANADA",CA: CTV REGINA
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190948.m3u8
-#EXTINF:-1 tvg-logo="EMPTY" group-title="35. CANADA",CA: CTV TIMMINS
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190949.m3u8
-#EXTINF:-1 tvg-logo="" group-title="35. CANADA",CA: TSN 1 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190950.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s109309_ll_h3_aa.png" group-title="35. CANADA",CA: TSN 2 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190951.m3u8
-#EXTINF:-1 tvg-logo="" group-title="35. CANADA",CA: TSN 3 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190952.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s102689_ll_h3_aa.png" group-title="35. CANADA",CA: TSN 4 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190953.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s109312_ll_h3_aa.png" group-title="35. CANADA",CA: TSN 5 HD
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190954.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s32281_ll_h3_ad.png" group-title="35. CANADA",CA: NBA TV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190956.m3u8
-#EXTINF:-1 tvg-logo="" group-title="35. CANADA",CA: SPORTSNET ONE
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190959.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s18801_ll_h3_aa.png" group-title="35. CANADA",CA: SPORTSNET PACIFIC
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/190961.m3u8
-
-# Total: 6335
+# Total: 6217

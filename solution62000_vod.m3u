@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-09-03 08:20:09
+# Generated: 2026-09-05 20:19:56
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -965,7 +965,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",The Dropout
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1233.mp4
 
-# --- Movies | Documentaires (65) ---
+# --- Movies | Documentaires (66) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg" group-title="Movies | Documentaires",Turning Point : Génération 11 septembre (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30384.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lEYCejQLBdEcMZ76OcWzmX8B8ZM.jpg" group-title="Movies | Documentaires",Ligne Rouge - Zidane, la fabrique d'une légende (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29705.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqC7bXiLC7USV64TfPUjl1s5plC.jpg" group-title="Movies | Documentaires",L'affaire epstein : la piste française (2026)
@@ -1237,7 +1239,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1719) ---
+# --- Movies | Films (1720) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/19SvZsTB6UINUZowkBsPSGZUNxD.jpg" group-title="Movies | Films",Le Choc des Thunderman (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30353.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oE9fWg0f9ewu68hFq8TOVBrVDZe.jpg" group-title="Movies | Films",Romería (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30343.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xlkd8rmU3DMFKqCGOchAH1avrfM.jpg" group-title="Movies | Films",Pitfall (2026)
@@ -5645,7 +5649,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (523) ---
+# --- Movies | NETFLIX (522) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSsX2LnGzyfHR9RioDEiLrPy5wa.jpg" group-title="Movies | NETFLIX",The Whisper Man (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky4Bk14mhlb16Vw2fqCPou6inR9.jpg" group-title="Movies | NETFLIX",La captura (2026)
@@ -6326,8 +6330,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/192.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/195.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Faux profil
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/202.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Nouvelle École
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",100 % physique !
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/209.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",La Traque dans le sang
@@ -7043,7 +7045,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (204) ---
+# --- Movies | prime video (205) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="Movies | prime video",The Runner (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30345.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg" group-title="Movies | prime video",Normal (2026)
@@ -7452,6 +7454,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1242.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1256.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Les Fumiers : bienvenue à la ferme
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1290.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Le Continental : D'après l'univers de John Wick
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1294.mp4
 
 # --- Series | Series Algerienne (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Algerienne",أولاد الحلال
@@ -8739,4 +8743,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1291
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Le Mystère de la chambre jaune
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1293
 
-# Total: 4336
+# Total: 4338

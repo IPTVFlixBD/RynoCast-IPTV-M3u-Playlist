@@ -1,21 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nplay.tel:2095
-# Generated: 2026-09-04 21:30:09
+# Generated: 2026-09-05 20:28:13
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 2025 Movies UHD [Multi-Sub&Audio] (1) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg" group-title="Movies | 2025 Movies UHD [Multi-Sub&Audio]",The Shadow's Edge [Multi-Sub] [2025]
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2143921.mkv
-
-# --- Movies | 4K Movies [Multi-Sub&Audio] (1) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg" group-title="Movies | 4K Movies [Multi-Sub&Audio]",The Shadow's Edge [Multi-Sub] [2025] [4K]
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2149528.mkv
-
-# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (592) ---
+# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (593) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",The Furious [Multi-Sub] [4K] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2538452.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Peaky Blinders: The Immortal Man [Multi-Sub] [4K] [2026]
@@ -1200,6 +1192,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2578853.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2578854.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",The Death of Robin Hood [Multi-Sub] [4K] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2581810.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",If I Had Legs I'd Kick You [Multi-Sub] [4K] [2025]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583611.mkv
 
 # --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (370) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",On Her Majesty's Secret Service [4K] [1969]
@@ -21885,7 +21879,11 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Arabic-Sub]",Peaky Blinders [AR]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2855.mp4
 
-# --- Movies | English [Multi-Sub] (4526) ---
+# --- Movies | English [Multi-Sub] (4528) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Welcome to the Family: The Murder of Dan Markel
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23826.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Earle Meets World
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23825.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Grand Tour (2026)
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/23822.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Britain's Murder Map with Vicky McClure and Jonny Owen
@@ -41095,7 +41093,621 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5hnpEUsamqM9Jex99wtNxaKnw.jpg" group-title="Movies | Music Concerts",Tarja Turunen e Harus: In Concert - Live at Sibelius Hall - 2011
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2399797.mkv
 
-# --- Movies | N1 Sports Events Replays (2425) ---
+# --- Movies | N1 Sports Events Replays (2572) ---
+#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Movies | N1 Sports Events Replays",12.55 Sverige . Finland 9.5  Innebandy Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586981.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/275/612/logo_FIMSportbikeWorldChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.55 Acerbis French Round  FIM Sportbike World Championship 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586980.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.30 Track Positioning  Formel 1 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586979.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.30 Timing  Formel 1 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586978.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F86dca08f-f1bf-4dfb-aeb5-c6c0dd4377a7%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",12.30 Rally.EM. Wales Rally.EM 9.5  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586977.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.30 Pitlane  Formel 1 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586976.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.30 Onboard  Formel 1 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586975.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.20 Italiens Grand Prix  Formel 1 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586974.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F4ddfba39-7bb8-4c96-8a60-5eab2065b566%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",11.55 Tjejmilen Tjejmilen 9.5  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586973.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.55 HSV . Leipzig  Frauen.Bundesliga 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586972.mkv
+#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Movies | N1 Sports Events Replays",11.50 Sverige . Finland 9.5  Innebandy Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586971.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",11.50 Laxå IF . Örebro SK Söder 9.5  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586970.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/632/716/logo_golf-walker-cup-live.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",09.30 Walker Cup  Walker Cup 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586969.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/260/244/logo_F4.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.00 Imola  Formula 4 Italian Championship 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586947.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/322/128/logo_UEFAChampionsLeague.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.50 Champions League weekly  UEFA Champions League 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586912.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/300/832/logo_FIMSuperbikeWorldChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",11.10 Acerbis French Round  FIM Superbike World Championship 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586911.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/124/128/logo_PorscheSuperCup.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.45 Monza  Porsche Super Cup 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586910.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/260/244/logo_FormulaRegional.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.00 Imola  Formula Regional European Championship 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586909.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fd64e0443-5520-4012-a38c-83f26f042243%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",09.45 Rally.EM. Wales Rally.EM 9.5  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586908.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/300/832/logo_FIMSuperbikeWorldChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",09.35 Acerbis French Round  FIM Superbike World Championship 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586623.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/1003/296/logo_F3.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",09.25 Monza  Formel 3 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586622.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.29 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586061.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.29 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586060.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.25 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586059.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.25 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586058.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.19 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586057.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.19 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586056.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.15 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586055.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.15 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586054.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.09 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586053.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.09 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586052.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.05 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586051.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",04.05 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586050.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.59 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586049.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.59 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586048.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.53 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586047.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.53 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586046.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.49 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586045.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.49 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586044.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.44 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586043.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.44 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586042.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.40 Ben Shelton . Denis Shapovalov tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586041.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",04.00 Mariners . Athletics  Major League Baseball 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2585339.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3Bmqp/ITijOhYk6IhCC0mkA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.40 Ben Shelton . Denis Shapovalov tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2585338.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fd4e2-7a3c-7a7f-90c5-277a9e2eb0a0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",03.00 #7 Miami vs. Stanford 9.5  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584928.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/M_fqQ/mgwEXzM5C6irYkzRA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.30 Elina Svitolina . Anna Kalinskaya tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584409.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/M_fqQ/mgwEXzM5C6irYkzRA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",03.30 Elina Svitolina . Anna Kalinskaya tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584408.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff745-66bd-7382-bb82-45c7d41a550c/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",02.00 UTEP vs. #10 Oklahoma 9.5  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584407.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff1ee-4c07-7337-acd8-bfec93152e26/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",02.00 Long Island University vs. Kansas 9.5  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584406.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.12 S. Williams . V. Williams . H. Chan . M. Joint tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584405.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.12 S. Williams . V. Williams . H. Chan . M. Joint tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584404.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.08 S. Williams . V. Williams . H. Chan . M. Joint tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584403.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.02 S. Williams . V. Williams . H. Chan . M. Joint tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584402.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.08 S. Williams . V. Williams . H. Chan . M. Joint tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584399.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.02 S. Williams . V. Williams . H. Chan . M. Joint tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584398.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nHj4-/URTUJMnR-ODq89-1A.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.00 Valentin Vacherot . Frances Tiafoe tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584397.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nHj4-/URTUJMnR-ODq89-1A.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",01.00 Valentin Vacherot . Frances Tiafoe tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584396.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.57 S. Williams . V. Williams . H. Chan . M. Joint tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584395.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fe7WG/_UYKEmmumt49PaERA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.57 S. Williams . V. Williams . H. Chan . M. Joint tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584394.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",00.30 Phillies . Braves  Major League Baseball 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584393.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GHjkt/CV_4Fii4cxr6S-5LA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.57 N. Fossa Huergo . T. Korpatsch . J. Maleckova . M. Skoch tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584390.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GHjkt/CV_4Fii4cxr6S-5LA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.57 N. Fossa Huergo . T. Korpatsch . J. Maleckova . M. Skoch tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584389.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",23.30 Jirí Lehecka . Stefanos Tsitsipas tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584388.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9wPke/8ib3fgHLRcYG68UTQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 US Open  Multiview tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584387.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9wPke/8ib3fgHLRcYG68UTQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 US Open  Multiview tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584386.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.33 Alex Michelsen . Daniel Mérida tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584385.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.33 Alex Michelsen . Daniel Mérida tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584384.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.26 Alex Michelsen . Daniel Mérida tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584383.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.26 Alex Michelsen . Daniel Mérida tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584382.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.24 Alex Michelsen . Daniel Mérida tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584381.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.24 Alex Michelsen . Daniel Mérida tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584380.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GHjkt/CV_4Fii4cxr6S-5LA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.08 N. Fossa Huergo . T. Korpatsch . J. Maleckova . M. Skoch tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584379.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GHjkt/CV_4Fii4cxr6S-5LA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.08 N. Fossa Huergo . T. Korpatsch . J. Maleckova . M. Skoch tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584378.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GHjkt/CV_4Fii4cxr6S-5LA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.04 N. Fossa Huergo . T. Korpatsch . J. Maleckova . M. Skoch tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584377.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/GHjkt/CV_4Fii4cxr6S-5LA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.04 N. Fossa Huergo . T. Korpatsch . J. Maleckova . M. Skoch tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584376.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff1f9-d08e-7540-bec3-d3e73a604e73/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Southeast Missouri State vs. Missouri 9.4  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584375.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.57 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584373.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.57 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584372.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.53 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584371.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.47 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584370.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.47 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584369.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.43 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584368.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.43 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584367.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.37 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584366.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.37 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584365.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.33 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584364.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.33 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584363.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.27 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584362.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.27 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584361.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.23 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584360.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.23 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584359.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.17 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584358.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.17 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584357.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.13 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584356.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.13 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584355.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.07 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584354.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.07 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584353.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.03 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584352.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.03 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584351.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",23.00 Grand Prix of Monterey  IndyCar 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584350.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.57 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584349.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.57 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584348.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.53 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584347.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.53 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584346.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.47 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584345.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.47 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584344.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.43 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584343.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.43 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584342.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a02e33-e82b-78fb-82e7-f2b92714a048/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",01.00 Bucknell vs. Boston College 9.5  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584341.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.45 Courtside  US Open tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584340.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.45 Courtside  US Open tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584339.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.30 San José State vs. Eastern Michigan 9.5  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584338.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",00.30 Grand Prix of Monterey  Indy NXT 9.5  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584337.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/A1Tgb/AeueyXXtyIz3VOOgA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.12 S. Hsieh . J. Ostapenko . D. Jurak Schreiber . A. Ruzic tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584336.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/A1Tgb/AeueyXXtyIz3VOOgA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.12 S. Hsieh . J. Ostapenko . D. Jurak Schreiber . A. Ruzic tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584335.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",00.11 A. Korneeva . D. Vidmanová . A. Bondár . A. Kalinina tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584334.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.03 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis FHD 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584333.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9MsoW/96d_fHUG4exvLZuPw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",00.03 S. Bolelli . A. Vavassori . Q. Halys . P.H. Herbert tennis 9.5  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584332.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a02b9a-7921-7c35-9198-681c59adb76b/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Maryland vs. Boston College 9.4  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584331.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/uVrIk/ec2iUuFUaZGTYXG2g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.51 D. Snigur . H. Vandewinkel . E. Mertens . D. Shnaider tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584207.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/uVrIk/ec2iUuFUaZGTYXG2g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.51 D. Snigur . H. Vandewinkel . E. Mertens . D. Shnaider tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584206.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cC1Lv/dqmW-hbqmif6mlPbw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.43 M. Damm . M. McDonald . J. Choinski . A. Donski  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584205.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cC1Lv/dqmW-hbqmif6mlPbw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",23.43 M. Damm . M. McDonald . J. Choinski . A. Donski  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584204.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",23.30 Premier League Team Talks  Premier League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584203.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/KYFU2/YVcHjxYXt2aNc2lOw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.44 P. Nouza . N. Oberleitner . G. Escobar . N. Kaliyanda Poonacha tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584202.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/KYFU2/YVcHjxYXt2aNc2lOw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.44 P. Nouza . N. Oberleitner . G. Escobar . N. Kaliyanda Poonacha tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584201.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oPT4l/40SqIkMxor75zVxmA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.00 S. Errani . L. Tagger . A. Penickova . K. Penickova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584200.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oPT4l/40SqIkMxor75zVxmA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",22.00 S. Errani . L. Tagger . A. Penickova . K. Penickova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584199.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fde7c-d403-7549-a1c3-5d21ea3e6d05/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",22.00 #18 TCU vs. #6 Louisville 9.4  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584198.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.58 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584197.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.58 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584196.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.52 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584195.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.52 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584194.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.48 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584193.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.48 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584192.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/hwnxl/neyqEdRPm6k2xpwMQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.42 D. Kasatkina . Y. Starodubtseva . E. Chong . Z. Yang tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584191.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/hwnxl/neyqEdRPm6k2xpwMQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.42 D. Kasatkina . Y. Starodubtseva . E. Chong . Z. Yang tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584190.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.38 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584189.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.38 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584188.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.28 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584187.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.28 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584186.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.22 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584185.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.22 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584184.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.16 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584183.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.16 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584182.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.12 Ann Li . Linda Noskova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584181.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/I0GnH/gavwR5l81B9OGVitg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.12 Ann Li . Linda Noskova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584180.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/b1JvL/2VFFo2k2sZ7XORGYw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Aaron Hill . Jak Jones snooker FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584179.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/b1JvL/2VFFo2k2sZ7XORGYw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Aaron Hill . Jak Jones snooker 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2584178.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",22.10 R. Ram . J. Salisbury . S. González . J.P. Smith tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583828.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",22.00 Grand Prix of Monterey  Indy NXT 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583827.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.56 A. Blockx . D. Prizmic . S. Gillé . S. Verbeek  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583826.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F0c08ab73-ffdb-44b0-a2f0-e464f1a0994d%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",21.45 Rally.EM. Wales Rally.EM 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583825.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.41 A. Blockx . D. Prizmic . S. Gillé . S. Verbeek  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583824.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NTCIN/zGVui1Otr6lfwC8CA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.34 S. Waltert . V. Golubic . C. Bucsa . N. Melichar.Martinez tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583823.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NTCIN/zGVui1Otr6lfwC8CA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.34 S. Waltert . V. Golubic . C. Bucsa . N. Melichar.Martinez tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583822.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/VcWmK/LtpuDgd_zNwdZlIpA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.24 T. Maria . Z. Sonmez . E. Alexandrova . T. Gibson tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583821.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/VcWmK/LtpuDgd_zNwdZlIpA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",21.24 T. Maria . Z. Sonmez . E. Alexandrova . T. Gibson tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583820.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.11 Emma Navarro . Karolína Muchová tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583819.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.11 Emma Navarro . Karolína Muchová tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583818.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fa5efa232-4a25-4f2a-a38f-fbd9bf4b709e%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",21.10 Porto . Moreirense Liga Portugal 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583817.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff1f9-f85d-773a-a311-4cdaca6e9d4d/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.00 Washington vs. Oklahoma 9.4  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583816.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",21.00 PSG . Monaco  Ligue 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583815.mkv
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a01c1a-4af5-7bd9-86b2-b2a0572fcf14/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",20.50 Real Betis . Real Madrid 9.4  Disney+ SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583814.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.40 Ipswich . Liverpool  Premier League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583813.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F1e044764-e971-4a10-a45e-5bb36e1a98b9%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",20.40 Genoa . Como Serie A 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583812.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",20.20 Stuttgart . Köln  Bundesliga 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583811.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zvyJm/XDnTDdg2V0Csylk_Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.13 Yibing Wu . Carlos Alcaraz tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583810.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zvyJm/XDnTDdg2V0Csylk_Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.13 Yibing Wu . Carlos Alcaraz tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583809.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zvyJm/XDnTDdg2V0Csylk_Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.07 Yibing Wu . Carlos Alcaraz tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583808.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zvyJm/XDnTDdg2V0Csylk_Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.07 Yibing Wu . Carlos Alcaraz tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583807.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",20.00 Herrar och damer Lead  Semifinal klättring FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583806.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",20.00 Herrar och damer Lead  Semifinal klättring 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583805.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.00 Guardians . Tigers  Major League Baseball 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583804.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zvyJm/XDnTDdg2V0Csylk_Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.59 Yibing Wu . Carlos Alcaraz tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583803.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zvyJm/XDnTDdg2V0Csylk_Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.59 Yibing Wu . Carlos Alcaraz tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583802.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.40 Genève.Servette . Eisbären Berlin  Champions Hockey League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583801.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",19.40 Davos . Storhamar  Champions Hockey League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583800.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.25 Adler Mannheim . Växjö  Champions Hockey League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583799.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.55 Frölunda . SaiPa  Champions Hockey League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583798.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.55 Czech Darts Open  PDC Dart 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583797.mkv
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="Movies | N1 Sports Events Replays",21.30 Sportnytt 9.4  SVT Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583781.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.55  4k  Ipswich . Liverpool  Premier League UHD 2160p 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583780.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.17 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583779.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.17 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583778.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.13 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583777.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.13 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583776.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.07 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583775.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.07 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583774.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00 Judd Trump . Zhao Xintong snooker 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583773.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",20.00  snooker FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583772.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.57 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583771.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.57 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583770.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fc59a059e-ca4c-4951-9b54-cf5ec159430f%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",19.55 London City . Manchester United Women s Super League 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583769.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.53 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583768.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.53 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583767.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.53 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583766.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.53 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583765.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.50 Åbyggeby FK . Hudiksvalls FF 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583764.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.47 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583763.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.47 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583762.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.47 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583761.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.47 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583760.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F5a556b3f-4e4a-4c84-beb1-64660d7bd640%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",19.45 Rally.EM. Wales Rally.EM 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583759.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.43 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583758.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.43 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583757.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.43 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583756.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.43 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583755.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.43 H. Heliövaara . H. Patten . F. Cerúndolo . J.M. Cerúndolo tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583754.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.32 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583753.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.32 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583752.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.32 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583751.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.32 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583750.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.30 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583749.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pjSti/w-78Eijnf7geRQd8g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.30 X. Jiang . S. Zhang . S. Kenin . A. Potapova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583748.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.30 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583747.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y8WHg/y-h4jUQvZhlIGW0rA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.30 R. Arneodo . A. Mannarino . M. Arnaldi . J. Struff  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583746.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.29 N. Bartunková . C. Osorio . L. Kichenok . N. Kichenok  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583745.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.29 N. Bartunková . C. Osorio . L. Kichenok . N. Kichenok  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583744.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tfIvq/rbSsFRHDXlktuF3Lw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.29 K. Krawietz . T. Puetz . J. Faria . A. Walton tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583743.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tfIvq/rbSsFRHDXlktuF3Lw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.29 K. Krawietz . T. Puetz . J. Faria . A. Walton tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583742.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/2v7lgh.jpg?width=320" group-title="Movies | N1 Sports Events Replays",19.20 Tidaholms GoIF . IK Gauthiod 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583741.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.20 Heffnersklubbans BK . Själevads IK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583740.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.20 Eskilsminne IF . IFK Värnamo 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583739.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.20 BKV Norrtälje . Unik FK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583738.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/h90ug.jpg?width=320" group-title="Movies | N1 Sports Events Replays",19.20 Assyriska FF . IFK Stocksund 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583737.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.55 Lyon . Auxerre  Ligue 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583736.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.55 Herning . KooKoo  Champions Hockey League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583735.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.55 HB Køge . Hillerød Fodbold  Betinia LIGA 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583734.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Östers IF . Nordic United FC Superettan 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583733.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 IFK Norrköping . Ljungskile SK Superettan 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583732.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/iiv2h.jpg?width=320" group-title="Movies | N1 Sports Events Replays",18.50 Edsbyns IF . Sandvikens AIK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583731.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/6GHs2/8_pSRRzme5njOYFFw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.37 Taylor Townsend . Diana Shnaider tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583730.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/6GHs2/8_pSRRzme5njOYFFw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.37 Taylor Townsend . Diana Shnaider tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583729.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.30 Viborg FF . Lyngby Boldklub  Superliga 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583728.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.30 Friidrott. Diamond League . Ikväll 18.30 9.4  SVT Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583727.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F990504a8-be57-4807-a8e3-2ba9b8707744%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",18.00 HIFK . HPK Liiga 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583726.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.55 Nitra . Skellefteå  Champions Hockey League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583725.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.43 H. Heliövaara . H. Patten . F. Cerúndolo . J.M. Cerúndolo tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583693.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.32 H. Heliövaara . H. Patten . F. Cerúndolo . J.M. Cerúndolo tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583692.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.32 H. Heliövaara . H. Patten . F. Cerúndolo . J.M. Cerúndolo tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583691.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.30 H. Heliövaara . H. Patten . F. Cerúndolo . J.M. Cerúndolo tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583690.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",19.30 H. Heliövaara . H. Patten . F. Cerúndolo . J.M. Cerúndolo tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583689.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/svimG/GgMJkquPGMqaQY33g.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.29 L. Miedler . M. Polmans . Bra. Nakashima . Bry. Nakashima  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583688.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sR-rd/REjmlcNZ8gvAw9G-Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.29 Daniil Medvedev . Arthur Rinderknech tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583687.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sR-rd/REjmlcNZ8gvAw9G-Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",19.29 Daniil Medvedev . Arthur Rinderknech tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583686.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Västerås SK . Frillesås BK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583685.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Väddö IF.Upplands.Ekeby IF 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583684.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Villa.Lidköping BK . Gripen Trollhättan BK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583683.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Stehags AIF . Perstorp Bälinge IK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583682.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/2rgfzf.jpg?width=320" group-title="Movies | N1 Sports Events Replays",18.50 Sandvikens AIK FK . Forsbacka IK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583681.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/fmkxmc.jpg?width=320" group-title="Movies | N1 Sports Events Replays",18.50 Sandareds IF.Fristad Goif 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583680.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Ludvika FK . Säters IF FK 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583679.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/nb997in.jpg?width=320" group-title="Movies | N1 Sports Events Replays",18.50 Kosta IF . Lindsdals IF 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583678.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.50 Hertzöga BK . Forshaga IF 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583677.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.25 Hoffenheim . Leverkusen  Frauen.Bundesliga 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583676.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.25 Hannover . Karlsruher  2. Bundesliga 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583675.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.25 Arminia Bielefeld . St. Pauli  2. Bundesliga 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583674.mkv
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/yq7zn.jpg?width=320" group-title="Movies | N1 Sports Events Replays",18.20 Ulricehamns IFK . Limmareds IF 9.4  S.Expressen
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583673.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.55 Vejle Boldklub . Vendsyssel FF  Betinia LIGA 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583672.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.55 Malmö Redhawks . Linköping HC SHL . Uppladdningen 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583671.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.55 Hobro IK . Hvidovre IF  Betinia LIGA 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583670.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.45 Ässät . Ilves Liiga 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583669.mkv
+#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Movies | N1 Sports Events Replays",17.35 Tjeckien . Sverige 9.4  Innebandy Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583668.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bFLJq/TXQN6C1l3FaMegMaQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.30 Jessica Pegula . Leylah Fernandez tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583667.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bFLJq/TXQN6C1l3FaMegMaQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.30 Jessica Pegula . Leylah Fernandez tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583666.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F12664e97-04da-4dc4-943b-35a48e988574%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",17.15 Pelicans . Sport Liiga 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583665.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qTgsR/BZ913uBRcaw-ABlSg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 S. Arends . D. Pel . S. Balaji . E. King tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583664.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qTgsR/BZ913uBRcaw-ABlSg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 S. Arends . D. Pel . S. Balaji . E. King tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583663.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F3e524812-d310-47b3-9bb9-f12ba004b796%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",17.15 KalPa . Jukurit Liiga 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583654.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/-XoLH/CMHyEuGxd0Bx6GpMw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.06 Aryna Sabalenka . Kamilla Rakhimova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583653.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/-XoLH/CMHyEuGxd0Bx6GpMw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.06 Aryna Sabalenka . Kamilla Rakhimova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583652.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.00 R. Galloway . A. Göransson . J. Rojer . T. Winegar tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583651.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.00 R. Galloway . A. Göransson . J. Rojer . T. Winegar tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583650.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/H8BvY/3uKoCtIDH_DlRT6vA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 O. Luz . R. Matos . B. Carpico . N. Filin  tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583649.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/H8BvY/3uKoCtIDH_DlRT6vA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 O. Luz . R. Matos . B. Carpico . N. Filin  tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583648.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/b8qzl/fN3d726lTimqLEtPg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 N. Borges . R. Hijikata . R. Cash . A. Erler tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583647.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/b8qzl/fN3d726lTimqLEtPg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 N. Borges . R. Hijikata . R. Cash . A. Erler tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583646.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/K1ogs/NA7YG07Cw85nvnXuQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 J. Duckworth . M. Kecmanovic . M. Melo . J. Peers tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583645.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/K1ogs/NA7YG07Cw85nvnXuQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 J. Duckworth . M. Kecmanovic . M. Melo . J. Peers tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583644.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.00 C. Frantzen . R. Haase . M. González . A. Molteni tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583643.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",17.00 C. Frantzen . R. Haase . M. González . A. Molteni tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583642.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/c3cwL/G8xfRWKCCRGJGuSaA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 A. Guarachi . M. Sherif . A. Danilina . A. Krunic tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583641.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/c3cwL/G8xfRWKCCRGJGuSaA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 A. Guarachi . M. Sherif . A. Danilina . A. Krunic tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583640.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.30 Omega European Masters  DP World Tour 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583639.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.50 Premier League Preview  Premier League 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583629.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JJzg4/vziNG7eZ0UELRL98Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Marta Kostyuk . Ekaterina Alexandrova tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583628.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JJzg4/vziNG7eZ0UELRL98Q.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Marta Kostyuk . Ekaterina Alexandrova tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583627.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/im09M/XDvqza1d-9ruvs4sA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Jasmine Paolini . Sorana Cirstea tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583626.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/im09M/XDvqza1d-9ruvs4sA.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 Jasmine Paolini . Sorana Cirstea tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583625.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fjFrX/UMI37dypQkp9-YPUg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 B. Payne . S. Shumate . E. Hozumi . A. Klepac tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583623.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fjFrX/UMI37dypQkp9-YPUg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",17.00 B. Payne . S. Shumate . E. Hozumi . A. Klepac tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583622.mkv
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F95a7b6c5-76e3-456b-a9c6-e4ceae5709cf%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",16.30 Internationell hoppning 1,60 GCL Global Champions Tour 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583621.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",16.00 Track Positioning  Formel 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583620.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",16.00 Onboard  Formel 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583619.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Italiens Grand Prix  Formel 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583618.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.45 Vuelta a España  Etapp 13 cykel FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583617.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.45 Vuelta a España  Etapp 13 cykel 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583616.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",16.30 Courtside  US Open tennis FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583600.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",16.30 Courtside  US Open tennis 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583599.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",16.00 Timing  Formel 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583598.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",16.00 Pitlane  Formel 1 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583597.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/274/636/logo_FIMSupersportWorldChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.55 Acerbis French Round  FIM Supersport World Championship 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583596.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.55 Örebro . HV71 SHL . Uppladdningen 9.4  TV4 Play
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583595.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Liam Highfield . Stan Moody snooker FHD 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583594.mkv
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",14.00 Liam Highfield . Stan Moody snooker 9.4  HBO Max SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583593.mkv
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.55 Czech Darts Open  PDC Dart 9.4  Viaplay SE
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583592.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/300/832/logo_FIMSuperbikeWorldChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",14.55 Acerbis French Round  FIM Superbike World Championship 9.4  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583585.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/997/440/logo_F2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",14.50 Monza  Formel 2 9.4  Viaplay SE
@@ -45506,332 +46118,12 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569621.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569620.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.25 Darmstadt . Hannover  2. Bundesliga 8.30  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569619.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",13.20 FC Rosengård 1917 . Eskilsminne IF 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569618.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",13.15 Aragón Grand Prix  MotoGP 8.30  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569617.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.55 Hvidovre IF . FC Fredericia  Betinia LIGA 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569616.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",12.55 Hillerød Fodbold . Hobro IK  Betinia LIGA 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569615.mkv
 #EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/54820019/1787909931" group-title="Movies | N1 Sports Events Replays",11.50 Friidrott. Finnkampen . Idag 11.50 8.30  SVT Play
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569614.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/735/984/logo_IRONMANProSeries.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.30 IRONMAN 70.3 Zell am See.Kaprun  IRONMAN Pro Series 8.30  Viaplay SE
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569613.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/902/136/logo_FIAETRC.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.00 Most  FIA European Truck Racing Championship 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569603.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",12.50 Växjö Norra IF . Österlen FF 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569602.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",12.50 Myresjö.Vetlanda FK . Hjulsbro IK 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569601.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",12.50 Lucksta IF . IFK Luleå 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569600.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",12.50 IFK Skövde FK . Motala AIF FK 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569599.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/riedcf.jpg?width=320" group-title="Movies | N1 Sports Events Replays",12.50 IFK Mora FK . Avesta AIK 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569598.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/63qlu8e.jpg?width=320" group-title="Movies | N1 Sports Events Replays",12.50 Husqvarna FF . Grebbestads IF 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569597.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Yck8J/4Jn52gsSOU8DwKPvg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",12.50 Cross.Country Olympic  Val di Sole mountainbike FHD 8.30  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569596.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Yck8J/4Jn52gsSOU8DwKPvg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",12.50 Cross.Country Olympic  Val di Sole mountainbike 8.30  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569595.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fb7c69b08-3294-4d23-a586-df977bfa8389%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",12.00 Alliansloppet. 15 km Alliansloppet 8.30  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569594.mkv
-#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Movies | N1 Sports Events Replays",13.55 IBK Storvreta . SPV 8.30  Innebandy Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569579.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",12.00 Aragón Grand Prix  Moto2 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569578.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",11.50 Sunnanå SK . Gefle IF FF 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569577.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",11.50 IFK Värnamo . Älmhults IF 8.30  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569576.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Feac7599b-40f5-42c2-9295-d43e46daa573%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",12.00 Rally.VM. Paraguay Rally.VM 8.30  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569567.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",10.45 Aragón Grand Prix  Moto3 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569566.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",09.40 Nürburgring  GT World Challenge Europe 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569555.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",09.35 Aragón Grand Prix  MotoGP 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2569554.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0118e-2e74-7e9e-a1ed-889ab3be4a58/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",04.00 Montana State vs. Utah Tech 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568913.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",04.00 Giants . Diamondbacks  Major League Baseball 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568912.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff207-3f05-7355-8016-b541a98dabaa/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",03.00 Prairie View A&M vs. Tarleton State 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568911.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a011a5-db28-7de1-b237-69f5457bbee2/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",03.00 Southern Utah vs. Montana 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568672.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/311/692/logo_GTWorldChallenge.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",02.35 Okayama  GT World Challenge Asia 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568283.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f9d59-4cdc-7334-89b0-139c937aa872/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",02.30 Maryland Whipsnakes vs. Boston Cannons (Quarterfinals) 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568282.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/J2p-l/4hj3FHl9yqijnMo4A.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",02.00 The Ally Challenge  Dag 2 golf FHD 8.30  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568281.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/J2p-l/4hj3FHl9yqijnMo4A.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",02.00 The Ally Challenge  Dag 2 golf 8.30  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568280.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff201-6639-7609-9705-7eb0a8559b40/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",01.00 Hawai i vs. Stanford 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568279.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fba60-924a-7e3a-8fc4-589f24a55dc6/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",01.00 East Texas A&M vs. Mercer 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568278.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/491/604/logo_MatchroomPool.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.00 US Open Pool Championship  Pool 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568274.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fcda4-4fb7-7f5d-8bce-d360c31a7c40/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",02.00 Central Arkansas vs. #23 Colorado 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568273.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",01.00 Brewers . Rangers  Major League Baseball 8.30  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568272.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",22.00 Sydney  Maraton friidrott FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568263.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",22.00 Sydney  Maraton friidrott 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568262.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_LPGA.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",21.00 FM Championship  LPGA 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568261.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.40 Huvudsändning  Tour Championship golf FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568260.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.40 Huvudsändning  Tour Championship golf 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568259.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a03945-57d9-717c-8855-ab18e374d5b8/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",01.00 Stetson vs. South Dakota State 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568258.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fc8db-333a-7f20-a5ca-2a42a84c1fba/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",01.00 New Mexico State vs. Florida State 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568257.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff207-d8cd-7a60-b1ed-f1f77f4e8167/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.30 Sacramento State vs. Eastern Michigan 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568256.mkv
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.40f1ebb5-e4f2-4f96-8618-200d9a0cb165/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/appletvse/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1607%2C885%2C234%2C117_kv85114a92d9733c1e2b4ba48d5e87e6b8_.jpeg" group-title="Movies | N1 Sports Events Replays",00.30 MLS La Previa 8.30  Amazon Prime SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568255.mkv
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dbeebf0e-3568-4229-94f3-35afeba722b8/5/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/appletvse/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1607%2C885%2C234%2C117_kv85114a92d9733c1e2b4ba48d5e87e6b8_.jpeg" group-title="Movies | N1 Sports Events Replays",00.30 MLS Countdown 8.30  Amazon Prime SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568254.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a00f21-7261-73f6-930c-ea22d1bb3317/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Furman vs. Georgia 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568253.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fd368-2a15-78c2-ba60-254b19e1f4a1/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",00.00 Fairfield vs. #22 Tennessee 8.30  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568252.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F6cf8dafe-0c93-4342-94c4-93e9fbfacc0c%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",22.00 Winston.Salem Open (250). Fery . Buse ATP Tour 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568244.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fc1f3beaf-2091-4acf-a7f9-789fb62d1daa%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",22.00 Rally.VM. Paraguay Rally.VM 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568243.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fba60-bde7-7483-81c2-5acc8c413f11/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.30 NC State vs. Virginia 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568242.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff204-2a5c-7438-b611-b5c705bf0436/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.00 Southern vs. Alabama State 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568241.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/673a2cc2-9869-4be6-b7ca-0844bef25095/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.00 Bruno Classic (Afternoon Session) 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568240.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",20.30 World Paralympics Series  Laval klättring FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568239.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",20.30 World Paralympics Series  Laval klättring 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568238.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sNT84/WRDwipS28sNZbUrUw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.00 Kombinerad Feed  Tour Championship golf FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568237.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sNT84/WRDwipS28sNZbUrUw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.00 Kombinerad Feed  Tour Championship golf 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568236.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2lbrR/mfEhzo1_vdIClQ-Gg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.00 Featured Groups  Tour Championship golf FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568235.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2lbrR/mfEhzo1_vdIClQ-Gg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.00 Featured Groups  Tour Championship golf 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568234.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a00c8b-ce62-7636-9708-491f27c67232/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.30 Tarleton State vs. Arizona 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568214.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",21.20 Sevilla . Atlético Madrid 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568213.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",21.00 The Saturday Wrap  Premier League 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568212.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F9af3f1bb-11b6-4d58-bb45-90db95fdd280%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",21.00 Rally.VM. Paraguay Rally.VM 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568211.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a00c8a-8270-7b55-9d82-aadd707f2fb6/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",21.00 Coppin State vs. Virginia Tech 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568210.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.40 Lyon . Le Havre  Ligue 1 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568209.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.40 Lorient . Troyes  Ligue 1 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568208.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.40 Brest . Toulouse  Ligue 1 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568207.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.40 Auxerre . Angers  Ligue 1 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568206.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F00306fc2-9c19-4f90-a583-d3a2bfeea09b%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",20.35 Juventus . Parma Serie A 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568205.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.30 Snap.On Makers and Fixers 250  IndyCar 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568204.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",20.25 Nürnberg . Arminia Bielefeld  2. Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568203.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0266d-64c5-7524-bfea-54b5d1c2f36b/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",20.00 Central Connecticut vs. South Dakota 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568202.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",19.00 Tigers . Dodgers  Major League Baseball 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568201.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a00ed1-2b48-7cbd-a425-cad7252d0cf6/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",18.55 Real Sociedad . Espanyol 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568200.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.55 Hungarian Darts Trophy  PDC Dart 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568199.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.55 Académico Viseu . Porto Liga Portugal 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568198.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pS1Jd/oPhpmHI9uU5xR8QRg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.30 Marquee Group  Tour Championship golf FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568197.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pS1Jd/oPhpmHI9uU5xR8QRg.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",18.30 Marquee Group  Tour Championship golf 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568196.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.40 Världscupen  Warszawa speedway FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568168.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",18.40 Världscupen  Warszawa speedway 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568167.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a02103-5381-7264-a88b-72b331ceab09/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",18.00 Robert Morris vs. Wagner 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568166.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fba60-8ee6-7d70-81b1-74ab34e12f28/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",18.00 North Carolina vs. TCU 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568165.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F73423b40-44b7-4006-ba35-f250ce1c3750%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",19.15 Rally.VM. Paraguay Rally.VM 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568089.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.20 Dortmund . HSV  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568088.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.00 PL.studion. Tottenham . Newcastle  Premier League 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568087.mkv
-#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/54820013/1787909877" group-title="Movies | N1 Sports Events Replays",17.00 Friidrott. Finnkampen . Idag 17.00 8.29  SVT Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568086.mkv
-#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="Movies | N1 Sports Events Replays",19.45 Sportnytt 8.29  SVT Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568073.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ff1f9-658f-7086-8eb8-5547d7abd129/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",19.00 Miami (OH) vs. Indiana 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568072.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a015d9-a003-741f-b09f-0bc309353a13/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",18.30 Tokyo, Japan vs. Willemstad, Curacao 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568071.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",18.30 Indy NXT by Firestone at Milwaukee Mile  Indy NXT 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568070.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fcb98bc5b-f845-491f-a27b-e608f449b09f%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",18.25 Sassuolo . Torino Serie A 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568069.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F81d75d9b-8147-44c8-9270-4c9c6dfe07a2%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",18.25 Monza . Udinese Serie A 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568068.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fc26717c4-0472-4767-b768-738bbc9e9713%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",18.25 Fiorentina . Frosinone Serie A 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568067.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F556a5a71-7e7d-46fa-81bb-fe54416f67d5%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",17.15 Halmstads BK . Kalmar FF Allsvenskan 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568066.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.10 Strasbourg . Lens  Ligue 1 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568065.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",16.50 Friska Viljor FC . Umeå FF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568064.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/799/920/logo_IndyCar.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",17.00 Snap.On Milwaukee Mile 250  IndyCar 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568007.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a007c4-3b2e-767b-8a6e-b602fca0dafe/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",16.55 Levante . Real Betis 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568006.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",16.50 Nordic United FC . IFK Norrköping Superettan 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568005.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",16.50 Ljungby IF . Älmhults IF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568004.mkv
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/673a2cc2-9869-4be6-b7ca-0844bef25095/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Movies | N1 Sports Events Replays",16.00 Bruno Classic (Morning Session) 8.29  Disney+ SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568003.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Watford . West Ham  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568002.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Southampton . Millwall  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568001.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Norwich . Burnley  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2568000.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Charlton . Preston  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567999.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Cardiff . Sheffield United  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567998.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Bristol City . Portsmouth  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567997.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Bournemouth . Everton  Premier League 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567996.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Bolton . Lincoln  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567995.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.50 Blackburn . QPR  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567994.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.45 Störtlopp  Val di Sole mountainbike FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567993.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.45 Störtlopp  Val di Sole mountainbike 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567992.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.45 PL.studion. Coventry . Hull  Premier League 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567991.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.00 KPMG Women’s Irish Open  Ladies European Tour 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567989.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.45 Vuelta a España  Etapp 8 cykel FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567986.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.45 Vuelta a España  Etapp 8 cykel 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567985.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/902/136/logo_FIAETRC.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",16.00 Most  FIA European Truck Racing Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567970.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/58hv4.jpg?width=320" group-title="Movies | N1 Sports Events Replays",15.50 Skiljebo SK . Sunnersta AIF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567969.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.50 Lidköpings FK . Skara FC 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567968.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.50 Kristianstad FC . Åtvidabergs FF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567967.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/jkk5n.jpg?width=320" group-title="Movies | N1 Sports Events Replays",15.50 Hyssna.Kinnahult.Skene IF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567966.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/zs6ozh.jpg?width=320" group-title="Movies | N1 Sports Events Replays",15.50 Gefle IF FF . IF Karlstad Fotboll 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567965.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.50 FC Järfälla . Assyriska FF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567964.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.20 Union Berlin . Frankfurt  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567963.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.20 Mainz . Paderborn  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567962.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.20 Leipzig . Mönchengladbach  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567961.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.20 Köln . Hoffenheim  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567960.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.20 Goal Arena . The Bundesliga Konferenz  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567959.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.20 Elversberg . Leverkusen  Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567958.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.10 Classic Lorient Agglomération cykel FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567957.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",15.10 Classic Lorient Agglomération cykel 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567956.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.50 Växjö . Malmö FF  OBOS Damallsvenskan 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567955.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/e4xkbo.jpg?width=320" group-title="Movies | N1 Sports Events Replays",14.50 Sandvikens AIK . IK Sirius 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567954.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.50 Hammarby . Vittsjö  OBOS Damallsvenskan 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567953.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fbe8a4ee6-035e-4411-9a24-e5fd835f221d%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",14.50 Falkenbergs FF . IK Brage Superettan 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567952.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F47c9f3ee-9fe3-4fb4-8da8-9e401e5f0f88%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",14.45 IF Elfsborg . Degerfors IF Allsvenskan 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567951.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.45 BK Häcken . Västerås SK Allsvenskan 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567950.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/0wNux/63Zo8ZhUYQSs-TYRw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",13.30 Zhao Xintong . Chang Bingyu snooker FHD 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567949.mkv
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/0wNux/63Zo8ZhUYQSs-TYRw.jpeg?f=webp&w=400" group-title="Movies | N1 Sports Events Replays",13.30 Zhao Xintong . Chang Bingyu snooker 8.29  HBO Max SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567948.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.55 Hungarian Darts Trophy  PDC Dart 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567947.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F82943e10-321f-4f9a-a49b-030b265fa644%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",16.00 Rally.VM. Paraguay Rally.VM 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567910.mkv
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F2fa12598-def9-4898-a250-52eca132d674%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",15.00 Rally.VM. Paraguay Rally.VM 8.29  TV4 Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567909.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/917/360/Logo_IndyNXT.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",15.00 Indy NXT by Firestone at Milwaukee Mile  Indy NXT 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567908.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.50 Linköping FC . IFK Göteborg 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567907.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.50 Alingsås IF FF . Örebro SK FK 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567906.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.30 Aragón Grand Prix  MotoGP 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567905.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",14.10 Slätta SK . Dala.Järna IK 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567904.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.55 Stuttgart . HSV  Frauen.Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567903.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",13.50 Åkersberga FC . Vallentuna BK 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567902.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/6lplcr.jpg?width=320" group-title="Movies | N1 Sports Events Replays",13.50 Husqvarna FF . Trelleborgs FF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567901.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",13.30 AaB . HB Køge  Betinia LIGA 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567900.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",10.30 British Masters  DP World Tour 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567899.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",10.00 Allsvenskan i segling (deltävling 3) 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567898.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | N1 Sports Events Replays",13.50 IK Sätra . Sandvikens AIK FK 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567795.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/6iu5c.jpg?width=320" group-title="Movies | N1 Sports Events Replays",13.50 Gamla Upsala SK . Sandvikens IF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567794.mkv
-#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/54824474/1787946313" group-title="Movies | N1 Sports Events Replays",13.50 Fotboll. Damallsvenskan 8.29  SVT Play
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567793.mkv
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/mdcioh.jpg?width=320" group-title="Movies | N1 Sports Events Replays",13.50 Forsbacka IK . Ljusdals IF 8.29  S.Expressen
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567792.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.25 Middlesbrough . West Brom  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567790.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.20 Wolverhampton . Stoke  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567789.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",13.20 Derby . Swansea  Championship 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567788.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.55 Kolding IF . AB Gladsaxe  Betinia LIGA 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567786.mkv
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",12.55 Karlsruher . Wolfsburg  2. Bundesliga 8.29  Viaplay SE
-http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567785.mkv
 #EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F6cf8dafe-0c93-4342-94c4-93e9fbfacc0c%2Fcrop16x9.jpg&width=450" group-title="Movies | N1 Sports Events Replays",22.00 Winston.Salem Open (250). semifinaler ATP Tour 8.28  TV4 Play
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2565084.mkv
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/8/292/logo_CarabaoCup.png?width=320&height=320" group-title="Movies | N1 Sports Events Replays",20.40 Newcastle . West Brom  Ligacupen 8.26  Viaplay SE
@@ -48525,7 +48817,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nordic",Ørnen: En Krimi Odyssè / Örnen
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/21097.mp4
 
-# --- Movies | Old Popular Movies [Multi-Sub] (7717) ---
+# --- Movies | Old Popular Movies [Multi-Sub] (7718) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivo09vYN76w3epqAv9jS9BEXi5N.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",How to Build a Better Boy [PRE] [Multi-AUDIO] [2014]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/617857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Bad Hair Day [PRE] [Multi-AUDIO] [2015]
@@ -63960,6 +64252,8 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2567984.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2578672.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmMGoeLx7rntdbqKZFp6bmT8ZCW.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Cruel Sea [PRE] [1953]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2579365.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pefcv5VNspSK4Dt8doei5bJmmln.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Square [PRE] [2017]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586986.mkv
 
 # --- Movies | Polska (1299) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="Movies | Polska",65 [PL] [LEKTOR] [2023]
@@ -66561,7 +66855,7 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480912.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="Movies | Polska",The Punisher: One Last Kill [PL] [LEKTOR] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2480913.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (6083) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (6090) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6h6HwucncSxn06sMNROJ9apLC5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -78728,6 +79022,20 @@ http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2578850.mkv
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2578881.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mayday [PRE] [2026]
 http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583551.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Invite [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583612.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PsH2ucY2cjSTH4vFWfCWs5sMhv.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Bee My Love [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583787.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Gandhari [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583788.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rJFqlzubrAbnPZCfFWf4GHF74e.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Haunted Harmony Mysteries: Buried at C [PRE] [2025]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583789.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Instadocs: The Decoy Plane [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583790.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Tuner [PRE] [2026]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2583791.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",If I Had Legs I'd Kick You [PRE] [2025]
+http://nplay.tel:2095/movie/frEPEtyBbN/rbqnPwEa/2586985.mkv
 
 # --- Movies | Ramadan 2026 (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ramadan 2026",رامز ليفل الوحش
@@ -84157,4 +84465,4 @@ http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/497
 #EXTINF:-1 tvg-logo="" group-title="Series | Turkish Series [ مسلسلات تركية مترجمة ]",İçerde
 http://nplay.tel:2095/series/frEPEtyBbN/rbqnPwEa/556
 
-# Total: 42015
+# Total: 42171
