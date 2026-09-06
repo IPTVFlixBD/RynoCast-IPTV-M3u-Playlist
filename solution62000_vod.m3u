@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-09-05 20:19:56
+# Generated: 2026-09-06 20:40:58
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1239,7 +1239,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1720) ---
+# --- Movies | Films (1723) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eHELFF4BBxmEk5JyhV017Xcgvwy.jpg" group-title="Movies | Films",Mayday (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30389.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5afVTwwWKclUCjSABwdd5EVatV.jpg" group-title="Movies | Films",C’est quoi l’amour ? (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30388.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bSI2RoKBKistmF2Cjdyhj5K35ee.jpg" group-title="Movies | Films",Oradour (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30387.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/19SvZsTB6UINUZowkBsPSGZUNxD.jpg" group-title="Movies | Films",Le Choc des Thunderman (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30353.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oE9fWg0f9ewu68hFq8TOVBrVDZe.jpg" group-title="Movies | Films",Romería (2026)
@@ -5649,7 +5655,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (522) ---
+# --- Movies | NETFLIX (523) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Movies | NETFLIX",Gandhari (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30386.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSsX2LnGzyfHR9RioDEiLrPy5wa.jpg" group-title="Movies | NETFLIX",The Whisper Man (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky4Bk14mhlb16Vw2fqCPou6inR9.jpg" group-title="Movies | NETFLIX",La captura (2026)
@@ -7045,6 +7053,98 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
+# --- Movies | Shahid - MBC (45) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",جت سليمة
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/170.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",صلة رحم - 2024
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/330.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",2024 - تاج
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/349.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",2024 - ولاد بديعة
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/355.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",رامز جاب من الآخر
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/357.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",كوبرا
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/360.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",2024 - خالد نور وولده نور خالد
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/363.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",2024
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/370.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",مفترق طرق - 2024
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/441.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",لعبة حب
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/481.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",عمر افندي ( 2024 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/491.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",العميل ( 2024 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/492.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2024 ) بيت العنكبوت
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/514.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",خواتي غناتي ( 2024 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/536.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",خريف القلب - ( 2024 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/576.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",نقطة سوداء ( 2024 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/593.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2024 ) المهرج
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/619.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",القدر ( 2024 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/625.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) أكثر من خوات
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/727.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) حرب الجبالي
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/758.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) أمي
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/766.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) الصحبة الحلوة
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/770.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) حمود وأبوه
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/788.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) عايشين معانا
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/814.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) سلمى
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) سفاح التاكسي
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/828.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) أنا حرة
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/830.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) فبراير الأسود
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/831.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",صيف 99 ( 2025 )
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/839.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) المحامية: الحق يعلو ولا يُعلى عليه
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/857.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) إبن النادي
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/864.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) كاراته
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/883.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) الضارية
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/897.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) حالات نادرة
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/923.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2021 ) باب الجحيم
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/930.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) سنجل ماذر فاذر
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/948.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) ليل
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/951.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2025 ) أثر بارد
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/952.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) بيت بابا
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/984.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) ميركاتو
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1117.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) ورد على فل وياسمين
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1194.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) حب ع ورق
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1211.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) سستر فخرية
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1226.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) تحت السن
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1238.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shahid - MBC",( 2026 ) القصة الكاملة
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1292.mp4
+
 # --- Movies | prime video (205) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="Movies | prime video",The Runner (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30345.mkv
@@ -7543,7 +7643,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1199
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Les 4400
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1236
 
-# --- Series | Series Arabe (139) ---
+# --- Series | Series Arabe (95) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -7624,16 +7724,12 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/131
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/132
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",فرسان الظلام
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/133
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",جت سليمة
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/170
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",البورد - 2024
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/324
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",طبيبة شرعية - 2024
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/326
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",حق عرب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/327
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",صلة رحم - 2024
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/330
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",وطن 2
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/331
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",العربجي - 2024 الموسم 2
@@ -7642,64 +7738,32 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/332
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/338
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - سوبر تونسي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/346
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - تاج
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/349
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - لحظة غضب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/350
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - بيت الرفاعي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/351
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",إمبراطورية م
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/354
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - ولاد بديعة
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/355
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",رامز جاب من الآخر
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/357
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",كوبرا
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/360
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - تيمبو (إيقاع)
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/361
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - خالد نور وولده نور خالد
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/363
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - مليحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/366
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - بدون سابق إنذار
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/368
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024 - خطاف
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/369
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",2024
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/370
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",مفترق طرق - 2024
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/441
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",لعبة حب
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/481
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",عمر افندي ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/491
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",العميل ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/492
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بيت العنكبوت ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/514
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",ديبو - ( 2024 )
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/517
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",برغم القانون ( 2024 )
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/518
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",انترفيو ( 2024 )
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/529
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",خواتي غناتي ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/536
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",خريف القلب - ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/576
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",باسورد ( 2024 )
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/580
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",نقطة سوداء ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/593
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2024 ) موعد مع الماضي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/611
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",المهرج ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/619
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",فقرة الساحر ( 2024 )
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/621
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",القدر ( 2024 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/625
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",اقامة جبرية ( 2025 )
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/640
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",صفحة بيضا ( 2025 )
@@ -7708,8 +7772,6 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/642
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/649
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) -اسر
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/722
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) أكثر من خوات
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/727
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) بريستيج
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/736
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) طراد
@@ -7718,80 +7780,42 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/743
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/746
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) عهد أنيس
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/747
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) حرب الجبالي
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/758
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) خطيئة أخيرة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/759
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) سيوف العرب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/763
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) أمي
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/766
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) عبر الأثير
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/769
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) الصحبة الحلوة
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/770
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) فات الميعاد
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/771
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) مملكة الحرير
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/776
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) كويت رياض كويت
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/778
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) حمود وأبوه
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/788
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) كتالوج
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/789
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) 220 يوم
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/801
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) مدرسة النخبة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/802
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) عايشين معانا
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/814
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) ما تراه ليس كما يبدو
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/815
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) سلمى
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/819
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) أزمة ثقة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/825
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) سفاح التاكسي
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/828
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) أنا حرة
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/830
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) فبراير الأسود
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/831
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",صيف 99 ( 2025 )
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/839
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) المحامية: الحق يعلو ولا يُعلى عليه
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/857
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) ولد وبنت وشايب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/863
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) إبن النادي
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/864
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) لينك
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/874
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2020 ) ضربة معلم
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/876
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) كاراته
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/883
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) الضارية
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/897
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) كارثة طبيعية
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/899
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) ليلة فونطاستيك مع أبلة فاهيتا
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/921
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) حالات نادرة
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/923
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2021 ) باب الجحيم
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/930
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) وينك من زمان
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/941
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) لا ترد ولا تستبدل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/947
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) سنجل ماذر فاذر
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/948
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) ليل
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/951
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) أثر بارد
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/952
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) يوم شفتك
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/958
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) لعبة وقلبت بجد
@@ -7800,28 +7824,16 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/971
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/978
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بطل العالم
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/979
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بيت بابا
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/984
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) ميركاتو
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1117
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) الفرنساوي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1137
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) ورد على فل وياسمين
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1194
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) ممكن
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1195
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) حب ع ورق
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1211
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) للعدالة وجه آخر
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1217
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) سستر فخرية
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1226
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) تحت السن
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1238
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بنج كُلي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1284
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) القصة الكاملة
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1292
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) حبتين
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1296
 
 # --- Series | Series Documentaires (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -8041,7 +8053,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1227
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجمة -  Muhtemel Aşk  حب محتمل
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1243
 
-# --- Series | Series divers (350) ---
+# --- Series | Series divers (351) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8742,5 +8754,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1288
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1291
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Le Mystère de la chambre jaune
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1293
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Qui sera le plus nul ?
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1295
 
-# Total: 4338
+# Total: 4344

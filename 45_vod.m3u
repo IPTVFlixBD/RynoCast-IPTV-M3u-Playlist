@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-09-05 20:16:43
+# Generated: 2026-09-06 20:40:27
 # Expires: 2027-07-21
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (593) ---
+# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (592) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",The Furious [Multi-Sub] [4K] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2538452.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Peaky Blinders: The Immortal Man [Multi-Sub] [4K] [2026]
@@ -1192,8 +1192,6 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2578853.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2578854.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",The Death of Robin Hood [Multi-Sub] [4K] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2581810.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",If I Had Legs I'd Kick You [Multi-Sub] [4K] [2025]
-http://45.139.122.199:8080/movie/Christian1/Christian1/2583611.mkv
 
 # --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (370) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",On Her Majesty's Secret Service [4K] [1969]
@@ -15125,7 +15123,7 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/3400.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub] [4K] [Only On 4K Devices]",The Santa Clauses [4K]
 http://45.139.122.199:8080/movie/Christian1/Christian1/3568.mp4
 
-# --- Movies | Events (811) ---
+# --- Movies | Events (812) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYMVSRk2n4WpzKMw7V6mKz4Psoh.jpg" group-title="Movies | Events",Conor Mcgregor - Notorious [UFC]
 http://45.139.122.199:8080/movie/Christian1/Christian1/20399.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhOGE2YmMtZDA4MC00MTk0LWJlNzYtNjgxMGQ1MmYxNjgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies | Events",The 72nd Annual Primetime Emmy Awards [2020]
@@ -15146,6 +15144,8 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/94641.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/94829.mkv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EO9ReY8XkAA221P.jpg:large" group-title="Movies | Events",Harry och Meghan: Ett Kungahus i Kris [PRE] [2020]
 http://45.139.122.199:8080/movie/Christian1/Christian1/94881.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Events",UFC Fight Night 287 Hooker vs Parnasse
+http://45.139.122.199:8080/movie/Christian1/Christian1/2587929.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Events",UFC Tuesday Night Contender Series S10W04
 http://45.139.122.199:8080/movie/Christian1/Christian1/2578919.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRvUHjsxRzZzuYmJvqBBifVnTm0.jpg" group-title="Movies | Events",UFC Fight Night 286: Nurmagomedov vs. Song - 2026
@@ -51904,8 +51904,6 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2578850.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2578881.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mayday [PRE] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2583551.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Invite [PRE] [2026]
-http://45.139.122.199:8080/movie/Christian1/Christian1/2583612.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PsH2ucY2cjSTH4vFWfCWs5sMhv.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Bee My Love [PRE] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2583787.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Gandhari [PRE] [2026]
@@ -51918,8 +51916,12 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2583790.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2583791.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",If I Had Legs I'd Kick You [PRE] [2025]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2586985.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Leviticus [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2589534.mkv
 
-# --- Movies | Recent releases [English subtitles] (15) ---
+# --- Movies | Recent releases [English subtitles] (16) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Recent releases [English subtitles]",Close to Home
+http://45.139.122.199:8080/movie/Christian1/Christian1/23862.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Recent releases [English subtitles]",Tacoma FD
 http://45.139.122.199:8080/movie/Christian1/Christian1/23615.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Recent releases [English subtitles]",Family Matters
@@ -53847,4 +53849,4 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2173473.mkv
 
-# Total: 26887
+# Total: 26888

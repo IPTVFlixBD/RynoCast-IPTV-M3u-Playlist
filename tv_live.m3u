@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-09-05 20:19:52
+# Generated: 2026-09-06 20:42:18
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -11922,8 +11922,10 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3234.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3174.m3u8
 
 # --- NL - SPORTS (20) ---
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/w-sport.png" group-title="NL - SPORTS",(NL) W-Sport 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/380561.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/GLORY.png" group-title="NL - SPORTS",(NL) GLORY 109 PPV (LIVE ON MATCH)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203846.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/UFC1.png" group-title="NL - SPORTS",(NL) UFC Fight Night 287 : Hooker VS Parnasse PPV (LIVE ON MATCH)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203845.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="NL - SPORTS",(NL) Eurosport 1 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/151301.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="NL - SPORTS",(NL) Eurosport 2 4K+
@@ -11932,16 +11934,14 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/151300.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/2754.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="NL - SPORTS",(NL) Eurosport 2  ᵁᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/2752.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/UFC1.png" group-title="NL - SPORTS",(NL) UFC Fight Night 284 PPV (LIVE ON MATCH)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203845.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/UFC1.png" group-title="NL - SPORTS",(NL) UFC 330 PPV  (LIVE ON MATCH)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/108467.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/GLORY.png" group-title="NL - SPORTS",(NL) GLORY PPV (LIVE ON MATCH)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/203846.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/daznevents.png" group-title="NL - SPORTS",(NL) DAZN PPV  (LIVE ON MATCH)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/118311.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/daznevents.png" group-title="NL - SPORTS",(NL) DAZN PPV  (HERHALING)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/163988.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/w-sport.png" group-title="NL - SPORTS",(NL) W-Sport 4K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/380561.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Logolar/fightboxhd.png" group-title="NL - SPORTS",(NL) FightBox FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/300695.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL - SPORTS",(NL) Fifa E-Sport TV FHD
@@ -13873,959 +13873,831 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351423.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO - SPORT",(RO) Eurosport 2 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/351421.m3u8
 
-# --- RUS - ROSSIYA (476) ---
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Россия 1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361173.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МУЗ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361172.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ТНТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361171.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мир
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361170.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Звезда
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361169.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Пятница
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361168.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ТВ‑3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361167.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) СПАС
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361166.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) РЕН ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361165.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ТВ ЦЕНТР — Москва
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361164.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Телеканал «Общественное телевидение России»
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361163.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Детско‑юношеский телеканал «Карусель»
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361162.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Россия‑24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361161.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Россия К
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361160.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Петербург — 5 канал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361159.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! БОЕЦ HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361158.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ИГРА (HD)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361157.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! АРЕНА(HD)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361156.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ ПРЕМЬЕР HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361155.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! Футбол 3 (HD)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361154.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! Футбол 2 (HD)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361153.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! Футбол 1 (HD)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361152.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! СТРАНА HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361151.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Телеканал «Матч ТВ»
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361150.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Trace Sport Stars (HD)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361149.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) СТАРТ ТРИУМФ HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361148.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Точка отрыва
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361147.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) MMA‑TV.com
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361146.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мир Баскетбола
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361145.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) СТАРТ HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361144.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Extreme Sports
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361143.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) БОКС ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361142.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) KHL Prime HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361141.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) KHL HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361140.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Русский Детектив
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361139.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) САПФИР HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361138.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мосфильм. Золотая коллекция
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361137.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) START Air
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361136.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) START World
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361135.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Star Family HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361134.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) НТВ Сериал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361133.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Dorama
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361132.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) НТВ‑ХИТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361131.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Индия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361130.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Star Cinema HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361129.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BOLT HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361128.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Телеканал FAN
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361127.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОУЖАС
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361126.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) FlixSnip
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361124.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361123.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Настоящее страшное телевидение (НСТВ)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361122.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Любимое Кино HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361121.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Bollywood HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361120.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Русский роман
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361119.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Русский Бестселлер
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361118.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ЕвроКино
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361117.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) НАШЕ НОВОЕ КИНО
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361116.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНЕКО HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361115.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Amedia1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361114.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Иллюзион+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361113.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Hollywood HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361112.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МУЖСКОЕ КИНО
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361111.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Русский Иллюзион
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361110.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОСЕРИЯ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361109.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ИНДИЙСКОЕ КИНО
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361108.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОКОМЕДИЯ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361107.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОСВИДАНИЕ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361106.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Hollywood
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361105.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Amedia2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361104.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мир сериала HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361103.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) РОДНОЕ КИНО
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361102.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОМИКС
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361101.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Amedia Hit
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361100.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Amedia Premium HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361099.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Serial HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361098.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju TV1000 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361097.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju TV1000 русское HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361096.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju TV1000 action HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361095.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju Explore HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361094.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju History HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361093.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju Nature HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361092.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Da Vinci
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361091.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Sport HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361090.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Planet
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361089.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Premiere
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361088.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Megahit
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361087.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Comedy
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361086.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ЗВЕЗДА Плюс
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361085.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Калейдоскоп ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361084.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) CuriosityStream HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361083.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) The Explorers HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361082.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) EPIC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361081.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) RT Documentary
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361080.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Пятый канал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361079.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ПЯТНИЦА
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361078.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) PEH TB +2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361077.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) THT4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361076.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) THT HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361075.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Успех
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361074.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ТВ-3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361073.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Звезда +2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361072.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Кто есть кто
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361071.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Кухня ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361070.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Че
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361069.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КИНОПРЕМЬЕРА HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361068.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju TV1000
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361067.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju+ Serial
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361066.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) НТВ-ХИТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361065.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) A1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361064.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) A2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361063.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Amedia Premium
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361062.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Русский бестселлер
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361061.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мосфильм. Золотая Коллекция
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361060.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Настоящее страшное ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361059.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ ПРЕМЬЕР
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361058.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361057.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361056.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ФУТБОЛ 1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361055.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ФУТБОЛ 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361054.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ФУТБОЛ 2 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361053.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ФУТБОЛ 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361052.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ФУТБОЛ 3 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361051.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ФУТБОЛ 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361050.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! АРЕНА HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361049.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! АРЕНА
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361048.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! СТРАНА
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361047.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! БОЕЦ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361046.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ИГРА HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361045.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МАТЧ! ИГРА
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361044.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) MMA-TV.com
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361043.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) KHL Prime
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361042.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) KHL
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361041.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КОННЫЙ МИР HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361040.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Танцуй!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361039.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ABTO24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361038.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju Explore
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361037.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) viju Nature
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361036.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) The Explorers
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361035.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Big Planet
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361034.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) CuriosityStream
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361033.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ДОМАШНИЕ ЖИВОТНЫЕ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361032.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Усадьба-ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361031.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Карусель
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361030.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Карусель +2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361029.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Kids TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361028.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) CTC Kids HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361027.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) CTC Love
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361026.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Детский Мир HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361025.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) РБК-ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361024.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МИР
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361023.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGE DELUXE
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361022.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGE ROCK
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361021.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGE РУССКИЙ ХИТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361020.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Classic Music
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361019.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Music Box Russia HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361018.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) THT MUSIC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361017.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Матч ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361016.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Телекомпания НТВ HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361015.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Доктор
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361014.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Travel+Adventure
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361013.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Дикий
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361012.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) 360 Новости
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361011.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мужской ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361010.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Ваш Успех
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361009.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Театр HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361008.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) #КтоКуда
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361007.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ЕГЭ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361006.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Глазами Туриста HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361005.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Тайны Галактики
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361004.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Ратник HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361003.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) English Class
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361002.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Беларусь 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361001.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Наша Тема HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361000.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Домашние животные
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360999.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КТО ЕСТЬ КТО
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360998.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) История
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360997.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Наука
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360996.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Моя Планета
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360995.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) TERRA HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360994.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Авто Плюс
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360993.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) HDL
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360992.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) 365 дней ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360991.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Охота и рыбалка
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360990.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) АВТО 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360989.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Моя стихия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360988.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Танцуй! HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360987.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Fashion&LifeStyle HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360986.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Квадро ТВ HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360985.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Fashion TV HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360984.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Центральное телевидение
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360983.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Лапки Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360982.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) LEOMAX24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360981.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Диалоги о рыбалке
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360980.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Усадьба‑ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360979.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КВН ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360978.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Ю
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360977.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Ювелирочка
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360976.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Сарафан
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360975.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мама
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360974.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Кухня
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360973.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ЖИВИ!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360972.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Shopping Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360971.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) 8 канал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360970.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Телеканал 360
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360969.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) RT DE
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360968.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Телеканал 78
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360967.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Продвижение
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360966.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Известия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360965.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) РБК‑ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360964.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Москва 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360963.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) МИР 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360962.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) RT (английский)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360961.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) БелРос
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360960.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Санкт‑Петербург
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360959.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Ducktv
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360958.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Детский мир HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360957.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BABY TIME
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360956.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Kids TV HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360955.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) КиноМульт
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360954.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Cartoon Classics
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360953.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) В гостях у сказки
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360952.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мультиландия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360951.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мультимузыка
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360950.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) СуперГерои
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360949.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) СТС Kids HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360948.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Уникум
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360947.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Мульт
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360946.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Радость моя
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360945.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Ani
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360944.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Gulli Girl
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360943.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) TiJi
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360942.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) СОЛНЦЕ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360941.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Classic Music HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360940.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGE ROCK HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360939.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGE CLASSIC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360938.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Music Box Gold
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360937.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Music Box Russia HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360936.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) ТНТ MUSIC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360935.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGEDELUXE
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360934.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) RU.TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360933.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) BRIDGE Русский Хит
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360932.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) MCM Top
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360931.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Red lips
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360930.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Barely legal
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360929.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Русская ночь
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/360925.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Домашний
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361404.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Первый канал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361403.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Россия 1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361402.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Матч ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361401.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Телекомпания НТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361400.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Пятый канал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361399.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Россия К
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361398.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Россия 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361397.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Детско-юношеский телеканал ''Карусель''
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361396.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Общественное телевидение России
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361395.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| ТВ Центр - Москва
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361394.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Рен ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361393.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Спас
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361392.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| СТС
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361391.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| ТВ 3
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361390.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Пятница
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361389.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Звезда
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361388.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Мир
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361387.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| ТНТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361386.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| МУЗ-ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361385.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563611
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361384.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 759000
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361383.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| 2х2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361382.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Солнце
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361381.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Че!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361380.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| билайн инфо
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361379.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Shopping Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361378.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| ТНТ4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361377.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Суббота!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361376.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Ювелирочка
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361375.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563607
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361374.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563599
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361373.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| LEOMAX24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361372.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| МАГНАТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361371.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Победа!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361370.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Патриот
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361369.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563522
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361368.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Известия HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361367.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Russia Today HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361366.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Красная линия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361365.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563572
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361364.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563554
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361363.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| RT Doc HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361362.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563587
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361361.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563557
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361360.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| China TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361359.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Беларусь 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361358.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| CGTN
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361357.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| CCTV-4
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361356.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Мосфильм.Золотая коллекция
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361355.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563541
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361354.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Hollywood HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361353.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563505
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361352.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| viju TV1000 новелла
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361351.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563527
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361350.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563582
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361349.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563545
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361348.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| НТВ Сериал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361347.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563511
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361346.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563537
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361345.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Русский роман
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361344.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Кино ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361343.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563485
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361342.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| СТС Love
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361341.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Bollywood HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361340.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563516
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361339.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563517
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361338.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563496
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361337.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563495
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361336.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563574
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361335.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563548
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361334.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563543
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361333.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563559
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361332.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Romance HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361331.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| KinoJam1
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361330.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Amedia 2
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361329.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563597
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361328.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| НСТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361327.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| VHS
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361326.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563612
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361325.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563524
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361324.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| .black
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361323.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Amedia 1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361322.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| KINOLIVING
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361321.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Русский бестселлер
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361320.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Русский детектив
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361319.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563583
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361318.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| КИНОУЖАС
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361317.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| НТВ Хит
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361316.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Дорама
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361315.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Комедия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361314.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| KIONХИТ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361313.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Арсенал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361312.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Fan HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361311.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| .red
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361310.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563558
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361309.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| КИНЕКО
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361308.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Suspense HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361307.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Sumiko HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361306.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Советская киноклассика
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361305.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563528
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361304.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| SAGA TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361303.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Калейдоскоп ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361302.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Start Air HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361301.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Start World HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361300.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| VHS-сериал
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361299.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| TERRA
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361298.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Большая Азия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361297.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Travel and Adventure
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361296.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| История
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361295.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| CuriosityStream
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361294.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Big Planet HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361293.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Мама
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361292.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Моя планета HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361291.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Т24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361290.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Живая природа HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361289.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Оружие
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361288.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| НТВ Стиль
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361287.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563512
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361286.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| RTG HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361285.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563493
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361284.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563494
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361283.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563579
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361282.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563539
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361281.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Da Vinci Learning
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361280.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563606
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361279.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563547
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361278.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563546
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361277.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Вопросы и ответы
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361276.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Ключ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361275.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Бобёр
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361274.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Охотник и Рыболов HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361273.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563600
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361272.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563603
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361271.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563581
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361270.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563536
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361269.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Моя Стихия
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361268.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| The Explorers
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361267.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563589
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361266.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563520
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361265.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Диалоги о рыбалке
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361264.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Доктор
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361263.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563561
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361262.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Поехали!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361261.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Тайны Галактики
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361260.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Глазами туриста HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361259.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Кто Куда
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361258.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Звезда плюс
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361257.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563562
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361256.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563594
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361255.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Ратник
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361254.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Women's Magazine HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361253.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| МЫ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361252.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Первый Космический
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361251.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Trace Sport Stars
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361250.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Удар
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361249.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563563
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361248.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Матч! Боец
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361247.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563569
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361246.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| ММА-TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361245.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Матч! Страна
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361244.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563544
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361243.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Точка отрыва
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361242.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Старт
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361241.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Матч! Арена HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361240.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Матч Игра HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361239.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Бокс ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361238.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Мир Баскетбола
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361237.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Танцуй!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361236.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| KHL Prime
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361235.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Мульт HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361234.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| В гостях у сказки
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361233.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563504
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361232.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Лёва HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361231.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563560
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361230.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Рыжий
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361229.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| СТС Kids
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361228.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| О!
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361227.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| KIDS TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361226.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| СуперГерои
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361225.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Cartoon Classics
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361224.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563503
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361223.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| КиноМульт
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361222.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Мультимузыка
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361221.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563598
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361220.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Тип-Топ HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361219.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563570
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361218.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563584
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361217.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Чижик
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361216.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| ANI
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361215.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563550
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361214.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563549
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361213.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563526
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361212.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Europa plus TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361211.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| 1HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361210.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563571
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361209.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563566
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361208.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| MCM TOP
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361207.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563487
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361206.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Bridge TV Classic
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361205.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563578
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361204.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Жар птица
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361203.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Музыка Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361202.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| BRIDGE TV HITS
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361201.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563576
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361200.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| TMB RU (Твой Мир Восток)
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361199.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Classic Music
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361198.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563532
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361197.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Сарафан
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361196.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563588
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361195.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| EPIC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361194.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Лапки Live
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361193.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563575
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361192.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| НИК
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361191.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Анекдот ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361190.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| КВН ТВ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361189.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563540
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361188.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563573
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361187.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Аппетитный
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361186.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563534
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361185.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Еда
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361184.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Театр HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361183.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Авто 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361182.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563507
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361181.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Channel 563510
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361180.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Продвижение
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361179.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Food time
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361178.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Fashion&Lifestyle
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361177.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Радио Вести ФМ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361176.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Радио Маяк
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361175.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Beeline| Радио России
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/361174.m3u8
+# --- RU - DOCUMENTARY (148) ---
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Zhivotnye.png" group-title="RU - DOCUMENTARY",(RU) Domashniye Zhivotnyye
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382544.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ntv-pravo-ru.png" group-title="RU - DOCUMENTARY",(RU) NTV PRAVO
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382543.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) 24 Doc ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382541.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) 24 Techno
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382540.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Animal Family ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382539.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/DE/DE-LOGOS/animal-planet-de.png" group-title="RU - DOCUMENTARY",(RU) Animal Planet ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382536.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Bolshaya Aziya.png" group-title="RU - DOCUMENTARY",(RU) Bolshaya Aziya ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382535.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFREahx.png" group-title="RU - DOCUMENTARY",(RU) Curiosity Stream ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382532.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Dialogi o Ribalke.png" group-title="RU - DOCUMENTARY",(RU) DIALOGI O RYBALKE ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382528.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Dikaya Rybalka ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382525.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/discovery-channel-de.png" group-title="RU - DOCUMENTARY",(RU) Discovery Channel ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382523.m3u8
+#EXTINF:-1 tvg-logo="http://atb.skin:8080/images/fa5e9dc03ec936ffa75adeb6f3ae35e8.png" group-title="RU - DOCUMENTARY",(RU) DISCOVERY DTX
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382521.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/discovery.png" group-title="RU - DOCUMENTARY",(RU) Discovery ID ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382520.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/653d429e78788ee103724f586cf902ec.png" group-title="RU - DOCUMENTARY",(RU) DISCOVERY ID XTRA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382518.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/discovery-science-us.png" group-title="RU - DOCUMENTARY",(RU) Discovery Science ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382516.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/discovery-turbo-it.png" group-title="RU - DOCUMENTARY",(RU) DISCOVERY TURBO XTRA ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382514.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Doctor ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382513.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) DOCUBOX ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382511.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/D_Zh_ad21d48199.png" group-title="RU - DOCUMENTARY",(RU) DOMASHNIE JIVOTNIE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382508.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Eda FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382507.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Eureka HD.png" group-title="RU - DOCUMENTARY",(RU) Eureka ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382506.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/FashionBox.png" group-title="RU - DOCUMENTARY",(RU) FashionBox
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382505.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Fashion & Lifestyle ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382503.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/fashiontv.png" group-title="RU - DOCUMENTARY",(RU) FASHION TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382500.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/foodnetwork.png" group-title="RU - DOCUMENTARY",(RU) Food Network ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382497.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Food Time ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382494.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Glazami Turista ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382491.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/h2.png" group-title="RU - DOCUMENTARY",(RU) H2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382489.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/hgtv.png" group-title="RU - DOCUMENTARY",(RU) HGTV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382487.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/historyuk.png" group-title="RU - DOCUMENTARY",(RU) HISTORY ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382485.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/626462167c85b1db7a7e8bb803e987f2.png" group-title="RU - DOCUMENTARY",(RU) HISTORY 2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382483.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) ID Fashion FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382482.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Investigation_Discovery.png" group-title="RU - DOCUMENTARY",(RU) ID Investigation Discovery ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382480.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/insight-tv.png" group-title="RU - DOCUMENTARY",(RU) INSIGHT ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382478.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/istoriya.png" group-title="RU - DOCUMENTARY",(RU) Istoriya ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382476.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - DOCUMENTARY",(RU) Jeweler
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382474.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Jivaya Priroda ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382472.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Jivi.png" group-title="RU - DOCUMENTARY",(RU) Jivi!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382470.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Kitay TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382468.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Klyuch ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382463.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/konnyy-mir-ru.png" group-title="RU - DOCUMENTARY",(RU) KONNIY MIR ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382462.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Kuhnya TV.png" group-title="RU - DOCUMENTARY",(RU) Kuchnia TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382461.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/kukhnya-ru.png" group-title="RU - DOCUMENTARY",(RU) Kukhnya TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382458.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/506234977a6a6f05e8365a9c6647bf8b.png" group-title="RU - DOCUMENTARY",(RU) Leomax24
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382455.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Luxury ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382454.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Morskoi.png" group-title="RU - DOCUMENTARY",(RU) MORSKOI
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382453.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Логотип_телеканала_Моя_Планета.png" group-title="RU - DOCUMENTARY",(RU) MOYA PLANETA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382452.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="RU - DOCUMENTARY",(RU) Moya Stikhiya ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382451.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Museum ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382448.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/muzhskoe.png" group-title="RU - DOCUMENTARY",(RU) Muzhskoy
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382447.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/natgeo.png" group-title="RU - DOCUMENTARY",(RU) Nat Geo FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382446.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="RU - DOCUMENTARY",(RU) Nat Geo Wild
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382445.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/nat-geo-wild-de.png" group-title="RU - DOCUMENTARY",(RU) Nat Geo Wild ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382444.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/nationalgeographicde.png" group-title="RU - DOCUMENTARY",(RU) National Geographic
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382443.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/nationalgeographicde.png" group-title="RU - DOCUMENTARY",(RU) National Geographic ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382442.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Nauka.png" group-title="RU - DOCUMENTARY",(RU) Nauka
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382441.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Nauka.png" group-title="RU - DOCUMENTARY",(RU) Nauka ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382440.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Nauka.png" group-title="RU - DOCUMENTARY",(RU) Nauka FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382439.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zswzDZS.png" group-title="RU - DOCUMENTARY",(RU) OCEAN TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382438.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Okean Tv ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382437.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Oruzhie.png" group-title="RU - DOCUMENTARY",(RU) ORUZHIE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382432.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - DOCUMENTARY",(RU) Pervyy Kosmicheskiy
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382431.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Pervyy Kosmicheskiy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382430.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Pervyy Kosmicheskiy FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382429.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/pobeda.png" group-title="RU - DOCUMENTARY",(RU) Pobeda !
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382428.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ntv-pravo-ru.png" group-title="RU - DOCUMENTARY",(RU) PRAVO
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382427.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/che.png" group-title="RU - DOCUMENTARY",(RU) Priklyucheniya
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382426.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Priklyucheniya ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382425.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Priklyucheniya FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382424.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) PRO Biznes
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382423.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Prodvizhenie TV.png" group-title="RU - DOCUMENTARY",(RU) PRODVIZHENIYE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382422.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Pro Lyubov.png" group-title="RU - DOCUMENTARY",(RU) PRO LUBOV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382421.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Psihologiya_e7740b07e0.png" group-title="RU - DOCUMENTARY",(RU) Psihologia
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382420.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="RU - DOCUMENTARY",(RU) Radost Moya
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382419.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Ratnik.png" group-title="RU - DOCUMENTARY",(RU) Ratnik
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382418.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Ratnik.png" group-title="RU - DOCUMENTARY",(RU) Ratnik ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382417.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Ratnik.png" group-title="RU - DOCUMENTARY",(RU) Ratnik FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382416.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Логотип_телеканала_RT_Doc.png" group-title="RU - DOCUMENTARY",(RU) RTDocumentary
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382415.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/RTDOCUMENTARY.png" group-title="RU - DOCUMENTARY",(RU) RT DOCUMENTARY
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382414.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJMTcFS.png" group-title="RU - DOCUMENTARY",(RU) Rybolov
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382413.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="RU - DOCUMENTARY",(RU) SARAFAN
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382412.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Science 2.0 (Наука 2.0)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382411.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="RU - DOCUMENTARY",(RU) Shopping Live
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382410.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/RUSSIA.png" group-title="RU - DOCUMENTARY",(RU) Sovershenno Sekretno
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382409.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) SOVSEC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382408.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/spas.png" group-title="RU - DOCUMENTARY",(RU) SPAS TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382407.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fR3abSD.png" group-title="RU - DOCUMENTARY",(RU) Tayny Galaktiki
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382406.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="RU - DOCUMENTARY",(RU) Teatr
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382405.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Teatr ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382404.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Teatr FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382403.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Telecafe.png" group-title="RU - DOCUMENTARY",(RU) Tele Cafe ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382402.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="RU - DOCUMENTARY",(RU) Teleputeshestvya
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382400.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) TERRA ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382399.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tlcnl.png" group-title="RU - DOCUMENTARY",(RU) TLC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382397.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tlc-de.png" group-title="RU - DOCUMENTARY",(RU) TLC ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382396.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Travel ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382394.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Travel & Adventure ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382389.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/travel-channel-us.png" group-title="RU - DOCUMENTARY",(RU) Travel Channel ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382388.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) UNIKUM ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382385.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mf13haG.png" group-title="RU - DOCUMENTARY",(RU) USADBA TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382384.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) VIASAT EXPLORE ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382382.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/78fc90bf0ef1af02fa73abb2b37403fc.png" group-title="RU - DOCUMENTARY",(RU) Viju Explorer
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382380.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Viasat History.png" group-title="RU - DOCUMENTARY",(RU) VIASAT HISTORY ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382378.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Viasat Nature.png" group-title="RU - DOCUMENTARY",(RU) VIASAT NATURE ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382375.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/viju_explore.png" group-title="RU - DOCUMENTARY",(RU) Viju Explore ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382371.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - DOCUMENTARY",(RU) VIJU+ EXPLORER
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382370.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/_5bIhzldcM8GYDnvMMAdwB1qieERHN9eZIk7o4ovqDDJRGAJ0pJTHElrWvcGOG66LVEPv4U9bf95dJnSmMRq1t48AFa6Pmd6ab6BjKiy_5E.png" group-title="RU - DOCUMENTARY",(RU) VIJU+ HISTORY
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382368.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/viju_history.png" group-title="RU - DOCUMENTARY",(RU) Viju History ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382367.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/viju_nature.png" group-title="RU - DOCUMENTARY",(RU) Viju Nature ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382362.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) V Mire Zhivotnykh ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382359.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/f978aa3e0b16938a79d381d0a2759c25.png" group-title="RU - DOCUMENTARY",(RU) Voprosi I Otveti
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382358.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/3e7dfd518ccc0fc219e42920984ed905.png" group-title="RU - DOCUMENTARY",(RU) Vostok TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382357.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Women's Magazine ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382355.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) World Fashion
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382353.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) World Fashion ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382352.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Zagorodnaya.png" group-title="RU - DOCUMENTARY",(RU) Zagorodnaya Zhizn ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382349.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Zagorodnaya.png" group-title="RU - DOCUMENTARY",(RU) Zagorodniy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382347.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="RU - DOCUMENTARY",(RU) Zdorovoye TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382346.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onNv1tM.png" group-title="RU - DOCUMENTARY",(RU) Zhivaia Planeta
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382345.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Zoopark_300h300_zelenyj_vert_0f85755619.png" group-title="RU - DOCUMENTARY",(RU) Zoo Park
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382344.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="RU - DOCUMENTARY",(RU) ZOO TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382343.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Bolshaya Aziya.png" group-title="RU - DOCUMENTARY",(RU) Большая Азия ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382342.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Вопросы И Ответы
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382341.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Dialogi o Ribalke.png" group-title="RU - DOCUMENTARY",(RU) Диалоги О Рыбалке ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382340.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-8.png" group-title="RU - DOCUMENTARY",(RU) Доктор
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382339.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-8.png" group-title="RU - DOCUMENTARY",(RU) Домашние Животные
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382338.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Живи!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382337.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Загородная Жизнь
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382336.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Здоровое Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382335.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-8.png" group-title="RU - DOCUMENTARY",(RU) Зоо Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382334.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-8.png" group-title="RU - DOCUMENTARY",(RU) История
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382333.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Kuhnya TV.png" group-title="RU - DOCUMENTARY",(RU) Кухня Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382331.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Moya Planeta.png" group-title="RU - DOCUMENTARY",(RU) Моя Планета
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382330.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Nauka.png" group-title="RU - DOCUMENTARY",(RU) Наука ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382329.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-8.png" group-title="RU - DOCUMENTARY",(RU) Оружие
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382328.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Охота И Рыбалка
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382327.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Приключения ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382326.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Про Бизнес
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382325.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Продвижение
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382324.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-9.png" group-title="RU - DOCUMENTARY",(RU) Радость Моя
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382323.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Ratnik.png" group-title="RU - DOCUMENTARY",(RU) Ратник ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382322.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Совершенно Секретно
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382321.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - DOCUMENTARY",(RU) Спас
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382320.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - DOCUMENTARY",(RU) Театр ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382319.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Телекафе
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382318.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-9.png" group-title="RU - DOCUMENTARY",(RU) Уникум
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382317.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - DOCUMENTARY",(RU) Усадьба
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382316.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/1b3e83ac8ee37a28bf93d43a235a7777.png" group-title="RU - DOCUMENTARY",(RU) Ювелирочка
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382315.m3u8
+
+# --- RU - ENTERTAINMENT (94) ---
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ENTERTAINMENT",(RU) 2X2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382084.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) CTC ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382079.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sts.png" group-title="RU - ENTERTAINMENT",(RU) CTC BALTIC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382078.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) DOMASHNIY ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382075.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/domashniy-ru.png" group-title="RU - ENTERTAINMENT",(RU) Domashniy +7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382074.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) NTV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382072.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) NTV+ 2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382069.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ntv-hit-ru.png" group-title="RU - ENTERTAINMENT",(RU) NTV+ 7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382067.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ntv-hit-ru.png" group-title="RU - ENTERTAINMENT",(RU) NTV Hit
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382066.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ntv-stil-ru.png" group-title="RU - ENTERTAINMENT",(RU) NTV Stil ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382065.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/76245444301.png" group-title="RU - ENTERTAINMENT",(RU) REN TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382062.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) TNT  ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382058.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tnt-music-ru.png" group-title="RU - ENTERTAINMENT",(RU) TNT 2  ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382057.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tnt-music-ru.png" group-title="RU - ENTERTAINMENT",(RU) TNT 7  ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382054.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Domashniy.png" group-title="RU - ENTERTAINMENT",(RU) Домашний
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382051.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ENTERTAINMENT",(RU) Звезда
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382050.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Звезда Плюс ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382049.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ENTERTAINMENT",(RU) НТВ  ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382048.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ENTERTAINMENT",(RU) Пятый Канал
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382045.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ENTERTAINMENT",(RU) РЕН Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382044.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Россия Ртр
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382042.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) СТС ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382041.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) ТНТ ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382039.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) 8TV  ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382036.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) A1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382034.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/4f4127c3ae75dcd0041f45e277e46891.png" group-title="RU - ENTERTAINMENT",(RU) AMC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382033.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Anekdot TV.png" group-title="RU - ENTERTAINMENT",(RU) Anekdot TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382032.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) BOBER TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382031.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) BOLT ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382030.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/channel-one-ru.png" group-title="RU - ENTERTAINMENT",(RU) Channel One
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382028.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) COLB TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382027.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) CTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382025.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) DANGE TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382024.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Drayv
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382023.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) DTX ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382021.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="RU - ENTERTAINMENT",(RU) ENGLISH CLASS
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382020.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) English Club FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382019.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) FAN ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382017.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) FAST AND FUNBOX 4K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382016.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/firstchannel.png" group-title="RU - ENTERTAINMENT",(RU) First Channel
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382012.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) FOX Life ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382010.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Friday! (Пятница)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382009.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) HAWE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382008.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) HAWE HOBEW
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382007.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) HCT TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382006.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Kaleidoskop_TV.png" group-title="RU - ENTERTAINMENT",(RU) Kaleydoskop TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382005.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) KAMEDI ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382004.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/19df34e5a4cbdb9c7a41acd3fbd71222.png" group-title="RU - ENTERTAINMENT",(RU) KBH TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382003.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Krik TV.png" group-title="RU - ENTERTAINMENT",(RU) Krik TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382002.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) KTNO TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382001.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) NOSTALGIJA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/382000.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) O! ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381999.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) O! FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381998.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/O2TV.png" group-title="RU - ENTERTAINMENT",(RU) O2 TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381997.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/O2TV.png" group-title="RU - ENTERTAINMENT",(RU) O2 TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381996.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Petpo
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381994.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/match-planeta-ru.png" group-title="RU - ENTERTAINMENT",(RU) PLAN B
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381993.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/poehali.png" group-title="RU - ENTERTAINMENT",(RU) Poyekhali!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381992.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="RU - ENTERTAINMENT",(RU) Pro100 TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381991.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/pyatnica.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA! ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381990.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/pyatnica.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381987.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381986.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381985.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/pyatnica.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381984.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 4 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381983.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 4 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381982.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/pyatnica.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381981.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 7 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381980.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) PYATNICA+ 7 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381979.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) RED ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381978.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/RetroTV.us.png" group-title="RU - ENTERTAINMENT",(RU) RETRO TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381976.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) RTG ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381975.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="RU - ENTERTAINMENT",(RU) RTG TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381973.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Russia RTR
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381972.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) SAPFIR ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381970.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) SET ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381968.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/che.png" group-title="RU - ENTERTAINMENT",(RU) Shokiruyuschee
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381967.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) SONY ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381966.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sony-turbo-red-ru.png" group-title="RU - ENTERTAINMENT",(RU) Sony Red
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381965.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sony-turbo-ru.png" group-title="RU - ENTERTAINMENT",(RU) SONY TURBO
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381964.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sony-turbo-ru.png" group-title="RU - ENTERTAINMENT",(RU) Sony Turbo Black
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381963.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) SONY Тв FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381962.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/9fce1913cd3735233732bbbb0b8a396b.png" group-title="RU - ENTERTAINMENT",(RU) STAR TB
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381961.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Subbota! ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381959.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) TBA Life
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381957.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) UDAR ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381955.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - ENTERTAINMENT",(RU) UNIVER TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381953.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzQsVfn.png" group-title="RU - ENTERTAINMENT",(RU) Vitrina TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381952.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ENTERTAINMENT",(RU) Анекдот Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381951.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ENTERTAINMENT",(RU) Бобёр
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381950.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ENTERTAINMENT",(RU) Драйв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381949.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Крик-ТВ ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381948.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ENTERTAINMENT",(RU) ОТР
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381947.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ENTERTAINMENT",(RU) Пятница
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381946.m3u8
+
+# --- RU - REGIONAL (27) ---
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - REGIONAL",(RU) PERVIY Baltic
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381922.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Rossiya Planeta
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381921.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Balticum Platinum
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381920.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Balticum Platinum ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381919.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Belarus 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381918.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Belarus 2 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381917.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Belarus 24 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381916.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyuqWTR.png" group-title="RU - REGIONAL",(RU) Big Planet ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381914.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/dcd6d9116aaf083f6d8d8f078d60eb8b.png" group-title="RU - REGIONAL",(RU) CCTV 4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381911.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Indiya TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381910.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) LTV 7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381909.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) LTV 7 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381908.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) LTV 7 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381907.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/TRK Millet.png" group-title="RU - REGIONAL",(RU) Millet
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381906.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="RU - REGIONAL",(RU) NASHA SIBIR
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381905.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) NASHA SIBIR ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381904.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) NASHA SIBIR FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381903.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="RU - REGIONAL",(RU) RTR PLANETA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381902.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - REGIONAL",(RU) SANKT PETERBURG
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381901.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Sochi Live HD.png" group-title="RU - REGIONAL",(RU) Sochi Live ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381900.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="RU - REGIONAL",(RU) TNV Tatarstan
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381897.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) TV5 MONDE ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381896.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) TV Brics ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381895.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/zee-tv-ru.png" group-title="RU - REGIONAL",(RU) ZEE TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381894.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Sankt Peterburg.png" group-title="RU - REGIONAL",(RU) Санкт Петербург
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381893.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - REGIONAL",(RU) Тнв Татарстан
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381892.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - REGIONAL",(RU) Щелковское Тв ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381891.m3u8
+
+# --- RU - ROSSIJA (140) ---
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ROSSIJA",(RU) 360
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381890.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 360 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381888.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 360 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381887.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 360 Podmoskovie
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381886.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/360 Tune Box.png" group-title="RU - ROSSIJA",(RU) 360 TUNEBOX
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381885.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sts.png" group-title="RU - ROSSIJA",(RU) CTC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381884.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) PERVIY Avtomobilniy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381883.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ROSSIYA 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381879.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ROSSIYA 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381878.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ROSSIYA 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381877.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Rossiya K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381876.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Rossiya Kultura
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381875.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sts-kids-ru.png" group-title="RU - ROSSIJA",(RU) STS+ 4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381874.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/sts-kids-ru.png" group-title="RU - ROSSIJA",(RU) STS+ 7
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381873.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tnt-ru.png" group-title="RU - ROSSIJA",(RU) TNT
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381872.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TVC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381871.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TVC ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381870.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TVC FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381869.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/zvezda-plus-ru.png" group-title="RU - ROSSIJA",(RU) ZVEZDA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381868.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ZVEZDA ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381867.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ZVEZDA FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381866.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/zvezda-plus-ru.png" group-title="RU - ROSSIJA",(RU) Zvezda Plus
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381865.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ZVEZDA PLUS ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381864.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) Первый Канал
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381862.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Первый Канал ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381861.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Россия ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381860.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) Россия 1 ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381859.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) Россия К
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381857.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Россия К ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381856.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) СТС
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381855.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) ТВЦ ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381854.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) ТНТ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381852.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 1HD ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381850.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 1HD FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381849.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/auto-plus-ru.png" group-title="RU - ROSSIJA",(RU) 3 PLUS
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381848.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 3 PLUS ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381847.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) 3 PLUS FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381846.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) A2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381845.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ani.png" group-title="RU - ROSSIJA",(RU) ANI
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381844.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/auto-plus.png" group-title="RU - ROSSIJA",(RU) AUTO PLUS
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381843.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Avto Plus
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381842.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Avto Plus ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381841.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Avto Plus FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381840.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="RU - ROSSIJA",(RU) BelRos
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381839.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="RU - ROSSIJA",(RU) BLACK
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381838.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="RU - ROSSIJA",(RU) BOLT
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381836.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) CEMODAN TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381835.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) CEMODAN TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381834.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/che-ru.png" group-title="RU - ROSSIJA",(RU) CHE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381833.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Den Pobedy ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381832.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/htmbgOX.png" group-title="RU - ROSSIJA",(RU) EDA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381831.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbPFS8u.png" group-title="RU - ROSSIJA",(RU) E TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381830.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) FAN
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381829.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/90887673571.png" group-title="RU - ROSSIJA",(RU) FOX
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381828.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) FOX ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381827.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Glazella ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381826.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/HDL.png" group-title="RU - ROSSIJA",(RU) HDL
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381825.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/hd-life-ru.png" group-title="RU - ROSSIJA",(RU) HD Life
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381824.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) HD Life ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381823.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/kion-hit-ru.png" group-title="RU - ROSSIJA",(RU) HIT
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381822.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) HTB
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381821.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ID Extra
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381820.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/63142562611.png" group-title="RU - ROSSIJA",(RU) ID XTRA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381819.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19R470V.png" group-title="RU - ROSSIJA",(RU) Jar Ptitsa
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381818.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iU4j0Lb.png" group-title="RU - ROSSIJA",(RU) JWL
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381817.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Kto Est Kto.png" group-title="RU - ROSSIJA",(RU) KTO EST KTO
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381816.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/9wn.png" group-title="RU - ROSSIJA",(RU) #KtoKuda
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381815.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Life ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381814.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/konnyy-mir-ru.png" group-title="RU - ROSSIJA",(RU) MIR
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381813.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) MIR ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381812.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) MIR FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381811.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) MyZen TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381810.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Nano TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381809.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Nashe Krutoer.png" group-title="RU - ROSSIJA",(RU) Nashe Krutoe
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381808.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDc665V.png" group-title="RU - ROSSIJA",(RU) O!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381807.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) One Channel ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381806.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) OTP
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381805.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) OTP ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381804.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) OTP FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381803.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/f978aa3e0b16938a79d381d0a2759c25.png" group-title="RU - ROSSIJA",(RU) OTV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381802.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) OTV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381801.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) PEH TV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381799.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/pyatnica.png" group-title="RU - ROSSIJA",(RU) Pjatnica
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381798.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Red
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381797.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) REN ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381796.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/s142401_ld_h15_aa.png" group-title="RU - ROSSIJA",(RU) RT
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381795.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) RT ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381794.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) RT FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381793.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/85384262501.png" group-title="RU - ROSSIJA",(RU) RUSSIA
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381792.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/85384262501.png" group-title="RU - ROSSIJA",(RU) Russia 1
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381791.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/RUSSIA.png" group-title="RU - ROSSIJA",(RU) RUSSIA-K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381789.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Russia Xtream
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381788.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Russkiy_Roman_HD.png" group-title="RU - ROSSIJA",(RU) Russkij Roman
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381787.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) RUSSKIY EXTREME ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381785.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) SHANT Premium ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381781.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/SMARTZONE.png" group-title="RU - ROSSIJA",(RU) SMARTZONE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381776.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) SNE
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381774.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="RU - ROSSIJA",(RU) Soyuz
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381773.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/start-air-ru.png" group-title="RU - ROSSIJA",(RU) START ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381772.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Start FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381770.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) STB
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381769.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/match-strana-ru.png" group-title="RU - ROSSIJA",(RU) Strana
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381768.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1W6R14o.png" group-title="RU - ROSSIJA",(RU) T24
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381767.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TB 3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381766.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TBC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381765.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Telecafe.png" group-title="RU - ROSSIJA",(RU) Telekafe
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381764.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/8ea221802abff42ec578f0e4e6fb89ee.png" group-title="RU - ROSSIJA",(RU) Terra
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381762.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) THT
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381761.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) THT 4
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381760.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Tochika Ortiva
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381759.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tv3_1-ru.png" group-title="RU - ROSSIJA",(RU) TV3+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381758.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/tv3.png" group-title="RU - ROSSIJA",(RU) TV 3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381756.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/54089973711.png" group-title="RU - ROSSIJA",(RU) TV Center
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381744.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TV XXI ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381743.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) TV XXI (TV21)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381741.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) UTV ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381739.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) VIJU+ PREMIUM
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381738.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/vremya.png" group-title="RU - ROSSIJA",(RU) Vremya
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381737.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/jivi(1).png" group-title="RU - ROSSIJA",(RU) ZHIVI!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381736.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/Avto Plyus.png" group-title="RU - ROSSIJA",(RU) Авто Плюс
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381735.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/63229b026ba7e8790a65bf15c616b176.png" group-title="RU - ROSSIJA",(RU) Жар Птица
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381734.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Жар Птица ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381733.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Индия Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381732.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Кинеко ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381731.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/download-8.png" group-title="RU - ROSSIJA",(RU) Кто Есть Кто
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381730.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-2.png" group-title="RU - ROSSIJA",(RU) Мир
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381729.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Мир World
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381727.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Наше
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381726.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Радио Маяк
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381725.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Русский Детектив
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381724.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Русский Роман
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381723.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ROSSIJA",(RU) Русский Экстрим
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381722.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Союз ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="RU - ROSSIJA",(RU) ТNV Planeta
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381719.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ТPO
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381718.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) ТВ3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381717.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Тип-Топ ᴴᴰ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381715.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/images-1.png" group-title="RU - ROSSIJA",(RU) Че!
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381714.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Че (ПЕРЕЦ)
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381713.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Rusland/ruslandvlag.png" group-title="RU - ROSSIJA",(RU) Ю Тв
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/381711.m3u8
 
 # --- SLO - SLOVENSKI (30) ---
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/slovenya_bayrak.gif" group-title="SLO - SLOVENSKI",(SLO) SLO 1 ᴴᴰ
@@ -20413,4 +20285,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353620.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Arablar/1828080.png" group-title="İR - PERSİAN",(IR) Velayat TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353619.m3u8
 
-# Total: 9991
+# Total: 9924
