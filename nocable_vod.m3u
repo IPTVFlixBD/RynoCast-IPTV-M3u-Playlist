@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-09-06 20:40:59
+# Generated: 2026-09-07 22:57:45
 # Expires: 2026-09-22
 # Family Safe Edition
 # ==============================================
@@ -6839,7 +6839,7 @@ http://nocable.cc:8080/movie/92370096/92370096/327463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="Movies | 2025 MOVIES",Roofman (2025)
 http://nocable.cc:8080/movie/92370096/92370096/328162.mkv
 
-# --- Movies | 2026 Movies (504) ---
+# --- Movies | 2026 Movies (512) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://nocable.cc:8080/movie/92370096/92370096/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7848,6 +7848,22 @@ http://nocable.cc:8080/movie/92370096/92370096/330636.mp4
 http://nocable.cc:8080/movie/92370096/92370096/330637.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg28kF0EuhDwaD9ckauzzXsfJyL.jpg" group-title="Movies | 2026 Movies",Where Is Your Faith (2026)
 http://nocable.cc:8080/movie/92370096/92370096/330638.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg" group-title="Movies | 2026 Movies",Confinement (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glALx6QaIgw1u4joXsnfHTjWi6D.jpg" group-title="Movies | 2026 Movies",Just Play Dead (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg" group-title="Movies | 2026 Movies",Untold: Raygun: Breaking Badly (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg" group-title="Movies | 2026 Movies",Spider Island (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331010.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg" group-title="Movies | 2026 Movies",The Brink of War (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331011.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKDDXjFlWbSJIjSmSH6EzNENSy7.jpg" group-title="Movies | 2026 Movies",The Room Below (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331012.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="Movies | 2026 Movies",The Runner (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331013.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg" group-title="Movies | 2026 Movies",The Wrong Girls (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331014.mp4
 
 # --- Movies | Action Movies (1646) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -60759,4 +60775,4 @@ http://nocable.cc:8080/series/92370096/92370096/2396
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Curb Your Enthusiasm
 http://nocable.cc:8080/series/92370096/92370096/2400
 
-# Total: 30295
+# Total: 30303

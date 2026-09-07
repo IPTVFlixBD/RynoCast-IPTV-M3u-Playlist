@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-09-06 20:46:04
+# Generated: 2026-09-07 23:02:17
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13897,7 +13897,9 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/22637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NETHERLAND [NL]",NL - Welcome to Chippendales
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/22638.mp4
 
-# --- Movies | SRS - NEW ADDED [EN] (3840) ---
+# --- Movies | SRS - NEW ADDED [EN] (3841) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Tip Toe (2026) (GB)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/34249.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - Meet the Owens (2026) (US)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/34241.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS - NEW ADDED [EN]",EN - A Beautiful Obsession (2026) (GB)
@@ -61575,9 +61577,11 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029576.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="Movies | VOD - NETHERLAND [NL]",NL - Muizenjacht (1997)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1029577.mp4
 
-# --- Movies | VOD - NEW ADDED [EN] (8864) ---
+# --- Movies | VOD - NEW ADDED [EN] (8865) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Secret Agent (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413565.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - Spider Island (2026)
+http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413610.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnQ9kmxEr332OSYhVcQqIsHgXI3.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Room Below (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413492.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFsyF2WSi7LFt00a8AptyBxbNQy.jpg" group-title="Movies | VOD - NEW ADDED [EN]",EN - The Girl in the River (2026)
@@ -79786,7 +79790,7 @@ http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413234.mkv
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413233.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUCnHh2pnbllf6IB1AXW1mjrJCg.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - Landa (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413232.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La momia de Lee Cronin (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btXGqRlctQdbML6ifPmacZuykcC.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La momia de Lee Cronin (2026)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413231.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nndo3wWkBy1SGCd2y3dakbLxAR.jpg" group-title="Movies | VOD - NUEVO 2024/2026 [ES]",ES - La maldición de Shelby Oaks (2025)
 http://portott.com/movie/c4c24c0217/c4b2e86278c6/1413230.mkv
@@ -115005,4 +115009,4 @@ http://portott.com/series/c4c24c0217/c4b2e86278c6/21819
 #EXTINF:-1 tvg-logo="" group-title="Series | SRS - TURKISH SERIES SUB [EN]",EN - Omar (2012)
 http://portott.com/series/c4c24c0217/c4b2e86278c6/21939
 
-# Total: 57383
+# Total: 57385

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-09-06 20:46:49
+# Generated: 2026-09-07 22:54:35
 # Expires: 2026-09-26
 # Family Safe Edition
 # ==============================================
@@ -42,13 +42,13 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/206859.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218787.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",04. UFC NETWORK
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223036.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09. 6p Perry vs. Jenkins
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223037.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. UFC FIGHT NIGHT
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223041.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07. 2pm Taylor vs. Pili
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223518.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08. 8p BKB 58 Trujillo vs. Terrill  | 8 PM ET
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223519.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",10.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223520.m3u8
@@ -60,7 +60,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223522.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223563.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",14.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",01. WWE
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01. WWE MAIN EVENT
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224131.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",05. AEW EVENTS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224156.m3u8
@@ -12251,9 +12251,19 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/251726.m3u8
 #EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",01. NCAA BASKETBALL
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219731.m3u8
 
-# --- 26.2 NCAA FOOTBALL (ET) (1) ---
+# --- 26.2 NCAA FOOTBALL (ET) (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",01. EVERY GAME EVERY WEEK
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/105212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.2 NCAA FOOTBALL (ET)",02. 12p Texas Southern @ Prairie View A&M
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/252748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.2 NCAA FOOTBALL (ET)",03. 3p S Carolina St vs Florida A&M (in Miami)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/252749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.2 NCAA FOOTBALL (ET)",04. 4p Washington St @ 17 Washington
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/252750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.2 NCAA FOOTBALL (ET)",05. 730p 24 Louisville vs 9 Ole Miss (in Nashville)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/252751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.2 NCAA FOOTBALL (ET)",06. 730p Wisconsin vs 4 Notre Dame (in Green Bay)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/252752.m3u8
 
 # --- 27. WNBA (15) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/2be358c7e07f14efc350f6de5d15f993.png" group-title="27. WNBA",US : WNBA NEW YORK LIBERTY
@@ -12541,4 +12551,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/31456.m3u8
 #EXTINF:-1 tvg-logo="" group-title="33. RELIGIOUS",Faith Tv
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/217010.m3u8
 
-# Total: 6240
+# Total: 6245

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-09-06 20:50:22
+# Generated: 2026-09-07 22:58:14
 # Expires: 2026-09-16
 # Family Safe Edition
 # ==============================================
@@ -2831,7 +2831,7 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/84705.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: cytavisionsports 7
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/84704.m3u8
 
-# --- Italy (165) ---
+# --- Italy (225) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" group-title="Italy",========Italy========
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/12228.m3u8
 #EXTINF:-1 tvg-logo="http://predator.digital:8080/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italy",IT: Rai 1 FHD
@@ -2940,28 +2940,6 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/61038.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/61037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Cartoon Network
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/61036.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Vetrina Primafila Live
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81009.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 1 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81008.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 2 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81007.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 3 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81006.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 4 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81005.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 5 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81004.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 6 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81003.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 7 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81002.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 8 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81001.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 9 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 10 FHD
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/80999.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno FHD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/373.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno +24 SAT
@@ -3030,6 +3008,10 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/79638.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 2 FHD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina UEFA Champions League
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina Calcio General
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86050.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 FHD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/333.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 HD
@@ -3062,14 +3044,14 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/62788.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/53843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Tennis FHD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/53844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina Serie A
-http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85986.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Legend FHD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Dazn Zona Gol Serie A
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/3213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Dazn Zona  FHD
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/63236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina Serie A
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/85986.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN SERIE A 1
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/77756.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN Serie A 2
@@ -3162,6 +3144,144 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/84648.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/84647.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN SERIE B 20
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/84646.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 FHD (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 HD (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 HD (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 SD (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 2 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 3 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 4 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 5 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 6 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 7 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 8 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 9 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 10 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 11 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 12 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 13 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 14 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 15 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 16 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 17 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 18 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 19 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 20 (only events)
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 251
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 252
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 253
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 254
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 255
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 256
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 257
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 258
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 259
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Arena
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Basket
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport F1
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Golf
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Legend
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Mix
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport MotoGP
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Tennis
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Uno
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky TG24
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 2
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 3
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 4
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 5
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 6
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Atlantic
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Uno Plus
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Action
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Collection
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Comedy
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Drama
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Illumination
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Romance
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Stories
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Suspense
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Collection
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Serie
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Crime
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Documentaries
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Investigation
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Arte
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Adventure
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Nature
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: DeAKids
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: History
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Nick Jr
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86118.m3u8
 
 # --- Nederland (54) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1920px-Flag_of_the_Netherlands.svg.png" group-title="Nederland",======Nederland======
@@ -3695,7 +3815,7 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/81960.m3u8
 
-# --- Shqiptare (439) ---
+# --- Shqiptare (440) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4572,6 +4692,8 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/53112.m3u8
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/53113.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Radio 1 Live
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/59054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Radio saranda
+http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/86049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Radio Plus
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/62665.m3u8
 
@@ -8871,4 +8993,4 @@ http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/VenerantSpaqi12/mFln9pmThI/62225.m3u8
 
-# Total: 4405
+# Total: 4466
