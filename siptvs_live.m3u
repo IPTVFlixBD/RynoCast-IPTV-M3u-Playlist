@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-09-07 23:06:53
+# Generated: 2026-09-08 08:14:21
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -2913,7 +2913,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/103124.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",Radio Gora - Dragas 106 MHz FM
 http://siptvs.com:8080/live/Biljana12/Biljana12/204342.m3u8
 
-# --- WORLD SPORT (49) ---
+# --- WORLD SPORT (69) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/ALBANIA/ALBANIASPORT/ArtSport1.png" group-title="WORLD SPORT",AL: ART SPORT 1 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35207.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/ALBANIA/ALBANIASPORT/Artsport2.png" group-title="WORLD SPORT",AL: ART SPORT 2 ᴴᴰ
@@ -3012,5 +3012,45 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/103127.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
+#EXTINF:-1 tvg-logo="http://78.46.94.42:80/images/1d28adac78ae281803db5691e7b4f686.png" group-title="WORLD SPORT",RU: Match Futbol 1 ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/205835.m3u8
+#EXTINF:-1 tvg-logo="http://78.46.94.42:80/images/90f8d758301d11de5579f67a642ec27c.png" group-title="WORLD SPORT",RU: Match Futbol 2 ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/205836.m3u8
+#EXTINF:-1 tvg-logo="http://78.46.94.42:80/images/7674e21dcbe27ad34439044b1ed6fcef.png" group-title="WORLD SPORT",RU: Match Futbol 3 ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/205837.m3u8
+#EXTINF:-1 tvg-logo="http://78.46.94.42:80/images/7687f7229f2c5b60aa8df3c842c998bf.png" group-title="WORLD SPORT",RU: Match TV ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/205838.m3u8
+#EXTINF:-1 tvg-logo="http://78.46.94.42:80/images/2e22d4dde701f4d46e1320f2884f7981.png" group-title="WORLD SPORT",RU: Match Arena ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/205839.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTtdysh4_Gm2-_--Kn1nWwwHssELMFo5WvR4hrWBivNoQWXneCkco3ZZ8zykqHSO_hw&usqp=CAU" group-title="WORLD SPORT",RU: Match Premier ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/205840.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/205841.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Premiere FHD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205842.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Premiere HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205843.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Our Sports
+http://siptvs.com:8080/live/Biljana12/Biljana12/205844.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Futbol 1 FHD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205845.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Futbol 1 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205846.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Futbol 2 FHD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205847.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Futbol 2 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205848.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Futbol 3 FHD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205849.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Futbol 3 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205850.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Arena HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205851.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! IGRA HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/205852.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Box
+http://siptvs.com:8080/live/Biljana12/Biljana12/205853.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORT",RUS: Match! Planet
+http://siptvs.com:8080/live/Biljana12/Biljana12/205854.m3u8
 
-# Total: 1474
+# Total: 1494

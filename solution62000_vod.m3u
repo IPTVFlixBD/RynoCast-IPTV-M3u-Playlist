@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-09-06 20:40:58
+# Generated: 2026-09-08 08:24:49
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1239,7 +1239,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1723) ---
+# --- Movies | Films (1727) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg" group-title="Movies | Films",Vaiana, la légende du bout du monde (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30420.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvZ8GzOwDsWmIq1Ti8rT0qf62Fm.jpg" group-title="Movies | Films",La Grande Révélation (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30419.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fwjXTNPPsp5pcrFrYyR5karoXcV.jpg" group-title="Movies | Films",Father Mother Sister Brother (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30412.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eHELFF4BBxmEk5JyhV017Xcgvwy.jpg" group-title="Movies | Films",Mayday (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30389.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5afVTwwWKclUCjSABwdd5EVatV.jpg" group-title="Movies | Films",C’est quoi l’amour ? (2026)
@@ -1644,6 +1650,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oTolMLsevJof3XUaTjO7EwZiicn.jpg" group-title="Movies | Films",Lettres siciliennes (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30413.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9MwDl4z2bTZn3fPYdYndjW2x60.jpg" group-title="Movies | Films",La Foi des Anges (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30344.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHyKx8MlxjIGbkgfgeriJM8VPnC.jpg" group-title="Movies | Films",Blücher (2025)
@@ -5655,7 +5663,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (523) ---
+# --- Movies | NETFLIX (524) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Movies | NETFLIX",Gandhari (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30386.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSsX2LnGzyfHR9RioDEiLrPy5wa.jpg" group-title="Movies | NETFLIX",The Whisper Man (2026)
@@ -6270,6 +6278,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1042.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/798.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW5u5YIBExs6oGIXC1QTELqszdm.jpg" group-title="Movies | NETFLIX",Wheelman - 2017
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1541.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f5GffMx59yXNhlsoipD1hOrFV5U.jpg" group-title="Movies | NETFLIX",I Care a Lot. (2021)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30418.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Star Trek Discovery
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",La casa de papel
@@ -8757,4 +8767,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1293
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Qui sera le plus nul ?
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1295
 
-# Total: 4344
+# Total: 4349
