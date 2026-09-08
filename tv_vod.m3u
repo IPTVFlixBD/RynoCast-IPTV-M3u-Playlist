@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-09-08 08:15:53
+# Generated: 2026-09-08 21:52:23
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -34189,7 +34189,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/170145.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg" group-title="Movies | NL - BOLLYWOOD",Tiger 3 (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168386.mkv
 
-# --- Movies | NL - BRITBOX (22) ---
+# --- Movies | NL - BRITBOX (23) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Dalgliesh (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10455.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",The Grand Tour (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10431.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",The Island (NL)
@@ -46131,7 +46133,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/152741.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Yn4lvksfagrwH5FARlRXkeJWR0.jpg" group-title="Movies | NL - SCIENCEFICTION",Left Behind: Rise of the Antichrist (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/151666.mkv
 
-# --- Movies | NL - SKY SHOWTIME (19) ---
+# --- Movies | NL - SKY SHOWTIME (20) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",El homenaje (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10454.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",Slutet på sommaren (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9808.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - SKY SHOWTIME",Chicago P.D. (NL)
@@ -75703,4 +75707,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37621
+# Total: 37623

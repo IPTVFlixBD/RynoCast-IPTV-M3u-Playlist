@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-09-08 08:16:23
+# Generated: 2026-09-08 21:48:55
 # Expires: 2027-10-09
 # Family Safe Edition
 # ==============================================
@@ -943,7 +943,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (273) ---
+# --- Deutschland (274) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -1398,6 +1398,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85340.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 20 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME EVENT INFO
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86122.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME 1 HD (only events)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85436.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME 3 HD (only events)
@@ -3824,7 +3826,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/19465.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9677.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-26.png" group-title="Shqiptare",AL: RTK 3  ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2014.m3u8
-#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-24.png" group-title="Shqiptare",AL: RTK 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-24.png" group-title="Shqiptare",AL: RTK 4 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2013.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-57.png" group-title="Shqiptare",AL: RTK SAT ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76956.m3u8
@@ -8993,4 +8995,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4466
+# Total: 4467

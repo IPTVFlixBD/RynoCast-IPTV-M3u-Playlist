@@ -1,13 +1,17 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: limed.cc:80
-# Generated: 2026-09-08 08:24:32
+# Generated: 2026-09-08 21:55:44
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K (1302) ---
+# --- Movies | 4K (1304) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpl7d2ALW2TkPt7ziXPGxGJrU0h.jpg" group-title="Movies | 4K",Pedro Páramo [4K] (2024)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555070.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Movies | 4K",Esta Noite, Você Dorme Comigo [4K] (2023)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFcKla48r8OUTKiSMXnSwKNSTsn.jpg" group-title="Movies | 4K",Alma de Caçador [4K] (2024)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/554997.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odEZ7CY6TlELZHptwEyNy65XaRg.jpg" group-title="Movies | 4K",Corajosa 3 [4K] (2026)
@@ -2613,7 +2617,9 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/288297.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="Movies | 4K",ZOMBIES 4: A Era dos Vampiros [4K] (2025)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/297551.mp4
 
-# --- Movies | Amazon Prime Video (2481) ---
+# --- Movies | Amazon Prime Video (2482) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMXGSk1sOqEynzHHWnJ4VyhSyKy.jpg" group-title="Movies | Amazon Prime Video",Kangaroo: Uma Aventura na Austrália (2025)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555047.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGAGCL6QWvLougFvP0VN2UEEqTh.jpg" group-title="Movies | Amazon Prime Video",Vendida (2012)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/554828.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w7nbyTJUAa8Pyuv0WzMBL8FofN.jpg" group-title="Movies | Amazon Prime Video",Os Donos da Noite (2007)
@@ -2816,7 +2822,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/541619.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/541524.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo8ErRrTzRYQvj6Y38ivScLQaiw.jpg" group-title="Movies | Amazon Prime Video",Bela e Sebástien: A Nova Geração (2022)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/541465.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxxs3Rziadj60ZZP60wsmitMd0v.jpg" group-title="Movies | Amazon Prime Video",Tati, a Garota (1973)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GbwHQp0g4dyoTRx8KRa8YHVhQZ.jpg" group-title="Movies | Amazon Prime Video",Tati, a Garota (1973)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/541207.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlj2aTbNi0eNXyPeQ5NxpjROBYI.jpg" group-title="Movies | Amazon Prime Video",Rastros da Violência (2013)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/541204.mp4
@@ -19321,7 +19327,9 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/6056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Diverso",反恐特战队之猎影
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/143.mp4
 
-# --- Movies | Documentário (871) ---
+# --- Movies | Documentário (872) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWCu3bkOb3ufzMqhfJcrl5LmVD8.jpg" group-title="Movies | Documentário",As Cores e Amores de Lore (2025)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555076.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlj3bZSAl4d4aJsbQXgKApA5Mpa.jpg" group-title="Movies | Documentário",Termodielétrico (2023)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/554993.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXekzNaqJXOV9xZk2XP0zEI2vmj.jpg" group-title="Movies | Documentário",Ferro's Bar (2023)
@@ -21065,7 +21073,11 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/6832.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentário",Pílula de Farinha: O Escândalo que Gerou Vidas
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/8160.mp4
 
-# --- Movies | Dorama (566) ---
+# --- Movies | Dorama (568) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",What Will You Do, Ieyasu? (2023) [L]
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10170.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",Quatro Mãos, Duas Sonatas
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10165.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",O Último Juramento [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/10161.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",O Destino do Amor [L]
@@ -22199,7 +22211,11 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/7902.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",รักสุดท้าย [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/8351.mp4
 
-# --- Movies | Drama (2060) ---
+# --- Movies | Drama (2063) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cJbu8IOzvRCo0jWnbK4IllzcSe.jpg" group-title="Movies | Drama",Deuses da Peste (2025)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555038.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg" group-title="Movies | Drama",O Estranho (2024)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555031.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29SNRUTcgrtfsnrfnSRgRVB2QZm.jpg" group-title="Movies | Drama",Praia Formosa (2024)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/554994.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuWuyVOPjttUBgUAth8MI1KcJrR.jpg" group-title="Movies | Drama",Quando Eu Me Encontrar (2024)
@@ -23532,7 +23548,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/1680.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/1449.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNotOC9KQdX3Y170ku7GWaLBks5.jpg" group-title="Movies | Drama",Cavalos Selvagens (2010)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/940.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aeltt5tl02zrEj4GoMynHc94lWG.jpg" group-title="Movies | Drama",Chaplin (1992)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEbD5ibsuZOZF522bb3RXtOYg35.jpg" group-title="Movies | Drama",Chaplin (1992)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/6706.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg" group-title="Movies | Drama",Che: O Argentino (2008)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/298383.mp4
@@ -25374,6 +25390,8 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/504549.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/308625.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nigCd4SaacDaLZSKsXWWnDMqJtM.jpg" group-title="Movies | Drama",WWE Wrestlepalooza 2025 (2025)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/308183.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Um Conto de Duas Cidades
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10164.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Sheriff Country
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/10159.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Alucinação
@@ -28472,7 +28490,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/114200.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/100465.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw5WSquF8joM6lcP2KNoMDXJ2Z3.jpg" group-title="Movies | Globoplay",Medo da Chuva (2021)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/5143.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqcAGvm6DaAC2ejKBx44QjDfELl.jpg" group-title="Movies | Globoplay",Medusa (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nznG4cpLtIHJN5SsvN4rhotLAuI.jpg" group-title="Movies | Globoplay",Medusa (2021)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/138250.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht1TuxKV4fMlHdPetWaQdgwiMwT.jpg" group-title="Movies | Globoplay",Memória de um Crime (2018)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/280711.mp4
@@ -29987,7 +30005,15 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/4046.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",X-Men: Evolution
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/3199.mp4
 
-# --- Movies | Lançamento (1518) ---
+# --- Movies | Lançamento (1522) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqL5x88i7loWlaCRJIxW0Wy48bB.jpg" group-title="Movies | Lançamento",Untold Mr. T: I Pity the Fool (2026)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555079.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unwbaCbSaszQlic1Tc5DcsF5hYB.jpg" group-title="Movies | Lançamento",Technocracia: O Algoritmo do Poder [4K] (2026)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555074.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZxbfDA3OCcwAFwIgOGC4Rauogn.jpg" group-title="Movies | Lançamento",Golpe Explosivo [4K] (2026)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555023.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Athmtx06Un1OUWF33IVWExTPs6X.jpg" group-title="Movies | Lançamento",The Girl in the River [L] (2026)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg" group-title="Movies | Lançamento",LEGO Star Wars: The Mandalorian [4K] (2026)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/555018.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Hc0QF0bJPyGXlQBq8NdzqqE3L4.jpg" group-title="Movies | Lançamento",Fito Páez: O Mundo Cabe em Uma Canção [L] (2026)
@@ -33025,7 +33051,15 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/2546.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",The Beginning After the End [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/7298.mp4
 
-# --- Movies | Legendado (11443) ---
+# --- Movies | Legendado (11449) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO5lPMcJJutpbbSXPUmQG0JVDiZ.jpg" group-title="Movies | Legendado",Penelope 2 [L] (2025)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555050.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMXGSk1sOqEynzHHWnJ4VyhSyKy.jpg" group-title="Movies | Legendado",Kangaroo: Uma Aventura na Austrália [L] (2025)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555048.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cJbu8IOzvRCo0jWnbK4IllzcSe.jpg" group-title="Movies | Legendado",Deuses da Peste [L] (2025)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555036.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg" group-title="Movies | Legendado",O Estranho [L] (2024)
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/555028.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8pRkmqZjAqiwp7EC2bkmj96sjv.jpg" group-title="Movies | Legendado",Fragmentos da Vida [L] (2023)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/555014.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo4zzGeHmfM9ScvbNEMv8zWpfQw.jpg" group-title="Movies | Legendado",Como Costumava Ser [L] (2023)
@@ -36302,7 +36336,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/519338.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/519336.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCWSMavOruKE11nWGOw5CtB61pK.jpg" group-title="Movies | Legendado",O Dragão e o Feiticeiro [L] (1981)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/519334.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gWuVoGaMQFFp9Cu0AMRJ5GsoVg.jpg" group-title="Movies | Legendado",O Dia do Atentado [L] (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0NYVvl6makz2EATYh0qRR5JFnL.jpg" group-title="Movies | Legendado",O Dia do Atentado [L] (2016)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/519333.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6GCop0W5pZZFRIcn4SCl8WBIsr.jpg" group-title="Movies | Legendado",O Amante de Lady Chatterley [L] (1981)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/519326.mp4
@@ -51920,6 +51954,10 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/303195.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/308180.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="Movies | Legendado",ZOMBIES 4: A Era dos Vampiros [L] (2025)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/297531.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Mushoku Tensei: Jobless Reincarnation [L]
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10169.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Katana Maidens ~ Toji No Miko [L]
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",O Amor Não Espera [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/10163.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Alix Earle pelo Mundo [L]
@@ -63447,7 +63485,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/3649.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QEVz90ufqCdKcaKFwTipmq2VmD.jpg" group-title="Movies | Música",Outro Conto da Nova Cinderela (2008)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/774.mp4
 
-# --- Movies | Netflix (3993) ---
+# --- Movies | Netflix (3994) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVH4Mi6W1sYGrF98wlaQB3WSADi.jpg" group-title="Movies | Netflix",A Arte de Economizar (2022)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/554998.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFCfFSPdD0N9xzHEB9iVYu4H0jH.jpg" group-title="Movies | Netflix",Felicidade em Dobro (2026)
@@ -65562,7 +65600,7 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/6148.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/139390.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0TrqcymD4EYtp7aczJwIpTJ1gY.jpg" group-title="Movies | Netflix",Mo Gilligan: Momentum (2019)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/2671.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r13nVjpvwyobKKgJ2VpVE15FLgh.jpg" group-title="Movies | Netflix",Mobile Suit Gundam Hathaway (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" group-title="Movies | Netflix",Mobile Suit Gundam Hathaway (2021)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/6522.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" group-title="Movies | Netflix",Modo Avião (2020)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/3137.mp4
@@ -67896,6 +67934,8 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/502676.mp4
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/300059.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bVfFo7PLMcRICRIbzPkWZzYIWY.jpg" group-title="Movies | Netflix",Untold: A Queda de Brett Favre (2025)
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/286474.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Infiltrados nas Gangues
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10167.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",50 Segundos: O Caso Fernando Báez Sosa
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/10148.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",The Confession Tapes
@@ -71447,7 +71487,9 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/4598.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | News",Profissão Repórter
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/4605.mp4
 
-# --- Movies | Novela (283) ---
+# --- Movies | Novela (284) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Colisão
+http://limed.cc:80/movie/ZWsDKE/XZu7nP/10166.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",As Filhas da Senhora Garcia
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/10100.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novela",Dallas
@@ -76087,4 +76129,4 @@ http://limed.cc:80/movie/ZWsDKE/XZu7nP/2553.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Turcas",פולמון [L]
 http://limed.cc:80/movie/ZWsDKE/XZu7nP/7576.mp4
 
-# Total: 37990
+# Total: 38011

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-09-08 08:14:07
+# Generated: 2026-09-08 21:42:48
 # Expires: 2026-09-22
 # Family Safe Edition
 # ==============================================
@@ -53337,7 +53337,7 @@ http://nocable.cc:8080/movie/92370096/92370096/200943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg" group-title="Movies | Science Fiction",Young Ones (2014)
 http://nocable.cc:8080/movie/92370096/92370096/200944.mp4
 
-# --- Movies | Spanish Movies (1148) ---
+# --- Movies | Spanish Movies (1149) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",
 http://nocable.cc:8080/movie/92370096/92370096/202205.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Spanish Movies",2 Minutos de Fama (2020)
@@ -55634,6 +55634,8 @@ http://nocable.cc:8080/movie/92370096/92370096/330395.mp4
 http://nocable.cc:8080/movie/92370096/92370096/330396.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg" group-title="Movies | Spanish Movies",Sunrise: El ultimo amanecer (2026) {Spanish - Edition}
 http://nocable.cc:8080/movie/92370096/92370096/330397.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" group-title="Movies | Spanish Movies",Spider-Man: Brand New Day (2026) {Spanish - Edition}
+http://nocable.cc:8080/movie/92370096/92370096/331018.mkv
 
 # --- Movies | Star Trek Movie Collection (13) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Movies | Star Trek Movie Collection",Star Trek (2009)
@@ -60775,4 +60777,4 @@ http://nocable.cc:8080/series/92370096/92370096/2396
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Curb Your Enthusiasm
 http://nocable.cc:8080/series/92370096/92370096/2400
 
-# Total: 30303
+# Total: 30304
