@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-09-08 21:49:53
+# Generated: 2026-09-09 08:18:26
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -9482,7 +9482,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/505410.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/505845.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hnXBM6YmOQX8geXk5oV4FuItHSI.jpg" group-title="Movies | Family [VOD]",Sune vs Sune (2018)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/505900.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="Movies | Family [VOD]",Moana (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="Movies | Family [VOD]",Moana (2026) Sv.Tal
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/511246.mkv
 
 # --- Movies | Halloween[VOD] (20) ---
@@ -15353,7 +15353,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404598
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Marvel's The Punisher
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404626
 
-# --- Series | Anime [Series] (91) ---
+# --- Series | Anime [Series] (92) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",High Score
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/513326
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",South Park
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/512792
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",President Curtis
@@ -16840,8 +16842,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/456694
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/455691
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Wild Australia
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/447980
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Schmeichel
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404689
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Taco Chronicles
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404692
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Surviving Black Hawk Down
@@ -17254,6 +17254,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404677
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404682
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Signs of a Psychopath
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404683
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Schmeichel
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404689
 
 # --- Series | Drama [Series] (694) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Parenthood
@@ -21021,4 +21023,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 10451
+# Total: 10452

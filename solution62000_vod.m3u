@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-09-08 08:24:49
+# Generated: 2026-09-09 08:18:42
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1239,7 +1239,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1727) ---
+# --- Movies | Films (1729) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yphysF14qWFvrIbFVg3vEnbudwT.jpg" group-title="Movies | Films",The Anacondas (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30429.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg" group-title="Movies | Films",Juste pour une Nuit (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30428.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg" group-title="Movies | Films",Vaiana, la légende du bout du monde (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30420.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvZ8GzOwDsWmIq1Ti8rT0qf62Fm.jpg" group-title="Movies | Films",La Grande Révélation (2026)
@@ -8767,4 +8771,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1293
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Qui sera le plus nul ?
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1295
 
-# Total: 4349
+# Total: 4351

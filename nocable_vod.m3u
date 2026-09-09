@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-09-08 21:42:48
+# Generated: 2026-09-09 08:20:58
 # Expires: 2026-09-22
 # Family Safe Edition
 # ==============================================
@@ -6839,7 +6839,7 @@ http://nocable.cc:8080/movie/92370096/92370096/327463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="Movies | 2025 MOVIES",Roofman (2025)
 http://nocable.cc:8080/movie/92370096/92370096/328162.mkv
 
-# --- Movies | 2026 Movies (512) ---
+# --- Movies | 2026 Movies (522) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://nocable.cc:8080/movie/92370096/92370096/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7864,6 +7864,26 @@ http://nocable.cc:8080/movie/92370096/92370096/331012.mp4
 http://nocable.cc:8080/movie/92370096/92370096/331013.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg" group-title="Movies | 2026 Movies",The Wrong Girls (2026)
 http://nocable.cc:8080/movie/92370096/92370096/331014.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg" group-title="Movies | 2026 Movies",Clash of the Thundermans (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331019.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg" group-title="Movies | 2026 Movies",Come with Me (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331020.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivsJigetkc9ziOc6j0FenDilrRA.jpg" group-title="Movies | 2026 Movies",Fight Against Evil 3 (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ElfoGsR5VQ5raCBnLV23jAcsrr.jpg" group-title="Movies | 2026 Movies",Flowers of the Earth (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331022.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUy3Lu0Y9NwADQ9JAcuF0umXbiN.jpg" group-title="Movies | 2026 Movies",In the Circle of Life (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331023.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="Movies | 2026 Movies",Mayday (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ql3J53DIWJtbw8Q1D72IcTlvWHe.jpg" group-title="Movies | 2026 Movies",SILA: The Life Within Everything (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331025.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg" group-title="Movies | 2026 Movies",Splash City (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331026.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmKKNOFIfEh94ii7wChJZe5ghlo.jpg" group-title="Movies | 2026 Movies",Threshold (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331027.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSPbxVI1q5sCS4fegzoFByzE749.jpg" group-title="Movies | 2026 Movies",Turning Point: Generation 9/11 (2026)
+http://nocable.cc:8080/movie/92370096/92370096/331028.mp4
 
 # --- Movies | Action Movies (1646) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -60777,4 +60797,4 @@ http://nocable.cc:8080/series/92370096/92370096/2396
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Curb Your Enthusiasm
 http://nocable.cc:8080/series/92370096/92370096/2400
 
-# Total: 30304
+# Total: 30314

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-09-08 21:46:40
+# Generated: 2026-09-09 08:23:59
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -28889,7 +28889,9 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/55425.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4s4uGqz9maWSiiIpeHl1oOBTQZ.jpg" group-title="Movies | TR-VOD | EXXEN TV FILMLER",Tosuncuk (2021)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/55426.mkv
 
-# --- Movies | TR-VOD | Fantastik/Bilim-Kurgu (209) ---
+# --- Movies | TR-VOD | Fantastik/Bilim-Kurgu (210) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Elevation (2024) TR
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189694.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjWPpsHsLbAA6LmmOBtF8YEpNWP.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Yaratık (2024) TR
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189589.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cASxZyI3spiUyMrmEPlNyk7i7YP.jpg" group-title="Movies | TR-VOD | Fantastik/Bilim-Kurgu",Sonsuz (2024) TR
@@ -32517,7 +32519,7 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/88778.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DOsJmMYyihzhx3wBAD97CpbE09.jpg" group-title="Movies | TR-VOD | WESTERN",Süvari
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/41785.mkv
 
-# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1081) ---
+# --- Movies | TR-VOD | YERLI SINEMA FILMLER (1082) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36235.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwzWzfAA5UcKQTsSGAxdIyo4sKh.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Efes'in Sırrı (2026)
@@ -34680,6 +34682,8 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148849.mkv
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/148850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mavzer (2020)
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/73341.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipF8vjrmNUezsdGMq1Bi89Fjghn.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Yalancı Komşu (2026)
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189695.mkv
 
 # --- Movies | TÜRK YABANCI INTERNET DIZILER (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TÜRK YABANCI INTERNET DIZILER",TR: Hausen
@@ -42457,4 +42461,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21158
+# Total: 21160
