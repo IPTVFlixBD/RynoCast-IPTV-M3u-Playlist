@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-09-09 08:23:59
+# Generated: 2026-09-09 21:40:52
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1591,11 +1591,13 @@ http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4713) ---
+# --- Movies | DE | CINEMA VOD (4714) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/36242.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRlIaMbAmye8kyOTQFpS8HYEmSY.jpg" group-title="Movies | DE | CINEMA VOD",Mayday (2026) DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189472.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keChzhb7QyhM0QmTF26iwWHx8qE.jpg" group-title="Movies | DE | CINEMA VOD",Drawn Together (2026) DE
+http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189699.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QTo3OgSqS09jFYPwQWXyx0fi2W.jpg" group-title="Movies | DE | CINEMA VOD",Die Einwilligung (2023)  DE
 http://51.89.76.111:2086/movie/Murathohenems/RyKQT5O2lh/189592.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NK8BR2sry20ByzglDQbnE7P9s0.jpg" group-title="Movies | DE | CINEMA VOD",A Useful Ghost (2025) DE
@@ -42461,4 +42463,4 @@ http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://51.89.76.111:2086/series/Murathohenems/RyKQT5O2lh/3927
 
-# Total: 21160
+# Total: 21161
