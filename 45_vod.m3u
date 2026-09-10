@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-09-10 08:15:32
+# Generated: 2026-09-10 21:33:40
 # Expires: 2027-07-21
 # Family Safe Edition
 # ==============================================
@@ -5813,7 +5813,11 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/22481.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DramaBite [ English ]",Love Story in a Flower Village
 http://45.139.122.199:8080/movie/Christian1/Christian1/22482.mp4
 
-# --- Movies | English [Multi-Sub] (4534) ---
+# --- Movies | English [Multi-Sub] (4537) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Perfect Lie
+http://45.139.122.199:8080/movie/Christian1/Christian1/23949.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Crew Girl
+http://45.139.122.199:8080/movie/Christian1/Christian1/23948.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Aces: The ATP No.1 Club
 http://45.139.122.199:8080/movie/Christian1/Christian1/23938.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Hitler’s Treasure Hunters
@@ -14876,6 +14880,8 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/23891.mp4
 http://45.139.122.199:8080/movie/Christian1/Christian1/23929.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Drop: A Snowfall Saga
 http://45.139.122.199:8080/movie/Christian1/Christian1/23934.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Chumbak
+http://45.139.122.199:8080/movie/Christian1/Christian1/23952.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",The Bureau - Falsk Identitet
 http://45.139.122.199:8080/movie/Christian1/Christian1/3975.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | English [Multi-Sub]",Unforgotten
@@ -39789,7 +39795,7 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2592473.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70XG1caWZdOXZzxMk0ng605nfrh.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Dudesons Movie [PRE] [2006]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2592474.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (6099) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (6104) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6h6HwucncSxn06sMNROJ9apLC5.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Christian1/Christian1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -51988,6 +51994,16 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/2595340.mkv
 http://45.139.122.199:8080/movie/Christian1/Christian1/2595341.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Why Did I Get Married Again? [PRE] [2026]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2595342.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXfTsv6JICfz9aH910iViUb9Yhr.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",A Mind in Chaos [PRE] [2025]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2597738.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Band of Brothers: Legacy [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2597739.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Call My Agent! The Movie [PRE] [2026]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2597740.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oPInmYkZ4uTg9e7ql0k3Xohnby.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",In Fidelity [PRE] [2024]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2597741.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/845wyTrzPL8gXx1hHbtH2a5YVPq.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Last Cabin [PRE] [2025]
+http://45.139.122.199:8080/movie/Christian1/Christian1/2597742.mkv
 
 # --- Movies | Recent releases [English subtitles] (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Recent releases [English subtitles]",Close to Home
@@ -53919,4 +53935,4 @@ http://45.139.122.199:8080/movie/Christian1/Christian1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Christian1/Christian1/2173473.mkv
 
-# Total: 26922
+# Total: 26930
