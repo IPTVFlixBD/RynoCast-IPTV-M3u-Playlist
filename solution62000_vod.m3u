@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-09-09 08:18:42
+# Generated: 2026-09-10 08:24:29
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -51,7 +51,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2983.mp4
 #EXTINF:-1 tvg-logo="http://boxhd2.selfip.com/pic/q23.jpg" group-title="Movies | AL Quran Al Karim",alfurqan
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2984.mp4
 
-# --- Movies | Apple tv+ (105) ---
+# --- Movies | Apple tv+ (106) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg" group-title="Movies | Apple tv+",Les Fous du pickleball (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/29486.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoizilI4sXe6xycONzAwZnfhT2v.jpg" group-title="Movies | Apple tv+",Vol de nuit pour Los Angeles (2026)
@@ -262,6 +262,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1249.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1265.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",The Shrink Next Door
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1266.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",Portée disparue
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1297.mp4
 
 # --- Movies | Cowboys (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjXKy5b2M3fDelAQItIswcDNvwm.jpg" group-title="Movies | Cowboys",Il était une fois dans l'Ouest (1968)
@@ -1239,7 +1241,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1729) ---
+# --- Movies | Films (1731) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yphysF14qWFvrIbFVg3vEnbudwT.jpg" group-title="Movies | Films",The Anacondas (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30429.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg" group-title="Movies | Films",Juste pour une Nuit (2026)
@@ -1654,6 +1656,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1siNqjRQ5OeJl6tQH8274WnMZ7p.jpg" group-title="Movies | Films",La Guerre des mafias (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30439.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/57S1VZ6g7Z2ypr692CIZrR0KkUf.jpg" group-title="Movies | Films",L'Amnésique (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30440.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oTolMLsevJof3XUaTjO7EwZiicn.jpg" group-title="Movies | Films",Lettres siciliennes (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30413.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9MwDl4z2bTZn3fPYdYndjW2x60.jpg" group-title="Movies | Films",La Foi des Anges (2025)
@@ -5667,7 +5673,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (524) ---
+# --- Movies | NETFLIX (525) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8mmQWqkvZrvxqr21WhV7Pk0WIHl.jpg" group-title="Movies | NETFLIX",Pourquoi je me suis marié, déjà ? (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30432.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Movies | NETFLIX",Gandhari (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30386.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSsX2LnGzyfHR9RioDEiLrPy5wa.jpg" group-title="Movies | NETFLIX",The Whisper Man (2026)
@@ -8771,4 +8779,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1293
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Qui sera le plus nul ?
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1295
 
-# Total: 4351
+# Total: 4355
