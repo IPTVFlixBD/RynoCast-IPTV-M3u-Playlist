@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-09-10 21:35:10
+# Generated: 2026-09-11 08:19:04
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -32528,6 +32528,8 @@ http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/41785.mkv
 # --- Movies | TR-VOD | YERLI SINEMA FILMLER (1082) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",##### TURK VOD YERLI FILIMLER #####
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/36235.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipF8vjrmNUezsdGMq1Bi89Fjghn.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Yalancı Komşu (2026)
+http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/189695.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwzWzfAA5UcKQTsSGAxdIyo4sKh.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Efes'in Sırrı (2026)
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/189483.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82w6cL5WmLG8KmVecsvZnO1dUTe.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Iki Tez Arasinda (2026)
@@ -34688,8 +34690,6 @@ http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/148849.mkv
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/148850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Mavzer (2020)
 http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/73341.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipF8vjrmNUezsdGMq1Bi89Fjghn.jpg" group-title="Movies | TR-VOD | YERLI SINEMA FILMLER",Yalancı Komşu (2026)
-http://no1.no1turk.com:2086/movie/T.Tarkan/DKiQCHhmAo/189695.mkv
 
 # --- Movies | TÜRK YABANCI INTERNET DIZILER (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TÜRK YABANCI INTERNET DIZILER",TR: Hausen

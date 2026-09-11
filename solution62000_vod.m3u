@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-09-10 21:36:40
+# Generated: 2026-09-11 08:16:47
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -279,7 +279,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (259) ---
+# --- Movies | Dessins Animés (260) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h1FVf2kiS1964VsGmkYQHJoVsHe.jpg" group-title="Movies | Dessins Animés",Les Légendaires (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28205.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
@@ -378,6 +378,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1793.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg" group-title="Movies | Dessins Animés",Vice-versa - 2015
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1459.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tincY2hhSGkpGncWMDUfrwku6Q2.jpg" group-title="Movies | Dessins Animés",La Pat’ Patrouille : Le film mission Dino (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30456.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePafPnFV817iSOs9I6EB805EGX2.jpg" group-title="Movies | Dessins Animés",Yellow Mirror (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30240.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yng4wYjB9cjX7np9c9YqfJjX52o.jpg" group-title="Movies | Dessins Animés",LEGO Star Wars: The Mandalorian (2026)
@@ -1241,7 +1243,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1731) ---
+# --- Movies | Films (1732) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jUqVCXGWjSOTsY0WSXxlzNOobqS.jpg" group-title="Movies | Films",Élise sous emprise (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30449.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yphysF14qWFvrIbFVg3vEnbudwT.jpg" group-title="Movies | Films",The Anacondas (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30429.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg" group-title="Movies | Films",Juste pour une Nuit (2026)
@@ -5673,7 +5677,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (525) ---
+# --- Movies | NETFLIX (526) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s0NJyZcmuG91MgFwflfGyQFeg41.jpg" group-title="Movies | NETFLIX",Dix Pour Cent ! Le Film (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30450.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8mmQWqkvZrvxqr21WhV7Pk0WIHl.jpg" group-title="Movies | NETFLIX",Pourquoi je me suis marié, déjà ? (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30432.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Movies | NETFLIX",Gandhari (2026)
@@ -6276,6 +6282,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/834.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1837.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg" group-title="Movies | NETFLIX",How It Ends - 2018
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1836.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f5GffMx59yXNhlsoipD1hOrFV5U.jpg" group-title="Movies | NETFLIX",I Care a Lot. (2021)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWj5vi1luRP82SGogUEBTJwLXgb.jpg" group-title="Movies | NETFLIX",La Terre et le Sang - 2020
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/815.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bh5IFU4JBhk8cS5YOxDC4sFOU4.jpg" group-title="Movies | NETFLIX",La Fracture - 2019
@@ -6290,8 +6298,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1042.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/798.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW5u5YIBExs6oGIXC1QTELqszdm.jpg" group-title="Movies | NETFLIX",Wheelman - 2017
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1541.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f5GffMx59yXNhlsoipD1hOrFV5U.jpg" group-title="Movies | NETFLIX",I Care a Lot. (2021)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/30418.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Star Trek Discovery
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",La casa de papel
@@ -8779,4 +8785,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1293
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Qui sera le plus nul ?
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1295
 
-# Total: 4355
+# Total: 4358
