@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vip.europaiptv.vip:2086
-# Generated: 2026-09-11 08:11:52
+# Generated: 2026-09-11 21:34:33
 # Expires: 2026-09-13
 # Family Safe Edition
 # ==============================================
@@ -1591,9 +1591,21 @@ http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/169049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kcUa2SUD5MzMRmA6JY0axIe5kp.jpg" group-title="Movies | DE | BOLLYWOD CINEMA VOD",Veer & Zaara - Die Legende einer Liebe (2004) DE
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/169050.mkv
 
-# --- Movies | DE | CINEMA VOD (4714) ---
+# --- Movies | DE | CINEMA VOD (4720) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | CINEMA VOD",##### GERMANY VOD FILME #####
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/36242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg" group-title="Movies | DE | CINEMA VOD",Chum (2026) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189708.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg" group-title="Movies | DE | CINEMA VOD",Brothers Under Fire (2026)
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189709.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha9AX2VBj6fQcpuz206d7pKoS8H.jpg" group-title="Movies | DE | CINEMA VOD",Lion Fist – Kampf der Champions (2026) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189710.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DPIRfVn2Aqjcs9ZXvCD7QIgdXM.jpg" group-title="Movies | DE | CINEMA VOD",Meat Kills (2025) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189711.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xxcGE5NOtiC5qnNuWwqKqE3iIQ.jpg" group-title="Movies | DE | CINEMA VOD",Rose (2026) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189712.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bZJbrZ5NUY3KLocV7y567xMQFV.jpg" group-title="Movies | DE | CINEMA VOD",The Eyes of Others - Blicke der Begierde (2026) DE
+http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189713.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRlIaMbAmye8kyOTQFpS8HYEmSY.jpg" group-title="Movies | DE | CINEMA VOD",Mayday (2026) DE
 http://vip.europaiptv.vip:2086/movie/@ozkankarakaya/248CRk62Tu/189472.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keChzhb7QyhM0QmTF26iwWHx8qE.jpg" group-title="Movies | DE | CINEMA VOD",Drawn Together (2026) DE
@@ -41079,4 +41091,4 @@ http://vip.europaiptv.vip:2086/series/@ozkankarakaya/248CRk62Tu/3270
 #EXTINF:-1 tvg-logo="" group-title="Series | TOD TV SERIES",Vicdansız
 http://vip.europaiptv.vip:2086/series/@ozkankarakaya/248CRk62Tu/3927
 
-# Total: 20471
+# Total: 20477

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-09-11 08:18:36
+# Generated: 2026-09-11 21:43:51
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -11731,6 +11731,20 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/312673.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL - ESPN SPORTS",(NL) ESPN Watch 10 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/312672.m3u8
 
+# --- NL - ESPN WATCH (6) ---
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - ESPN WATCH",(NL) Jong Ajax - RKC Waalwijk
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/384062.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - ESPN WATCH",(NL) FC Eindhoven - FC Dordrecht
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/384061.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - ESPN WATCH",(NL) Helmond Sport - Jong PSV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/384060.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - ESPN WATCH",(NL) NAC Breda - Jong FC Utrecht
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/384059.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - ESPN WATCH",(NL) FC Emmen - De Graafschap
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/384058.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxsportseredivisie1hd.png" group-title="NL - ESPN WATCH",(NL) AZ - Willem II
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/384057.m3u8
+
 # --- NL - HBO MAX / EUROSPORT (21) ---
 #EXTINF:-1 tvg-logo="http://ipro.tv/picons/hbomax.png" group-title="NL - HBO MAX / EUROSPORT",(NL) HBO | Event 1 (Alleen Events)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/356018.m3u8
@@ -18079,43 +18093,29 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365945.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Syfy +1 UK.png" group-title="UK - CINEMA",(UK) Syfy ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365944.m3u8
 
-# --- UK - DOCUMENTARY (36) ---
+# --- UK - DOCUMENTARY (27) ---
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Animal Planet UK.png" group-title="UK - DOCUMENTARY",(UK) Animal Planet ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/366000.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Discovery Channel UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Channel
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365996.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Discovery History UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery History ᴴᴰ
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365995.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Discovery Science UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Science
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365993.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Discovery Science +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Science ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365992.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Discovery Turbo UK.png" group-title="UK - DOCUMENTARY",(UK) Discovery Turbo
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365991.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/DMAX UK.png" group-title="UK - DOCUMENTARY",(UK) DMAX
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365990.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/DMAX +1 UK.png" group-title="UK - DOCUMENTARY",(UK) DMAX ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365989.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Blaze UK.png" group-title="UK - DOCUMENTARY",(UK) Blaze
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365998.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Crime+Investigation +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Crime+Investigation ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365997.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Eden UK.png" group-title="UK - DOCUMENTARY",(UK) Eden
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365988.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Eden +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Eden ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365987.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Food Network UK.png" group-title="UK - DOCUMENTARY",(UK) Food Network
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365986.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Food Network +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Food Network ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365985.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/History +1 UK.png" group-title="UK - DOCUMENTARY",(UK) History ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365981.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/HGTV UK.png" group-title="UK - DOCUMENTARY",(UK) HGTV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365984.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/HGTV +1 UK.png" group-title="UK - DOCUMENTARY",(UK) HGTV ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365983.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/History UK.png" group-title="UK - DOCUMENTARY",(UK) History
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365982.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Investigation Discovery UK.png" group-title="UK - DOCUMENTARY",(UK) Investigation Discovery
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365980.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Nat Geo Wild UK.png" group-title="UK - DOCUMENTARY",(UK) Nat Geo Wild
@@ -18124,8 +18124,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365979.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365978.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/QUEST UK.png" group-title="UK - DOCUMENTARY",(UK) Quest
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365977.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/QUEST RED UK.png" group-title="UK - DOCUMENTARY",(UK) Quest Red
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365976.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/QUEST RED +1 UK.png" group-title="UK - DOCUMENTARY",(UK) Quest Red ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365975.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/S Crime UK.png" group-title="UK - DOCUMENTARY",(UK) Real Crime
@@ -18138,8 +18136,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365971.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365970.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/Sky NATURE HD UK.png" group-title="UK - DOCUMENTARY",(UK) Sky Nature ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365969.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/TLC UK.png" group-title="UK - DOCUMENTARY",(UK) TLC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365968.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/TLC +1 UK.png" group-title="UK - DOCUMENTARY",(UK) TLC ᴴᴰ
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/365967.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/UK/TRUE CRIME UK.png" group-title="UK - DOCUMENTARY",(UK) True Crime
@@ -21009,4 +21005,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353620.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/logo/Arablar/1828080.png" group-title="İR - PERSİAN",(IR) Velayat TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/353619.m3u8
 
-# Total: 10279
+# Total: 10276

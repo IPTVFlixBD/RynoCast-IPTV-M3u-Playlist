@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-09-11 08:12:44
+# Generated: 2026-09-11 21:38:24
 # Expires: 2027-08-11
 # Family Safe Edition
 # ==============================================
@@ -941,17 +941,77 @@ http://45.139.122.199:8080/live/Martin1/martin1/1160305.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Barclays Womens Super League UK",US (P+) Barclays Womens Super League 20
 http://45.139.122.199:8080/live/Martin1/martin1/1160306.m3u8
 
-# --- DAZN SE (2) ---
+# --- DAZN SE (14) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/dazn-us.png" group-title="DAZN SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/1304294.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/94zrzvm8jhxg1ql9bjrrrz2yl_image-header_pRow_1789025603000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",07:00 Wildstrubel by UTMB - Day 1 9/11 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2597622.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z0rylextrskp12k0yfu30mpg1_image-header_pRow_1787910489000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",15:00 Tanzania U20 vs. Canada U20 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598431.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/184zv2nhvogas18evu1ce8masm_image-header_pRow_1787908069000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",15:00 England U20 vs. Brazil U20 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598430.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/n0pzhu8lbmec1gtheb24h0ya2_image-header_pRow_1786457364000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",15:10 TAIF Racing Season 2026 - Week 8, Day 1 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598429.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qfx8yzjnz0ri18evud7v6k6ul_image-header_pRow_1789031727000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",18:00 Jordan McCann vs. Big Stacks: Weigh-In 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598428.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3nh6c5va8rqr1ing37aqtokvx_image-header_pRow_1787908061000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",18:00 Benin U20 vs. Poland U20 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598427.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11t37jkiup54j1hk1av1zq3l9a_image-header_pRow_1787822554000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",18:00 Argentina U20 vs. Mexico U20 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598426.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ipmprgr22srn1s5f08zmfp4ow_image-header_pRow_1788451205000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:00 Powell vs. Shepherd 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598425.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a7rfuhugwnwf4yvu3baesv6sq_image-header_pRow_1787231250000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:45 Mechelen vs. Anderlecht 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598424.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19m4yfi1mnmb10gct7mf08frx_image-header_pRow_1788865472000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",22:00 MLTT - Week 1, Day 1 9/11 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598423.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/iqsd8qblb0751gk9ahkwh1jr6_image-header_pRow_1788797634000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",01:00 Perdomo vs. Hill 9/12 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598422.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wne5ou575xj21qgnsf6k93zup_image-header_pRow_1787921657000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",03:00 Marquez vs. Sanchez 9/12 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598421.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2fxed03pvgtq1jo92eetnszma_image-header_pRow_1788965498000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",02:00 Garcia vs. Benn: Weigh-In 9/12 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598420.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/by87z8gvc9621u3py2hitiupb_image-header_pRow_1788274779000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",06:30 IRONMAN 70.3 World Championship Nice - Day 1 - Women 9/12 [DAZN SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598419.m3u8
 
-# --- DAZN UK (2) ---
+# --- DAZN UK (20) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/dazn-us.png" group-title="DAZN UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2499603.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/94zrzvm8jhxg1ql9bjrrrz2yl_image-header_pRow_1789025603000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",06:00 Wildstrubel by UTMB - Day 1 9/11 [DAZN UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2597621.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z0rylextrskp12k0yfu30mpg1_image-header_pRow_1787910489000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",14:00 Tanzania U20 vs. Canada U20 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598416.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/184zv2nhvogas18evu1ce8masm_image-header_pRow_1787908069000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",14:00 England U20 vs. Brazil U20 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598415.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/n0pzhu8lbmec1gtheb24h0ya2_image-header_pRow_1786457364000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",14:10 TAIF Racing Season 2026 - Week 8, Day 1 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598414.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vcyrw7bhv0or1pi8y3uqt3lw9_image-header_pRow_1789031727000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",17:00 Jordan McCann vs. Big Stacks: Weigh-In 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598412.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3nh6c5va8rqr1ing37aqtokvx_image-header_pRow_1787908061000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",17:00 Benin U20 vs. Poland U20 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598411.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11t37jkiup54j1hk1av1zq3l9a_image-header_pRow_1787822554000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",17:00 Argentina U20 vs. Mexico U20 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598410.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6yxl7myyqbckhwjzqy7arxsca_image-header_pRow_1787558234000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",17:30 Werder Bremen vs. Hamburg 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598409.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ipmprgr22srn1s5f08zmfp4ow_image-header_pRow_1788451205000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",19:00 Powell vs. Shepherd 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598408.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6b64ysk2xo9u10lk9ozjylc2x_image-header_pRow_1787722316000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",19:09 Rally Chile Bio Bío: Stage 4 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598407.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/190g0gltym5yree5fuv06cmiq_image-header_pRow_1783698744000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",19:45 Venezia vs. Fiorentina 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598406.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a7rfuhugwnwf4yvu3baesv6sq_image-header_pRow_1787231250000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",19:45 Mechelen vs. Anderlecht 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598405.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7eb1aoo2hq0x1427sv61envn0_image-header_pRow_1787722751000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",20:05 Rally Chile Bio Bío: Stage 5 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598404.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/12c1m6ry2zscf181fm9rnmslqe_image-header_pRow_1787723010000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",20:52 Rally Chile Bio Bío: Stage 6 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598403.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19m4yfi1mnmb10gct7mf08frx_image-header_pRow_1788865472000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",21:00 MLTT - Week 1, Day 1 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598402.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nrnq2xpg2xse1abgn4kszhn0i_image-header_pRow_1787723287000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",22:45 Rally Chile Bio Bío: Studio and Media Zone Reports from Service B Concepción 9/11 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598401.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/iqsd8qblb0751gk9ahkwh1jr6_image-header_pRow_1788797634000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",00:00 Perdomo vs. Hill 9/12 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598400.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wne5ou575xj21qgnsf6k93zup_image-header_pRow_1787921657000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",02:00 Marquez vs. Sanchez 9/12 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598399.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2fxed03pvgtq1jo92eetnszma_image-header_pRow_1788965498000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",01:00 Garcia vs. Benn: Weigh-In 9/12 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598398.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/by87z8gvc9621u3py2hitiupb_image-header_pRow_1788274779000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN UK",05:30 IRONMAN 70.3 World Championship Nice - Day 1 - Women 9/12 [DAZN UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598397.m3u8
 
 # --- DR Sport DK (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/DR_logo.png" group-title="DR Sport DK",-= Reload your playlist =-
@@ -1391,17 +1451,59 @@ http://45.139.122.199:8080/live/Martin1/martin1/41317.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Denmark",Viasat Nature FHD DK [Multi-Sub]
 http://45.139.122.199:8080/live/Martin1/martin1/774461.m3u8
 
-# --- DirekteSport Events DK (1) ---
+# --- DirekteSport Events DK (12) ---
 #EXTINF:-1 tvg-logo="https://direktesport.dk/assets/1768306695/kodus/jfm-brands/brands/direktesport/favicons/android-icon-192x192.png" group-title="DirekteSport Events DK",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/686202.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-30f1a934-2e98-4ebd-9da6-99eca812c41a-1788374320611.jpg" group-title="DirekteSport Events DK",18:25 DHG Håndbold - GOG Dame Elite (1. division Kvinder) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598660.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-2ff1c4b2-d4fe-4e97-b7f5-b031c2130a7d-1788765536454.jpg" group-title="DirekteSport Events DK",18:55 HC Midtjylland - Rækker Mølle Håndbold (1. division Herrer) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598659.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-f5407fdf-9f73-4f7b-a083-767255648c30-1788595603989.jpg" group-title="DirekteSport Events DK",18:55 AK Akademi - Rungsted-Hørsholm FK (Unihoc Floorball Liga Herrer) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598658.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-9aada3a3-18af-4a1d-a4ad-da1f1608fc3c-1788374682425.jpg" group-title="DirekteSport Events DK",18:55 Aarhus Håndbold Herrer - Lemvig-Thyborøn Håndbold (1. division Herrer) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598657.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-811bafb0-9e39-47ff-a603-0319ada412bf.png" group-title="DirekteSport Events DK",18:55 Herning - Esbjerg (U19.1 Vest) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598656.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-d0e19555-f645-4b22-bdfd-dc8529d188e5-1788521163856.jpg" group-title="DirekteSport Events DK",18:55 Fremad Amager - HIK (2. division) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598655.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-5338a0bf-699b-40f0-9cb8-58e13bc439f0-1788680621443.jpg" group-title="DirekteSport Events DK",19:20 Rødovre - Gladsaxe (U16.2 Øst) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598654.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-171adc0c-d49b-45e1-aa83-1f3b1b521088.png" group-title="DirekteSport Events DK",19:25 Herlev - Gentofte (U16.1 Øst) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598653.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-b359c801-b76c-447d-a85d-4c3a3b5c8631-1788595626198.jpg" group-title="DirekteSport Events DK",19:25 Frederikshavn Blackhawks - Sunds Seahawks FC (Unihoc Floorball Liga Herrer) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598652.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-905d715c-ff6b-407e-8040-d2654795ca81.png" group-title="DirekteSport Events DK",19:40 Odense - Vojens (U19.1 Vest) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598651.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/v-i-89475893-b6d5-4b1b-a7f8-6654363cc73d-1788595655170.jpg" group-title="DirekteSport Events DK",19:55 KHA - Gentofte (Kvindeligaen) 9/11 [Direktesport DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598650.m3u8
 
-# --- Disney Plus DK (1) ---
+# --- Disney Plus DK (6) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1340808.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cdd11-6864-7901-b203-2f80eb4aa32c/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",20:55 Sevilla v Valencia 9/11 [Disney+ DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598666.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a01650-2603-7290-aeda-3cdf06e73639/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",23:00 Old Dominion vs. North Carolina 9/11 [Disney+ DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598665.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a01650-19e1-72a3-a171-0bd3793b2d19/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",01:00 #1 Stanford vs. North Carolina 9/12 [Disney+ DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598664.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0162b-612d-7ac0-9a2d-ba43e6d6be81/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",01:00 Richmond vs. NC State 9/12 [Disney+ DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598663.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0027b-b9db-7377-83f4-863bcfdb2538/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",01:30 Rutgers vs. Boston College 9/12 [Disney+ DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598662.m3u8
 
-# --- Disney Plus SE (1) ---
+# --- Disney Plus SE (6) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/995342.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cdd11-6864-7901-b203-2f80eb4aa32c/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",20:55 Sevilla v Valencia 9/11 [Disney+ SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598897.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a01650-2603-7290-aeda-3cdf06e73639/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",23:00 Old Dominion vs. North Carolina 9/11 [Disney+ SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598896.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a01650-19e1-72a3-a171-0bd3793b2d19/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",01:00 #1 Stanford vs. North Carolina 9/12 [Disney+ SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598895.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0162b-612d-7ac0-9a2d-ba43e6d6be81/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",01:00 Richmond vs. NC State 9/12 [Disney+ SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598894.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0027b-b9db-7377-83f4-863bcfdb2538/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",01:30 Rutgers vs. Boston College 9/12 [Disney+ SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598893.m3u8
 
 # --- EFL CUP UK (50) ---
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="EFL CUP UK",US (P+) EFL CUP 1
@@ -1623,9 +1725,13 @@ http://45.139.122.199:8080/live/Martin1/martin1/1414649.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/elitserien-live.png" group-title="Elitserien Live SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/403068.m3u8
 
-# --- EttanPlay SE (1) ---
+# --- EttanPlay SE (3) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Ettan-play.png" group-title="EttanPlay SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/546623.m3u8
+#EXTINF:-1 tvg-logo="https://minfotboll.blob.core.windows.net/leagueorganizerid27/6f16c1f2-cb39-4694-8cb7-83a7e8b29611_266742.jpg" group-title="EttanPlay SE",18:55 Södra: Lunds BK - FC Rosengård 9/11 [ETTAN]
+http://45.139.122.199:8080/live/Martin1/martin1/2598616.m3u8
+#EXTINF:-1 tvg-logo="https://minfotboll.blob.core.windows.net/leagueorganizerid27/6f16c1f2-cb39-4694-8cb7-83a7e8b29611_266742.jpg" group-title="EttanPlay SE",18:55 Södra: FC Trollhättan - Utsiktens BK 9/11 [ETTAN]
+http://45.139.122.199:8080/live/Martin1/martin1/2598615.m3u8
 
 # --- FIFA+ Events (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/fifa.png" group-title="FIFA+ Events",-= Reload your playlist =-
@@ -1721,9 +1827,63 @@ http://45.139.122.199:8080/live/Martin1/martin1/1162289.m3u8
 #EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="Fite TV UK",Fite TV 20 SD (D)
 http://45.139.122.199:8080/live/Martin1/martin1/1162290.m3u8
 
-# --- Formula 1 [F1] TV (1) ---
+# --- Formula 1 [F1] TV (28) ---
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-f1-the-official-formula-1-transparent-png-701751712229525ajvwddtfme.png" group-title="Formula 1 [F1] TV",-= Reload your playlist F1 =-
 http://45.139.122.199:8080/live/Martin1/martin1/2386382.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598585.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 2026 Spanish GP - Practice 2 INTERNATIONAL 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598584.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 2026 Spanish GP - Practice 2 TRACKER 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598583.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 2026 Spanish GP - Practice 2 DATA 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598582.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Lando Norris McLaren - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598581.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Max Verstappen Red Bull Racing - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598580.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Gabriel Bortoleto Audi - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598579.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Pierre Gasly Alpine - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598578.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Sergio Perez Cadillac - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598577.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Andrea Kimi Antonelli Mercedes - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598576.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Fernando Alonso Aston Martin - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598575.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Charles Leclerc Ferrari - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598574.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Lance Stroll Aston Martin - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598573.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Yuki Tsunoda Racing Bulls - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598572.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Alexander Albon Williams - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598571.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Nico Hulkenberg Audi - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598570.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Liam Lawson Red Bull Racing - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598569.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Esteban Ocon Haas F1 Team - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598568.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Arvid Lindblad Racing Bulls - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598567.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Franco Colapinto Alpine - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598566.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Lewis Hamilton Ferrari - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598565.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Carlos Sainz Williams - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598564.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 George Russell Mercedes - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598563.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Valtteri Bottas Cadillac - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598562.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Oscar Piastri McLaren - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598561.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000010367-1283d87b-4ec3-48eb-ad9e-512aba24e797/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",17:00 Oliver Bearman Haas F1 Team - 2026 Spanish GP - Practice 2 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598560.m3u8
+#EXTINF:-1 tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000011134-8962521b-69f0-4244-84c9-aa658ee9bff9/landscape_web?w=304&h=171&o=L" group-title="Formula 1 [F1] TV",18:25 2026 Spanish GP - F3 Qualifying 9/11
+http://45.139.122.199:8080/live/Martin1/martin1/2598559.m3u8
 
 # --- Gaago Sports IE (10) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/IE%20Gaago.png" group-title="Gaago Sports IE",IE Gaago 1 (D)
@@ -1789,44 +1949,106 @@ http://45.139.122.199:8080/live/Martin1/martin1/1160326.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Golf - The Masters UK",US (P+) The Masters 20
 http://45.139.122.199:8080/live/Martin1/martin1/1160327.m3u8
 
-# --- HBO Max Sports DK (3) ---
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pQwV6/apo2wImHRQOEL_5IQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",02:47 Coco Gauff - Elena Rybakina tennis FHD 9/11 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2596808.m3u8
+# --- HBO Max Sports DK (34) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qkJY_/0Ja-hJjeb_73-SDIA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",03:30 Coco Gauff - Elena Rybakina tennis FHD 9/11 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2596868.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oUN9y/KrwkRRowv1D7VCVcg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",13:15 La Vuelta cykling FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598206.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7HBgX/d9iwPeuvJwcDjZ6pw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 Zhou Yuelong - Ali Carter snooker FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598204.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2XhF-/7hHoBKvfhQZoXY3eg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:50 Grand Prix Cycliste de Québec cykling FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598200.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JoFZH/YybtIXe4PjKLhIqKw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Ahmet Kaplan - Sam Schröder tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598199.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3t3Cw/-G2SQQdXWLLgZHepw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Marcel Latak - Jamie Mackenzie  tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598198.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_OVXe/1zZuBB-s0UjQVPj9g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Anna Pushkareva - Jana Kovackova tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598197.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MjNZv/qLzZ8TDHDph6gbbMA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:50 K. Siniakova / T. Townsend - A. Krueger / R. Montgomery tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598196.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/UXM_7/5YJ3MVnTLvShlvL_Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Niels Vink - Guy Sasson tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598195.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XHGP-/QaXmAIE7Zjk5MmpVg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Matthew Knoesen - Sonny Rennison tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598194.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/HuOoB/_qwr1oko2mUZZdqXg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:00 Xinran Sun - Chukwumelije Clarke tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598193.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7HBgX/d9iwPeuvJwcDjZ6pw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Judd Trump - Shaun Murphy snooker FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598192.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DZMRi/sSrxvMkq4_8AUGYsQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Sanford International | Dag 1 golf FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598191.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bq7bE/4xK3hkg7qqp9Tqreg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:00 Mark Williams - Liam Davies snooker FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598190.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Agmcl/RO7ncRXaSqDZiMJDQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Courtside tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598189.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nXjWr/liPJ9_eIuTLdlPcZw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Tokito Oda - Martin De La Puente tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598188.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i7OsR/LSWEoEA9fMlg46WgA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Luis Guto Miguel - Thilo Behrmann tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598187.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kRL6L/jJgwVJ6uEJ_G15yeQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Gustavo Fernandez - Alfie Hewett tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598186.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/w4C2B/OvjgTqU6-GQpmQY_g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Yui Kamiji - Aniek Van Koot tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598185.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/taxHW/tn3oJXmcU9Twq3e9w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Seira Matsuoka - Luna Gryp tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598184.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MV9vJ/TP2u1TpsSJxW8Nmnw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:30 Ksenia Chasteau - Diede De Groot tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598183.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ywQRN/5I_XbJdjlcRoNHTZw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:00 Alexander Zverev - Karen Khachanov tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598182.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fo4ui/6_wjkqrNGtsKsq63g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Simmons Bank Open | Dag 2 golf FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598181.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sJUmJ/0EGsNw8UAEgYdedIA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",23:00 H. Inoue / M. Knoesen - W. Barton / L. Politano tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598180.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9ZP0g/uOdBuUVbWcsErkjiQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",23:00 T. Konduri / M. Latak - S. Azam / D. Zhalgasbay tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598179.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u-m4f/LCF-VBl3zYTVytivQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",23:00 A. Gabet / V. Gonzalez-Galino - M. Ceban / R. Lawlor tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598178.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7I0xp/GH540jp7ZjIJnmVsA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",23:00 M. Rajeshwaran Revathi / A. Sushkova - A. Penickova / K. Penickova tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598177.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_-shH/aHA7McVPYhWsliQBw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",23:00 M. Makarova / X. Sun - P. Berezina / A. Terentyeva tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598176.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/83Wed/vY2Fuxm9nXFEUMJBQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",23:00 G. Sasson / N. Vink - S. Schröder / J. Woodman tennis FHD 9/11 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598175.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",00:30 Courtside tennis FHD 9/12 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598174.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/FbNFt/QU5TsXhdeQWLioYuA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:00 Frances Tiafoe - Ben Shelton tennis FHD 9/12 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598173.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/RLt4i/QUM7ghFHYbF50NWug.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:30 P. Lopez Meza / S. Matsuoka - E. Gjerseth / L. Heald tennis FHD 9/12 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598172.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fh5Pr/SGZfdGXn8sbKyixOw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:30 M. De La Puente / R. Spaargaren - A. Hewett / G. Reid tennis FHD 9/12 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598171.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zN1JS/FLOHmfgcdG1uetgJA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:30 Y. Kamiji / Z. Zhu - L. Guo / M. Ohtani tennis FHD 9/12 [HBO Max DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598170.m3u8
 
 # --- HBO Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | COCO GAUFF - ELENA RYBAKINA | Fri 11 Sep 02:47 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | LA VUELTA | Fri 11 Sep 13:14 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Martin1/martin1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LA VUELTA | Fri 11 Sep 13:15 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | YUI KAMIJI - ANIEK VAN KOOT | Fri 11 Sep 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Martin1/martin1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | WORLD SERIES | SPEED | FINALE | Fri 11 Sep 13:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | ZHOU YUELONG - ALI CARTER | Fri 11 Sep 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Martin1/martin1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | SNOOKER | Fri 11 Sep 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Martin1/martin1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FAUN TOUR FEMMES | 2. ETAPE | Fri 11 Sep 15:20 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Martin1/martin1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | GRAND PRIX CYCLISTE DE QUÉBEC | Fri 11 Sep 16:50 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GRAND PRIX CYCLISTE DE QUÉBEC | Fri 11 Sep 16:49 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Martin1/martin1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | NIELS VINK - GUY SASSON | Fri 11 Sep 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | K. SINIAKOVA / T. TOWNSEND - A. KRUEGER / R. MONTGOMERY | Fri 11 Sep 17:50 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Martin1/martin1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | K. SINIAKOVA / T. TOWNSEND - A. KRUEGER / R. MONTGOMERY | Fri 11 Sep 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | NIELS VINK - GUY SASSON | Fri 11 Sep 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Martin1/martin1/987415.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | AHMET KAPLAN - SAM SCHRÖDER | Fri 11 Sep 18:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Martin1/martin1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JUDD TRUMP - SHAUN MURPHY | Fri 11 Sep 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Martin1/martin1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | SANFORD INTERNATIONAL | DAG 1 | Fri 11 Sep 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Martin1/martin1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MARK WILLIAMS - LIAM DAVIES | Fri 11 Sep 20:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Martin1/martin1/987419.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TOKITO ODA - MARTIN DE LA PUENTE | Fri 11 Sep 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Martin1/martin1/987420.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | COURTSIDE | Fri 11 Sep 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
 http://45.139.122.199:8080/live/Martin1/martin1/987421.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | GUSTAVO FERNANDEZ - ALFIE HEWETT | Fri 11 Sep 20:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 15
 http://45.139.122.199:8080/live/Martin1/martin1/987422.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 16
 http://45.139.122.199:8080/live/Martin1/martin1/987423.m3u8
@@ -1899,13 +2121,141 @@ http://45.139.122.199:8080/live/Martin1/martin1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 50
 http://45.139.122.199:8080/live/Martin1/martin1/987457.m3u8
 
-# --- HBO Max Sports SE (3) ---
+# --- HBO Max Sports SE (67) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2274285.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pQwV6/apo2wImHRQOEL_5IQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",03:39 Coco Gauff - Elena Rybakina tennis FHD 9/11 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2597053.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pQwV6/apo2wImHRQOEL_5IQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",03:39 Coco Gauff - Elena Rybakina tennis 9/11 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2597052.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oUN9y/KrwkRRowv1D7VCVcg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",13:15 Vuelta a España | Etapp 19 cykel FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598365.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oUN9y/KrwkRRowv1D7VCVcg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",13:15 Vuelta a España | Etapp 19 cykel 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598364.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Zhou Yuelong - Ali Carter snooker FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598361.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:00 Zhou Yuelong - Ali Carter snooker 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598359.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2XhF-/7hHoBKvfhQZoXY3eg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:50 GP Quebec cykel FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598353.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2XhF-/7hHoBKvfhQZoXY3eg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:50 GP Quebec cykel 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598352.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JoFZH/YybtIXe4PjKLhIqKw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Ahmet Kaplan - Sam Schröder tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598351.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3t3Cw/-G2SQQdXWLLgZHepw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Marcel Latak - Jamie Mackenzie  tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598350.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_OVXe/1zZuBB-s0UjQVPj9g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Anna Pushkareva - Jana Kovackova tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598349.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MjNZv/qLzZ8TDHDph6gbbMA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:50 K. Siniakova / T. Townsend - A. Krueger / R. Montgomery tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598348.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/UXM_7/5YJ3MVnTLvShlvL_Q.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Niels Vink - Guy Sasson tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598347.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XHGP-/QaXmAIE7Zjk5MmpVg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Matthew Knoesen - Sonny Rennison tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598346.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/HuOoB/_qwr1oko2mUZZdqXg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Xinran Sun - Chukwumelije Clarke tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598345.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JoFZH/YybtIXe4PjKLhIqKw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Ahmet Kaplan - Sam Schröder tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598344.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3t3Cw/-G2SQQdXWLLgZHepw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Marcel Latak - Jamie Mackenzie  tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598343.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_OVXe/1zZuBB-s0UjQVPj9g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Anna Pushkareva - Jana Kovackova tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598342.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MjNZv/qLzZ8TDHDph6gbbMA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:50 K. Siniakova / T. Townsend - A. Krueger / R. Montgomery tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598341.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/UXM_7/5YJ3MVnTLvShlvL_Q.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Niels Vink - Guy Sasson tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598340.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XHGP-/QaXmAIE7Zjk5MmpVg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Matthew Knoesen - Sonny Rennison tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598339.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/HuOoB/_qwr1oko2mUZZdqXg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:00 Xinran Sun - Chukwumelije Clarke tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598338.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Judd Trump - Shaun Murphy snooker FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598337.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5czk0/r7rmvbh62G8nDG0xw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Sanford International golf FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598336.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bq7bE/4xK3hkg7qqp9Tqreg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Mark Williams - Liam Davies snooker FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598335.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Judd Trump - Shaun Murphy snooker 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598334.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5czk0/r7rmvbh62G8nDG0xw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Sanford International golf 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598333.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bq7bE/4xK3hkg7qqp9Tqreg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:00 Mark Williams - Liam Davies snooker 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598332.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Agmcl/RO7ncRXaSqDZiMJDQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Courtside | US Open tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598331.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qkJY_/0Ja-hJjeb_73-SDIA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Tokito Oda - Martin De La Puente tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598330.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i7OsR/LSWEoEA9fMlg46WgA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Luis Guto Miguel - Thilo Behrmann tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598329.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kRL6L/jJgwVJ6uEJ_G15yeQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Gustavo Fernandez - Alfie Hewett tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598328.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/w4C2B/OvjgTqU6-GQpmQY_g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Yui Kamiji - Aniek Van Koot tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598327.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/taxHW/tn3oJXmcU9Twq3e9w.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Seira Matsuoka - Luna Gryp tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598326.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MV9vJ/TP2u1TpsSJxW8Nmnw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Ksenia Chasteau - Diede De Groot tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598325.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Agmcl/RO7ncRXaSqDZiMJDQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Courtside | US Open tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598324.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qkJY_/0Ja-hJjeb_73-SDIA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Tokito Oda - Martin De La Puente tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598323.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i7OsR/LSWEoEA9fMlg46WgA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Luis Guto Miguel - Thilo Behrmann tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598322.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kRL6L/jJgwVJ6uEJ_G15yeQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Gustavo Fernandez - Alfie Hewett tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598321.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/w4C2B/OvjgTqU6-GQpmQY_g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Yui Kamiji - Aniek Van Koot tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598320.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/taxHW/tn3oJXmcU9Twq3e9w.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Seira Matsuoka - Luna Gryp tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598319.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MV9vJ/TP2u1TpsSJxW8Nmnw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:30 Ksenia Chasteau - Diede De Groot tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598318.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ywQRN/5I_XbJdjlcRoNHTZw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",21:00 Alexander Zverev - Karen Khachanov tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598317.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ywQRN/5I_XbJdjlcRoNHTZw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",21:00 Alexander Zverev - Karen Khachanov tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598316.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/P2b0Z/NlXKcIjRClWyhCuXQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",22:00 Simmons Bank Open | Dag 2 golf FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598315.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/P2b0Z/NlXKcIjRClWyhCuXQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",22:00 Simmons Bank Open | Dag 2 golf 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598314.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sJUmJ/0EGsNw8UAEgYdedIA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 H. Inoue / M. Knoesen - W. Barton / L. Politano tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598313.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9ZP0g/uOdBuUVbWcsErkjiQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 T. Konduri / M. Latak - S. Azam / D. Zhalgasbay tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598312.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u-m4f/LCF-VBl3zYTVytivQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 A. Gabet / V. Gonzalez-Galino - M. Ceban / R. Lawlor tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598311.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7I0xp/GH540jp7ZjIJnmVsA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 M. Rajeshwaran Revathi / A. Sushkova - A. Penickova / K. Penickova tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598310.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_-shH/aHA7McVPYhWsliQBw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 M. Makarova / X. Sun - P. Berezina / A. Terentyeva tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598309.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/83Wed/vY2Fuxm9nXFEUMJBQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 G. Sasson / N. Vink - S. Schröder / J. Woodman tennis FHD 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598308.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sJUmJ/0EGsNw8UAEgYdedIA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 H. Inoue / M. Knoesen - W. Barton / L. Politano tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598307.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9ZP0g/uOdBuUVbWcsErkjiQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 T. Konduri / M. Latak - S. Azam / D. Zhalgasbay tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598306.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u-m4f/LCF-VBl3zYTVytivQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 A. Gabet / V. Gonzalez-Galino - M. Ceban / R. Lawlor tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598305.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7I0xp/GH540jp7ZjIJnmVsA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 M. Rajeshwaran Revathi / A. Sushkova - A. Penickova / K. Penickova tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598304.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_-shH/aHA7McVPYhWsliQBw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 M. Makarova / X. Sun - P. Berezina / A. Terentyeva tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598303.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/83Wed/vY2Fuxm9nXFEUMJBQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",23:00 G. Sasson / N. Vink - S. Schröder / J. Woodman tennis 9/11 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598302.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",00:30 Courtside | US Open tennis FHD 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598301.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yONQU/ywMu9-e73ZwQHqTpQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",00:30 Courtside | US Open tennis 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598300.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/FbNFt/QU5TsXhdeQWLioYuA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:00 Frances Tiafoe - Ben Shelton tennis FHD 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598299.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/FbNFt/QU5TsXhdeQWLioYuA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:00 Frances Tiafoe - Ben Shelton tennis 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598298.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/RLt4i/QUM7ghFHYbF50NWug.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:30 P. Lopez Meza / S. Matsuoka - E. Gjerseth / L. Heald tennis FHD 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598297.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fh5Pr/SGZfdGXn8sbKyixOw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:30 M. De La Puente / R. Spaargaren - A. Hewett / G. Reid tennis FHD 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598296.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zN1JS/FLOHmfgcdG1uetgJA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:30 Y. Kamiji / Z. Zhu - L. Guo / M. Ohtani tennis FHD 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598295.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/RLt4i/QUM7ghFHYbF50NWug.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:30 P. Lopez Meza / S. Matsuoka - E. Gjerseth / L. Heald tennis 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598294.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fh5Pr/SGZfdGXn8sbKyixOw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:30 M. De La Puente / R. Spaargaren - A. Hewett / G. Reid tennis 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598293.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zN1JS/FLOHmfgcdG1uetgJA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",01:30 Y. Kamiji / Z. Zhu - L. Guo / M. Ohtani tennis 9/12 [HBO Max SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598292.m3u8
 
 # --- HBO Max Sports SE [B] (108) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 1 FHD SE
@@ -1924,35 +2274,35 @@ http://45.139.122.199:8080/live/Martin1/martin1/1299648.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/1299649.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 8 FHD SE
 http://45.139.122.199:8080/live/Martin1/martin1/1299650.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | COCO GAUFF - ELENA RYBAKINA | Fri 11 Sep 02:47 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | LA VUELTA | Fri 11 Sep 13:14 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://45.139.122.199:8080/live/Martin1/martin1/1122820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | LA VUELTA | Fri 11 Sep 13:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | YUI KAMIJI - ANIEK VAN KOOT | Fri 11 Sep 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://45.139.122.199:8080/live/Martin1/martin1/1122821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MEN'S AND WOMEN'S SPEED | FINAL | Fri 11 Sep 13:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | ZHOU YUELONG - ALI CARTER | Fri 11 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://45.139.122.199:8080/live/Martin1/martin1/1122822.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | SNOOKER | Fri 11 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 4
 http://45.139.122.199:8080/live/Martin1/martin1/1122823.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | FAUN TOUR FEMMES | STAGE 2 | Fri 11 Sep 15:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 5
 http://45.139.122.199:8080/live/Martin1/martin1/1122824.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | GRAND PRIX CYCLISTE DE QUEBEC | Fri 11 Sep 16:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | GRAND PRIX CYCLISTE DE QUEBEC | Fri 11 Sep 16:49 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://45.139.122.199:8080/live/Martin1/martin1/1122825.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | TENNIS | Fri 11 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | K. SINIAKOVA / T. TOWNSEND - A. KRUEGER / R. MONTGOMERY | Fri 11 Sep 17:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://45.139.122.199:8080/live/Martin1/martin1/1122826.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | K. SINIAKOVA / T. TOWNSEND - A. KRUEGER / R. MONTGOMERY | Fri 11 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | NIELS VINK - GUY SASSON | Fri 11 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://45.139.122.199:8080/live/Martin1/martin1/1122827.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | AHMET KAPLAN - SAM SCHRÖDER | Fri 11 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://45.139.122.199:8080/live/Martin1/martin1/1122828.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | JUDD TRUMP - SHAUN MURPHY | Fri 11 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://45.139.122.199:8080/live/Martin1/martin1/1122829.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | SANFORD INTERNATIONAL | DAY 1 | Fri 11 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 http://45.139.122.199:8080/live/Martin1/martin1/1122830.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MARK WILLIAMS - LIAM DAVIES | Fri 11 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
 http://45.139.122.199:8080/live/Martin1/martin1/1122831.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | TOKITO ODA - MARTIN DE LA PUENTE | Fri 11 Sep 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
 http://45.139.122.199:8080/live/Martin1/martin1/1122832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | COURTSIDE  | Fri 11 Sep 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
 http://45.139.122.199:8080/live/Martin1/martin1/1122833.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | GUSTAVO FERNANDEZ - ALFIE HEWETT | Fri 11 Sep 20:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
 http://45.139.122.199:8080/live/Martin1/martin1/1122834.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 16
 http://45.139.122.199:8080/live/Martin1/martin1/1122835.m3u8
@@ -2125,21 +2475,55 @@ http://45.139.122.199:8080/live/Martin1/martin1/1122918.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 100
 http://45.139.122.199:8080/live/Martin1/martin1/1122919.m3u8
 
-# --- HBO Max Sports UK (3) ---
+# --- HBO Max Sports UK (17) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1452150.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/L8zEi/auKt5KtPWnVYSfydQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",23:30 Barbados Tridents - St. Kitts and Nevis Patriots  cricket FHD 9/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2597247.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yfAbm/Bra8BZq-CDgCDmvWQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",00:30 Pittsburgh Pirates @ Chicago White Sox baseball FHD 9/11 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2597246.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NmK8m/45Ho1lCaqdem8ZPPA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",12:00 La Vuelta cycling FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598490.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/27B5b/prHR44lABaJ1OnHWg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",13:00 Zhou Yuelong - Ali Carter snooker FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598486.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/08ckI/HWQlJi8BFj6qrZV2g.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",13:00 Ding Junhui - Kyren WIlson snooker FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598485.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/C59xr/CCx6infkH0ABgzHnQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:31 Dublin Guardians - Edinburgh Castle Rockers cricket FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598483.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/BVNhJ/OqYoUD_WlG88G8NeQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:45 Grand Prix Cycliste de Quebec cycling FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598482.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5Lwbc/2-b5oYhffwJovwq4g.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",18:45 WRC rally FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598481.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/WykBW/_6Nz-3hKXZAn3SZnQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:00 Judd Trump - Shaun Murphy snooker FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598480.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/9pmEy/7_7zvzZGlcBtHLRrw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:00 Mark Williams - Liam Davies snooker FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598479.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/D94er/nraMYRuDMGUACuZGg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:00 Judd Trump - Shaun Murphy snooker FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598478.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/H6TGI/xLiZ7Npw40TSlhE1w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:15 Pittsburgh Pirates @ Chicago Cubs  baseball FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598477.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_n5n5/byvKu6tG-2wul8_cg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",22:45 WRC rally FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598476.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/V0KXA/MeE7Lmu1pv2fnl4vA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",23:30 Guyana Amazon Warriors - Trinbago Knight Riders cricket FHD 9/11 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598475.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CGzZ1/_ofAL_AyV2UJWV5dw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",01:00 Kansas City Current - Orlando Pride  football FHD 9/12 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598473.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Bg6z1/7YzVimMkHa0bWMWPA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",04:00 Hawthorn - Western Bulldogs australian rules football FHD 9/12 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598472.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5ywJ_/EgypR2_WWdO7M7MMQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",05:30 Gold Coast Suns - Collingwood australian rules football FHD 9/12 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598471.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/-VMwI/NKMlqfdSZ0nPNeZAw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",06:00 Adelaide Crows - Geelong Cats australian rules football FHD 9/12 [HBO Max UK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598470.m3u8
 
 # --- Handbollsligan SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/handbollsligan.png" group-title="Handbollsligan SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/656054.m3u8
 
-# --- HockeyEttan SE (1) ---
+# --- HockeyEttan SE (4) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/hockeyettan.png" group-title="HockeyEttan SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/403069.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/lf1a.jpg?width=320" group-title="HockeyEttan SE",18:50 Hammers - Tingsryds AIF 9/11 [Hockeyettan]
+http://45.139.122.199:8080/live/Martin1/martin1/2598460.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/b8o8mm.jpg?width=320" group-title="HockeyEttan SE",18:50 Mjölby HC – Västerviks IK 9/11 [Hockeyettan]
+http://45.139.122.199:8080/live/Martin1/martin1/2598459.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/f2d4v.jpg?width=320" group-title="HockeyEttan SE",18:50 Träningsmatch: Mariestad BoIS - HC Dalen 9/11 [Hockeyettan]
+http://45.139.122.199:8080/live/Martin1/martin1/2598458.m3u8
 
 # --- Hub Premier (EPL) UK (12) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Hub%20Premier/HubPremier02.png" group-title="Hub Premier (EPL) UK",HubPremier 4K UHD FHD SG [Only On 4K Devices]
@@ -2167,9 +2551,15 @@ http://45.139.122.199:8080/live/Martin1/martin1/1309864.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Hub%20Premier/HubPremier11.png" group-title="Hub Premier (EPL) UK",HubPremier 11 FHD SG
 http://45.139.122.199:8080/live/Martin1/martin1/1309865.m3u8
 
-# --- Innebandy Play SE (1) ---
+# --- Innebandy Play SE (4) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Innebandy-play.png" group-title="Innebandy Play SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/421998.m3u8
+#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Innebandy Play SE",18:10 FBC Lerum Herr - Pixbo IBK 9/11 [Innebandy Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598509.m3u8
+#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Innebandy Play SE",18:25 Mullsjö AIS SSL Herr - Jönköpings IK SSL Herr 9/11 [Innebandy Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598508.m3u8
+#EXTINF:-1 tvg-logo="https://solidsport.com/assets/placeholder_live_solidsport_2-e85177119311865f96ac075e77e08ed7b405d6a1f98ddeae55d54eaef0d4f2a6.jpg" group-title="Innebandy Play SE",18:55 Landvetter IBK Dam - Pixbo IBK 9/11 [Innebandy Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598507.m3u8
 
 # --- Italy Serie A UK (20) ---
 #EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/channel/SERIE_A_ITALIAN_MATCH_THUMB_07_Inter-v-Fiorentina_vm03j_7.jpg" group-title="Italy Serie A UK",US (P+) Italy SerieA 1
@@ -2295,15 +2685,29 @@ http://45.139.122.199:8080/live/Martin1/martin1/1233584.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13954.png?ver=94515" group-title="Norlys Play PPV DK",DK: NORLYSPLAY PPV 30 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Martin1/martin1/1233585.m3u8
 
-# --- PDC UK (1) ---
+# --- PDC UK (6) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKlc9g5mefyJl_3BpKCdfdzvPauRz6uDFPQ&s" group-title="PDC UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2380082.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/bb0b9690-8f3a-11f1-b9ce-89a9a72db5a1.png" group-title="PDC UK",09:00 Australian Darts Association 2026 - Weekend 6, Day 1 - 2026 ADA Tour 9/11 [PDC TV]
+http://45.139.122.199:8080/live/Martin1/martin1/2598370.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c317c20-bc10-11f0-a7ca-afbb18ece5a9.jpg" group-title="PDC UK",11:55 European Tour 13 - Flanders Darts Trophy | Day 1 - Afternoon Session - European Tour - Main Feed 9/11 [PDC TV]
+http://45.139.122.199:8080/live/Martin1/martin1/2598369.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c317c20-bc10-11f0-a7ca-afbb18ece5a9.jpg" group-title="PDC UK",18:00 European Tour 13 - Flanders Darts Trophy | Day 1 - Evening Session - European Tour - Main Feed 9/11 [PDC TV]
+http://45.139.122.199:8080/live/Martin1/martin1/2598368.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/bb009a10-8f3a-11f1-9c86-3b3f49993908.png" group-title="PDC UK",00:30 Australian Darts Association 2026 - Weekend 6, Day 2 - 2026 ADA Tour 9/12 [PDC TV]
+http://45.139.122.199:8080/live/Martin1/martin1/2598367.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/5e30a7c0-f175-11f0-9ffd-e32468abf713.jpg" group-title="PDC UK",04:00 Asian Tour 25–26 - 2026 Asian Tour 9/12 [PDC TV]
+http://45.139.122.199:8080/live/Martin1/martin1/2598366.m3u8
 
-# --- Prime Sports DK (2) ---
+# --- Prime Sports DK (4) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5fb331e3-93c9-4ee8-82e5-002f9d893daf/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",20:00 Sep 10 - PTT Newport Beach 9/10 [Amazon Prime DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2597194.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.426e13aa-6f88-43f0-b8ff-55d74f622e58/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",16:00 Sep 11 - PTT Tallahassee 9/11 [Amazon Prime DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598373.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec0fb5b3-ae01-4ee1-a378-800da10f8999/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",17:00 Sep 11 - PTT Knoxville 9/11 [Amazon Prime DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598372.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06009b57-3b7d-4dc1-9c1b-ca95d02baa52/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",20:00 Sep 11 - PTT Newport Beach 9/11 [Amazon Prime DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598371.m3u8
 
 # --- Prime Sports SE (1) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports SE",-= Reload your playlist =-
@@ -2350,6 +2754,16 @@ http://45.139.122.199:8080/live/Martin1/martin1/964912.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/964914.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports SE [B]",SE: PRIME PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Martin1/martin1/964915.m3u8
+
+# --- SBL Play - Basket SE (4) ---
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/s3zfls.jpg?width=320" group-title="SBL Play - Basket SE",17:50 Träningsmatch: BC Luleå - Umeå 9/11 [SBL]
+http://45.139.122.199:8080/live/Martin1/martin1/2598442.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/a6ne7f.jpg?width=320" group-title="SBL Play - Basket SE",17:50 Träningsmatch: Sloga - Jämtland 9/11 [SBL]
+http://45.139.122.199:8080/live/Martin1/martin1/2598441.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/zszvbh.jpg?width=320" group-title="SBL Play - Basket SE",18:50 Träningsmatch: Nässjö - Borås 9/11 [SBL]
+http://45.139.122.199:8080/live/Martin1/martin1/2598440.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/0pngh.jpg?width=320" group-title="SBL Play - Basket SE",18:50 Träningsmatch: Södertälje - Uppsala 9/11 [SBL]
+http://45.139.122.199:8080/live/Martin1/martin1/2598439.m3u8
 
 # --- SPFL - Scottish Football League UK (38) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Aberdeen%20TV.png" group-title="SPFL - Scottish Football League UK",Aberdeen TV [Live During Events Only]
@@ -2429,31 +2843,377 @@ http://45.139.122.199:8080/live/Martin1/martin1/1160245.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="SPFL - Scottish Football League UK",US (P+) Scottish Professional Football League 20
 http://45.139.122.199:8080/live/Martin1/martin1/1160246.m3u8
 
-# --- SVT Play SE (1) ---
+# --- SVT Play SE (4) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/SVT_Play_logotyp.png" group-title="SVT Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2429212.m3u8
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/54855062/1788349552" group-title="SVT Play SE",19:00 Friidrott: Ultimate championship - Ikväll 19:00 9/11 [SVT Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598513.m3u8
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/33071930/1686135762" group-title="SVT Play SE",21:30 Sportnytt 9/11 [SVT Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598512.m3u8
+#EXTINF:-1 tvg-logo="https://www.svtstatic.se/image/wide/992/53164511/1758721887" group-title="SVT Play SE",07:00 Bordtennis: WTT 9/12 [SVT Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598511.m3u8
 
 # --- Speedway - ESS Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/ess-logo.png" group-title="Speedway - ESS Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/573022.m3u8
 
-# --- SportExpressen/Aftonbladet SE (1) ---
+# --- SportExpressen/Aftonbladet SE (20) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/expressen-aftonbladet-play.png" group-title="SportExpressen/Aftonbladet SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/287676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportExpressen/Aftonbladet SE",17:50 Färjestad – Vålerenga 9/11 [Aftonbladet]
+http://45.139.122.199:8080/live/Martin1/martin1/2598207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportExpressen/Aftonbladet SE",17:50 Modo – Östersund 9/11 [Aftonbladet]
+http://45.139.122.199:8080/live/Martin1/martin1/2598208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportExpressen/Aftonbladet SE",17:55 Svenska cupen damer: Skara – Skövde 9/11 [Aftonbladet]
+http://45.139.122.199:8080/live/Martin1/martin1/2598209.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportExpressen/Aftonbladet SE",18:50 Kalmar HC – Oskarshamn 9/11 [Aftonbladet]
+http://45.139.122.199:8080/live/Martin1/martin1/2598210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportExpressen/Aftonbladet SE",18:50 Bik Karlskoga – Södertälje 9/11 [Aftonbladet]
+http://45.139.122.199:8080/live/Martin1/martin1/2598211.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/w44tg.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:20 Sundsvalls DFF - Heffnersklubbans BK 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598443.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/ixz2vp.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Åby/Tjureda IF - Vetlanda BK 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598444.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/eknu5p.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Bollnäs GIF FF - Ljusdals IF 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598445.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/9rhawd.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Eslövs BK - IF Limhamn Bunkeflo 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598446.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/8vsam.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Gripen Trollhättan BK - IFK Vänersborg 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598447.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/9v4wj.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IFK Eskilstuna - IK Sturehov 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598448.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/zn2v2t.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IFK Kumla - Motala AIF FK 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598449.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/qjmvpp.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IK Sirius - Bollnäs GIF 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598450.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/mgfz8.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Lindsdals IF - Kristianopels GoIF 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598451.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/22csm6.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Sandvikens AIK FK - Åbyggeby FK 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598452.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/fcq5kw.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:20 FC Kabel Åttio-Hässleholmen BK 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598453.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/gfbrvd.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:20 Ljungby IF - Rödeby AIF 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598454.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/dy47s.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:20 Roslagsbro IF	- IF VP Uppsala 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598455.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/gb28r.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:50 IK Sätra - IK Huge 9/11 [S.Expressen]
+http://45.139.122.199:8080/live/Martin1/martin1/2598456.m3u8
 
-# --- Svensk Hockey SE (3) ---
+# --- Svensk Hockey SE (153) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/swedish-hockey.png" group-title="Svensk Hockey SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/668954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",07:55 U16P: Leksands IF - HV 71 9/11 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Martin1/martin1/2597624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:15 U16P: Luleå HF  - IF Björklöven 9/11 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Martin1/martin1/2597623.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",15:15 Hockeytvåan Herr: IFK Mariehamn - Nynäshamns IF HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U13P: Örebro Hockey UF - Huddinge IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U13P: Nora HC - Enköpings SK HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U18H: Osby IK - Åstorps IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599165.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U13P: Jar IL - IF Sundsvall Hockey 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U13P: Storhamar Hamar - ÖSK HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U13P: Lindlövens IF - Viggbyholms IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",16:55 U13F: Nybro Vikings IF - Tingsryds AIF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:15 U16P: Linköping HC - Frölunda HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:40 U13F: Piteå HC - Clemensnäs HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 U14P: Vänersborgs HC - IF Mölndal Hockey 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",17:55 U13F: Osby IK - Limhamn HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599157.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",17:55 U13F: Brooklyn Tigers HF - Skellefteå AIK 1 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599156.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:10 U13P: Örebro Hockey Ungdom 3 - Täby HC 1 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599155.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:10 U13P: Bålsta HC - Täby HC 2 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599154.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:10 U13P: Kumla Hockey Club - Täby HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599153.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:10 U13P: IFK Hallsberg Hockey - Huddinge IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599152.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:10 U13P: Linköping HC 2 - Trångsunds IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599151.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:25 U16P: Älvdalens HK - Svegs IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U18H: Karlskrona HK - Växjö Lakers HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599149.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:25 U18H: Osby IK Lag 2 - Värnamo GIK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U13P: Hedemora SK - IFK Mariehamn 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:25 U13P: Säffle HC - Åmåls SK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599146.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:35 U16P: Luleå HF - Leksands IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:40 Hockeytvåan Herr: Nittorps IK - Gislaveds SK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:45 Hockeytvåan Herr: Solna SK - IFK Mariehamn 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599143.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 Senior Dam: Örebro HK - AIK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599142.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 Senior Herr: Skedvi/Säter IF - Ludvika Hockey Förening 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Skara IK - Vänersborgs HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Hockeytrean Herr: Ulricehamns IF - Partille HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Lerums BK - Grästorps IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U15P: Gislaveds SK - Borås HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Enköpings SK HK - Wings HC Arlanda 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Kristinehamns HT - Arvika HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599134.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 U14P: Hockeyalliansen 74 - Skillingaryds IS 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Hockeytvåan Herr: Haninge Anchors HC - Bålsta HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599132.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 U16F: Vallentuna Hockey - IK Göta 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U16P: IFK Ore - Borlänge HF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Bodens HF - Piteå HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U15P: Valbo HC - Svedjeholmens IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Avesta BK - Gävle GIK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599127.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 Senior Herr: Ullfors Hockeyklubb  - Hedesunda IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599126.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 Hockeytvåan Herr: HC Lidköping Red Roosters - Skövde Hockey Club 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Nyköpings SK - Örnsköldsvik HF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Örebro Hockey UF - IFK Arboga IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U20H: Färjestad BK - Örebro HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U18H: Nybro Vikings IF - Kristianstads IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 U18H: IF Malmö Redhawks - Kalmar HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: IFK Arboga IK - Surahammars IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: Åmåls SK - Hammarö HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599119.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 U16F: MoDo Hockey - IF Björklöven 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599118.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 U13F: Halmstad Hammers HC 1 - Kristianstads IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599117.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",18:55 U20H: IK Guts/Hästen - Kumla Hockey Club 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",18:55 Senior Herr: IFK Munkfors - Grums IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599115.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:05 U18H: Varberg HK - Härryda HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:05 Hockeytrean Herr: Trelleborgs IF - Lund Giants HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U15P: Skellefteå AIK - IF Björklöven 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599112.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:10 U14P: Knivsta IS - Västerås IK Ungdom 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U14P: Almtuna IS - IFK Täby HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U16P: Brooklyn Tigers HF - Bodens HF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:10 U20H: Östersunds IK - Ånge IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:15 U18H: Partille HK - Hovås HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:15 U20H: Borlänge HF - Orsa IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599106.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 Senior Herr: SK Iron Hockey - Kvarnsvedens GoIF IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Senior Herr: KB65 HK - IF Sundsvall Hockey 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U18H: Åseda IF - Kalmar HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U20H: Clemensnäs HC - SK Lejon 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U20H: Vimmerby HC - Kalmar HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 Hockeytrean Herr: Trollhättans HC - Lysekils HK Viking 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:25 U18H: HC Dalen - LHC UNGDOM 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599099.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U13P: Kumla Hockey Club - Linköping HC 1 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599098.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U13P: IFK Hallsberg Hockey - Enköping SK HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599097.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U13P: Västerås IK Svart - IF Sundsvall Hockey 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599096.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U13P: Köping ishockeyförening - ÖSK HK-ÖHF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599095.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U13P: Örebro Hockey Ungdom 2 - Huddinge Hockey 1 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599094.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U14P: Helsingborg HC Ungdom - Rögle BK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599093.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U15P: Nynäshamns IF HC - Knivsta IS 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599092.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:25 U13F: IF Björklöven - Bodens HF/Älvsby IF HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:30 U20H: SDE HF - Väsby IK HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599090.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:35 Hockeytvåan Herr: IK Göta  - Nacka HK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:35 Hockeytrean Herr: Kållered SK - Stenungsund HF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599088.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:40 U15P: Nacka HK - AIK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:50 Hockeytvåan Herr: Värmdö HC - IFK Tumba IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599086.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:55 Hockeytrean Herr: Trångsunds IF - FOC Farsta IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U16P: Djurgårdens IF - Färjestad BK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U20H: Flemingsbergs IK - IFK Täby HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U18H: Kållered SK - Herlev Ishockey Klub 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599082.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",19:55 U13F: Halmstad Hammers HC 2 - Frosta Hockey 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",19:55 U14P: Hovås HC - Kungälvs IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599080.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",20:40 U13P: Huddinge Hockey 2 - Täby HC 2 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599079.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",20:40 U13P: Tyresö Hanviken - Täby HC 1 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",20:40 U13P: Eskilstuna Linden Hockey - Jar IL 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599077.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",20:40 U13P: Västerås IK Gul - Storhamar IL 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",20:40 U13P: Viggbyholms IK - Trångsunds IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599075.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",21:25 U18H: Rödovre SoIK - Linköping Mighty Ravens HC 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",23:55 U20H: Skara IK - Viken Hockey 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",23:55 U18H: Hammarö HC - Solstad Hockey Club 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",23:55 U20H: IFK Munkfors - Sunne IK 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599431.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",23:55 U16P: Bofors IK Ungdom HK - Surahammars IF 9/11 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",07:55 U16P: Lerums BK - Frölunda HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",07:55 U16P: IF Björklöven - Linköping HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599069.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",07:55 U18H: Osby IK Lag 2 - Herlev Ishockey Klub 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599068.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",07:55 U14P: IF Mölndal Hockey - Helsingborg HC Ungdom 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",07:55 U18H: IF Lejonet - Jonstorps IF IshF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599066.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",07:55 U13P: Hisingens IK - Skärgårdens SK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",07:55 U15P: Sunne IK - Åmåls SK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599064.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",07:55 U14P: Eskilstuna Linden Hockey RÖD - Eskilstuna Linden Hockey VIT 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599063.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",07:55 U15P: FOC Farsta IF - Viggbyholms IK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599062.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U13P: Bålsta HC - Örebro Hockey Ungdom 1 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599061.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U13P: Örebro Hockey Ungdom 3 - Nora HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599060.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U13P: Täby HC - Jar IL 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599059.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U13P: Huddinge IK - Storhamar IL 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599058.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U15P: Enköpings SK HK - TIG Hockey 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599057.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U13P: Linköping HC 2 - Lindlövens IF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599056.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:25 U16P: Guldsmedshytte SKHällefors IK - Söderort Hockey 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:45 Hockeytvåan Herr: Nynäshamns IF HC - Solna SK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:45 U13P: Hovås HC - Frölunda HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:55 U18H: IF Malmö Redhawks - Nybro Vikings IF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599052.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",08:55 U14P: LN 70 HC - Hovås HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:55 U18H: Kalmar HC - Mörrums GoIS IK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:55 U13F: Kristianstads IK - Tingsryds AIF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:55 U13F: IK Oskarshamn - Vimmerby HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",08:55 U14P: Hammarby IF - Värmdö HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599047.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:05 U16P: Hovås HC - Hisingens IK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:10 U14P: Njurunda SK - Bollnäs IS 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:10 U18H: KRIF Hockey - Limhamn HK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:10 U15P: Solna SK - Tullinge TP HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:15 U16P: Frölunda HC - HV 71 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:25 U18H: Värnamo GIK - Kållered SK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:25 U15P: Kristianstads IK - Glimma HK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:25 U14P: Rögle BK - Vänersborgs HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599039.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:25 U15P: Fagersta AIK - Frisk Asker 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599038.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:25 U16P: Västerbotten 1 - Västerbotten 2 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599037.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:25 U12P: Vallentuna Hockey - AIK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599036.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:30 U13F: Clemensnäs HC - Skellefteå AIK 1 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599035.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U13P: Kumla Hockey Club - Huddinge Hockey 2 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599034.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U13P: IFK Hallsberg Hockey - Tyresö Hanviken 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599033.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U13P: Kumla Hockey Club - IF Sundsvall Hockey 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599032.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U13P: IFK Hallsberg Hockey - ÖSK HK-ÖHF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599031.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U15P: Motala AIF HK - Segeltorps IF Ishockeyförening 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599030.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U13P: Örebro Hockey Ungdom 2 - Viggbyholms IK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599029.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:40 U12P: Vallentuna Hockey - Lidingö Vikings HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599028.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:40 U16P: Örebro Hockey UF - Bofors IK Karlskoga 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599027.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:45 U13P: Varberg HK - Hisingens IK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599026.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:45 U13F: Bodens HF/Älvsby IF HK - Lycksele SK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599025.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:55 U14P: Partille HK - Kungälvs IK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599024.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:55 U13F: Halmstad Hammers HC 2 - Limhamn HK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599023.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:55 U13P: Sala HK - Surahammars IF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599022.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",09:55 U18H: Enköpings SK HK - Köping IF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599021.m3u8
+#EXTINF:-1 tvg-logo="https://files.livearenasports.com/files/2d8e34b1-f4af-4b61-bd14-7ddc5ffb2012" group-title="Svensk Hockey SE",09:55 U14P: Eskilstuna Linden Hockey RÖD - FOC Farsta IF 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599020.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",10:10 U13P: Hanhals IF - Borås HC 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",10:15 U16P: Skara IK - Lerums BK 9/12 [SVENSKHOCKEY]
+http://45.139.122.199:8080/live/Martin1/martin1/2599018.m3u8
 
-# --- Svenskbil Sport / Folkrace SE (2) ---
+# --- Svenskbil Sport / Folkrace SE (3) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Svensk-Bilsport.png" group-title="Svenskbil Sport / Folkrace SE",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/529400.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svenskbil Sport / Folkrace SE",Se Tabergspokalen live här!
 http://45.139.122.199:8080/live/Martin1/martin1/855445.m3u8
+#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/jm8jmo.jpg?width=320" group-title="Svenskbil Sport / Folkrace SE",16:45 Rally-SM: South Swedish Rally 2026 - Rallyradio Fredag 9/11 [Svensk Bilsport]
+http://45.139.122.199:8080/live/Martin1/martin1/2598457.m3u8
 
 # --- Sweden (374) ---
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-round-250.png" group-title="Sweden",-= Sweden =-
@@ -2918,21 +3678,21 @@ http://45.139.122.199:8080/live/Martin1/martin1/896658.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/106609.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" group-title="Sweden",NFL Network HD SE
 http://45.139.122.199:8080/live/Martin1/martin1/26373.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwg3Js3/n1-live-1.png" group-title="Sweden",N1 PPV 1 SE [20:55 Bayern München - Bodø / Glimt | UEFA Champions League UHD 2160p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwg3Js3/n1-live-1.png" group-title="Sweden",N1 PPV 1 SE [19:50 Premier League Preview | Premier League]
 http://45.139.122.199:8080/live/Martin1/martin1/30668.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0XCNgX/n1-live-2-1.png" group-title="Sweden",N1 PPV 2 SE [20:55 Slavia Prag - Lens | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0XCNgX/n1-live-2-1.png" group-title="Sweden",N1 PPV 2 SE [23:45 Rally-VM: Media Zone Rally-VM]
 http://45.139.122.199:8080/live/Martin1/martin1/40671.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZNnf43/n1-live-3-1.png" group-title="Sweden",N1 PPV 3 SE [20:50 Man United - Sabah | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZNnf43/n1-live-3-1.png" group-title="Sweden",N1 PPV 3 SE [19:45 Rally-VM: Chile Rally-VM]
 http://45.139.122.199:8080/live/Martin1/martin1/38876.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZWbxpg/n1-live-4-1.png" group-title="Sweden",N1 PPV 4 SE [20:50 Como - Leipzig | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YZWbxpg/n1-live-4-1.png" group-title="Sweden",N1 PPV 4 SE [13:45 Rally-VM: Chile Rally-VM]
 http://45.139.122.199:8080/live/Martin1/martin1/52819.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yk4SCpt/n1-live-5.png" group-title="Sweden",N1 PPV 5 SE [20:50 Bayern München - Bodö/Glimt | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yk4SCpt/n1-live-5.png" group-title="Sweden",N1 PPV 5 SE [18:50 Träningsmatch: Mariestad BoIS - HC Dalen]
 http://45.139.122.199:8080/live/Martin1/martin1/30739.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzDBTxt/n1-live-6.png" group-title="Sweden",N1 PPV 6 SE [20:45 Målextra | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzDBTxt/n1-live-6.png" group-title="Sweden",N1 PPV 6 SE [18:50 Mjölby HC – Västerviks IK]
 http://45.139.122.199:8080/live/Martin1/martin1/100967.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pw39WdS/n1-live-7.png" group-title="Sweden",N1 PPV 7 SE [18:40 PSV - Shakhtar Donetsk | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pw39WdS/n1-live-7.png" group-title="Sweden",N1 PPV 7 SE [18:50 Hammers - Tingsryds AIF]
 http://45.139.122.199:8080/live/Martin1/martin1/100968.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4SwqFMv/n1-live-8.png" group-title="Sweden",N1 PPV 8 SE [18:35 Fenerbahçe - Roma | UEFA Champions League]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SwqFMv/n1-live-8.png" group-title="Sweden",N1 PPV 8 SE [07:30 Solheim Cup | Solheim Cup]
 http://45.139.122.199:8080/live/Martin1/martin1/51154.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGkryWW/a1202.png" group-title="Sweden",SVT Play FHD SE [Live During Events Only]
 http://45.139.122.199:8080/live/Martin1/martin1/141727.m3u8
@@ -3205,114 +3965,130 @@ http://45.139.122.199:8080/live/Martin1/martin1/1233595.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE | STAR fm
 http://45.139.122.199:8080/live/Martin1/martin1/290046.m3u8
 
-# --- TV2 Sport DK (1) ---
+# --- TV2 Sport DK (4) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/527426.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/1f95f8c3-4b59-3720-922f-55b0d96f7139.png?ar=16%3A9&auto=format&fit=crop&rect=260%2C261%2C3374%2C1899&w=1200" group-title="TV2 Sport DK",12:45 Vuelta a España: 19. etape 9/11 [TV2 DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598674.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/99870f88-b5d1-3558-9a0d-af55b254dc63.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C96%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",18:30 Atletik: Ultimate Championship 9/11 [TV2 DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598673.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/352dfc63-5ba8-35da-a033-fb299522d00c.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2159&w=1200" group-title="TV2 Sport DK",20:40 Serie A: Venezia-Fiorentina 9/11 [TV2 DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598672.m3u8
 
-# --- TV4 Play SE (1) ---
+# --- TV4 Play SE (6) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Tv4_play_2009_flat.png" group-title="TV4 Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/109998.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F7e1c1e09-0b66-45f2-9109-c76ef85d0d08%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:55 Timrå IK - IF Björklöven SHL - Uppladdningen 9/11 [TV4 Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598629.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F891b0695-9672-4f2c-ace1-649ebf2f717b%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",18:45 BK Häcken - Mjällby AIF Allsvenskan 9/11 [TV4 Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598628.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8dda21dc-180c-4d5f-97f9-65a485a25b07%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",19:45 Rally-VM: Chile Rally-VM 9/11 [TV4 Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598627.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8430894c-5025-456e-be81-b47a72fe3361%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",20:40 Venezia - Fiorentina Serie A 9/11 [TV4 Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598626.m3u8
+#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2F8e7aa11d-9f58-4f62-a117-7ca61bd84ed7%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",23:45 Rally-VM: Media Zone Rally-VM 9/11 [TV4 Play]
+http://45.139.122.199:8080/live/Martin1/martin1/2598625.m3u8
 
 # --- Telia Play Events SE (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | FAN CLUB | Thu 10 Sep 11:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | SAN MARINO GP - FRI TRÄNING 1 | Fri 11 Sep 10:35 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
 http://45.139.122.199:8080/live/Martin1/martin1/2303841.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | BORDTENNIS: WTT CHAMPIONS | Thu 10 Sep 12:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | SPANIEN GP - TRÄNING | Fri 11 Sep 11:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
 http://45.139.122.199:8080/live/Martin1/martin1/2303842.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | SNOOKER HOME NATIONS SERIES ENGLISH OPEN: 3.E OMGÅNGEN 10.09.2026 14.00. | Thu 10 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | BORDTENNIS: WTT CHAMPIONS | Fri 11 Sep 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
 http://45.139.122.199:8080/live/Martin1/martin1/2303843.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | AMGEN IRISH OPEN - DAY 1 | Thu 10 Sep 14:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",LIVE | CYKEL: WORLD TOUR - VUELTA A ESPAÑA. HERRAR 11.09.2026 13.15. | Fri 11 Sep 13:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
 http://45.139.122.199:8080/live/Martin1/martin1/2303844.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | CYKEL: WORLD TOUR - VUELTA A ESPAÑA. HERRAR 10.09.2026 14.45. | Thu 10 Sep 14:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | SPANIEN GP - TRÄNING 1 | Fri 11 Sep 13:25 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
 http://45.139.122.199:8080/live/Martin1/martin1/2303845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | BOLLKLUBBEN | Thu 10 Sep 17:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | RALLY-VM: CHILE | Fri 11 Sep 13:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
 http://45.139.122.199:8080/live/Martin1/martin1/2303846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | MALMÖ - DJURGÅRDEN UPPLADDNINGEN | Thu 10 Sep 17:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | SNOOKER HOME NATIONS SERIES ENGLISH OPEN: KVARTSFINAL 11.09.2026 14.00. | Fri 11 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
 http://45.139.122.199:8080/live/Martin1/martin1/2303847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | BRYNÄS - LULEÅ UPPLADDNINGEN | Thu 10 Sep 17:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | SAN MARINO GP - TRÄNING | Fri 11 Sep 14:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
 http://45.139.122.199:8080/live/Martin1/martin1/2303848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | PREMIER LEAGUE SHOW | Thu 10 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | SPANIEN GP - KVAL | Fri 11 Sep 14:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
 http://45.139.122.199:8080/live/Martin1/martin1/2303849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | FENERBAHCE - ROMA | Thu 10 Sep 18:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | SPANIEN GP - TRÄNING 2 | Fri 11 Sep 16:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
 http://45.139.122.199:8080/live/Martin1/martin1/2303850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | ÖSTERSUNDS FK - IK BRAGE | Thu 10 Sep 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 11
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | TIMRÅ - BJÖRKLÖVEN UPPLADDNINGEN | Fri 11 Sep 17:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 11
 http://45.139.122.199:8080/live/Martin1/martin1/2303851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | SUPERETTAN: VARBERG - NORRKÖPING | Thu 10 Sep 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 12
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | TENNIS: US OPEN. DAMER | DUBBEL | FINAL 11.09.2026 18.00. | Fri 11 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 12
 http://45.139.122.199:8080/live/Martin1/martin1/2303852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | FALKENBERGS FF - ÖSTERS IF | Thu 10 Sep 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 13
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ALLSVENSKAN: HÄCKEN - MJÄLLBY | Fri 11 Sep 18:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 13
 http://45.139.122.199:8080/live/Martin1/martin1/2303853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | GIF SUNDSVALL - ÖREBRO SK | Thu 10 Sep 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RÖGLE - RED BULL SALZBURG | Fri 11 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14
 http://45.139.122.199:8080/live/Martin1/martin1/2303854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | SKELLEFTEÅ - GENEVE SERVETTE | Thu 10 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | VÄXJÖ - TAPPARA TAMPERE | Fri 11 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15
 http://45.139.122.199:8080/live/Martin1/martin1/2303855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | KÖLNER HAIE - FRÖLUNDA | Thu 10 Sep 19:25 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTT: ULTIMATE CHAMPIONSHIP | Fri 11 Sep 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16
 http://45.139.122.199:8080/live/Martin1/martin1/2303856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | SNOOKER HOME NATIONS SERIES ENGLISH OPEN: 3.E OMGÅNGEN 10.09.2026 20.00. | Thu 10 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | AMGEN IRISH OPEN - DAY 2 | Fri 11 Sep 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17
 http://45.139.122.199:8080/live/Martin1/martin1/2303857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | BAYERN MÜNCHEN - BODÖ/GLIMT | Thu 10 Sep 20:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 18
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SNOOKER HOME NATIONS SERIES ENGLISH OPEN: KVARTSFINAL 11.09.2026 20.00. | Fri 11 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 18
 http://45.139.122.199:8080/live/Martin1/martin1/2303858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | MANCHESTER UNITED - SABAH | Thu 10 Sep 20:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 19
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNION BERLIN - SCHALKE | Fri 11 Sep 20:21 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 19
 http://45.139.122.199:8080/live/Martin1/martin1/2303859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | COMO - LEIPZIG | Thu 10 Sep 20:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 20
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | TENNIS: US OPEN. HERRAR | SINGEL | SEMIFINAL 11.09.2026 20.30. | Fri 11 Sep 20:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 20
 http://45.139.122.199:8080/live/Martin1/martin1/2303860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | VOLLEYBOLL: EM ITALIEN-SVERIGE | Thu 10 Sep 21:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RENNES - MARSEILLE | Fri 11 Sep 20:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21
 http://45.139.122.199:8080/live/Martin1/martin1/2303861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | ESTRELA - BRAGA | Thu 10 Sep 21:10 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SERIE A: VENEZIA - FIORENTINA | Fri 11 Sep 20:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22
 http://45.139.122.199:8080/live/Martin1/martin1/2303862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",ENDED | TENNIS: US OPEN. DAMER | SINGEL | SEMIFINAL 11.09.2026 00.30. | Fri 11 Sep 00:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 23
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | R05: SEVILLA - VALENCIA NORDICS | Fri 11 Sep 20:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 23
 http://45.139.122.199:8080/live/Martin1/martin1/2303863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | TENNIS: US OPEN. DAMER | SINGEL | SEMIFINAL 11.09.2026 03.00. | Fri 11 Sep 03:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 24
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | WEST HAM - WREXHAM | Fri 11 Sep 20:52 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 24
 http://45.139.122.199:8080/live/Martin1/martin1/2303864.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SOLHEIM CUP - DAG 1 | Fri 11 Sep 07:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 25
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | OLD DOMINION VS. NORTH CAROLINA | Fri 11 Sep 22:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 25
 http://45.139.122.199:8080/live/Martin1/martin1/2303865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SOLHEIM CUP - DAY 1 | Fri 11 Sep 07:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 26
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RALLY-VM: MEDIA ZONE | Fri 11 Sep 23:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 26
 http://45.139.122.199:8080/live/Martin1/martin1/2303866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SAN MARINO GP - FRI TRÄNING 1 | Fri 11 Sep 10:35 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 27
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RALLY-VM: CHILE | Fri 11 Sep 19:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 27
 http://45.139.122.199:8080/live/Martin1/martin1/2303867.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SPANIEN GP - TRÄNING | Fri 11 Sep 11:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 28
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 28
 http://45.139.122.199:8080/live/Martin1/martin1/2303868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | BORDTENNIS: WTT CHAMPIONS | Fri 11 Sep 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 29
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 29
 http://45.139.122.199:8080/live/Martin1/martin1/2303869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | CYKEL: WORLD TOUR - VUELTA A ESPAÑA. HERRAR 11.09.2026 13.15. | Fri 11 Sep 13:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 30
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 30
 http://45.139.122.199:8080/live/Martin1/martin1/2303870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SPANIEN GP - TRÄNING 1 | Fri 11 Sep 13:25 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 31
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 31
 http://45.139.122.199:8080/live/Martin1/martin1/2303871.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RALLY-VM: CHILE | Fri 11 Sep 13:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 32
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 32
 http://45.139.122.199:8080/live/Martin1/martin1/2303872.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SNOOKER HOME NATIONS SERIES ENGLISH OPEN: KVARTSFINAL 11.09.2026 14.00. | Fri 11 Sep 14:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 33
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 33
 http://45.139.122.199:8080/live/Martin1/martin1/2303873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SAN MARINO GP - TRÄNING | Fri 11 Sep 14:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 34
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 34
 http://45.139.122.199:8080/live/Martin1/martin1/2303874.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SPANIEN GP - KVAL | Fri 11 Sep 14:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 35
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 35
 http://45.139.122.199:8080/live/Martin1/martin1/2303875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SPANIEN GP - TRÄNING 2 | Fri 11 Sep 16:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 36
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 36
 http://45.139.122.199:8080/live/Martin1/martin1/2303876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | TIMRÅ - BJÖRKLÖVEN UPPLADDNINGEN | Fri 11 Sep 17:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 37
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 37
 http://45.139.122.199:8080/live/Martin1/martin1/2303877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | TENNIS: US OPEN. DAMER | DUBBEL | FINAL 11.09.2026 18.00. | Fri 11 Sep 18:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 38
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 38
 http://45.139.122.199:8080/live/Martin1/martin1/2303878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ALLSVENSKAN: HÄCKEN - MJÄLLBY | Fri 11 Sep 18:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 39
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 39
 http://45.139.122.199:8080/live/Martin1/martin1/2303879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RÖGLE - RED BULL SALZBURG | Fri 11 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 40
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 40
 http://45.139.122.199:8080/live/Martin1/martin1/2303880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | VÄXJÖ - TAPPARA TAMPERE | Fri 11 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 41
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 41
 http://45.139.122.199:8080/live/Martin1/martin1/2303881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | AMGEN IRISH OPEN - DAY 2 | Fri 11 Sep 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 42
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 42
 http://45.139.122.199:8080/live/Martin1/martin1/2303882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FRIIDROTT: ULTIMATE CHAMPIONSHIP | Fri 11 Sep 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 43
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 43
 http://45.139.122.199:8080/live/Martin1/martin1/2303883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SNOOKER HOME NATIONS SERIES ENGLISH OPEN: KVARTSFINAL 11.09.2026 20.00. | Fri 11 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 44
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 44
 http://45.139.122.199:8080/live/Martin1/martin1/2303884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | UNION BERLIN - SCHALKE | Fri 11 Sep 20:21 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 45
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 45
 http://45.139.122.199:8080/live/Martin1/martin1/2303885.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | ASTON VILLA - TOTTENHAM | Sun 03 May 19:30 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 46
 http://45.139.122.199:8080/live/Martin1/martin1/2303886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SERIE A: VENEZIA - FIORENTINA | Fri 11 Sep 20:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 47
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 47
 http://45.139.122.199:8080/live/Martin1/martin1/2303887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | RENNES - MARSEILLE | Fri 11 Sep 20:40 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 48
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 48
 http://45.139.122.199:8080/live/Martin1/martin1/2303888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | R05: SEVILLA - VALENCIA NORDICS | Fri 11 Sep 20:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 49
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 49
 http://45.139.122.199:8080/live/Martin1/martin1/2303889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | WEST HAM - WREXHAM | Fri 11 Sep 20:52 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 50
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 50
 http://45.139.122.199:8080/live/Martin1/martin1/2303890.m3u8
 
 # --- UEFA Champions League UK (20) ---
@@ -4433,78 +5209,134 @@ http://45.139.122.199:8080/live/Martin1/martin1/25084.m3u8
 #EXTINF:-1 tvg-logo="http://logos.ti7an.net/logos/ENG_United_Kindon_Sports/LaLiga_TV.png" group-title="UK Sports",LaLiga TV FHD UK
 http://45.139.122.199:8080/live/Martin1/martin1/2125805.m3u8
 
-# --- Viaplay Sport DK (2) ---
+# --- Viaplay Sport DK (30) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:30 White Sox - Pirates | Major League Baseball 9/11 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2597534.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/930/44/logo_SolheimCup.png?width=320&height=320" group-title="Viaplay Sport DK",07:30 Solheim Cup | Solheim Cup 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598160.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",13:00 Flanders Darts Trophy | PDC Darts 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598887.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",16:55 Spaniens Grand Prix | Formel 1 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598876.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 Track Positioning | Formel 1 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598875.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 Timing | Formel 1 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598874.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 Onboard | Formel 1 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598873.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport DK",17:00 Pitlane | Formel 1 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598872.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",17:50 Bílí Tygři Liberec - Herning | Champions Hockey League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598871.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Viaplay Sport DK",17:55 Hobro IK - Vejle Boldklub | Betinia LIGA 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598870.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport DK",18:00 Amgen Irish Open | DP World Tour 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598869.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",18:05 F.C. København - AC Horsens | 3F Superliga 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598868.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/1003/296/logo_F3.png?width=320&height=320" group-title="Viaplay Sport DK",18:20 Madrid | Formula 3 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598867.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Viaplay Sport DK",18:25 Werder Bremen - HSV | Frauen-Bundesliga 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598866.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",18:25 Nürnberg - Hannover | 2. Bundesliga 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598865.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",18:25 Darmstadt - Arminia Bielefeld | 2. Bundesliga 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598864.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Viaplay Sport DK",18:55 Vendsyssel FF - Aarhus Fremad | Betinia LIGA 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598863.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",18:55 F.C. København - AC Horsens (Manager Mode) | 3F Superliga 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598862.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",18:55 Växjö - Tappara | Champions Hockey League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598861.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",18:55 Rögle - Salzburg | Champions Hockey League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598860.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Flanders Darts Trophy | PDC Darts 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598859.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",19:25 Eisbären Berlin - Graz99ers | Champions Hockey League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598858.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",19:40 Fribourg-Gottéron - Pilsen | Champions Hockey League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598857.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",19:50 Premier League Preview | Premier League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598856.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 Cubs - Pirates | Major League Baseball 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598855.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",20:10 Bordeaux - Adler Mannheim | Champions Hockey League 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598854.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",20:25 Union Berlin - Schalke | Bundesliga 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598853.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:40 Rennes - Marseille | Ligue 1 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598852.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Viaplay Sport DK",20:50 West Ham - Wrexham | Championship 9/11 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598851.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Yankees - Mets | Major League Baseball 9/12 [Viaplay DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2598850.m3u8
 
 # --- Viaplay Sport DK [B] (71) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Lets be Frank @ Sep 10 10:00 AM :Viaplay DK  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Chokerer med opsigelse på direkte tv @ Sep 11 7:00 AM :Viaplay DK  01
 http://45.139.122.199:8080/live/Martin1/martin1/1132385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Sky Sports FC @ Sep 10 11:00 AM :Viaplay DK  02
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Solheim Cup @ Sep 11 7:30 AM :Viaplay DK  02
 http://45.139.122.199:8080/live/Martin1/martin1/1132386.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Før Superligaen @ Sep 10 1:00 PM :Viaplay DK  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sportstalk @ Sep 11 10:00 AM :Viaplay DK  03
 http://45.139.122.199:8080/live/Martin1/martin1/1132387.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Amgen Irish Open @ Sep 10 2:30 PM :Viaplay DK  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sky Sports FC @ Sep 11 12:00 PM :Viaplay DK  04
 http://45.139.122.199:8080/live/Martin1/martin1/1132388.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Åbningsceremoni @ Sep 10 5:00 PM :Viaplay DK  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sky Sports Total Football @ Sep 11 1:00 PM :Viaplay DK  05
 http://45.139.122.199:8080/live/Martin1/martin1/1132389.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",SaiPa vs Dynamo Pardubice @ Sep 10 5:25 PM :Viaplay DK  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",San Marinos Grand Prix @ Sep 11 2:50 PM :Viaplay DK  06
 http://45.139.122.199:8080/live/Martin1/martin1/1132390.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",KooKoo vs Nitra @ Sep 10 5:25 PM :Viaplay DK  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Spaniens Grand Prix @ Sep 11 4:55 PM :Viaplay DK  07
 http://45.139.122.199:8080/live/Martin1/martin1/1132391.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sundby vs FC Midtjylland @ Sep 10 5:55 PM :Viaplay DK  08
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Track Positioning @ Sep 11 5:00 PM :Viaplay DK  08
 http://45.139.122.199:8080/live/Martin1/martin1/1132392.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Tychy vs Davos @ Sep 10 5:55 PM :Viaplay DK  09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Timing @ Sep 11 5:00 PM :Viaplay DK  09
 http://45.139.122.199:8080/live/Martin1/martin1/1132393.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Dinamo Bucureşti vs Montpellier @ Sep 10 6:40 PM :Viaplay DK  13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Hobro IK vs Vejle Boldklub @ Sep 11 5:55 PM :Viaplay DK  13
 http://45.139.122.199:8080/live/Martin1/martin1/1132394.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Fenerbahçe vs Roma @ Sep 10 6:40 PM :Viaplay DK  11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Pitlane @ Sep 11 5:00 PM :Viaplay DK  11
 http://45.139.122.199:8080/live/Martin1/martin1/1132395.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",PSV vs Shakhtar Donetsk @ Sep 10 6:40 PM :Viaplay DK  12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Bílí Tygři Liberec vs Herning @ Sep 11 5:50 PM :Viaplay DK  12
 http://45.139.122.199:8080/live/Martin1/martin1/1132396.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Dinamo Bucureşti vs Montpellier @ Sep 10 6:40 PM :Viaplay DK  13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Hobro IK vs Vejle Boldklub @ Sep 11 5:55 PM :Viaplay DK  13
 http://45.139.122.199:8080/live/Martin1/martin1/1132397.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Pick Szeged vs Kristianstad @ Sep 10 6:40 PM :Viaplay DK  14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Amgen Irish Open @ Sep 11 6:00 PM :Viaplay DK  14
 http://45.139.122.199:8080/live/Martin1/martin1/1132398.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Partizan vs Füchse Berlin @ Sep 10 6:40 PM :Viaplay DK  15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",F C København vs AC Horsens @ Sep 11 6:05 PM :Viaplay DK  15
 http://45.139.122.199:8080/live/Martin1/martin1/1132399.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Skellefteå vs Genève Servette @ Sep 10 6:55 PM :Viaplay DK  16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Madrid @ Sep 11 6:20 PM :Viaplay DK  16
 http://45.139.122.199:8080/live/Martin1/martin1/1132400.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Lemgo Lippe vs Flensburg Handewitt @ Sep 10 6:55 PM :Viaplay DK  17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Werder Bremen vs HSV @ Sep 11 6:25 PM :Viaplay DK  17
 http://45.139.122.199:8080/live/Martin1/martin1/1132401.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Storhamar vs Klagenfurt @ Sep 10 6:55 PM :Viaplay DK  18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Nürnberg vs Hannover @ Sep 11 6:25 PM :Viaplay DK  18
 http://45.139.122.199:8080/live/Martin1/martin1/1132402.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Kölner Haie vs Frölunda @ Sep 10 7:25 PM :Viaplay DK  19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Darmstadt vs Arminia Bielefeld @ Sep 11 6:25 PM :Viaplay DK  19
 http://45.139.122.199:8080/live/Martin1/martin1/1132403.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sport News @ Sep 10 8:00 PM :Viaplay DK  20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Vendsyssel FF vs Aarhus Fremad @ Sep 11 6:55 PM :Viaplay DK  20
 http://45.139.122.199:8080/live/Martin1/martin1/1132404.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Man United vs Sabah @ Sep 10 8:00 PM :Viaplay DK  21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",F C København vs AC Horsens Manager Mode @ Sep 11 6:55 PM :Viaplay DK  21
 http://45.139.122.199:8080/live/Martin1/martin1/1132405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Sporting vs GOG @ Sep 10 8:40 PM :Viaplay DK  22
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Växjö vs Tappara @ Sep 11 6:55 PM :Viaplay DK  22
 http://45.139.122.199:8080/live/Martin1/martin1/1132406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Melsungen vs RK Vardar @ Sep 10 8:40 PM :Viaplay DK  23
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Rögle vs Salzburg @ Sep 11 6:55 PM :Viaplay DK  23
 http://45.139.122.199:8080/live/Martin1/martin1/1132407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Instant Highlights @ Sep 10 8:45 PM :Viaplay DK  24
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Flanders Darts Trophy @ Sep 11 7:00 PM :Viaplay DK  24
 http://45.139.122.199:8080/live/Martin1/martin1/1132408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Slavia Prag vs Lens @ Sep 10 8:55 PM :Viaplay DK  25
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Eisbären Berlin vs Graz99ers @ Sep 11 7:25 PM :Viaplay DK  25
 http://45.139.122.199:8080/live/Martin1/martin1/1132409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Como vs Leipzig @ Sep 10 8:55 PM :Viaplay DK  26
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Fribourg Gottéron vs Pilsen @ Sep 11 7:40 PM :Viaplay DK  26
 http://45.139.122.199:8080/live/Martin1/martin1/1132410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Bayern München vs Bodø Glimt @ Sep 10 8:55 PM :Viaplay DK  27
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Premier League Preview @ Sep 11 7:50 PM :Viaplay DK  27
 http://45.139.122.199:8080/live/Martin1/martin1/1132411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Stevenage vs Luton @ Sep 10 8:55 PM :Viaplay DK  28
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Cubs vs Pirates @ Sep 11 8:00 PM :Viaplay DK  28
 http://45.139.122.199:8080/live/Martin1/martin1/1132412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Goalshow @ Sep 10 10:50 PM :Viaplay DK  29
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Bordeaux vs Adler Mannheim @ Sep 11 8:10 PM :Viaplay DK  29
 http://45.139.122.199:8080/live/Martin1/martin1/1132413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",White Sox vs Pirates @ Sep 11 1:30 AM :Viaplay DK  30
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Union Berlin vs Schalke @ Sep 11 8:25 PM :Viaplay DK  30
 http://45.139.122.199:8080/live/Martin1/martin1/1132414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  31
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Rennes vs Marseille @ Sep 11 8:40 PM :Viaplay DK  31
 http://45.139.122.199:8080/live/Martin1/martin1/1132415.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  32
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",West Ham vs Wrexham @ Sep 11 8:50 PM :Viaplay DK  32
 http://45.139.122.199:8080/live/Martin1/martin1/1132416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  33
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Yankees vs Mets @ Sep 12 1:00 AM :Viaplay DK  33
 http://45.139.122.199:8080/live/Martin1/martin1/1132417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  34
 http://45.139.122.199:8080/live/Martin1/martin1/1132418.m3u8
@@ -4583,68 +5415,120 @@ http://45.139.122.199:8080/live/Martin1/martin1/1132454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  71
 http://45.139.122.199:8080/live/Martin1/martin1/1132455.m3u8
 
-# --- Viaplay Sport SE (3) ---
+# --- Viaplay Sport SE (29) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/55760.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",01:30 White Sox - Pirates | Major League Baseball 9/11 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2597403.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/930/44/logo_SolheimCup.png?width=320&height=320" group-title="Viaplay Sport SE",07:30 Solheim Cup | Solheim Cup 9/11 [Viaplay SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2597402.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport SE",12:55 Flanders Darts Trophy | PDC Dart 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598725.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport SE",16:50 Spaniens Grand Prix | Formel 1 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598715.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport SE",17:00 Track Positioning | Formel 1 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598714.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport SE",17:00 Timing | Formel 1 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598713.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport SE",17:00 Onboard | Formel 1 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598712.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/492/520/logo_F1.png?width=320&height=320" group-title="Viaplay Sport SE",17:00 Pitlane | Formel 1 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598711.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Viaplay Sport SE",17:55 Hobro IK - Vejle Boldklub | Betinia LIGA 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598710.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",17:55 Bílí Tygři Liberec - Herning | Champions Hockey League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598709.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport SE",18:00 Amgen Irish Open | DP World Tour 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598708.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport SE",18:05 F.C. København - AC Horsens | Superliga 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598707.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/1003/296/logo_F3.png?width=320&height=320" group-title="Viaplay Sport SE",18:20 Madrid | Formel 3 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598706.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Viaplay Sport SE",18:25 Werder Bremen - HSV | Frauen-Bundesliga 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598705.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport SE",18:25 Nürnberg - Hannover | 2. Bundesliga 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598704.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport SE",18:25 Darmstadt - Arminia Bielefeld | 2. Bundesliga 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598703.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",18:55 Rögle - Salzburg | Champions Hockey League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598702.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",18:55 Växjö - Tappara | Champions Hockey League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598701.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport SE",18:55 Flanders Darts Trophy | PDC Dart 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598700.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/222/964/logo_BetiniaLiga.png?width=320&height=320" group-title="Viaplay Sport SE",18:55 Vendsyssel FF - Aarhus Fremad | Betinia LIGA 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598699.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",19:25 Eisbären Berlin - Graz99ers | Champions Hockey League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598698.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",19:40 Fribourg-Gottéron - Pilsen | Champions Hockey League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598697.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport SE",19:50 Premier League Preview | Premier League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598696.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",20:00 Cubs - Pirates | Major League Baseball 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598695.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",20:10 Bordeaux - Adler Mannheim | Champions Hockey League 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598694.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport SE",20:20 Union Berlin - Schalke | Bundesliga 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598693.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport SE",20:40 Rennes - Marseille | Ligue 1 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598692.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_EFLChampionship.png?width=320&height=320" group-title="Viaplay Sport SE",20:50 West Ham - Wrexham | Championship 9/11 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598691.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",01:00 Yankees - Mets | Major League Baseball 9/12 [Viaplay SE]
+http://45.139.122.199:8080/live/Martin1/martin1/2598690.m3u8
 
 # --- Viaplay Sport SE [B] (78) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Tiki Taka @ Sep 10 9:00 AM :Viaplay SE  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",San Marinos Grand Prix @ Sep 11 2:50 PM :Viaplay SE  01
 http://45.139.122.199:8080/live/Martin1/martin1/1163319.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Amgen Irish Open @ Sep 10 2:30 PM :Viaplay SE  02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Spaniens Grand Prix @ Sep 11 4:50 PM :Viaplay SE  02
 http://45.139.122.199:8080/live/Martin1/martin1/1163318.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Öppningsceremoni @ Sep 10 5:00 PM :Viaplay SE  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Track Positioning @ Sep 11 5:00 PM :Viaplay SE  03
 http://45.139.122.199:8080/live/Martin1/martin1/1163317.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",SaiPa vs Dynamo Pardubice @ Sep 10 5:25 PM :Viaplay SE  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Timing @ Sep 11 5:00 PM :Viaplay SE  04
 http://45.139.122.199:8080/live/Martin1/martin1/1163316.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",KooKoo vs Nitra @ Sep 10 5:25 PM :Viaplay SE  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Onboard @ Sep 11 5:00 PM :Viaplay SE  05
 http://45.139.122.199:8080/live/Martin1/martin1/1163315.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Sundby vs FC Midtjylland @ Sep 10 5:55 PM :Viaplay SE  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Pitlane @ Sep 11 5:00 PM :Viaplay SE  06
 http://45.139.122.199:8080/live/Martin1/martin1/1163314.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Tychy vs Davos @ Sep 10 5:55 PM :Viaplay SE  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Hobro IK vs Vejle Boldklub @ Sep 11 5:55 PM :Viaplay SE  07
 http://45.139.122.199:8080/live/Martin1/martin1/1163313.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Viaplay SE Event 08 Nordic:Generation xG @ Dec 1 6:00 PM
 http://45.139.122.199:8080/live/Martin1/martin1/1163312.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Fenerbahçe vs Roma @ Sep 10 6:35 PM :Viaplay SE  09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Amgen Irish Open @ Sep 11 6:00 PM :Viaplay SE  09
 http://45.139.122.199:8080/live/Martin1/martin1/1163311.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Viaplay SE Event 10 Nordic:Sverige vs Brasilien @ Dec 1 8:00 PM
 http://45.139.122.199:8080/live/Martin1/martin1/1163310.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Skellefteå vs Genève Servette @ Sep 10 6:55 PM :Viaplay SE  11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Madrid @ Sep 11 6:20 PM :Viaplay SE  11
 http://45.139.122.199:8080/live/Martin1/martin1/1163309.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Lemgo Lippe vs Flensburg Handewitt @ Sep 10 6:55 PM :Viaplay SE  12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Werder Bremen vs HSV @ Sep 11 6:25 PM :Viaplay SE  12
 http://45.139.122.199:8080/live/Martin1/martin1/1163308.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Storhamar vs Klagenfurt @ Sep 10 6:55 PM :Viaplay SE  13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Nürnberg vs Hannover @ Sep 11 6:25 PM :Viaplay SE  13
 http://45.139.122.199:8080/live/Martin1/martin1/1163307.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Studio Parc Fermé @ Sep 10 7:00 PM :Viaplay SE  14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Darmstadt vs Arminia Bielefeld @ Sep 11 6:25 PM :Viaplay SE  14
 http://45.139.122.199:8080/live/Martin1/martin1/1163306.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Kölner Haie vs Frölunda @ Sep 10 7:25 PM :Viaplay SE  15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Flanders Darts Trophy @ Sep 11 6:55 PM :Viaplay SE  15
 http://45.139.122.199:8080/live/Martin1/martin1/1163305.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Målextra @ Sep 10 8:45 PM :Viaplay SE  16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Vendsyssel FF vs Aarhus Fremad @ Sep 11 6:55 PM :Viaplay SE  16
 http://45.139.122.199:8080/live/Martin1/martin1/1163304.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Como vs Leipzig @ Sep 10 8:50 PM :Viaplay SE  17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Växjö vs Tappara @ Sep 11 6:55 PM :Viaplay SE  17
 http://45.139.122.199:8080/live/Martin1/martin1/1163303.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Man United vs Sabah @ Sep 10 8:50 PM :Viaplay SE  18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Rögle vs Salzburg @ Sep 11 6:55 PM :Viaplay SE  18
 http://45.139.122.199:8080/live/Martin1/martin1/1163302.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Bayern München vs Bodö Glimt @ Sep 10 8:50 PM :Viaplay SE  19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Eisbären Berlin vs Graz99ers @ Sep 11 7:25 PM :Viaplay SE  19
 http://45.139.122.199:8080/live/Martin1/martin1/1163301.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Slavia Prag vs Lens @ Sep 10 8:55 PM :Viaplay SE  20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Fribourg Gottéron vs Pilsen @ Sep 11 7:40 PM :Viaplay SE  20
 http://45.139.122.199:8080/live/Martin1/martin1/1163300.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Stevenage vs Luton @ Sep 10 8:55 PM :Viaplay SE  21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Premier League Preview @ Sep 11 7:50 PM :Viaplay SE  21
 http://45.139.122.199:8080/live/Martin1/martin1/1163299.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Bayern München vs Bodø Glimt @ Sep 10 8:55 PM :Viaplay SE  22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Cubs vs Pirates @ Sep 11 8:00 PM :Viaplay SE  22
 http://45.139.122.199:8080/live/Martin1/martin1/1163298.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",White Sox vs Pirates @ Sep 11 1:30 AM :Viaplay SE  23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Bordeaux vs Adler Mannheim @ Sep 11 8:10 PM :Viaplay SE  23
 http://45.139.122.199:8080/live/Martin1/martin1/1163297.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Union Berlin vs Schalke @ Sep 11 8:20 PM :Viaplay SE  24
 http://45.139.122.199:8080/live/Martin1/martin1/1163296.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Rennes vs Marseille @ Sep 11 8:40 PM :Viaplay SE  25
 http://45.139.122.199:8080/live/Martin1/martin1/1163295.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",West Ham vs Wrexham @ Sep 11 8:50 PM :Viaplay SE  26
 http://45.139.122.199:8080/live/Martin1/martin1/1163294.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",Yankees vs Mets @ Sep 12 1:00 AM :Viaplay SE  27
 http://45.139.122.199:8080/live/Martin1/martin1/1163293.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport SE [B]",:Viaplay SE  28
 http://45.139.122.199:8080/live/Martin1/martin1/1163292.m3u8
@@ -4753,4 +5637,4 @@ http://45.139.122.199:8080/live/Martin1/martin1/1163242.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TrxqEC8.png" group-title="World Padel Tour TV",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/395508.m3u8
 
-# Total: 2299
+# Total: 2740
