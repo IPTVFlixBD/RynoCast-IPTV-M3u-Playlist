@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-09-11 21:43:51
+# Generated: 2026-09-12 08:24:04
 # Expires: 2027-05-26
 # Family Safe Edition
 # ==============================================
@@ -13057,7 +13057,9 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10142.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - HBO ORIGINALS",Station Eleven (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10143.mp4
 
-# --- Movies | DE - HORROR (1212) ---
+# --- Movies | DE - HORROR (1213) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DPIRfVn2Aqjcs9ZXvCD7QIgdXM.jpg" group-title="Movies | DE - HORROR",Meat Kills (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/384289.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEYdAJVPBXcKFrI8LjrtZqd29cn.jpg" group-title="Movies | DE - HORROR",Verschwunden in die Nacht (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/377090.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckhpwTUHMAzlV0LqU2FDiAd124s.jpg" group-title="Movies | DE - HORROR",Der Seelenfänger (DE)
@@ -17021,7 +17023,13 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/7546.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - KINDER SERIEN",DO-RE-MI (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/9941.mp4
 
-# --- Movies | DE - KINO 2026 (129) ---
+# --- Movies | DE - KINO 2026 (132) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha9AX2VBj6fQcpuz206d7pKoS8H.jpg" group-title="Movies | DE - KINO 2026",Lion Fist - Kampf der Champions (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/384292.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TL9co2Wx8JUV9YDBdSWak5ui3.jpg" group-title="Movies | DE - KINO 2026",Das Kartell - Brothers under Fire (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/384291.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bZJbrZ5NUY3KLocV7y567xMQFV.jpg" group-title="Movies | DE - KINO 2026",The Eyes of Others - Blicke der Begierde (DE)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/384290.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keChzhb7QyhM0QmTF26iwWHx8qE.jpg" group-title="Movies | DE - KINO 2026",Drawn Together (DE)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/383828.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAbqySXexjVnPIxLAn29VWx2aZS.jpg" group-title="Movies | DE - KINO 2026",Untold: Mr. T: I Pity the Fool (DE)
@@ -34223,7 +34231,13 @@ http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/170145.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg" group-title="Movies | NL - BOLLYWOOD",Tiger 3 (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/168386.mkv
 
-# --- Movies | NL - BRITBOX (24) ---
+# --- Movies | NL - BRITBOX (27) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",The Grand Tour  (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10486.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",The Game (NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10485.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Run NL)
+http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10484.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Vigil (NL)
 http://tv.tvdark.eu/movie/Aokkkuscubbb/nHxZbPC/10464.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - BRITBOX",Dalgliesh (NL)
@@ -76241,4 +76255,4 @@ http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/2600
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - THRILLER SERIES",Blindspot (NL)
 http://tv.tvdark.eu/series/Aokkkuscubbb/nHxZbPC/3969
 
-# Total: 37888
+# Total: 37895
